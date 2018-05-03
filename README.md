@@ -22,3 +22,10 @@ Questa guida nasce dalle numerose richieste di aiuti sull'uso del calcolatore di
 12. Help in linea;
 13. anteprima valore espressione digitata in 9;
 14. visualizza i valori univoci del campo selezionato;
+
+
+## traduzione in italiano
+
+la descrizione delle funzioni in italiano è dovuta al gruppo di traduttori diretti da `Stefano Campus`
+
+<img src="/img/traduttori.png">
