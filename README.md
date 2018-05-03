@@ -1,6 +1,6 @@
 # Help funzioni/espressioni calcolatore di campi di QGIS
 
-Questa guida nasce dalle numerose richieste di aiuto sull'uso del calcolatore di campi.
+Questa guida nasce grazie alle numerose richieste di aiuto sull'uso del calcolatore di campi.:star2:
 
 <img src="/img/calcolatore_campi.png">
 
@@ -10,7 +10,7 @@ Questa guida nasce dalle numerose richieste di aiuto sull'uso del calcolatore di
 4. digitare nome del campo (per shapefile NON più di 10 caratteri);
 5. selezionare il tipo di campo di uscita;
 6. digitare lunghezza campo di uscita (es: per integer digitare 9);
-7. se attivato allora il punto 3 è stato attivato, compararirà un menu a tendina con i campi della tabella attributi più la <*geometry*>;
+7. se attivato (il punto 3 è attivo), compararirà un menu a tendina con i campi della tabella attributi più la <*geometry*>;
 8. operatori più usati;
 9. area dove digitare e comporre le estpressioni;
 10. casella di ricerca funzioni;
