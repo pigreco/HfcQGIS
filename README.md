@@ -2,4 +2,4 @@
 
 Questa guida nasce dalle numerose richieste di aiuti sull'uso del calcolatore di campi.
 
-<img src="/img/azimuth/azimuth002.png">
+<img src="/img/calcolatore_campi.png">
