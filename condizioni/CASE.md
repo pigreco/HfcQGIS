@@ -31,12 +31,21 @@ END
 ```
 <img src="/img/case/case1.png">
 
+```
+CASE 
+WHEN   length( "DEN_REG") >15  THEN 'LUNGO'
+WHEN   length( "DEN_REG") <15   AND length( "DEN_REG") >10 THEN 'MEDIO'
+ELSE 'CORTA' 
+END
+```
+
+<img src="/img/case/case3.png">
+
 ## nota bene
 
 --
 
 ## osservazioni
 
-La Funzione restituisce SEMPRE una geometry POINT
-
+--
 <img src="/img/case/case2.png">
