@@ -31,6 +31,6 @@ La descrizione delle funzioni in italiano è stata realizzata dal gruppo di trad
 <img src="/img/traduttori.png">
 
 
-## licennze
+## licenze
 
 per adesso è ASSOLUTAMENTE VIETATO copiare o condividere, pena la distruzione del repository :+1:
