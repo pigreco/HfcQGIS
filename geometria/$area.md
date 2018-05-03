@@ -11,8 +11,9 @@ $area
 
 ## Esempi
 
-
 <img src="/img/img_area/area002.png">
+
+<img src="/img/img_area/area003.png">
 
 ## nota bene
 
