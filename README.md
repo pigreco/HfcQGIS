@@ -1,4 +1,4 @@
-# Help in linea funzioni calcolatore di campi di QGIS
+# Help funzioni/espressioni calcolatore di campi di QGIS
 
 Questa guida nasce dalle numerose richieste di aiuto sull'uso del calcolatore di campi.
 
@@ -41,6 +41,8 @@ La descrizione delle funzioni in italiano è stata realizzata dal gruppo di trad
 
 ## licenze
 
-per adesso è ASSOLUTAMENTE VIETATO copiare o condividere, pena la distruzione del repository :+1:
+per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pena la distruzione del repository :+1:
 
-Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
+Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza:
+
+[Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
