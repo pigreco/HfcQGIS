@@ -12,4 +12,4 @@ $area
 ## Esempi
 
 
-[foto](/img/img_area/area002.png)
+<img src="/img/img_area/area002.png">
