@@ -23,7 +23,7 @@ Questa guida nasce dalle numerose richieste di aiuto sull'uso del calcolatore di
 13. anteprima valore espressione digitata in 9;
 14. visualizza i valori univoci del campo selezionato.
 
-## Indice
+## Indice gruppi di Funzioni/espressioni
 * [Aggregates](/aggregates)
 * [Arrays]()
 * Colore
@@ -33,6 +33,7 @@ Questa guida nasce dalle numerose richieste di aiuto sull'uso del calcolatore di
 * [Geometria](/geometria)
 * Maps
 * Matematica
+* ...
 
 
 ## traduzione in italiano
