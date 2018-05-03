@@ -4,7 +4,7 @@ Restituisce l'area minima della combinazione dei confini della geometria (cioè 
 
 ## Sintassi
 
-boundary(geometry)
+boundary(*geometry*)
 
 ## Argomenti
 
