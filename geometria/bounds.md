@@ -1,4 +1,4 @@
-## funzione bounds
+## Funzione `bounds`
 
 Restituisce la geometria che rappresenta il perimetro di delimitazione di una geometria in ingresso. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 
