@@ -13,9 +13,9 @@ azimuth(point_a, point_b)
 
 ## Esempi
 
-<img src="/img/img_area/azimuth001.png">
+<img src="/img/azimuth/azimuth001.png">
 
-<img src="/img/img_area/azimuth002.png">
+<img src="/img/azimuth/azimuth002.png">
 
 ## nota bene
 
