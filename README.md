@@ -4,7 +4,7 @@ Questa guida nasce dalle numerose richieste di aiuti sull'uso del calcolatore di
 
 <img src="/img/calcolatore_campi.png">
 
-<img src="/img/calcolatore_campi2.png">
+<img src="/img/calcolatore_campi2.png" width = 500>
 
 <img src="/img/calcolatore_campi3.png">
 
@@ -26,6 +26,6 @@ Questa guida nasce dalle numerose richieste di aiuti sull'uso del calcolatore di
 
 ## traduzione in italiano
 
-la descrizione delle funzioni in italiano è dovuta al gruppo di traduttori diretti da `Stefano Campus`
+La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`
 
 <img src="/img/traduttori.png">
