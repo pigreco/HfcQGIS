@@ -8,8 +8,8 @@ buffer(*geometry*,*distance*)
 
 ## Argomenti
 
-*geometria* una geometria
-*distance* distanza buffer nelle unità del layer
+* *geometria* una geometria
+* *distance* distanza buffer nelle unità del layer
 
 ## Esempi
 
@@ -19,7 +19,7 @@ buffer(*geometry*,*distance*)
 
 ## nota bene
 
-Utilizzando SR proiettati l'unità di misura è il metro, per SR geografici è il grado!
+Utilizzando SR proiettati l'unità di misura è il metro, per SR geografici è il grado quindi attenzione al valore della distanza.
 
 ## osservazioni
 
