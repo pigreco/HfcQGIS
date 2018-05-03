@@ -4,8 +4,6 @@ Questa guida nasce dalle numerose richieste di aiuto sull'uso del calcolatore di
 
 <img src="/img/calcolatore_campi.png">
 
-<img src="/img/calcolatore_campi2.png" width = 500>
-
 <img src="/img/calcolatore_campi3.png">
 
 1. se attivato aggiorna solo le geometrie selezionate;
