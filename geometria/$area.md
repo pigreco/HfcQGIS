@@ -18,3 +18,7 @@ $area
 ## nota bene
 
 se il SR del layer in cui si sta calcolando l'area ($area) è un sistema proiettato (es:EPSG 3003/4; 32632/33/34) allora l'unità di misura è il metro, invece se il SR fosee EPSG 4326 cioè un sistema geografico allora l'unità di misura dell'area sarebbe gradi e quindi poco comprensibile e valori piccoli.
+
+## osservazioni
+
+in generale `$area <> area($geometry)`
