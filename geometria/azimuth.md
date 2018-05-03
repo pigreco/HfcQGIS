@@ -22,3 +22,5 @@ azimuth(point_a, point_b)
 ## nota bene
 
 Azimuth per definizione restituisce un angolo in radianti, per trasformarlo in gradi usare la funzione degrees()
+
+<img src="/img/azimuth/azimuth004.png">
