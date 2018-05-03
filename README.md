@@ -21,7 +21,18 @@ Questa guida nasce dalle numerose richieste di aiuto sull'uso del calcolatore di
 11. elenco ad albero con tutte le funzioni suddivise per argomento;
 12. Help in linea;
 13. anteprima valore espressione digitata in 9;
-14. visualizza i valori univoci del campo selezionato;
+14. visualizza i valori univoci del campo selezionato.
+
+## Indice
+* [Aggregates](/aggregates)
+* [Arrays]()
+* Colore
+* [Condizioni](/condizioni)
+* Conversioni
+* Data e ora
+* [Geometria](/geometria)
+* Maps
+* Matematica
 
 
 ## traduzione in italiano
