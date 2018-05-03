@@ -1,4 +1,4 @@
-## funzione buffer
+## Funzione `buffer`
 
 Restituisce una geometria che rappresenta tutti i punti la cui distanza dalla geometria è minore o uguale alla distanza inserita. I calcoli vengono effettuati nel sistema di riferimento spaziale della geometria.
 
