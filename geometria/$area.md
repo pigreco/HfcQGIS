@@ -1,4 +1,4 @@
-## funzione $area
+## Funzione `$area`
 
 Restituisce l'area della geometria corrente.
 L'area calcolata da questa funzione rispetta sia le impostazioni dell'ellissoide del progetto corrente sia delle unità di misura.
