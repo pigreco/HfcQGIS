@@ -29,3 +29,8 @@ Questa guida nasce dalle numerose richieste di aiuti sull'uso del calcolatore di
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`
 
 <img src="/img/traduttori.png">
+
+
+## licennze
+
+per adesso è ASSOLUTAMENTE VIETATO copiare o condividere, pena la distruzione del repository :+1:
