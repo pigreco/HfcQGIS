@@ -12,5 +12,4 @@ $area
 ## Esempi
 
 
-
-<img src="https://github.com/pigreco/Help_in_linea_/blob/master/img/area002.png" width=700>
+[foto](img/img_area/area002.png)
