@@ -43,22 +43,28 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [ ] [Variabili](/variabili) (0/20)
 - [ ] ...
 
+---
+## Cosa puoi fare
 
-## traduzione in italiano
+- contribuire;
+- segnalare errori;
+- aggiungere funzioni;
+- aggiungere esempi;
+
+
+## Traduzione in italiano
 
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`
 
 <img src="/img/traduttori.png">
 
 
-## licenze
+## Licenze
 
 per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pena la distruzione del repository :trollface:
 
-Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza:
-
-[Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
+###### Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Donate
 
-:euro: [donate](https://www.paypal.me/pigrecoinfinito)
+:euro: [donate](https://www.paypal.me/pigrecoinfinito) :euro:
