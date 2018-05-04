@@ -2,7 +2,7 @@
 
 # Help funzioni/espressioni calcolatore di campi di QGIS 
 
-:it: Questa guida nasce grazie alle numerose richieste di aiuto sull'uso del calcolatore di campi.:star2:
+Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del calcolatore di campi.:star2:
 
 <img src="/img/calcolatore_campi.png">
 
