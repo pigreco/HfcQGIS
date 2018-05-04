@@ -1,0 +1,25 @@
+## Operatore `IS`
+
+Restituisce 1 se _a_ è uguale a _b_.
+
+## Sintassi
+
+--
+
+## Argomenti
+--
+## Esempi
+```
+* 'A' IS 'A' → 1
+*'A' IS 'a' → 0
+* 4 IS 4 → 1
+* 4 IS 2+2 → 1
+* 4 IS 2 → 0
+* $geometry IS NULL → 0, se la tua geometria non è NULL
+```
+
+## Osservazioni
+
+--
+
+<img src="/img/operatori/IS1.png">

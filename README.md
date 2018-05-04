@@ -33,6 +33,7 @@
 * [Geometria](/geometria) (9/93)
 * Maps
 * Matematica
+* [Operatori](/operatori) (21/21)
 * ...
 
 
