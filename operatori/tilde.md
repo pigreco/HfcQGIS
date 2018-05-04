@@ -1,4 +1,4 @@
-##§ Operatore `~` (tilde)
+## Operatore `~` (tilde)
 
 Esegue un'espressione regolare su di una stringa.
 
