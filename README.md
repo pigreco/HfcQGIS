@@ -23,17 +23,24 @@
 
 ## Indice gruppi di Funzioni/espressioni
 - [ ] [Aggregates](/aggregates) (1/22)
-- [ ] [Arrays]() (0/20)
+- [ ] [Arrays](/arrays) (0/20)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
-- [ ] Colore (0/15)
+- [ ] [Colore](/colore) (0/15)
 - [x] [Condizioni](/condizioni) (4/4)
-- [ ] Conversioni
-- [ ] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
-- [ ] Data e ora
+- [ ] [Conversioni](/conversini) (0/7)
+- [x] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
+- [ ] [Data e ora](/dataeora) (0/16)
+- [ ] [Generale](/generale) (0/6)
 - [ ] [Geometria](/geometria) (9/93)
-- [ ] Maps
+- [ ] [Layer della mappa](/layerdellamappa) (0/1)
+- [ ] [Maps](/maps) (0/8)
 - [ ] Matematica
 - [x] [Operatori](/operatori) (21/21)
+- [ ] [Recente](/recente) (0/1)
+- [ ] [record e attributi](/recordeattributi) (0/9)
+- [ ] [Stringhe di testo](/stringheditesto) (0/22)
+- [ ] [Transformation](/transoformation) (0/4)
+- [ ] [Variabili](/variabili) (0/20)
 - [ ] ...
 
 
