@@ -37,7 +37,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [ ] [Matematica](/matematica) (0/28)
 - [x] [Operatori](/operatori) (21/21)
 - [ ] [Recente](/recente) (0/1)
-- [ ] [record e attributi](/record_e_attributi) (0/9)
+- [x] [record e attributi](/record_e_attributi) (9/9)
 - [ ] [Stringhe di testo](/stringhe_di_testo) (0/22)
 - [ ] [Transformation](/transoformation) (0/4)
 - [ ] [Variabili](/variabili) (0/20)
