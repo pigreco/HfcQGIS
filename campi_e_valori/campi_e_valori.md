@@ -7,4 +7,4 @@ Seleziona il nome del campo dall'elenco e fai click con il tasto destro per apri
 
 Il caricamento del valore del campo da layer WFS non è supportato, prima che il layer venga inserito, ad esempio quando si costruiscono interrogazioni.
 
-<img src="/img/campievalori/campievalori1.png">
+<img src="/img/campi_e_valori/campievalori1.png">
