@@ -22,19 +22,19 @@
 14. visualizza i valori univoci del campo selezionato.
 
 ## Indice gruppi di Funzioni/espressioni
-* [Aggregates](/aggregates) (1/22)
-* [Arrays]() (0/20)
-* [Campi e valori](/campi_e_valori) (1/1)
-* Colore (0/15)
-* [Condizioni](/condizioni) (4/4)
-* Conversioni
-* [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
-* Data e ora
-* [Geometria](/geometria) (9/93)
-* Maps
-* Matematica
-* [Operatori](/operatori) (21/21)
-* ...
+- [ ] [Aggregates](/aggregates) (1/22)
+- [ ] [Arrays]() (0/20)
+- [x] [Campi e valori](/campi_e_valori) (1/1)
+- [ ] Colore (0/15)
+- [x] [Condizioni](/condizioni) (4/4)
+- [ ] Conversioni
+- [ ] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
+- [ ] Data e ora
+- [ ] [Geometria](/geometria) (9/93)
+- [ ] Maps
+- [ ] Matematica
+- [x] [Operatori](/operatori) (21/21)
+- [ ] ...
 
 
 ## traduzione in italiano
