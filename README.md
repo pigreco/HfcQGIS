@@ -1,4 +1,4 @@
------------------:no_entry: IN LAVORAZIONE :no_entry:-----------------
+---------------------------:no_entry: IN LAVORAZIONE :no_entry:---------------------------
 
 # Help funzioni/espressioni calcolatore di campi di QGIS 
 
