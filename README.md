@@ -51,3 +51,7 @@ per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pen
 Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza:
 
 [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
+
+## Donate
+
+:euro: [donate](https://www.paypal.me/pigrecoinfinito)
