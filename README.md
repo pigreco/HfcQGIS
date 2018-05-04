@@ -43,7 +43,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [ ] [Variabili](/variabili) (0/20)
 - [ ] ...
 
-
+Andrea
 ## traduzione in italiano
 
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`
