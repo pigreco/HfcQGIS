@@ -47,16 +47,16 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 ## Cosa puoi fare
 
 - *contribuire*
-    - finanziariamente;
-    - condividendo e divulgando;
+    - [finanziariamente](https://www.paypal.me/pigrecoinfinito);
+    - [condividendo e divulgando](https://www.facebook.com/);
 - *segnalare errori*
-    - tramite issues;
-    - tramite pull requests;
+    - [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
+    - [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls);
 - *aggiungere funzioni*
-    - tramite pull requests;
-    - tramite issues;
+    - [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls);
+    - [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
 - *aggiungere esempi*
-    - tramite pull requests
+    - [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls)
 
 
 ## Traduzione in italiano
