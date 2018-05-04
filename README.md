@@ -26,7 +26,7 @@ Questa guida nasce grazie alle numerose richieste di aiuto sull'uso del calcolat
 * Colore (0/15)
 * [Condizioni](/condizioni) (1/4)
 * Conversioni
-* [Corrispondenza fuzzy](/corrispondenza_fuzzy)
+* [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
 * Data e ora
 * [Geometria](/geometria) (9/93)
 * Maps
