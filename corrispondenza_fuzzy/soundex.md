@@ -14,7 +14,10 @@ Restituisce la rappresentazione Soundex di una stringa. Soundex è un algoritmo 
 ```
 
 <img src="/img/corrispondenza_fuzzy/soundex1.png">
+<<<<<<< HEAD
 
 secondo questo algoritmo *Sicilia bedda* e *Sicilia bella* hanno stesso suono :+1:
 
 <img src="/img/corrispondenza_fuzzy/soundex2.png">
+=======
+>>>>>>> origin/master
