@@ -16,12 +16,13 @@ Questa guida nasce grazie alle numerose richieste di aiuto sull'uso del calcolat
 10. casella di ricerca funzioni;
 11. elenco ad albero con tutte le funzioni suddivise per argomento;
 12. Help in linea;
-13. anteprima valore espressione digitata in 9;
+13. anteprima valore espressione digitata in 9 oppure segnalazione errore;
 14. visualizza i valori univoci del campo selezionato.
 
 ## Indice gruppi di Funzioni/espressioni
 * [Aggregates](/aggregates) (1/22)
 * [Arrays]() (0/20)
+* [Campi e valori](/campi_e_valori) (1/1)
 * Colore (0/15)
 * [Condizioni](/condizioni) (1/4)
 * Conversioni
