@@ -14,7 +14,7 @@ geometry una geometria
 
 `bounds($geometry) → perimetro di delimitazione di $geometry`
 
-<img src="/img/bounds/bounds1.png">
+<img src="/img/geometria/bounds/bounds1.png">
 
 ## nota bene
 
@@ -24,4 +24,4 @@ geometry una geometria
 
 funzione molto utile per la tematizzazione aggiungendo un nuovo layer con geometry generator
 
-<img src="/img/bounds/bounds2.png">
+<img src="/img/geometria/bounds/bounds2.png">

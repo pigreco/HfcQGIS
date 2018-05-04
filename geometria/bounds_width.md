@@ -14,7 +14,7 @@ bounds_width(*geometry*)
 
 `bounds_width($geometry) → larghezza del perimetro di delimitazione di $geometry`
 
-<img src="/img/bounds/bounds_width1.png">
+<img src="/img/geometria/bounds/bounds_width1.png">
 
 ## nota bene
 

@@ -15,7 +15,7 @@ geometry una geometria
 
 `geom_to_wkt(boundary(geom_from_wkt('Polygon((1 1, 0 0, -1 1, 1 1))'))) → 'LineString(1 1,0 0,-1 1,1 1)'`
 
-<img src="/img/boundary/boundari1.png">
+<img src="/img/geometria/boundary/boundari1.png">
 
 ## nota bene
 
@@ -25,4 +25,4 @@ geometry una geometria
 
 funzione molto utile per la tematizzazione aggiungendo un nuovo layer con geometry generator
 
-<img src="/img/boundary/boundari2.png">
+<img src="/img/geometria/boundary/boundari2.png">

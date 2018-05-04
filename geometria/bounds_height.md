@@ -14,7 +14,7 @@ bounds_height(*geometry*)
 
 `bounds_height($geometry) → altezza del perimetro di delimitazione di $geometry`
 
-<img src="/img/bounds/bounds_height1.png">
+<img src="/img/geometria/bounds/bounds_height1.png">
 
 ## nota bene
 

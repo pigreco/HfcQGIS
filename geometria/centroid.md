@@ -14,7 +14,7 @@ centroid(*geometry*)
 
 `centroid($geometry) → una geometria punto`
 
-<img src="/img/centroid/centroid1.png">
+<img src="/img/geometria/centroid/centroid1.png">
 
 ## nota bene
 
@@ -24,4 +24,4 @@ centroid(*geometry*)
 
 La Funzione restituisce SEMPRE una geometry POINT
 
-<img src="/img/centroid/centroid2.png">
+<img src="/img/geometria/centroid/centroid2.png">

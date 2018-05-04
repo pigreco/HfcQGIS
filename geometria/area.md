@@ -8,9 +8,9 @@ area(geometry)
 
 ## Esempi
 
-<img src="/img/img_area/area001.png">
+<img src="/img/geometria/area/area001.png">
 
-<img src="/img/img_area/area004.png">
+<img src="/img/geometria/area/area004.png">
 
 ## nota bene
 

@@ -13,14 +13,14 @@ azimuth(*point_a, point_b*)
 
 ## Esempi
 
-<img src="/img/azimuth/azimuth003.png">
+<img src="/img/geometria/azimuth/azimuth003.png">
 
-<img src="/img/azimuth/azimuth001.png">
+<img src="/img/geometria/azimuth/azimuth001.png">
 
-<img src="/img/azimuth/azimuth002.png">
+<img src="/img/geometria/azimuth/azimuth002.png">
 
 ## nota bene
 
 Azimuth per definizione restituisce un angolo in radianti, per trasformarlo in gradi usare la funzione degrees()
 
-<img src="/img/azimuth/azimuth004.png">
+<img src="/img/geometria/azimuth/azimuth004.png">
