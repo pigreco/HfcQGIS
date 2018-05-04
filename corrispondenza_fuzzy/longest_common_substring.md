@@ -1,10 +1,7 @@
-﻿## funzione `longest_common_substring`
+## funzione `longest_common_substring`
 
-<<<<<<< HEAD
-Restituisce la sottostringa in comune più lunga tra due stringhe. Questa sottostringa è la stringa più lunga che è una sottostringa delle due stringhe in ingresso. Es: la sottostringa in comune pi� lunga di "ABABC" e "BABCA" � "ABC". La sottostringa � sensibile alle lettere maiuscole.
-=======
-Restituisce la sottostringa in comune più lunga tra due stringhe. Questa sottostringa è la stringa più lunga che è una sottostringa delle due stringhe in ingresso. Es: la sottostringa in comune più lunga di "ABABC" e "BABCA" è "ABC". La sottostringa è sensibile alle lettere maiuscole.
->>>>>>> origin/master
+Restituisce la sottostringa in comune piÃ¹ lunga tra due stringhe. Questa sottostringa Ã¨ la stringa piÃ¹ lunga che Ã¨ una sottostringa delle due stringhe in ingresso. Es: la sottostringa in comune piÃ¹ lunga di "ABABC" e "BABCA" Ã¨ "ABC". La sottostringa Ã¨ sensibile alle lettere maiuscole.
+
 
 ## Sintassi
 
@@ -15,9 +12,9 @@ Restituisce la sottostringa in comune più lunga tra due stringhe. Questa sottos
 
 ## Esempi
 ```
-* longest_common_substring('ABABC','BABCA') → 'ABC'
-* longest_common_substring('abcDeF','abcdef') → 'abc'
-* longest_common_substring(upper('abcDeF'),upper('abcdex')) → 'ABCDE'
+* longest_common_substring('ABABC','BABCA') â†’ 'ABC'
+* longest_common_substring('abcDeF','abcdef') â†’ 'abc'
+* longest_common_substring(upper('abcDeF'),upper('abcdex')) â†’ 'ABCDE'
 ```
 
 <img src="/img/corrispondenza_fuzzy/longest_common_substring1.png">
