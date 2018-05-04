@@ -20,13 +20,13 @@ Questa guida nasce grazie alle numerose richieste di aiuto sull'uso del calcolat
 14. visualizza i valori univoci del campo selezionato.
 
 ## Indice gruppi di Funzioni/espressioni
-* [Aggregates](/aggregates)
-* [Arrays]()
-* Colore
-* [Condizioni](/condizioni)
+* [Aggregates](/aggregates) (1/22)
+* [Arrays]() (0/20)
+* Colore (0/15)
+* [Condizioni](/condizioni) (1/4)
 * Conversioni
 * Data e ora
-* [Geometria](/geometria)
+* [Geometria](/geometria) (9/93)
 * Maps
 * Matematica
 * ...
