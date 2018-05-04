@@ -29,7 +29,7 @@ THEN  "DEN_REG"
 ELSE 'NON SONO ISOLE' 
 END
 ```
-<img src="/img/case/case1.png">
+<img src="/img/condizioni/case1.png">
 
 ```
 CASE 
@@ -39,7 +39,7 @@ ELSE 'CORTA'
 END
 ```
 
-<img src="/img/case/case3.png">
+<img src="/img/condizioni/case3.png">
 
 ## nota bene
 
@@ -48,4 +48,4 @@ END
 ## osservazioni
 
 --
-<img src="/img/case/case2.png">
+<img src="/img/condizioni/case2.png">

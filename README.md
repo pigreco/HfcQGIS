@@ -26,7 +26,7 @@ Questa guida nasce grazie alle numerose richieste di aiuto sull'uso del calcolat
 * [Arrays]() (0/20)
 * [Campi e valori](/campi_e_valori) (1/1)
 * Colore (0/15)
-* [Condizioni](/condizioni) (1/4)
+* [Condizioni](/condizioni) (4/4)
 * Conversioni
 * [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
 * Data e ora
