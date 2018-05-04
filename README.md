@@ -21,7 +21,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 13. anteprima valore espressione digitata in 9 oppure segnalazione errore;
 14. visualizza i valori univoci del campo selezionato.
 
-## Indice gruppi di Funzioni/espressioni (40/302)
+## Indice gruppi di Funzioni/espressioni (49/302)
 - [ ] [Aggregates](/aggregates) (1/22)
 - [ ] [Arrays](/arrays) (0/20)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
@@ -46,10 +46,17 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 ---
 ## Cosa puoi fare
 
-- contribuire;
-- segnalare errori;
-- aggiungere funzioni;
-- aggiungere esempi;
+- *contribuire*
+    - finanziariamente;
+    - condividendo e divulgando;
+- *segnalare errori*
+    - tramite issues;
+    - tramite pull requests;
+- *aggiungere funzioni*
+    - tramite pull requests;
+    - tramite issues;
+- *aggiungere esempi*
+    - tramite pull requests
 
 
 ## Traduzione in italiano
