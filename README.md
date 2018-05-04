@@ -21,7 +21,7 @@
 13. anteprima valore espressione digitata in 9 oppure segnalazione errore;
 14. visualizza i valori univoci del campo selezionato.
 
-## Indice gruppi di Funzioni/espressioni
+## Indice gruppi di Funzioni/espressioni (40/302)
 - [ ] [Aggregates](/aggregates) (1/22)
 - [ ] [Arrays](/arrays) (0/20)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
