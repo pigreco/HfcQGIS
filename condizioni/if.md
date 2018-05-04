@@ -27,4 +27,4 @@ Testa una condizione e restituisce un risultato diverso a seconda della verifica
 
 --
 
-<img src="/img/condizioni/coalesce1.png">
+<img src="/img/condizioni/if1.png">
