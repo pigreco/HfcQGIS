@@ -4,11 +4,11 @@
 
 Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del calcolatore di campi.:star2:
 
-## Introduzione al calcolatore di campi [qui](https://github.com/pigreco/Help_in_linea_/wiki/Introduzione-al-calcolatore-di-campi)
+## Introduzione al calcolatore di campi [qui](https://github.com/pigreco/Help_in_linea_/wiki/Introduzione)
 
 <img src="/img/calcolatore_campi.png">
 
-## Indice gruppi di Funzioni/espressioni (49/302)
+## Indice gruppi di Funzioni/espressioni (51/302)
 - [ ] [Aggregates](/aggregates) (1/22)
 - [ ] [Arrays](/arrays) (0/20)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
@@ -19,14 +19,14 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [ ] [Data e ora](/data_ora) (0/16)
 - [ ] [Generale](/generale) (0/6)
 - [ ] [Geometria](/geometria) (9/93)
-- [ ] [Layer della mappa](/layer_della_mappa) (0/1)
+- [x] [Layer della mappa](/layer_della_mappa) (1/1)
 - [ ] [Maps](/maps) (0/8)
 - [ ] [Matematica](/matematica) (0/28)
 - [x] [Operatori](/operatori) (21/21)
-- [ ] [Recente](/recente) (0/1)
+- [x] [Recente](/recente) (1/1)
 - [x] [record e attributi](/record_e_attributi) (9/9)
 - [ ] [Stringhe di testo](/stringhe_di_testo) (0/22)
-- [ ] [Transformation](/transoformation) (0/4)
+- [ ] [Transformation](/transoformation) (0/4) ????
 - [ ] [Variabili](/variabili) (0/20)
 - [ ] ...
 
