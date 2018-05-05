@@ -62,3 +62,5 @@ In questo esempio viene popolato un campo (dove è usata l'espressione) in funzi
 ### posizionamento etichetta 
 
 <img src="/img/condizioni/case_label1.png">
+
+<img src="/img/condizioni/case_rot.png" width=200>
