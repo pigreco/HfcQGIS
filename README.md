@@ -59,6 +59,8 @@ La descrizione delle funzioni in italiano è stata realizzata dal gruppo di trad
 
 [QGIS.org](https://qgis.org/it/site/)
 
+[Documentazione](https://qgis.org/it/docs/index.html#)
+
 [Pigrecoinfinito - mio Blog](https://pigrecoinfinito.wordpress.com/)
 
 
