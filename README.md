@@ -54,6 +54,12 @@ La descrizione delle funzioni in italiano è stata realizzata dal gruppo di trad
 
 <img src="/img/traduttori.png">
 
+## link
+
+[QGIS.org](https://qgis.org/it/site/)
+
+[Pigrecoinfinito - mio Blog](https://pigrecoinfinito.wordpress.com/)
+
 
 ## Licenze
 
