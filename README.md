@@ -1,5 +1,16 @@
 ---------------------------:no_entry: IN LAVORAZIONE :no_entry:---------------------------
 
+<!-- TOC -->
+
+- [Help funzioni/espressioni calcolatore di campi di QGIS](#help-funzioni-espressioni-calcolatore-di-campi-di-qgis)
+    - [Indice gruppi di Funzioni/espressioni (49/302)](#indice-gruppi-di-funzioni-espressioni-49-302)
+    - [Cosa puoi fare](#cosa-puoi-fare)
+    - [Traduzione in italiano](#traduzione-in-italiano)
+    - [Licenze](#licenze)
+    - [Donate](#donate)
+
+<!-- /TOC -->
+
 # Help funzioni/espressioni calcolatore di campi di QGIS 
 
 Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del calcolatore di campi.:star2:
@@ -70,7 +81,7 @@ La descrizione delle funzioni in italiano è stata realizzata dal gruppo di trad
 
 per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pena la distruzione del repository :trollface:
 
-###### Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
+Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
 
 ## Donate
 
