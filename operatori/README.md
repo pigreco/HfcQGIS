@@ -18,7 +18,7 @@ Questo gruppo contiene operatori es. + - *
 |[a > b](maggiore.md)|Confronta due valori e pone a 1 se il valore a sinistra è maggiore del valore a destra|
 |[a >= b](maggioreuguale.md)|Confronta due valori e pone a 1 se il valore a sinistra è maggiore o uguale del valore a destra.|
 |[a ~ b](tilde.md)|Esegue un'espressione regolare su di una stringa.|
-|[!!](doppio_pipe.md)|Unisce due valori assieme in una stringa. Se uno dei valori è NULL il risultato sarà NULL. Vedi la funzione CONCAT con caratteristiche differenti.|
+|[\|\|](doppio_pipe.md)|Unisce due valori assieme in una stringa. Se uno dei valori è NULL il risultato sarà NULL. Vedi la funzione CONCAT con caratteristiche differenti.|
 |‘\n’|	Inserisce una nuova linea|
 |[LIKE](LIKE.md)|	Restituisce 1 se il primo parametro soddisfa il modello fornito. Funziona anche con i numeri|
 |[ILIKE](ILIKE.md)|	Restituisce 1 se il primo parametro soddisfa senza tener conto delle maiuscole o minuscole il modello fornito. LIKE può essere usato al posto di ILIKE per eseguire una comparazione che tenga conto delle maiuscole e minuscole. Funziona anche con i numeri|
