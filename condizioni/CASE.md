@@ -45,6 +45,8 @@ END
 
 ## Altri esempi
 
+### popolare un campo un funzione di un altro
+
 ```
 CASE 
 WHEN "livello3" ILIKE 'A%' THEN 'ciao'
@@ -56,3 +58,7 @@ END
 In questo esempio viene popolato un campo (dove è usata l'espressione) in funzione del campo _livello3_: se il campo contiene un valore che inizia per _A_ allora scriverà _ciao_, se contiene un valore che inizia con _B_ scriverà _arrivederci_; se contiene un valore che inizia per _C_ scriverà _ciaone_ in tutti gli altri casi scriverà _CUCU_
 
 ---
+
+### posizionamento etichetta 
+
+<img src="/img/condizioni/case_label1.png">
