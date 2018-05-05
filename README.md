@@ -9,6 +9,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 <img src="/img/calcolatore_campi1.png">
 
 ## Indice gruppi di funzioni/espressioni (57/302)
+
 - [ ] [Aggregates](/aggregates) (1/22)
 - [ ] [Arrays](/arrays) (0/20)
 - [x] [Campi e valori](/campi_e_valori) (1/1)

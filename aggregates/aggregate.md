@@ -23,8 +23,8 @@ aggregate(*layer, aggregate, calculation, filter, concatenator*)
   - range
   - minority
   - majority
-  - q1: first quartile
-  - q3: third quartile
+  - q1: promo quartile
+  - q3: terzo quartile
   - iqr: inter quartile range
   - min_length: minima lunghezza stringa
   - max_length: massima lunghezza stringa
