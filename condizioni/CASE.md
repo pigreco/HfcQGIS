@@ -41,13 +41,6 @@ END
 
 <img src="/img/condizioni/case3.png">
 
-## nota bene
-
---
-
-## osservazioni
-
---
 <img src="/img/condizioni/case2.png">
 
 ## Altri esempi
