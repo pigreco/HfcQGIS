@@ -23,7 +23,7 @@ Restituisce statistiche da un raster.
 ```
 raster_statistic('lc',1,'avg') → Valore medio per la banda 1 da un raster layer 'lc'
 raster_statistic('ac2010',3,'min') → Valore minimo dalla banda 3 da un layer raster 'ac2010'
- raster_statistic( 'sicilia_dtm40',1,'max') → valore massimo del DTM
+raster_statistic( 'sicilia_dtm40',1,'max') → valore massimo del DTM
 ```
 ## Nota bene
 
