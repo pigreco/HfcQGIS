@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `Data e ora`
 
 Questo gruppo contiene funzioni per gestire dati con date e ore.
 

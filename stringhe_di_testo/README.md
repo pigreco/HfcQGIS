@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `tringhe di testo`
 
 Questo gruppo contiene le funzioni che operano sulle stringhe es. sostituzione, conversione in maiuscolo.
 

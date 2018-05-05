@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `Condizioni`
 
 Questo gruppo contiene funzioni per eseguire controlli condizionali nelle espressioni. 
 

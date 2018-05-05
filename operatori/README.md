@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `Operatori`
 
 Questo gruppo contiene operatori es. + - *
 

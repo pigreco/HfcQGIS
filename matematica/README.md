@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `Matematica`
 
 Questo gruppo contiene funzioni matematiche es. radice quadrata, seno e coseno.
 

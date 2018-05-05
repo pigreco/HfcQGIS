@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `Aggregates`
 
 Contiene funzioni che aggregano valori nei livelli e campi.
 

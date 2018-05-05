@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `Generale`
 
 Questo gruppo contiene un'assortimento di funzioni generiche.
 

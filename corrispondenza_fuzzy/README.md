@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `Corrispondenza fuzzy`
 
 Questo gruppo contiene le funzioni per comparazioni fuzzy fra i valori. 
 

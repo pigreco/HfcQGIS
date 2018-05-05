@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `Recente`
 
 Questo gruppo contiene le ultime espressioni utilizzate nel calcolatore di campi.
 

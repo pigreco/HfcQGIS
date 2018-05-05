@@ -1,4 +1,4 @@
-## Gruppo geometria
+## Gruppo `Variabili`
 
 Questo gruppo contiene variabili dinamiche che possono essere inserite nelle tue espressioni.
 
