@@ -44,6 +44,8 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
     - [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
 - *aggiungere esempi*
     - [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls)
+- *lasciare un messaggio*
+    - [scrivi un messaggio qui](https://github.com/pigreco/Help_in_linea_/issues/1)
 
 
 ## Traduzione in italiano
