@@ -6,7 +6,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 
 ## Introduzione al calcolatore di campi [qui](https://github.com/pigreco/Help_in_linea_/wiki/Introduzione)
 
-<img src="/img/calcolatore_campi.png">
+<img src="/img/calcolatore_campi1.png">
 
 ## Indice gruppi di Funzioni/espressioni (51/302)
 - [ ] [Aggregates](/aggregates) (1/22)
