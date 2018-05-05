@@ -29,6 +29,6 @@ raster_statistic( 'sicilia_dtm40',1,'max') → valore massimo del DTM
 
 ## Nota bene
 
-Queste statistiche sono riferite sempre a tutto il raster anche se la geometria è più o meno estesa del raster.
+Queste statistiche sono riferite sempre a tutto il raster anche se la geometria è più o meno estesa del raster. Nel caso che segue ho popolato il campo _raster_ del vettore punto con il valore _max_ dell'intero DTM
 
 <img src="/img/generale/raster_statistic2.png">
