@@ -3,7 +3,7 @@
 Questo gruppo contiene funzioni matematiche es. radice quadrata, seno e coseno.
 
 | Funzione  | Descrizione|
-|----------:|-----------:|
+|----------:|:-----------|
 |abs|Ritorna il valore assoluto del numero|
 |acos|Restituisce l'arcocoseno del valore in radianti|
 |asin|Restituisce l'arcoseno del valore in radianti.|
