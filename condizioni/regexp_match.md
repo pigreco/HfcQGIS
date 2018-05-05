@@ -13,13 +13,17 @@ Restituisce la prima posizione di corrispondenza che soddisfa un'espressione reg
 
 ## Esempi
 ```
-* regexp_match('QGIS ROCKS','\\sROCKS') → 5
+regexp_match('QGIS ROCKS','\\sROCKS') → 5
 ```
 
 ## Osservazioni
 
 --
 
-In questo esempio la prima lettere di Fiandaca si trova alla posizione 10
+In questo esempio la prima lettere di *Fiandaca* si trova alla posizione 10
+
+```
+regexp_match('Salvatore Fiandaca','\\sFiandaca') → 10
+```
 
 <img src="/img/condizioni/regexp_match1.png">

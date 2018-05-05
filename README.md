@@ -8,7 +8,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 
 <img src="/img/calcolatore_campi1.png">
 
-## Indice gruppi di funzioni/espressioni (51/302)
+## Indice gruppi di funzioni/espressioni (57/302)
 - [ ] [Aggregates](/aggregates) (1/22)
 - [ ] [Arrays](/arrays) (0/20)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
@@ -17,7 +17,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [ ] [Conversioni](/conversioni) (0/7)
 - [x] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
 - [ ] [Data e ora](/data_ora) (0/16)
-- [ ] [Generale](/generale) (0/6)
+- [x] [Generale](/generale) (6/6)
 - [ ] [Geometria](/geometria) (9/93)
 - [x] [Layer della mappa](/layer_della_mappa) (1/1)
 - [ ] [Maps](/maps) (0/8)
