@@ -25,8 +25,10 @@ raster_statistic('lc',1,'avg') → Valore medio per la banda 1 da un raster laye
 raster_statistic('ac2010',3,'min') → Valore minimo dalla banda 3 da un layer raster 'ac2010'
 raster_statistic( 'sicilia_dtm40',1,'max') → valore massimo del DTM
 ```
+<img src="/img/generale/raster_statistic1.png">
+
 ## Nota bene
 
 Queste statistiche sono riferite sempre a tutto il raster anche se la geometria è più o meno estesa del raster.
 
-<img src="/img/generale/raster_statistic1.png">
+<img src="/img/generale/raster_statistic2.png">
