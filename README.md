@@ -74,7 +74,7 @@ Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [
 
 :euro: [donate](https://www.paypal.me/pigrecoinfinito) :euro:
 
-Repo cotruito con:
+Repo costruito con:
 
 <img src="/img/VScode_QGIS.png">
 
