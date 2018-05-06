@@ -43,7 +43,7 @@ aggregate(*layer, aggregate, calculation, filter, concatenator*)
 * `aggregate(layer:='province_g',aggregate:='concatenate',expression:= "DEN_PCM" , concatenator:=',')  → Elenco separato da virgole di tutte le denominazioni delle Province per tutte le geometrie nel vettore Regione`
 * `aggregate(layer:='province_g',aggregate:='concatenate',expression:= "DEN_PCM" ,concatenator:=',',filter:=intersects( centroid($geometry), geometry(@parent))) → Elenco separato delle denominazioni delle Province per ogni geometria del vettore Regione (cioè il  @parent)'`
 
-<img src="/img/aggregates/aggregate1.png">
+<img src="/img/aggregates/aggregate/aggregate1.png">
 
 ## nota bene
 
@@ -53,4 +53,4 @@ aggregate(*layer, aggregate, calculation, filter, concatenator*)
 
 i nomi dei layer vanno scritti tra apici semplici ('nome_layer') mentre i nomi dei campi con doppi apici ("nome_campo")
 
-<img src="/img/aggregates/aggregate2.png">
+<img src="/img/aggregates/aggragate/aggregate2.png">
