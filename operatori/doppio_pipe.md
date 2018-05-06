@@ -1,4 +1,4 @@
-## Operatore `||` (doppio_pipe)
+## Operatore `||` (doppio pipe)
 
 Unisce due valori assieme in una stringa.
 Se uno dei valori è NULL il risultato sarà NULL. Vedi la funzione CONCAT con caratteristiche differenti.
@@ -21,4 +21,4 @@ Se uno dei valori è NULL il risultato sarà NULL. Vedi la funzione CONCAT con c
 
 --
 
-<img src="/img/operatori/doppio_pipe.png">
+<img src="/img/operatori/doppio_pipe1.png">

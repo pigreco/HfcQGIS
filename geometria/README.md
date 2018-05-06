@@ -1,4 +1,4 @@
-## 0.1. Gruppo `Geometria`
+## Gruppo `Geometria`
 
 Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lunghezza**, **area**.
 
