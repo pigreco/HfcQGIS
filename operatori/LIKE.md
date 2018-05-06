@@ -24,6 +24,10 @@ Restituisce 1 se il primo parametro soddisfa il modello fornito. Funziona anche 
 
 ## Osservazioni
 
---
+La funzione distingue maiuscolo dal minuscolo!!!
+
+1 significa **Vero**
+
+0 significa **falso**
 
 <img src="/img/operatori/LIKE1.png">

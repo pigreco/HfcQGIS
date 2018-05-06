@@ -18,6 +18,8 @@ Restituisce 1 quando le condizioni a e b sono vere.
 
 ## Osservazioni
 
---
+1 significa **Vero**
+
+0 significa **falso**
 
 <img src="/img/operatori/AND1.png">

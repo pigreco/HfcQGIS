@@ -16,6 +16,8 @@ NOT 0 → 1
 
 ## Osservazioni
 
---
+1 significa **Vero**
+
+0 significa **falso**
 
 <img src="/img/operatori/NOT1.png">

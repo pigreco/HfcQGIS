@@ -17,6 +17,8 @@ Restituisce 1 quando la condizione a oppure b è vera.
 
 ## Osservazioni
 
---
+1 significa **Vero**
+
+0 significa **falso**
 
 <img src="/img/operatori/OR1.png">

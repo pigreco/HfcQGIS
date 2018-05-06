@@ -27,6 +27,8 @@ Restituisce 1 se il primo parametro soddisfa senza tener conto delle maiuscole o
 
 ## Osservazioni
 
---
+1 significa **Vero**
+
+0 significa **falso**
 
 <img src="/img/operatori/ILIKE1.png">

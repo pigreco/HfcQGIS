@@ -20,6 +20,10 @@ Restituisce 1 se _a_ è uguale a _b_.
 
 ## Osservazioni
 
---
+La funzione distingue maiuscolo dal minuscolo!!!
+
+1 significa **Vero**
+
+0 significa **falso**
 
 <img src="/img/operatori/IS1.png">

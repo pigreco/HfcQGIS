@@ -18,6 +18,8 @@ Confronta due valori e pone a 1 se essi sono uguali.
 
 ## Osservazioni
 
---
+1 significa **Vero**
+
+0 significa **falso**
 
 <img src="/img/operatori/uguale1.png">

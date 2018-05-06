@@ -17,6 +17,8 @@ Confronta due valori e pone a 1 se il valore a sinistra è minore o uguale del v
 
 ## Osservazioni
 
---
+1 significa **Vero**
+
+0 significa **falso**
 
 <img src="/img/operatori/minoreuguale1.png">
