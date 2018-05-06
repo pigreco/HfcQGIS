@@ -1,17 +1,17 @@
-## Gruppo `Geometria`
+## 0.1. Gruppo `Geometria`
 
 Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lunghezza**, **area**.
 
 | Funzione  | Descrizione|
 |----------:|:-----------|
-|[area]($area.md)|	Returns the area size of the current feature
-|$geometry|	Returns the geometry of the current feature (can be used for processing with other functions)
-|$length|	Returns the length of the current line feature
-|$perimeter|	Returns the perimeter of the current polygon feature
-|$x|	Returns the x coordinate of the current feature
+|[\$area]($area.md)|	Returns the area size of the current feature
+|\$geometry|	Returns the geometry of the current feature (can be used for processing with other functions)
+|\$length|	Returns the length of the current line feature
+|\$perimeter|	Returns the perimeter of the current polygon feature
+|\$x|	Returns the x coordinate of the current feature
 |$x_at(n)|	Returns the x coordinate of the nth node of the current feature’s geometry
-|$y|	Returns the y coordinate of the current feature
-|$y_at(n)|	Returns the y coordinate of the nth node of the current feature’s geometry
+|\$y|	Returns the y coordinate of the current feature
+|\$y_at(n)|	Returns the y coordinate of the nth node of the current feature’s geometry
 |angle_at_vertex|	Returns the bisector angle (average angle) to the geometry for a specified vertex on a linestring geometry. Angles are in degrees clockwise from north
 |[area](area.md)|	Returns the area of a geometry polygon feature. Calculations are in the Spatial Reference System of this geometry
 |[azimuth](azimuth.md)|	Returns the north-based azimuth as the angle in radians measured clockwise from the vertical on point_a to point_b

@@ -73,3 +73,9 @@ Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [
 ## Donate
 
 :euro: [donate](https://www.paypal.me/pigrecoinfinito) :euro:
+
+Repo cotruito con:
+
+<img src="/img/VScode_QGIS.png">
+
+* [VScode](https://it.wikipedia.org/wiki/Visual_Studio_Code)
