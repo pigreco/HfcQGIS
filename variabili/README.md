@@ -7,7 +7,7 @@ Questo gruppo contiene variabili dinamiche relative all'applicazione, al file di
 * proprietà del layer ![mod](https://docs.qgis.org/testing/en/_images/mIconDataDefine.png)
 * compositore di stampe ![print](https://docs.qgis.org/testing/en/_images/mActionNewLayout.png)
 
-Per utilizzare queste funzioni in un'espressione, devono essere precedute da @ carattere (ad es. @row_number). Riguardano:
+Per utilizzare queste funzioni in un'espressione, devono essere precedute da @ carattere (ad es. @row_number) basta un semplice doppio clic. Riguardano:
 
  Funzione  | Descrizione
 ----------:|:-----------
@@ -80,14 +80,14 @@ with_variable|Allows setting a variable for usage within an expression and avoid
 
 <img src="/img/variabili/gruppo_variabili1.png">
 
-Geometry generator - stile
+Geometry generator - stile ![epsilos](https://docs.qgis.org/testing/en/_images/mIconExpression.png)
 <img src="/img/variabili/gruppo_variabili2.png">
 
-Selezione per espressione
+Selezione per espressione ![exp](https://docs.qgis.org/testing/en/_images/mIconExpressionSelect.png)
 <img src="/img/variabili/gruppo_variabili3.png">
 
-Calcolatore di campi
+Calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
 <img src="/img/variabili/gruppo_variabili4.png">
 
-Compositore di stampe
+Compositore di stampe ![print](https://docs.qgis.org/testing/en/_images/mActionNewLayout.png)
 <img src="/img/variabili/gruppo_variabili5.png">
