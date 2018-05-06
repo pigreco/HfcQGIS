@@ -16,6 +16,6 @@ Addizione di due valori. Se uno dei due valori è NULL il risultato sarà NULL.
 
 ## Osservazioni
 
---
+Puoi concatenare stringhe usando || o +. Quest'ultimo significa anche somma nelle espressioni. Quindi se hai un intero (campo o valore numerico) questo può essere soggetto a errori. In questo caso, dovresti usare ||. Se si concatenano due valori stringa, è possibile utilizzare entrambi.
 
 <img src="/img/operatori/somma1.png">
