@@ -77,7 +77,7 @@ row_number|Stores the number of the current row
 value|Returns the current value
 with_variable|Allows setting a variable for usage within an expression and avoid recalculating the same value repeatedly
 
-
+Gruppo sul calcolatore di campi
 <img src="/img/variabili/gruppo_variabili1.png">
 
 Geometry generator - stile ![epsilos](https://docs.qgis.org/testing/en/_images/mIconExpression.png)
