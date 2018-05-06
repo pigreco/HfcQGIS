@@ -7,6 +7,8 @@ Questo gruppo contiene variabili dinamiche relative all'applicazione, al file di
 * proprietà del layer ![mod](https://docs.qgis.org/testing/en/_images/mIconDataDefine.png)
 * compositore di stampe ![print](https://docs.qgis.org/testing/en/_images/mActionNewLayout.png)
 
+Per utilizzare queste funzioni in un'espressione, devono essere precedute da @ carattere (ad es. @row_number). Riguardano:
+
  Funzione  | Descrizione
 ----------:|:-----------
 atlas_feature|Returns the current atlas feature (as feature object)
@@ -75,4 +77,17 @@ row_number|Stores the number of the current row
 value|Returns the current value
 with_variable|Allows setting a variable for usage within an expression and avoid recalculating the same value repeatedly
 
+
 <img src="/img/variabili/gruppo_variabili1.png">
+
+Geometry generator - stile
+<img src="/img/variabili/gruppo_variabili2.png">
+
+Selezione per espressione
+<img src="/img/variabili/gruppo_variabili3.png">
+
+Calcolatore di campi
+<img src="/img/variabili/gruppo_variabili4.png">
+
+Compositore di stampe
+<img src="/img/variabili/gruppo_variabili5.png">
