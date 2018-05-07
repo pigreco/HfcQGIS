@@ -11,8 +11,8 @@ Per utilizzare queste funzioni in un'espressione, devono essere precedute da @ c
 
  Funzione  | Descrizione
 ----------:|:-----------
-[atlas_feature](atlas_feature.md)|Returns the current atlas feature (as feature object)
-[atlas_featureid](atlas_featureid.md)|Returns the current atlas feature ID
+[atlas_feature](atlas_feature.md)|Ritorna la geometria attuale dell'atlante  (come oggetto geometria).
+[atlas_featureid](atlas_featureid.md)|Ritorna ID della geometria attuale dell'atlante
 [atlas_featurenumber](atlas_featurenumber.md)|Returns the current atlas feature number in the layout
 [atlas_filename](atlas_filename.md)|Returns the current atlas file name
 [atlas_geometry](atlas_geometry.md)|Returns the current atlas feature geometry

@@ -22,6 +22,7 @@ A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
 |[bounds_height](bounds_height.md)|Returns the height of the bounding box of a geometry. Calculations are in the Spatial Reference System of this geometry
 |[bounds_width](bounds_width.md)|Returns the width of the bounding box of a geometry. Calculations are in the Spatial Reference System of this geometry
 |[buffer](buffer.md)|Returns a geometry that represents all points whose distance from this geometry is less than or equal to distance. Calculations are in the Spatial Reference System of this geometry
+|[buffer_by_m](buffer_by_m.md)|Creates a buffer along a line geometry where the buffer diameter varies according to the m-values at the line vertices - >= QGIS 3.2
 |[centroid](centroid.md)|Returns the geometric center of a geometry
 |[closest_point](closest_point.md)|Returns the point on a geometry that is closest to a second geometry
 |[combine](combine.md)|Returns the combination of two geometries
@@ -88,10 +89,12 @@ A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
 |[smoothSmooths](smoothSmooths.md)| a geometry by adding extra nodes which round off corners in the geometry
 |[start_point](start_point.md)|Returns the first node from a geometry
 |[sym_difference](sym_difference.md)|Returns a geometry that represents the portions of two geometries that do not intersect
+|[tapered_buffer](tapered_buffer.md)|Creates a buffer along a line geometry where the buffer diameter varies evenly over the length of the line - >= QGIS 3.2
 |[touches](touches.md)|Tests whether a geometry touches another. Returns 1 (true) if the geometries have at least one point in common, but their interiors do not intersect
 |[transform](transform.md)|Returns the geometry transformed from the source CRS to the destination CRS
 |[translate](translate.md)|Returns a translated version of a geometry. Calculations are in the Spatial Reference System of this geometry
 |[union](union.md)|Returns a geometry that represents the point set union of the geometries
+|[wedge_buffer](wedge_buffer.md)|Returns a wedge shaped buffer originating from a point geometry - >= QGIS 3.2
 |[within](within.md)|Tests whether a geometry is within another. Returns 1 (true) if geometry a is completely inside geometry b
 |[x](x.md)|Returns the x coordinate of a point geometry, or the x coordinate of the centroid for a non-point geometry
 |[x_min](x_min.md)|Returns the minimum x coordinate of a geometry. Calculations are in the Spatial Reference System of this geometry
