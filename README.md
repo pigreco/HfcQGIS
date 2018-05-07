@@ -26,7 +26,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [x] [Operatori](/operatori) (21/21)
 - [x] [Recente](/recente) (1/1)
 - [x] [record e attributi](/record_e_attributi) (9/9)
-- [ ] [Reference](/Reference) (0/21)
+- [ ] [Reference](/reference) (0/21) Plugin refFunction
 - [ ] [Stringhe di testo](/stringhe_di_testo) (0/22)
 - [ ] [Transformation](/transoformation) (0/4) ????
 - [ ] [Variabili](/variabili) (0/65)
