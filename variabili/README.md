@@ -18,7 +18,7 @@ Per utilizzare queste funzioni in un'espressione, devono essere precedute da @ c
 [atlas_geometry](atlas_geometry.md)|Returns the current atlas feature geometry
 [atlas_layerid](atlas_layerid.md)|Returns the current atlas coverage layer ID
 [atlas_layername](atlas_layername.md)|Returns the current atlas coverage layer name
-[atlas_pagename](atlas_pagename)|Returns the current atlas page name.md)|Returns the current atlas page name
+[atlas_pagename](atlas_pagename.md)|Returns the current atlas page name
 [atlas_totalfeatures](atlas_totalfeatures.md)|Returns the total number of features in atlas
 [cluster_color](cluster_color.md)|Returns the color of symbols within a cluster, or NULL if symbols have mixed colors
 [cluster_size](cluster_size.md)|Returns the number of symbols contained within a cluster
