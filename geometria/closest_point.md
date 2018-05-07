@@ -34,4 +34,4 @@ Utilizzando il _geometry generator_ per i temi:
 
 Gif animata: _geometry 1_ è la rete stradale; _geometry 2_ sono i punti; in rosso i closestpoint
 
-<img src="/img/geometria/closest_point/closest_point.gif">
+<img src="/img/geometria/closest_point/closestpoint.gif">
