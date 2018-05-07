@@ -30,4 +30,4 @@ relativa all'esempio di sopra:
 
 ## osservazioni
 
-[QGIS](https://github.com/qgis/QGIS/pull/6882)
+[QGIS - feature](https://github.com/qgis/QGIS/pull/6882)
