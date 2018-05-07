@@ -53,4 +53,4 @@ aggregate(*layer, aggregate, calculation, filter, concatenator*)
 
 i nomi dei layer vanno scritti tra apici semplici ('nome_layer') mentre i nomi dei campi con doppi apici ("nome_campo")
 
-<img src="/img/aggregates/aggragate/aggregate2.png">
+<img src="/img/aggregates/aggregate/aggregate2.png">

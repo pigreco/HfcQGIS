@@ -18,7 +18,7 @@ Per utilizzare queste funzioni in un'espressione, devono essere precedute da @ c
 [atlas_geometry](atlas_geometry.md)|Returns the current atlas feature geometry
 [atlas_layerid](atlas_layerid.md)|Returns the current atlas coverage layer ID
 [atlas_layername](atlas_layername.md)|Returns the current atlas coverage layer name
-[atlas_pagename](atlas_pagename)|Returns the current atlas page name.md)|Returns the current atlas page name
+[atlas_pagename](atlas_pagename)|Returns the current atlas page name|Returns the current atlas page name
 [atlas_totalfeatures](atlas_totalfeatures.md)|Returns the total number of features in atlas
 [cluster_color](cluster_color.md)|Returns the color of symbols within a cluster, or NULL if symbols have mixed colors
 [cluster_size](cluster_size.md)|Returns the number of symbols contained within a cluster
@@ -61,7 +61,7 @@ Per utilizzare queste funzioni in un'espressione, devono essere precedute da @ c
 [project_folder](project_folder.md)|Returns the folder for current project
 [project_path](project_path.md)|Returns the full path (including file name) of current project
 [project_title](project_title.md)|Returns the title of current project
-[qgis_locale](qgis_locale.md)|Returns the current language of QGIS
+[qgis_locale](qgis_localemd)|Returns the current language of QGIS
 [qgis_os_name](qgis_os_name.md)|Returns the current Operating system name, eg ‘windows’, ‘linux’ or ‘osx’
 [qgis_platform](qgis_platform.md)|Returns QGIS platform, eg ‘desktop’ or ‘server’
 [qgis_release_name](qgis_release_name.md)|Returns current QGIS release name

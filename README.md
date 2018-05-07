@@ -8,7 +8,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 
 <img src="/img/calcolatore_campi1.png">
 
-## Indice gruppi di funzioni/espressioni (64/324)
+## Indice gruppi di funzioni/espressioni (64/347)
 
 - [ ] [Aggregates](/aggregates) (1/22)
 - [ ] [Arrays](/arrays) (0/20)
@@ -28,7 +28,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [x] [record e attributi](/record_e_attributi) (9/9)
 - [ ] [Stringhe di testo](/stringhe_di_testo) (0/22)
 - [ ] [Transformation](/transoformation) (0/4) ????
-- [ ] [Variabili](/variabili) (0/42)
+- [ ] [Variabili](/variabili) (0/65)
 - [ ] ...
 
 ---

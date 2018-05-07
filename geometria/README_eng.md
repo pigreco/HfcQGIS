@@ -2,18 +2,16 @@
 
 Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lunghezza**, **area**.
 
-A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
-
  Funzione  | Descrizione
 ----------:|:-----------
-|[\$area]($area.md)|Restituisce l'area della geometria corrente
-|[\$geometry]($geometry.md)|Restituisce la geometria dell'elemento attuale. Può essere usato per il processamento con altre funzioni
-|[\$length]($length.md)|Restituisce la lunghezza di una linestring
-|[\$perimeter]($perimeter.md)|Restituisce la lunghezza del perimetro della geometria corrente
-|[\$x]($x.md)|Restituisce la coordinata x della geometria corrente
-|[\$x_at]($x_at.md)|Recupera una coordinata x per la geometria dell'elemento corrente
-|[\$y]($y.md)|Restituisce la coordinata y della geometria corrente
-|[\$y_at]($y_at.md)|Recupera una coordinata y per la geometria dell'elemento corrente
+|[\$area]($area.md)|Returns the area size of the current feature
+|[\$geometry]($geometry.md)|Returns the geometry of the current feature (can be used for processing with other functions)
+|[\$length]($length.md)|Returns the length of the current line feature
+|[\$perimeter]($perimeter.md)|Returns the perimeter of the current polygon feature
+|[\$x]($x.md)|Returns the x coordinate of the current feature
+|[\$x_at]($x_at.md)|Returns the x coordinate of the nth node of the current feature’s geometry
+|[\$y]($y.md)|Returns the y coordinate of the current feature
+|[\$y_at]($y_at.md)|Returns the y coordinate of the nth node of the current feature’s geometry
 |[angle_at_vertex](angle_at_vertex.md)|Returns the bisector angle (average angle) to the geometry for a specified vertex on a linestring geometry. Angles are in degrees clockwise from north
 |[area](area.md)|Returns the area of a geometry polygon feature. Calculations are in the Spatial Reference System of this geometry
 |[azimuth](azimuth.md)|Returns the north-based azimuth as the angle in radians measured clockwise from the vertical on point_a to point_b
