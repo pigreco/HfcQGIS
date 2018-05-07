@@ -26,7 +26,7 @@ closest_point(_geometry 1, geometry 2_)
 
 ## osservazioni
 
-Utilizzando il _geometry generator_ per i temi:
+Utilizzando il _geometry generator_ per i temi (il layer strade è una unica feature):
 
 * `closest_point( geometry(get_feature('strade', 'reg',19)),$geometry)`
 
