@@ -9,7 +9,7 @@ altrimenti se non è stato impostato alcun ellissoide l'area calcolata sarà pla
 
 $area
 
-## Esempi
+## Esempiù
 
 Aggiungiamo un campo _area_mq_ e lo popoliamo con la funzione _$area_: 
 1. selezionare un layer vettoriale di tipo poligonale;
