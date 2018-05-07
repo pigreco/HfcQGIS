@@ -26,3 +26,5 @@ Funzioni geometriche:|
 [geomequals](geomequals.md) | Recupera il valore del campo obiettivo quando la funzione di origine è uguale alla funzione di destinazione nel livello di destinazione
 [geomoverlaps](geomoverlaps.md) | Recupera il valore del campo obiettivo quando la funzione sorgente si sovrappone alla funzione di destinazione nel livello di destinazione
 [geomcrosses](geomcrosses.md) | Recupera il valore del campo obiettivo quando la caratteristica sorgente attraversa la caratteristica obiettivo nel livello di destinazione
+
+<img src="/img/reference/gruppo_reference1.png">
