@@ -8,7 +8,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 
 <img src="/img/calcolatore_campi1.png">
 
-## Indice gruppi di funzioni/espressioni (76/351)
+## Indice gruppi di funzioni/espressioni (90/351)
 
 - [ ] [Aggregates](/aggregates) (1/22)
 - [ ] [Arrays](/arrays) (0/20)
@@ -19,7 +19,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [x] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
 - [ ] [Data e ora](/data_ora) (0/16)
 - [x] [Generale](/generale) (6/6)
-- [ ] [Geometria](/geometria) (21/97)
+- [ ] [Geometria](/geometria) (35/97)
 - [x] [Layer della mappa](/layer_della_mappa) (1/1)
 - [ ] [Maps](/maps) (0/8)
 - [ ] [Matematica](/matematica) (0/28)
@@ -69,7 +69,7 @@ La descrizione delle funzioni in italiano è stata realizzata dal gruppo di trad
 
 per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pena la distruzione del repository :trollface:
 
-Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
+~~Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)~~
 
 ## Donate
 

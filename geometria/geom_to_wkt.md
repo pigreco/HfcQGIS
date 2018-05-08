@@ -1,14 +1,20 @@
 ## Funzione `geom_to_wkt`
 
---
+Restituisce la rappresentazione Well-Known Text (WKT) della geometria senza metadati del SR
 
 ## Sintassi
 
---
+geom_to_wkt(_geometry_)
+
+## Argomenti
+
+* _geometry_ una geometria
 
 ## Esempi
 
-<img src="/img/geometria/xxx/geom_to_wkt1.png">
+* `geom_to_wkt( $geometry ) → POINT(6 50)`
+
+<img src="/img/geometria/geom_to_wkt/geom_to_wkt1.png">
 
 ## nota bene
 

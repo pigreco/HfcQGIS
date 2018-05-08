@@ -40,8 +40,8 @@ A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
 |[extrude](extrude.md)|Restituisce una versione estrusa della geometria (Multi-)Curve o (Multi-)Linestring in ingresso, con un'estensione specificata da x e y.|2.18
 |[flip_coordinates](flip_coordinates.md)|Returns a copy of the geometry with the x and y coordinates swapped|**>=3.2**
 |[geom_from_gml](geom_from_gml.md)|Returns a geometry created from a GML representation of geometry|2.18
-|[geom_from_wkt](geom_from_wkt.md)|Returns a geometry created from a well-known text (WKT) representation|2.18
-|[geom_to_wkt](geom_to_wkt.md)|Returns the well-known text (WKT) representation of the geometry without SRID metadata|2.18
+|[geom_from_wkt](geom_from_wkt.md)|Restituisce una geometria creata da una rappresentazione Well-Known Text (WKT)|2.18
+|[geom_to_wkt](geom_to_wkt.md)|Restituisce la rappresentazione Well-Known Text (WKT) della geometria senza metadati del SR|2.18
 |[geometry](geometry.md)|Returns a feature’s geometry|2.18
 |[geometry_n](geometry_n.md)|Returns the nth geometry from a geometry collection, or null if the input geometry is not a collection|2.18
 |[hausdorff_distance](hausdorff_distance.md)|Restituisce la distanza di Hausdorff tra due geometrie |**>=3.0**
