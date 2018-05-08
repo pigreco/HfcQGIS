@@ -33,7 +33,7 @@ A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
 |[difference](difference.md)|Restituisce una geometria che rappresenta la porzione della _geometry_a_ che non interseca la _geometry_b_|>=2.18
 |[disjoint](disjoint.md)|Controlla qualora una geometria non ne interseca spazialmente un'altra. Restituisce true (1) se le geometrie non condividono nessuno spazio comune|>=2.18
 |[distance](distance.md)|Restituisce la distanza minima (basata su riferimento spaziale) tra due geometrie in unità proiettate|>=2.18
-|[distance_to_vertex](distance_to_vertex.md)|Returns the distance along the geometry to a specified vertex|>=2.18
+|[distance_to_vertex](distance_to_vertex.md)|Restituisce la distanza lungo un geometria ad un vertice specificato|>=2.18
 |[end_point](end_point.md)|Returns the last node from a geometry|>=2.18
 |[extend](extend.md)| Estende l'inizio e la fine di una geometria di tipo linestring di una quantità specificata |**>=3.0**
 |[exterior_ring](exterior_ring.md)|Returns a line string representing the exterior ring of a polygon geometry, or null if the geometry is not a polygon|>=2.18
