@@ -24,4 +24,4 @@ distance(_geometry a, geometry b_)
 
 --
 
-<img src="/img/geometria/distance/distance1.png">
+<img src="/img/geometria/distance/distance2.png">

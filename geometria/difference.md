@@ -24,6 +24,7 @@ difference(_geometry_a, geometry_b_)
 ## osservazioni
 
 --
+
 Esempio di sopra:
 
-<img src="/img/geometria/difference/difference1.png">
+<img src="/img/geometria/difference/difference2.png">
