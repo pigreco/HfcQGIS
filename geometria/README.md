@@ -23,7 +23,7 @@ A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
 |[bounds_height](bounds_height.md)|Returns the height of the bounding box of a geometry. Calculations are in the Spatial Reference System of this geometry|2.18
 |[bounds_width](bounds_width.md)|Returns the width of the bounding box of a geometry. Calculations are in the Spatial Reference System of this geometry|2.18
 |[buffer](buffer.md)|Returns a geometry that represents all points whose distance from this geometry is less than or equal to distance. Calculations are in the Spatial Reference System of this geometry|2.18
-|[buffer_by_m](buffer_by_m.md)|Creates a buffer along a line geometry where the buffer diameter varies according to the m-values at the line vertices - |**>=3.0**
+|[buffer_by_m](buffer_by_m.md)|Creates a buffer along a line geometry where the buffer diameter varies according to the m-values at the line vertices - |**>=3.2**
 |[centroid](centroid.md)|Returns the geometric center of a geometry|2.18
 |[closest_point](closest_point.md)|Returns the point on a geometry that is closest to a second geometry|2.18
 |[combine](combine.md)|Returns the combination of two geometries|2.18
@@ -36,9 +36,9 @@ A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
 |[distance_to_vertex](distance_to_vertex.md)|Restituisce la distanza lungo un geometria ad un vertice specificato|2.18
 |[end_point](end_point.md)|Restituisce l'ultimo nodo di una geometria|2.18
 |[extend](extend.md)| Estende l'inizio e la fine di una geometria di tipo linestring di una quantità specificata |**>=3.0**
-|[exterior_ring](exterior_ring.md)|Returns a line string representing the exterior ring of a polygon geometry, or null if the geometry is not a polygon|2.18
-|[extrude](extrude.md)|Returns an extruded version of the input (Multi-) Curve or (Multi-)Linestring geometry with an extension specified by x and y|2.18
-|[flip_coordinates](flip_coordinates.md)|Returns a copy of the geometry with the x and y coordinates swapped|2.18
+|[exterior_ring](exterior_ring.md)|Restituisce una linestring che rappresenta l'anello esterno di una geometria poligonale. Se la geometria non è un poligono, il risultato sarà nullo.|2.18
+|[extrude](extrude.md)|Restituisce una versione estrusa della geometria (Multi-)Curve o (Multi-)Linestring in ingresso, con un'estensione specificata da x e y.|2.18
+|[flip_coordinates](flip_coordinates.md)|Returns a copy of the geometry with the x and y coordinates swapped|**>=3.2**
 |[geom_from_gml](geom_from_gml.md)|Returns a geometry created from a GML representation of geometry|2.18
 |[geom_from_wkt](geom_from_wkt.md)|Returns a geometry created from a well-known text (WKT) representation|2.18
 |[geom_to_wkt](geom_to_wkt.md)|Returns the well-known text (WKT) representation of the geometry without SRID metadata|2.18
@@ -90,12 +90,12 @@ A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
 |[smooth](smooth.md)|Smussa una geometria con l'aggiunta di ulteriori nodi che arrotondano gli angoli nella geometria |**>=3.0**
 |[start_point](start_point.md)|Returns the first node from a geometry|2.18
 |[sym_difference](sym_difference.md)|Returns a geometry that represents the portions of two geometries that do not intersect|2.18
-|[tapered_buffer](tapered_buffer.md)|Creates a buffer along a line geometry where the buffer diameter varies evenly over the length of the line - |**>=3.0**
+|[tapered_buffer](tapered_buffer.md)|Creates a buffer along a line geometry where the buffer diameter varies evenly over the length of the line - |**>=3.2**
 |[touches](touches.md)|Tests whether a geometry touches another. Returns 1 (true) if the geometries have at least one point in common, but their interiors do not intersect|2.18
 |[transform](transform.md)|Returns the geometry transformed from the source CRS to the destination CRS|2.18
 |[translate](translate.md)|Returns a translated version of a geometry. Calculations are in the Spatial Reference System of this geometry|2.18
 |[union](union.md)|Returns a geometry that represents the point set union of the geometries|2.18
-|[wedge_buffer](wedge_buffer.md)|Returns a wedge shaped buffer originating from a point geometry - |**>=3.0**
+|[wedge_buffer](wedge_buffer.md)|Returns a wedge shaped buffer originating from a point geometry - |**>=3.2**
 |[within](within.md)|Tests whether a geometry is within another. Returns 1 (true) if geometry a is completely inside geometry b|2.18
 |[x](x.md)|Returns the x coordinate of a point geometry, or the x coordinate of the centroid for a non-point geometry|2.18
 |[x_min](x_min.md)|Returns the minimum x coordinate of a geometry. Calculations are in the Spatial Reference System of this geometry|2.18
