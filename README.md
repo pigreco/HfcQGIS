@@ -10,8 +10,8 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 
 ## Indice gruppi di funzioni/espressioni (90/351)
 
-- [ ] [Aggregates](/aggregates) (1/22)
-- [ ] [Arrays](/arrays) (0/20)
+- [ ] [Aggregates](/aggregates) (1/22) - >= QGIS 2.16  
+- [ ] [Arrays](/arrays) (0/20) >= QGIS 3.0
 - [x] [Campi e valori](/campi_e_valori) (1/1)
 - [ ] [Colore](/colore) (0/15)
 - [x] [Condizioni](/condizioni) (4/4)
@@ -20,8 +20,8 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [ ] [Data e ora](/data_ora) (0/16)
 - [x] [Generale](/generale) (6/6)
 - [ ] [Geometria](/geometria) (35/97)
-- [x] [Layer della mappa](/layer_della_mappa) (1/1)
-- [ ] [Maps](/maps) (0/8)
+- [x] [Layer della mappa](/layer_della_mappa) (1/1) >= QGIS 3.0
+- [ ] [Maps](/maps) (0/8) >= QGIS 3.0
 - [ ] [Matematica](/matematica) (0/28)
 - [x] [Operatori](/operatori) (21/21)
 - [x] [Recente](/recente) (1/1)
@@ -29,7 +29,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [ ] [Reference](/reference) (0/21) Plugin refFunction
 - [ ] [Stringhe di testo](/stringhe_di_testo) (0/22)
 - [ ] [Transformation](/transoformation) (0/4) ????
-- [ ] [Variabili](/variabili) (0/65)
+- [ ] [Variabili](/variabili) (0/65) >= QGIS 2.12
 - [ ] ...
 
 ---
