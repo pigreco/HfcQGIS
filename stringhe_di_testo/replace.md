@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `replace`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/stringhe_di_testo/yyy/yyy1.png">
+<img src="/img/stringhe_di_testo/replace/replace1.png">
 
 ## nota bene
 

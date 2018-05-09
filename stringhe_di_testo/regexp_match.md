@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `regexp_match`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/stringhe_di_testo/yyy/yyy1.png">
+<img src="/img/stringhe_di_testo/regexp_match/regexp_match1.png">
 
 ## nota bene
 

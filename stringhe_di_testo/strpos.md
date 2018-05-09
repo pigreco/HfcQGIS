@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `strpos`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/stringhe_di_testo/yyy/yyy1.png">
+<img src="/img/stringhe_di_testo/strpos/strpos1.png">
 
 ## nota bene
 

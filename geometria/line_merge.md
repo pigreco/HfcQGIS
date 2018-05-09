@@ -1,4 +1,4 @@
-## Funzione `line_mergeReturn`
+## Funzione `line_merge`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/geometria/xxx/line_mergeReturn1.png">
+<img src="/img/geometria/line_merge/line_merge1.png">
 
 ## nota bene
 

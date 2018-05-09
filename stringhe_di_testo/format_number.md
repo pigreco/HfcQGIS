@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `format_number`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/stringhe_di_testo/yyy/yyy1.png">
+<img src="/img/stringhe_di_testo/format_number/format_number1.png">
 
 ## nota bene
 

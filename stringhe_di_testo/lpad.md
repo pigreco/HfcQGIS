@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `lpad`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/stringhe_di_testo/yyy/yyy1.png">
+<img src="/img/stringhe_di_testo/lpad/lpad1.png">
 
 ## nota bene
 
