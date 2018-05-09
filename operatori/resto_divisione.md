@@ -30,3 +30,19 @@ divisibile per un divisore.
 --
 
 <img src="/img/operatori/resto1.png">
+
+## Altri esempi
+
+Un esempio molto utile nel campo GIS riguarda l'etichettatura curve di livello: supponiamo di voler etichettare le curve di livello (con passo 50 m) e visualizzare solo le etichette con passo 200 m, l'espressione da usare è la seguente:
+
+* `CASE WHEN   ( "ELEV" % 200 )  = 0 THEN  "ELEV"  END`
+
+ecco il risultato:
+
+PRIMA:
+
+<img src="/img/operatori/resto2.png">
+
+DOPO:
+
+<img src="/img/operatori/resto3.png">
