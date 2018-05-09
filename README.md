@@ -8,8 +8,8 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 
 <img src="/img/calcolatore_campi1.png">
 
-## Indice gruppi di funzioni/espressioni (89/351)
 
+## Indice gruppi di funzioni/espressioni (89/351)
 - [ ] [Aggregates](/aggregates) (1/22) >= QGIS 2.16  
 - [ ] [Arrays](/arrays) (0/20) >= QGIS 3.0
 - [x] [Campi e valori](/campi_e_valori) (1/1)
@@ -17,7 +17,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [x] [Condizioni](/condizioni) (4/4)
 - [x] [Conversioni](/conversioni) (7/7)
 - [x] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
-- [ ] [Data e ora](/data_ora) (0/16)
+- [x] [Data e ora](/data_ora) (16/16)
 - [x] [Generale](/generale) (6/6)
 - [ ] [Geometria](/geometria) (35/97)
 - [x] [Layer della mappa](/layer_della_mappa) (1/1) >= QGIS 3.0
