@@ -1,19 +1,23 @@
 ## Funzione `$y`
 
---
+Restituisce la coordinata y della geometria corrente.
 
 ## Sintassi
 
---
+$y
 
 ## Esempi
 
-<img src="/img/geometria/xxx/$y1.png">
+* `$y → 12.2568971`
+
+<img src="/img/geometria/$y/$y1.png">
+
+<img src="/img/geometria/$y/$y2.png">
 
 ## nota bene
 
---
+La funzione $y restituisce la coordinata y della geometria corrente purchè sia un POINT altrimenti restituisce NULL (vedi screenshot)
 
 ## osservazioni
 
---
+Per ottenere le coordinate x o y occorre utilizzare una combinazione di funzioni es: y($geometry) che vale per qualunque tipologia di geometria (point, linestring, polygon)

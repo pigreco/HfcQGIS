@@ -6,7 +6,7 @@ Questo gruppo contiene funzioni e/o espressioni che agiscono sui record o attrib
 |:----------:|:-----------|
 |[\$currentfeature]($currentfeature.md)|Restituisce l'elemento corrente corrente da valutare. Questo può essere usato con la funzione 'attribute' per valutare i valori dell'attributo dall'elemento corrente|
 |[\$id]($id.md)|Restituisce l'id geometria della riga corrente|
-|[\$map]($map.md)|	Returns the id of the current map item if the map is being drawn in a composition, or “canvas” if the map is being drawn within the main QGIS window|
+|[\$map]($map.md)|Restituisce l'id della voce della mappa corrente se la mappa viene disegnata in una composizione, o "tela" se la mappa viene disegnata all'interno della finestra principale di QGIS|
 |[attribute](attribute.md)|Restituisce il valore di un attributo specificato da una geometria|
 |[get_feature](get_feature.md)|Restituisce la prima geometria di un vettore che corrisponde a un determinato valore di attributo|
 |[get_feature_by_id](get_feature_by_id.md)|	Restituisce l'id dell'elemento della riga corrente|

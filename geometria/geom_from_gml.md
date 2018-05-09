@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/geometria/xxx/geom_from_gml1.png">
+<img src="/img/geometria/geom_from_gml/geom_from_gml1.png">
 
 ## nota bene
 
