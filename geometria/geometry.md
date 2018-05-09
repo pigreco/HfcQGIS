@@ -27,4 +27,4 @@ geometry(_feature_)
 
 Usando il **Select by Expression**: selezionare le feature di un layer (quartieri) in funzione di altro layer (test):
 
-<img src="/img/geometria/geometry/geometry.png">
+<img src="/img/geometria/geometry/geometry2.png">
