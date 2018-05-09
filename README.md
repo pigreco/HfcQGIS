@@ -9,7 +9,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 <img src="/img/calcolatore_campi1.png">
 
 
-## Indice gruppi di funzioni/espressioni (89/351)
+## Indice gruppi di funzioni/espressioni (118/351)
 - [ ] [Aggregates](/aggregates) (1/22) >= QGIS 2.16  
 - [ ] [Arrays](/arrays) (0/20) >= QGIS 3.0
 - [x] [Campi e valori](/campi_e_valori) (1/1)
@@ -19,9 +19,9 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [x] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
 - [x] [Data e ora](/data_ora) (16/16)
 - [x] [Generale](/generale) (6/6)
-- [ ] [Geometria](/geometria) (35/97)
+- [ ] [Geometria](/geometria) (39/97)
 - [x] [Layer della mappa](/layer_della_mappa) (1/1) >= QGIS 3.0
-- [ ] [Maps](/maps) (0/8) >= QGIS 3.0
+- [x] [Maps](/maps) (8/8) >= QGIS 3.0
 - [ ] [Matematica](/matematica) (0/28)
 - [x] [Operatori](/operatori) (21/21)
 - [x] [Recente](/recente) (1/1)
@@ -35,7 +35,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 ## Cosa puoi fare
 
 - *contribuire*
-    - [finanziariamente](https://www.paypal.me/pigrecoinfinito);
+    - [finanziariamente*](https://www.paypal.me/pigrecoinfinito);
     - [condividendo e divulgando](https://www.facebook.com/);
 - *segnalare errori*
     - [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
@@ -48,6 +48,11 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - *lasciare un messaggio*
     - [scrivi un messaggio qui](https://github.com/pigreco/Help_in_linea_/issues/1)
 
+## Come puoi usare questo lavoro
+
+* direttamente da github;
+* tramite Bot
+* tramite eBook
 
 ## Traduzione in italiano
 
@@ -70,9 +75,12 @@ per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pen
 
 ~~Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)~~
 
+
 ## Donate
 
 :euro: [donate](https://www.paypal.me/pigrecoinfinito) :euro:
+
+\* il x % sarà donato a QGIS
 
 Repo costruito con:
 

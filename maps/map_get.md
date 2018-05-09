@@ -1,14 +1,21 @@
-## Funzione `yyy`
+## Funzione `map_get`
 
---
+Restituisce il valore di una mappa, passando la sua chiave.
 
 ## Sintassi
 
---
+map_get(_map, key_)
+
+## Argomenti
+
+* _map_ una mappa
+* _key_ chiave da cercare
 
 ## Esempi
 
-<img src="/img/maps/yyy/yyy1.png">
+* `map_get(map('1','one','2','two'),'2') → 'two'`
+
+<img src="/img/maps/map_get/map_get1.png">
 
 ## nota bene
 
