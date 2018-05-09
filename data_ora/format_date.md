@@ -25,6 +25,7 @@ yy|l'anno come un numero a due cifre (00-99)
 yyyy|l'anno come un numero a quattro cifre
 
 Queste espressioni possono essere usate per la parte time della stringa da formattare:
+
 Espressione|In uscita
 ----------:|---------
 h|l'ora senza lo zero iniziale (da 0 a 23 o da 1 a 12 se visualizzi AM/PM)
