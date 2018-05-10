@@ -23,3 +23,5 @@ map_avals(_map_)
 ## osservazioni
 
 --
+
+<img src="/img/maps/map_avals/map_avals2.png">

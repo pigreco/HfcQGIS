@@ -11,7 +11,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 
 ## Indice gruppi di funzioni/espressioni (118/351)
 - [ ] [Aggregates](/aggregates) (1/22) >= QGIS 2.16  
-- [ ] [Arrays](/arrays) (0/20) >= QGIS 3.0
+- [ ] [Arrays](/arrays) (0/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
 - [ ] [Colore](/colore) (0/15)
 - [x] [Condizioni](/condizioni) (4/4)
@@ -21,7 +21,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 - [x] [Generale](/generale) (6/6)
 - [ ] [Geometria](/geometria) (39/97)
 - [x] [Layer della mappa](/layer_della_mappa) (1/1) >= QGIS 3.0
-- [x] [Maps](/maps) (8/8) >= QGIS 3.0
+- [x] [Maps](/maps) (8/8) >= QGIS 3.0 (PostGIS)
 - [ ] [Matematica](/matematica) (0/28)
 - [x] [Operatori](/operatori) (21/21)
 - [x] [Recente](/recente) (1/1)

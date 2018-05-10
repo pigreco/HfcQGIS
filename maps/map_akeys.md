@@ -23,3 +23,9 @@ map_akeys(_map_)
 ## osservazioni
 
 --
+
+## Altri esempi
+
+
+
+<img src="/img/maps/map_akeys/map_akeys2.png">

@@ -24,3 +24,5 @@ map_get(_map, key_)
 ## osservazioni
 
 --
+
+<img src="/img/maps/map_get/map_get2.png">

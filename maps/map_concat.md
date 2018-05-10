@@ -23,3 +23,5 @@ map_concat(_map1, map2, …_)
 ## osservazioni
 
 --
+
+<img src="/img/maps/map_concat/map_concat2.png">
