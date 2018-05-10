@@ -2,7 +2,7 @@
 
 # Help funzioni/espressioni calcolatore di campi di QGIS 
 
-Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del calcolatore di campi.:star2:
+Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot. :star2:
 
 ## Introduzione al calcolatore di campi [qui](https://github.com/pigreco/Help_in_linea_/wiki/Introduzione)
 
@@ -11,7 +11,7 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 
 ## Indice gruppi di funzioni/espressioni (138/351)
 - [ ] [Aggregates](/aggregates) (1/22) >= QGIS 2.16  
-- [ ] [Arrays](/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
+- [x] [Arrays](/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
 - [ ] [Colore](/colore) (0/15)
 - [x] [Condizioni](/condizioni) (4/4)
