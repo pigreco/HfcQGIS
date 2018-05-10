@@ -1,4 +1,4 @@
----------------------------:no_entry: IN LAVORAZIONE :no_entry:---------------------------
+                                     ---------------------------:no_entry: IN LAVORAZIONE :no_entry:---------------------------
 
 # Help funzioni/espressioni calcolatore di campi di QGIS 
 
@@ -28,7 +28,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - [x] [Record e attributi](/record_e_attributi) (9/9)
 - [ ] [Reference](/reference) (0/21) Plugin refFunction
 - [ ] [Stringhe di testo](/stringhe_di_testo) (0/22)
-- [ ] [Transformation](/transformation) (0/4) ????
+- [ ] [Transformation](/transformation) (0/4) Plugin refFunction
 - [ ] [Variabili](/variabili) (0/65) >= QGIS 2.12
 
 ---
