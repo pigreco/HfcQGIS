@@ -9,9 +9,9 @@ Questa guida nasce per soddisfare le numerose richieste di aiuto sull'uso del ca
 <img src="/img/calcolatore_campi1.png">
 
 
-## Indice gruppi di funzioni/espressioni (118/351)
+## Indice gruppi di funzioni/espressioni (138/351)
 - [ ] [Aggregates](/aggregates) (1/22) >= QGIS 2.16  
-- [ ] [Arrays](/arrays) (0/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
+- [ ] [Arrays](/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
 - [ ] [Colore](/colore) (0/15)
 - [x] [Condizioni](/condizioni) (4/4)
