@@ -9,9 +9,9 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 |[array_cat](array_cat.md)|Restituisce un array contenente tutti gli arrays passati concatenati|
 |[array_contains](array_contains.md)|Restituisce true se un array contiene il valore specificato|
 |[array_distinct](array_distinct.md)|Restituisce un array contenente valori distinti dell'array dato|
-|[array_find](array_find.md)|Restituisce l'indice (0 per il primo elemento) di un valore all'interno di un array. Restiuisce -1 se il valore non viene trovato|
+|[array_find](array_find.md)|Restituisce l'indice di un valore all'interno di un array|
 |[array_first](array_first.md)|Restituisce il primo valore di un array|
-|[array_get](array_get.md)|Restituisce il valore ennesimo (0 per il primo elemento) di un array|
+|[array_get](array_get.md)|Restituisce il valore ennesimo di un array|
 |[array_insert](array_insert.md)|Restituisce un array con il valore passato aggiunto nella posizione indicata|
 |[array_intersect](array_intersect.md)|Restituisce vero se almeno un elemento dell'array1 esiste in array2|
 |[array_last](array_last.md)|Restituisce l'ultimo valore di un array|
