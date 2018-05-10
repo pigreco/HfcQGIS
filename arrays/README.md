@@ -4,26 +4,26 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 
 | Funzione  | Descrizione|
 |----------:|:-----------|
-|[array](array.md)|	Returns an array containing all the values passed as parameter|
-|[array_append](array_append,md)|	Returns an array with the given value added at the end|
-|[array_cat](array_cat.md)|	Returns an array containing all the given arrays concatenated|
-|[array_contains](array_contains.md)|	Returns true if an array contains the given value|
-|[array_distinct](array_distinct.md)|	Returns an array containing distinct values of the given array|
-|[array_find](array_find.md)|	Returns the index (0 for the first one) of a value within an array. Returns -1 if the value is not found.|
-|[array_first](array_first.md)|	Returns the first value of an array|
-|[array_get](array_get.md)|	Returns the Nth value (0 for the first one) of an array|
-|[array_insert](array_insert.md)|	Returns an array with the given value added at the given position|
-|[array_intersect](array_intersect.md)|	Returns true if any element of array_1 exists in array_2|
-|[array_last](array_last.md)|	Returns the last element of an array|
-|[array_length](array_length.md)|	Returns the number of elements of an array|
-|[array_prepend](array_prepend.md)|	Returns an array with the given value added at the beginning|
-|[array_remove_all](array_remove_all.md)|	Returns an array with all the entries of the given value removed|
-|[array_remove_at](array_remove_at.md)|	Returns an array with the given index removed|
-|[array_reverse](array_reverse.md)|	Returns the given array with array values in reversed order|
-|[array_slice](array_slice.md)|	Returns the values of the array from the start_pos argument up to and including the end_pos argument|
-|[array_to_string](array_to_string.md)|	Concatenates array elements into a string separated by a delimiter using and optional string for empty values.|
-|[regexp_matches](regexp_matches.md)|	Returns an array of all strings captured by capturing groups, in the order the groups themselves appear in the supplied regular expression| against a string|
-|[string_to_array](string_to_array.md)|	Splits string into an array using supplied delimiter and optional string for empty values|
+|[array](array.md)|Restituisce un array contenente tutti i valori passati come parametro|
+|[array_append](array_append,md)|Restituisce un array con il valore passato aggiunto alla fine|
+|[array_cat](array_cat.md)|Restituisce un array contenente tutti gli arrays passati concatenati|
+|[array_contains](array_contains.md)|Restituisce true se un array contiene il valore specificato|
+|[array_distinct](array_distinct.md)|Restituisce un array contenente valori distinti dell'array dato|
+|[array_find](array_find.md)|Restituisce l'indice (0 per il primo elemento) di un valore all'interno di un array. Restiuisce -1 se il valore non viene trovato|
+|[array_first](array_first.md)|Restituisce il primo valore di un array|
+|[array_get](array_get.md)|Restituisce il valore ennesimo (0 per il primo elemento) di un array|
+|[array_insert](array_insert.md)|Restituisce un array con il valore passato aggiunto nella posizione indicata|
+|[array_intersect](array_intersect.md)|Restituisce vero se almeno un elemento dell'array1 esiste in array2|
+|[array_last](array_last.md)|Restituisce l'ultimo valore di un array|
+|[array_length](array_length.md)|Restituisce il numero di elementi di un array|
+|[array_prepend](array_prepend.md)|Restituisce un array con il valore dato aggiunto all'inizio|
+|[array_remove_all](array_remove_all.md)|Restituisce un array con tutti gli elementi del valore passato rimossi|
+|[array_remove_at](array_remove_at.md)|Restituisce un array con l'indice passato rimosso|
+|[array_reverse](array_reverse.md)|Restituisce l'array dato con valori dell'array in ordine inverso|
+|[array_slice](array_slice.md)|Restituisce una porzione dell'array|
+|[array_to_string](array_to_string.md)|Concatena gli elementi di un array in una stringa separata da un delimitatore usando una stringa opzionale per valori mancanti|
+|[regexp_matches](regexp_matches.md)|Restituisce un array di tutte le stringhe catturate dai gruppo, nell'ordine che i gruppi stessi compaiono con l'espressione regolare fornita con una stringa|
+|[string_to_array](string_to_array.md)|Divide la stringa in un array usando il delimitatore fornito e la stringa opzionale per valori mancanti|
 
 
 <img src="/img/arrays/gruppo_arrays1.png">
