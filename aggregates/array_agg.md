@@ -16,7 +16,7 @@ array_agg(_expression, group_by, filter_)
 
 * `array_agg( "DEN_PCM" ,group_by:= "COD_REG" ) → lista di valori del "DEN_PCM", ragguppata per il campo "COD_REG"`
 
-<img src="/img/aggregates/aggragate/array_agg1.png">
+<img src="/img/aggregates/array_agg/array_agg1.png">
 
 ## nota bene
 

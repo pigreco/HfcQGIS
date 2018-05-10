@@ -16,7 +16,7 @@ collect(_expression, group_by, filter_)
 
 * `collect( $geometry ) → geometria a parti multiple delle geometrie aggregate`
 
-<img src="/img/aggregates/collect/collect2.png">
+<img src="/img/aggregates/collect/collect1.png">
 
 ## nota bene
 
@@ -26,4 +26,6 @@ collect(_expression, group_by, filter_)
 
 --
 
-<img src="/img/aggregates/collect/collect1.png">
+<img src="/img/aggregates/collect/collect2.png">
+
+<img src="/img/aggregates/collect/collect3.png">
