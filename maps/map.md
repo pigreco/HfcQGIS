@@ -27,7 +27,7 @@ map(_key1, value1, key2, value2, , …_)
 Definisco una _map_ con:
 
 * chiave **Area_Ha**  -- Area in Ettari
-* valore **$area/100000**
+* valore **$area/10000**
 * chiave **Perimetro_km**  -- Perimetro in km
 * valore **$perimeter/1000**
 
