@@ -1,14 +1,20 @@
-## Funzione `yyy`
+## Funzione `asin`
 
---
+Restituisce l'arcoseno del valore in radianti.
 
 ## Sintassi
 
---
+asin(_value_)
+
+## Argomenti
+
+* _value_ seno di un angolo in radianti
 
 ## Esempi
 
-<img src="/img/matematica/yyy/yyy1.png">
+* `asin(1.0) → 1.5707963267949`
+
+<img src="/img/matematica/asin/asin1.png">
 
 ## nota bene
 

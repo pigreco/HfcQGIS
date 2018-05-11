@@ -1,14 +1,20 @@
-## Funzione `yyy`
+## Funzione `abs`
 
---
+Restituisce il valore assoluto di un numero.
 
 ## Sintassi
 
---
+abs(_value_)
 
-## Esempi
+## Argomenti
 
-<img src="/img/matematica/yyy/yyy1.png">
+_value_ un numero
+
+##Esempi 
+
+* `abs(-2) → 2`
+
+<img src="/img/matematica/abs/abs1.png">
 
 ## nota bene
 
