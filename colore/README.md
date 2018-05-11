@@ -18,6 +18,6 @@ Questo gruppo contiene le funzioni per manipolare i colori
 |[lighter](lighter.md)|Restituisce una stringa di colore più chiaro (o più scuro)|
 |[project_color](project_color.md)|Restituisce un colore dallo schema colore del progetto.|
 |[ramp_color](ramp_color.md)|Restituisce una stringa rappresentante un colore ottenuto da una scala colore|
-|[set_color_part](set_color_part.md)|Imposta uno specifico componente colore per un stringa colore, es. la componente rosso o alpha.|
+|[set_color_part](set_color_part.md)|Imposta uno specifico componente colore per un stringa colore|
 
 <img src="/img/colore/gruppo_colore1.png">

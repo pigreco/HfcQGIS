@@ -9,11 +9,11 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 <img src="/img/calcolatore_campi1.png">
 
 
-## Indice gruppi di funzioni/espressioni (160/351)
+## Indice gruppi di funzioni/espressioni (175/351)
 - [x] [Aggregates](/aggregates) (22/22) >= QGIS 2.16  
 - [x] [Arrays](/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
-- [ ] [Colore](/colore) (0/15)
+- [x] [Colore](/colore) (15/15)
 - [x] [Condizioni](/condizioni) (4/4)
 - [x] [Conversioni](/conversioni) (7/7)
 - [x] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
