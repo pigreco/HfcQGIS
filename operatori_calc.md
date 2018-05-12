@@ -1,4 +1,4 @@
-L'interfaccia del calcolatore rende disponibili gli operatori più usati:
+L'interfaccia del calcolatore rende immediatamente disponibili alcuni operatori:
 
 <img src="/img/operatori_calc1.png">
 
@@ -18,23 +18,23 @@ L'interfaccia del calcolatore rende disponibili gli operatori più usati:
 
 3. differenza:
     1. differenza tra numeri 250 -200;
-    2. differenza tra campi
-    3. differenza tra espressioni;
+    2. differenza tra campi "field1"-"field2"
+    3. differenza tra espressioni length("field1") - length("field2");
 
 4. divisione:
-    1. divisione tra numeri;
-    2. divisione tra campi;
-    3. divisione tra espressioni;
+    1. divisione tra numeri 125/5;
+    2. divisione tra campi "field1"/"field2";
+    3. divisione tra espressioni $area/$perimeter;
 
 5. moltiplicazione:
-    1. moltiplicazione tra numeri;
-    2. moltiplicazione tra campi;
-    3. moltiplicazione tra espressioni;
+    1. moltiplicazione tra numeri 12*22;
+    2. moltiplicazione tra campi "field1"*"field2";
+    3. moltiplicazione tra espressioni $perimeter*length($area);
 
 6. potenza:
-    1. potenza tra numeri;
-    2. potenza tra campi;
-    3. potenza tra espressioni;
+    1. potenza tra numeri 10^2;
+    2. potenza tra campi "field1"^"field2";
+    3. potenza tra espressioni $area^length($area);
 
 7. unione di stringhe:
     1. unione di numeri (che trasforma in stringhe) 12 || 24 → '1224';
@@ -52,6 +52,6 @@ L'interfaccia del calcolatore rende disponibili gli operatori più usati:
     1. il calcolatore indica se una parentesi è rimasta chiusa;
 
 10. nuova riga:
-    1. aggiunge una nuova riga:  (12 || 24 ) ||'\n' ||( '12' || '24' ) → stampera '1224' su 1224' in due righe;
+    1. aggiunge una nuova riga:  (12 || 24 ) ||'\n' ||( '12' || '24' ) → stamperà '1224' su 1224' in due righe;
     2. molto utile per le etichette su due o più righe;
 
