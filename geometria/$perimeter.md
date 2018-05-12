@@ -14,7 +14,7 @@ $perimeter → 2545897.26
 
 ## nota bene
 
---
+Si utilizza SOLO per i poligoni, nel caso di feature lineari $length 
 
 ## osservazioni
 

@@ -1,6 +1,6 @@
 ## Come aggiungere colonna con area [mq]
 
-Faccioamo un esempio, geopackage con vettore poligonale:
+Facciamo un esempio, geopackage con vettore poligonale:
 
 <img src="/img/esempi_uso/add_col_area/add_col_a1.png">
 
