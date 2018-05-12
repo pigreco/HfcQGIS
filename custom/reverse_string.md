@@ -4,7 +4,7 @@ Questa funzione ritorna il valore rovesciato di un testo
 
 ## Esempio
  
-reverse_string('Pigrecoinfinito) - > 'otinifniocergiP' 
+* `reverse_string('Pigrecoinfinito) - > 'otinifniocergiP' `
 
 <img src="/img/custom/reverse_string1.png">
 

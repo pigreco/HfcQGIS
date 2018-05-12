@@ -4,8 +4,8 @@ Calcola la somma dei due parametri valore1 e valore2.
 
 ## Esempio di utilizzo: 
 
-my_sum(5, 8) -> 13 
-my_sum("fiel1", "field2") -> 42 
+* `my_sum(5, 8) -> 13 `
+* `my_sum("fiel1", "field2") -> 42 `
 
 <img src="/img/custom/my_sum1.png">
 

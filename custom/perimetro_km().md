@@ -4,7 +4,7 @@ Questa funzione ritorna il valore del perimetro della geometria in km
 
 ## Esempio
 
-perimetro_km() - > 25 
+* `perimetro_km() - > 25 `
 
 <img src="/img/custom/perimetro_km()1.png">
 
