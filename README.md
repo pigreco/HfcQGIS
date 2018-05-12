@@ -1,6 +1,6 @@
             ---------------------------:no_entry: IN LAVORAZIONE :no_entry:---------------------------
 
-# Help funzioni/espressioni calcolatore di campi di QGIS 
+# Help funzioni/espressioni calcolatore di campi di QGIS (HfcQGIS)
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot. :star2:
 
@@ -9,7 +9,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 <img src="/img/calcolatore_campi1.png">
 
 
-## Indice gruppi di funzioni/espressioni (189/355)
+## Indice gruppi di funzioni/espressioni (195/355)
 - [x] [Aggregates](/aggregates) (22/22) >= QGIS 2.16  
 - [x] [Arrays](/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
 - [x] [Campi e valori](/campi_e_valori) (1/1)
@@ -20,7 +20,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - [x] [Custom](/custom) (4/4) funzioni personalizzate
 - [x] [Data e ora](/data_ora) (16/16)
 - [x] [Generale](/generale) (6/6)
-- [ ] [Geometria](/geometria) (49/97)
+- [ ] [Geometria](/geometria) (55/97)
 - [x] [Layer della mappa](/layer_della_mappa) (1/1) >= QGIS 3.0
 - [x] [Maps](/maps) (8/8) >= QGIS 3.0 (PostGIS)
 - [ ] [Matematica](/matematica) (0/28)
