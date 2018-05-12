@@ -32,6 +32,9 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - [ ] [Variabili](/variabili) (0/65) >= QGIS 2.12
 
 ---
+[Esempi d'uso](/esempi_uso) - esempi dettagliati sull'uso delle funzioni
+
+---
 ## Cosa puoi fare
 
 - *contribuire*
@@ -83,6 +86,13 @@ per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pen
 :euro: [donate](https://www.paypal.me/pigrecoinfinito) :euro:
 
 \* il x % sarà donato a QGIS
+
+## Autori
+
+* [Salvatore Fiandaca](https://twitter.com/totofiandaca?lang=it) (aka _Totò_)
+    * Ideatore e ...
+* [Andrea Borruso](https://twitter.com/aborruso?lang=it) (aka _WikiAndy_)
+    * Supporto tecnico GitHub e Markdown e ...
 
 Repo costruito con:
 
