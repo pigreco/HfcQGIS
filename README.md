@@ -33,7 +33,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - [ ] [Variabili](/variabili) (0/65) >= QGIS 2.12
 
 ---
-* [Concetti base](conceti_base.md) Concetti base sul calcolatore di campi - IN EVOLUZIONE
+* [Concetti base](/conceti_base.md) Concetti base sul calcolatore di campi - IN EVOLUZIONE
 * [Introduzione](/intro_interf.md) Introduzione all'interfaccia calcolatore di campi
 * [Esempi d'uso](/esempi_uso) - Esempi dettagliati sull'uso delle funzioni - IN EVOLUZIONE
 * [Operatori](/operatori_calc.md) - Operatori presenti nell'interfaccia del calcolatore
