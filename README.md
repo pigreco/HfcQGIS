@@ -17,7 +17,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - [x] [Condizioni](/condizioni) (4/4)
 - [x] [Conversioni](/conversioni) (7/7)
 - [x] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
-- [x] [Custom](/Custom) (3/3)
+- [x] [Custom](/custom) (3/3)
 - [x] [Data e ora](/data_ora) (16/16)
 - [x] [Generale](/generale) (6/6)
 - [ ] [Geometria](/geometria) (49/97)
