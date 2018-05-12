@@ -68,6 +68,8 @@ La descrizione delle funzioni in italiano è stata realizzata dal gruppo di trad
 
 * [Pigrecoinfinito - mio Blog](https://pigrecoinfinito.wordpress.com/)
 
+* [GeoGebra](https://www.geogebra.org/?lang=it)
+
 
 ## Licenze
 
