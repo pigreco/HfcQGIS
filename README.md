@@ -12,27 +12,27 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 
 ## Indice gruppi di funzioni/espressioni (204/355)
-- [x] [Aggregates](/aggregates) (22/22) >= QGIS 2.16  
-- [x] [Arrays](/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
-- [x] [Campi e valori](/campi_e_valori) (1/1)
-- [x] [Colore](/colore) (15/15)
-- [x] [Condizioni](/condizioni) (4/4)
-- [x] [Conversioni](/conversioni) (7/7)
-- [x] [Corrispondenza fuzzy](/corrispondenza_fuzzy) (4/4)
-- [x] [Custom](/custom) (4/4) funzioni personalizzate
-- [x] [Data e ora](/data_ora) (16/16)
-- [x] [Generale](/generale) (6/6)
-- [ ] [Geometria](/geometria) (64/97)
-- [x] [Layer della mappa](/layer_della_mappa) (1/1) >= QGIS 3.0
-- [x] [Maps](/maps) (8/8) >= QGIS 3.0 (PostGIS)
-- [ ] [Matematica](/matematica) (0/28)
-- [x] [Operatori](/operatori) (21/21)
-- [x] [Recente](/recente) (1/1)
-- [x] [Record e attributi](/record_e_attributi) (9/9)
-- [ ] [Reference](/reference) (0/21) Plugin refFunction
-- [ ] [Stringhe di testo](/stringhe_di_testo) (0/22)
-- [ ] [Transformation](/transformation) (0/4) Plugin refFunction
-- [ ] [Variabili](/variabili) (0/65) >= QGIS 2.12
+- [x] [Aggregates](/gr_funzioni/aggregates) (22/22) >= QGIS 2.16  
+- [x] [Arrays](/gr_funzioni/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
+- [x] [Campi e valori](/gr_funzioni/campi_e_valori) (1/1)
+- [x] [Colore](/gr_funzioni/colore) (15/15)
+- [x] [Condizioni](/gr_funzioni/condizioni) (4/4)
+- [x] [Conversioni](/gr_funzioni/conversioni) (7/7)
+- [x] [Corrispondenza fuzzy](/gr_funzioni/corrispondenza_fuzzy) (4/4)
+- [x] [Custom](/gr_funzioni/custom) (4/4) funzioni personalizzate
+- [x] [Data e ora](/gr_funzioni/data_ora) (16/16)
+- [x] [Generale](/gr_funzioni/generale) (6/6)
+- [ ] [Geometria](/gr_funzioni/geometria) (64/97)
+- [x] [Layer della mappa](/gr_funzioni/layer_della_mappa) (1/1) >= QGIS 3.0
+- [x] [Maps](/gr_funzioni/maps) (8/8) >= QGIS 3.0 (PostGIS)
+- [ ] [Matematica](/gr_funzioni/matematica) (0/28)
+- [x] [Operatori](/gr_funzioni/operatori) (21/21)
+- [x] [Recente](/gr_funzioni/recente) (1/1)
+- [x] [Record e attributi](/gr_funzioni/record_e_attributi) (9/9)
+- [ ] [Reference](/gr_funzioni/reference) (0/21) Plugin refFunction
+- [ ] [Stringhe di testo](/gr_funzioni/stringhe_di_testo) (0/22)
+- [ ] [Transformation](/gr_funzioni/transformation) (0/4) Plugin refFunction
+- [ ] [Variabili](/gr_funzioni/variabili) (0/65) >= QGIS 2.12
 
 ---
 * [Concetti base](/concetti_base.md) Concetti base sul calcolatore di campi - IN EVOLUZIONE
