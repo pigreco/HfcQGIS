@@ -1,6 +1,6 @@
             ---------------------------:no_entry: IN LAVORAZIONE :no_entry:---------------------------
 
-<img src="/img/logo_HfcQGIS.png">
+<img src="/img/logo_HfcQGIS2.png">
 
 # Help funzioni/espressioni calcolatore di campi di QGIS (HfcQGIS)
 
