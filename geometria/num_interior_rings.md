@@ -4,7 +4,7 @@ Restituisce il numero di anelli interni in un poligono o in una raccolta di geom
 
 ## Sintassi
 
-um_interior_rings(_geometry_) 
+num_interior_rings(_geometry_) 
 
 ## Argomenti
 

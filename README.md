@@ -1,5 +1,7 @@
             ---------------------------:no_entry: IN LAVORAZIONE :no_entry:---------------------------
 
+<img src="/img/logo_HfcQGIS.png">
+
 # Help funzioni/espressioni calcolatore di campi di QGIS (HfcQGIS)
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot. :star2:
@@ -57,13 +59,14 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 ## Come puoi usare questo lavoro
 
-* direttamente da github;
-* tramite Bot
-* tramite eBook
+* Github;
+* Bot Telegram;
+* eBook;
+* Plugin?
 
 ## Traduzione in italiano
 
-La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da `Stefano Campus`
+La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da [Stefano Campus](https://twitter.com/skampus1967?lang=it)
 
 <img src="/img/traduttori.png">
 
@@ -91,12 +94,12 @@ per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pen
 
 \* il x % sarà donato a QGIS
 
-## Autori
+## Autori `HfcQGIS`
 
 * [Salvatore Fiandaca](https://twitter.com/totofiandaca?lang=it) (aka _Totò_)
-    * Ideatore e ...
+    * Ideatore e sviluppatore ...
 * [Andrea Borruso](https://twitter.com/aborruso?lang=it) (aka _WikiAndy_)
-    * Supporto tecnico GitHub e Markdown e ...
+    * Supporto tecnico GitHub, VScode e Markdown e ...
 
 Repo costruito con:
 
