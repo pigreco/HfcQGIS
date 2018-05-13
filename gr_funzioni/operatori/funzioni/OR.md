@@ -2,12 +2,6 @@
 
 Restituisce 1 quando la condizione a oppure b è vera.
 
-## Sintassi
-
---
-
-## Argomenti
---
 ## Esempi
 ```
 * 4 = 2+2 OR 1 = 1 → 1

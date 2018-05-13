@@ -2,12 +2,6 @@
 
 Restituisce 1 se il primo parametro soddisfa il modello fornito. Funziona anche con i numeri.
 
-## Sintassi
-
---
-
-## Argomenti
---
 ## Esempi
 ```
 * 'A' LIKE 'A' → 1

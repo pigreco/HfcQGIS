@@ -2,12 +2,6 @@
 
 Divisione di due valori.
 
-## Sintassi
-
---
-
-## Argomenti
---
 ## Esempi
 ```
 * 5 / 4 → 1.25

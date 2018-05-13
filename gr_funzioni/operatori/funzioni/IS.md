@@ -2,12 +2,6 @@
 
 Restituisce 1 se _a_ è uguale a _b_.
 
-## Sintassi
-
---
-
-## Argomenti
---
 ## Esempi
 ```
 * 'A' IS 'A' → 1

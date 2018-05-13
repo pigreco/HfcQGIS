@@ -2,12 +2,6 @@
 
 Confronta due valori e pone a 1 se essi sono uguali.
 
-## Sintassi
-
---
-
-## Argomenti
---
 ## Esempi
 ```
 * 5 = 4 → 0

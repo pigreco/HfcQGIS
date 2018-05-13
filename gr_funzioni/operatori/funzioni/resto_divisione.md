@@ -12,12 +12,6 @@ Sottraendo a 17 il resto di 1 si ottiene 16, numero divisibile per due (la cui m
 Il resto di una divisione denota la quantità da sottrarre a un dividendo al fine di renderlo
 divisibile per un divisore.
 
-## Sintassi
-
---
-
-## Argomenti
---
 ## Esempi
 ```
 * 5 % 4 → 1

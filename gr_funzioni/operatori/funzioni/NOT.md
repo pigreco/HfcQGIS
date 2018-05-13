@@ -2,12 +2,6 @@
 
 Nega una condizione.
 
-## Sintassi
-
---
-
-## Argomenti
---
 ## Esempi
 ```
 NOT 1 → 0

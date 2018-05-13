@@ -2,12 +2,6 @@
 
 Esegue un'espressione regolare su di una stringa.
 
-## Sintassi
-
---
-
-## Argomenti
---
 ## Esempi
 ```
 * 'hello' ~ 'll' → 1

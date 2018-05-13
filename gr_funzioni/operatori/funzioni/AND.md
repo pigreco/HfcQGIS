@@ -2,12 +2,6 @@
 
 Restituisce 1 quando le condizioni a e b sono vere.
 
-## Sintassi
-
---
-
-## Argomenti
---
 ## Esempi
 ```
 * TRUE AND TRUE → 1
