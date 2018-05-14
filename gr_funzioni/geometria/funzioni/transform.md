@@ -26,4 +26,4 @@ transform(_geomometry, source_auth_id, dest_auth_id_)
 
 --
 
-<img src="/img/geometria/transform/transform1.png">
+<img src="/img/geometria/transform/transform2.png">
