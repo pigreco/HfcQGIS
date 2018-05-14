@@ -4,9 +4,16 @@ Restituisce un punto proiettato da un punto di partenza usando una distanza e un
 
 ## Sintassi
 
---
+project(_point, distance, bearing_)
+## Argomenti
+
+* _point_ punto di partenza
+* _distance_ distanza dal progetto
+* _bearing_ direzione di immersione in radianti in senso orario, dove 0 corrisponde al nord
 
 ## Esempi
+
+* `project(make_point(1, 2), 3, radians(270)) → Point(-2, 2)`
 
 <img src="/img/geometria/project/project1.png">
 
@@ -16,6 +23,6 @@ Restituisce un punto proiettato da un punto di partenza usando una distanza e un
 
 ## osservazioni
 
-Gli angoli sono presi partendo dal Nord in senso orario.
+--
 
 <img src="/img/geometria/project/project1.gif">
