@@ -1,14 +1,20 @@
 ## Funzione `reverse`
 
---
+Inverte la direzione di una linestring invertendo l'ordine dei sui vertici
 
 ## Sintassi
 
---
+everse(_geometry_)
+
+## Argomenti
+
+* _geometry_ una geometria
 
 ## Esempi
 
-<img src="/img/geometria/xxx/reverse1.png">
+* `geom_to_wkt(reverse(geom_from_wkt('LINESTRING(0 0, 1 1, 2 2)'))) → 'LINESTRING(2 2, 1 1, 0 0)'`
+
+<img src="/img/geometria/reverse/reverse1.png">
 
 ## nota bene
 
@@ -17,3 +23,5 @@
 ## osservazioni
 
 --
+
+<img src="/img/geometria/reverse/reverse2.png">

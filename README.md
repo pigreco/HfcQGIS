@@ -6,7 +6,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot. :star2:
 
-## Indice gruppi di funzioni/espressioni (204/355)
+## Indice gruppi di funzioni/espressioni (211/355)
 - [x] [Aggregates](/gr_funzioni/aggregates) (22/22) >= QGIS 2.16  
 - [x] [Arrays](/gr_funzioni/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
 - [x] [Campi e valori](/gr_funzioni/campi_e_valori) (1/1)
@@ -17,7 +17,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - [x] [Custom](/gr_funzioni/custom) (4/4) funzioni personalizzate
 - [x] [Data e ora](/gr_funzioni/data_ora) (16/16)
 - [x] [Generale](/gr_funzioni/generale) (6/6)
-- [ ] [Geometria](/gr_funzioni/geometria) (64/97)
+- [ ] [Geometria](/gr_funzioni/geometria) (71/97)
 - [x] [Layer della mappa](/gr_funzioni/layer_della_mappa) (1/1) >= QGIS 3.0
 - [x] [Maps](/gr_funzioni/maps) (8/8) >= QGIS 3.0 (PostGIS)
 - [ ] [Matematica](/gr_funzioni/matematica) (0/28)
@@ -29,14 +29,14 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - [ ] [Transformation](/gr_funzioni/transformation) (0/4) Plugin refFunction
 - [ ] [Variabili](/gr_funzioni/variabili) (0/65) >= QGIS 2.12
 
-## Introduzione al calcolatore di campi [qui](/intro_interf.md)
+## Calcolatore di campi
 
 <img src="/img/calcolatore_campi1.png">
 
 * [Concetti base](/concetti_base.md) Concetti base sul calcolatore di campi - IN EVOLUZIONE
 * [Introduzione](/intro_interf.md) Introduzione all'interfaccia calcolatore di campi
-* [Esempi d'uso](/esempi_uso) - Esempi dettagliati sull'uso delle funzioni - IN EVOLUZIONE
 * [Operatori](/operatori_calc.md) - Operatori presenti nell'interfaccia del calcolatore
+* [Esempi d'uso](/esempi_uso) - Esempi dettagliati sull'uso delle funzioni - IN EVOLUZIONE
 
 ---
 ## Cosa puoi fare
