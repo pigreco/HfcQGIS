@@ -58,9 +58,9 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 ## Come puoi usare questo lavoro
 
 * Github;
-* Bot Telegram;
-* eBook;
-* Plugin?
+* Bot Telegram (ma chi lo userebbe?);
+* eBook (ma come si fa?);
+* Plugin (boh?)
 
 ## Traduzione in italiano
 
