@@ -19,3 +19,7 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 ripere gli stessi passi per la coord_y e usare la funzione [\$y](/gr_funzioni/geometria/funzioni/$y.md):
 
 <img src="/img/esempi_uso/add_coord_xy/add_coord3.png">
+
+ecco evidenziate le due colonne con le coordinate:
+
+<img src="/img/esempi_uso/add_coord_xy/add_coord4.png">
