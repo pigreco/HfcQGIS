@@ -1,5 +1,5 @@
 ## Gruppo `Geometria`
-[Manuale QGIS](https://docs.qgis.org/testing/en/docs/user_manual/working_with_vector/expression.html#geometry-functions)
+[Manuale QGIS - in Inglese!](https://docs.qgis.org/testing/en/docs/user_manual/working_with_vector/expression.html#geometry-functions)
 
 Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lunghezza**, **area**.
 
