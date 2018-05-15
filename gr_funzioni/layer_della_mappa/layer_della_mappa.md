@@ -4,7 +4,7 @@ Questo gruppo contiene tutti i ***layer*** caricati nel progetto e presenti nel 
 
 ## Osservazione
 
-Utile da utilizzare assieme alla funzione `get_feature()`
+Utile per la funzione [get_feature()](gr_funzioni/record_e_attributi/funzioni/get_feature.md)
 
 <img src="/img/layer_della_mappa/layer_della_mappa1.png">
 
