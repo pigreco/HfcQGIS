@@ -23,3 +23,5 @@ ripere gli stessi passi per la coord_y e usare la funzione [\$y](/gr_funzioni/ge
 ecco evidenziate le due colonne con le coordinate:
 
 <img src="/img/esempi_uso/add_coord_xy/add_coord4.png">
+
+il geopackage è scaricabile [qui](dati_esempi.gpkg)

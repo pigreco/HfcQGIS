@@ -24,3 +24,5 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 <img src="/img/esempi_uso/add_col_area/add_col_a4.png">
 
 verrà aggiunta la colonna _area_ e popolata con la funzione [\$area](/gr_funzioni/geometria/funzioni/$area.md)
+
+il geopackage è scaricabile [qui](dati_esempi.gpkg)
