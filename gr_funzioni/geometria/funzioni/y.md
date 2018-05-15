@@ -1,14 +1,21 @@
 ## Funzione `y`
 
---
+Restituisce la coordinata y minima di una geometria puntuale, o la coordinata y del centroide di una geometria non puntuale.
 
 ## Sintassi
 
---
+y(_geometry_)
+
+## Argomenti
+
+* _geometry_ una geometria
 
 ## Esempi
 
-<img src="/img/geometria/xxx/y1.png">
+* `y( geom_from_wkt( 'POINT(2 5)' ) ) → 5`
+* `y( $geometry ) → coordinata y del centroide dell'elemento corrente`
+
+<img src="/img/geometria/y/y1.png">
 
 ## nota bene
 
@@ -17,3 +24,5 @@
 ## osservazioni
 
 --
+
+<img src="/img/geometria/y/y2.png">
