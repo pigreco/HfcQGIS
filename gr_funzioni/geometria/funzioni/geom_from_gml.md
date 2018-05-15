@@ -12,7 +12,7 @@ geom_from_gml(gml)
 
 ## Esempi
 
-* `geom_from_gml( '<gml:Point><gml:coordinates>1,1</gml:coordinates></gml:Point>' ) → <geometria: Point>`
+* `geom_to_wkt(geom_from_gml('<gml:LineString srsName="EPSG:4326"><gml:coordinates>4,4 5,5 6,6</gml:coordinates></gml:LineString>') )  → 'LineString (4 4, 5 5, 6 6)'`
 
 <img src="/img/geometria/geom_from_gml/geom_from_gml1.png">
 
