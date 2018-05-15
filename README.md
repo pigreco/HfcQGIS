@@ -6,7 +6,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot. :star2:
 
-## Indice gruppi di funzioni/espressioni (236/376)
+## Indice gruppi di funzioni/espressioni (239/376)
 - [x] [Aggregates](/gr_funzioni/aggregates) (22/22) >= QGIS 2.16  
 - [x] [Arrays](/gr_funzioni/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
 - [x] [Campi e valori](/gr_funzioni/campi_e_valori) (1/1)
@@ -20,7 +20,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - [x] [Geometria](/gr_funzioni/geometria) (97/97)
 - [x] [Layer della mappa](/gr_funzioni/layer_della_mappa) (1/1) >= QGIS 3.0
 - [x] [Maps](/gr_funzioni/maps) (8/8) >= QGIS 3.0 (PostGIS)
-- [ ] [Matematica](/gr_funzioni/matematica) (0/28)
+- [ ] [Matematica](/gr_funzioni/matematica) (3/28)
 - [x] [Operatori](/gr_funzioni/operatori) (21/21)
 - [x] [Recente](/gr_funzioni/recente) (1/1)
 - [x] [Record e attributi](/gr_funzioni/record_e_attributi) (9/9)
