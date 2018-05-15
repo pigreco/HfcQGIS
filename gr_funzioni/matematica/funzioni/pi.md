@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `pi`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/matematica/yyy/yyy1.png">
+<img src="/img/matematica/pi/pi1.png">
 
 ## nota bene
 

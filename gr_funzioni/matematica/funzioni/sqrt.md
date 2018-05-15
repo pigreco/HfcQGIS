@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `sqrt`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/matematica/yyy/yyy1.png">
+<img src="/img/matematica/sqrt/sqrt1.png">
 
 ## nota bene
 

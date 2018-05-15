@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `cos`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/matematica/yyy/yyy1.png">
+<img src="/img/matematica/cos/cos1.png">
 
 ## nota bene
 

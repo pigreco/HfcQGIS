@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `radians`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/matematica/yyy/yyy1.png">
+<img src="/img/matematica/radians/radians1.png">
 
 ## nota bene
 

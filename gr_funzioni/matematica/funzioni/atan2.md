@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `atan2`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/matematica/yyy/yyy1.png">
+<img src="/img/matematica/atan2/atan21.png">
 
 ## nota bene
 

@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `log10`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/matematica/yyy/yyy1.png">
+<img src="/img/matematica/log10/log101.png">
 
 ## nota bene
 
