@@ -10,7 +10,7 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 
 1. attivare editing;
 2. aprire calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
-3. crea nuoco campo e digittare nome campo **coord_x**;
+3. crea nuovo campo e digittare nome campo **coord_x**;
 4. tipo campo uscita Real e lunghezza uscita 13 e 2;
 5. cercare la funzione [$x](/gr_funzioni/geometria/funzioni/$x.md);
 6. doppio clic sul risultato della ricerca per inserire la funzione;

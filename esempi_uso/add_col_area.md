@@ -10,7 +10,7 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 
 1. attivare editing;
 2. aprire calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
-3. crea nuoco campo;
+3. crea nuovo campo;
 4. digittare nome campo **area**;
 5. tipo campo uscita Real;
 6. lunghezza uscita 10 e 2;
