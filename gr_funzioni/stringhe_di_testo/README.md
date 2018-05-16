@@ -12,7 +12,7 @@ Questo gruppo contiene le funzioni che operano sulle stringhe es. _sostituzione_
 [left(string, n)](funzioni/left.md)|Restituisce una sottostringa che contiene gli n caratteri più a sinistra della stringa
 [length](funzioni/length.md)|Restituisce il numero di caratteri in una stringa o la lunghezza di una geometria di tipo linestring
 [lower](funzioni/lower.md)|Converte una stringa in lettere minuscole
-[lpad](funzioni/lpad,md)|Restituisce una stringa riempita a sinistra fino alla larghezza specificata, utilizzando un carattere di riempimento. Se la larghezza della destinazione è inferiore alla lunghezza della stringa, la stringa viene troncata
+[lpad](funzioni/lpad.md)|Restituisce una stringa riempita a sinistra fino alla larghezza specificata, utilizzando un carattere di riempimento. Se la larghezza della destinazione è inferiore alla lunghezza della stringa, la stringa viene troncata
 [regexp_match](funzioni/regexp_match.md)|Restituisce la prima posizione di corrispondenza che soddisfa un'espressione regolare all'interno di una stringa, o 0 se la sottostringa non viene trovata
 [regexp_replace](funzioni/regexp_replace.md)|Restituisce una stringa con la parte che soddisfa l'espressione regolare sostituita
 [regexp_substr](funzioni/regexp_substr.md)|Restituisce la porzione di una stringa che soddisfa l'espressione regolare passata
