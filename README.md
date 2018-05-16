@@ -43,7 +43,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 ## [Cosa puoi fare](CONTRIBUTING.md)
 
 - *contribuire*
-    - [finanziariamente*](https://www.paypal.me/pigrecoinfinito);
+    - [finanziariamente*](https://www.paypal.me/pigrecoinfinito); <--<--<--<--
     - [condividendo e divulgando](https://www.facebook.com/);
 - *segnalare errori*
     - [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
