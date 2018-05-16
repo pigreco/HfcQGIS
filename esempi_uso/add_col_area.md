@@ -26,3 +26,5 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 verrà aggiunta la colonna _area_ e popolata con la funzione [\$area](/gr_funzioni/geometria/funzioni/$area.md)
 
 il geopackage è scaricabile [qui](dati_esempi.gpkg)
+
+[![add_col_area_perimetro](https://img.youtube.com/vi/pKh0UErx6GE/0.jpg)](https://www.youtube.com/watch?v=pKh0UErx6GE&index=2&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu "add_col_area_perimetro")
