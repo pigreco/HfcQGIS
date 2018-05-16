@@ -28,8 +28,8 @@ regexp_match(_input_string, regex_)
 * ^ « apice » ha due significati: se messo all’inizio della regex impone che la linea cominci con quello che segue l’apice; se usato con le parentesi quadre e messo prima di un carattere significa: tranne il carattere che segue, è una negazione
 * $ « dollaro » se messa alla fine della regex impone che la linea finisca con quello che precede il dollaro
 * . « punto » qualunque carattere
-* * « asterisco » accetta zero o più ripetizioni del carattere precedente
-* + « più » accetta una o più ripetizioni del carattere precedente
+* \* « asterisco » accetta zero o più ripetizioni del carattere precedente
+* \+ « più » accetta una o più ripetizioni del carattere precedente
 * [ ] « parentesi quadre » tutti i caratteri all’interno delle [ ] sono accettati: le due parentesi si comportano come un singolo carattere
 * [^ ] « parentesi quadre con apice » tutti i caratteri tranne quelli all’interno delle [ ] sono accettati
 * / « slash » inizia/termina l’espressione regolare
