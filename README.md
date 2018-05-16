@@ -40,7 +40,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 * [Esempi d'uso](/esempi_uso) (2) - Esempi dettagliati sull'uso delle funzioni - IN EVOLUZIONE
 
 ---
-## Cosa puoi fare
+## [Cosa puoi fare](CONTRIBUTING.md)
 
 - *contribuire*
     - [finanziariamente*](https://www.paypal.me/pigrecoinfinito);
@@ -51,19 +51,19 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - *aggiungere funzioni*
     - [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls);
     - [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
-- *aggiungere esempi*
+- *aggiungere esempi* :memo:
     - [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls)
-- *lasciare un messaggio*
+- *lasciare un messaggio* :memo: :+1:
     - [scrivi un messaggio qui](https://github.com/pigreco/Help_in_linea_/issues/1)
 
 ## Come puoi usare questo lavoro
 
-* Github;
-* Bot Telegram (ma chi lo userebbe?);
-* eBook (ma come si fa?);
-* Plugin (boh?)
+* Github; :octocat:
+* Bot Telegram (ma chi lo userebbe?); :iphone:
+* eBook (ma come si fa?); :book:
+* Plugin (boh?) :clapper:
 
-## Traduzione in italiano
+## Traduzione in italiano :it:
 
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da [Stefano Campus](https://twitter.com/skampus1967?lang=it)
 
@@ -104,4 +104,4 @@ Repo costruito con:
 
 <img src="/img/VScode_QGIS.png">
 
-* [VScode](https://it.wikipedia.org/wiki/Visual_Studio_Code)
+* [Visual Studio code](https://it.wikipedia.org/wiki/Visual_Studio_Code)
