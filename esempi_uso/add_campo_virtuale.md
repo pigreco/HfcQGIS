@@ -21,6 +21,10 @@ selezionare il layer (presente nel _Layer Panel_), tasto destro mouse 'Apri tabe
 
 verrà aggiunta la colonna _lunghezza_dimanica_ popolata con la funzione [\$lenght](/gr_funzioni/geometria/funzioni/$lenght.md)
 
-il geopackage è scaricabile [qui](dati_esempi.gpkg)
+## Osservazioni
+
+Un campo virtuale è un campo che si aggiorna dimanicamente e non modifica la tabella attributi in quanto viene memorizzata nel progetto e non nel layer.
 
 [![field_calc03](https://img.youtube.com/vi/IymSgXmbAFM/0.jpg)](https://www.youtube.com/watch?v=IymSgXmbAFM&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu&index "fiel_calc03")
+
+il geopackage è scaricabile [qui](dati_esempi.gpkg)
