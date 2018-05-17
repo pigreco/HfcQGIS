@@ -6,7 +6,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot. :star2:
 
-## Indice gruppi di funzioni/espressioni (261/381)
+## Indice gruppi di funzioni/espressioni (286/381)
 - [x] [Aggregates](/gr_funzioni/aggregates) (22/22) >= QGIS 2.16  
 - [x] [Arrays](/gr_funzioni/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
 - [x] [Campi e valori](/gr_funzioni/campi_e_valori) (1/1)
@@ -20,7 +20,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - [x] [Geometria](/gr_funzioni/geometria) (97/97)
 - [x] [Layer della mappa](/gr_funzioni/layer_della_mappa) (1/1) >= QGIS 3.0
 - [x] [Maps](/gr_funzioni/maps) (8/8) >= QGIS 3.0 (PostGIS)
-- [ ] [Matematica](/gr_funzioni/matematica) (3/28)
+- [x] [Matematica](/gr_funzioni/matematica) (28/28)
 - [x] [Operatori](/gr_funzioni/operatori) (21/21)
 - [x] [Recente](/gr_funzioni/recente) (1/1)
 - [x] [Record e attributi](/gr_funzioni/record_e_attributi) (9/9)
@@ -43,7 +43,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 ## [Cosa puoi fare](CONTRIBUTING.md)
 
 - *contribuire*
-    - [finanziariamente*](https://www.paypal.me/pigrecoinfinito); <--<--<--<--
+    - [finanziariamente*](https://www.paypal.me/pigrecoinfinito); <--<--<--<--<--------:::
     - [condividendo e divulgando](https://www.facebook.com/);
 - *segnalare errori*
     - [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
@@ -61,7 +61,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 * Github; :octocat:
 * Bot Telegram (ma chi lo userebbe?); :iphone:
 * eBook (ma come si fa?); :book:
-* Plugin (boh?) :clapper:
+* Collegarlo al calcolatore di campi :clapper:
 
 ## Traduzione in italiano :it:
 

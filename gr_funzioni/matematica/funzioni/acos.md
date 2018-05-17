@@ -9,7 +9,7 @@ acos(_value_)
 
 * _value_ coseno di un angolo in radianti
 
-##Esempi
+## Esempi
 
 * `acos(0.5) → 1.0471975511966`
 
