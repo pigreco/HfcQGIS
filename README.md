@@ -37,7 +37,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 * [Concetti base](/concetti_base.md) Concetti base sul calcolatore di campi - IN EVOLUZIONE
 * [Introduzione](/intro_interf.md) Introduzione all'interfaccia calcolatore di campi
 * [Operatori](/operatori_calc.md) - Operatori presenti nell'interfaccia del calcolatore
-* [Esempi d'uso](/esempi_uso) (3) - Esempi dettagliati sull'uso delle funzioni - IN EVOLUZIONE
+* [Esempi d'uso](/esempi_uso) (4) - Esempi dettagliati sull'uso delle funzioni - IN EVOLUZIONE
 
 ---
 ## [Cosa puoi fare](CONTRIBUTING.md)
