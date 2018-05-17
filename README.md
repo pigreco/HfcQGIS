@@ -44,7 +44,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 - *contribuire*
     - [finanziariamente*](https://www.paypal.me/pigrecoinfinito); <--<--<--<--<--------:::
-    - [condividendo e divulgando](https://www.facebook.com/);
+    - [condividendo e divulgando](https://www.facebook.com/) usare HashTag **#HfcQGIS**;
 - *segnalare errori*
     - [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
     - [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls);
