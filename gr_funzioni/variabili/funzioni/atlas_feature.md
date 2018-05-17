@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `atlas_feature`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/atlas_feature/atlas_feature1.png">
 
 ## nota bene
 

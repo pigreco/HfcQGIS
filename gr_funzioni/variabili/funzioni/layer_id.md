@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `layer_id`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/layer_id/layer_id1.png">
 
 ## nota bene
 

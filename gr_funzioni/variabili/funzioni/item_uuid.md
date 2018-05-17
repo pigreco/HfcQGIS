@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `item_uuid`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/item_uuid/item_uuid1.png">
 
 ## nota bene
 

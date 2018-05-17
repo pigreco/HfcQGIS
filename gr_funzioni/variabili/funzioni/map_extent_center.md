@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `map_extent_center`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/map_extent_center/map_extent_center1.png">
 
 ## nota bene
 

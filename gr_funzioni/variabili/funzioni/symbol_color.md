@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `symbol_color`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/symbol_color/symbol_color1.png">
 
 ## nota bene
 

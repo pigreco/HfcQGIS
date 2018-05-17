@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `cluster_size`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/cluster_size/cluster_size1.png">
 
 ## nota bene
 

@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `project_creation_date`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/project_creation_date/project_creation_date1.png">
 
 ## nota bene
 

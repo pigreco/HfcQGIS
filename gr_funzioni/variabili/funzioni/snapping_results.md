@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `snapping_results`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/snapping_results/snapping_results1.png">
 
 ## nota bene
 

@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `project_crs_definition`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/project_crs_definition/project_crs_definition1.png">
 
 ## nota bene
 

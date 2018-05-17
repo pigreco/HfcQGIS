@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `symbol_angle`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/symbol_angle/symbol_angle1.png">
 
 ## nota bene
 

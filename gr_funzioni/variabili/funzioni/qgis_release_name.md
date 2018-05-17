@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `qgis_release_name`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/qgis_release_name/qgis_release_name1.png">
 
 ## nota bene
 

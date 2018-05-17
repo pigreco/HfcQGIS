@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `map_units`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/map_units/map_units1.png">
 
 ## nota bene
 

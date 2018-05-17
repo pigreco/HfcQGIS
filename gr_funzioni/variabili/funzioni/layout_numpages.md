@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `layout_numpages`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/layout_numpages/layout_numpages1.png">
 
 ## nota bene
 

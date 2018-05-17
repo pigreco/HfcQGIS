@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `layout_pagewidth`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/layout_pagewidth/layout_pagewidth1.png">
 
 ## nota bene
 

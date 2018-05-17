@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `geometry_point_num`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/geometry_point_num/geometry_point_num1.png">
 
 ## nota bene
 

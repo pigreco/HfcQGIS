@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `grid_axis`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/grid_axis/grid_axis1.png">
 
 ## nota bene
 

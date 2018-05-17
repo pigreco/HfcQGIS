@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `user_full_name`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/yyy/yyy1.png">
+<img src="/img/variabili/user_full_name/user_full_name1.png">
 
 ## nota bene
 
