@@ -3,12 +3,12 @@ L'interfaccia del calcolatore rende immediatamente disponibili alcuni operatori:
 <img src="/img/operatori_calc1.png">
 
 1. uguale:
-    1. uguaglianza tra numeri 10 = 10;
-    2. uguaglianza tra lettere 'A' = 'A' ;
-    3. uguaglianza tra parole 'Ciao' = 'Ciao';
-    4. ugualgianza tra stringhe 'Viva QGIS' = 'Viva QGIS';
-    5. uguaglianza tra campi "field1" = "field2";
-    6. uguaglianza tra espressioni $area = area($geometry);
+    - uguaglianza tra numeri 10 = 10;
+    - uguaglianza tra lettere 'A' = 'A' ;
+    - uguaglianza tra parole 'Ciao' = 'Ciao';
+    - ugualgianza tra stringhe 'Viva QGIS' = 'Viva QGIS';
+    - uguaglianza tra campi "field1" = "field2";
+    - uguaglianza tra espressioni $area = area($geometry);
 
 2. somma:
     1. somma di numeri 10 + 15.4 ;
