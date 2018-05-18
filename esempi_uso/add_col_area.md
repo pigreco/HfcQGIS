@@ -25,9 +25,7 @@ selezionare il layer \(presente nel _Layer Panel_\), tasto destro mouse 'Apri ta
 
 verrà aggiunta la colonna _area_ e popolata con la funzione [$area](../gr_funzioni/geometria/funzioni/usdarea.md)
 
+[https://www.youtube.com/watch?v=IymSgXmbAFM&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu&index](https://www.youtube.com/watch?v=IymSgXmbAFM&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu&index)
+
 il geopackage è scaricabile [qui](https://github.com/pigreco/HfcQGIS/tree/3f470b2bacfdb46722a66d221660791fc17129e8/esempi_uso/dati_esempi.gpkg)
-
-![add\_col\_area\_perimetro](https://img.youtube.com/vi/pKh0UErx6GE/0.jpg)
-
-[video youtube](https://www.youtube.com/watch?v=IymSgXmbAFM&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu&index)
 
