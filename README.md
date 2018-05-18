@@ -1,4 +1,4 @@
-:no_entry: IN LAVORAZIONE :no_entry:
+⛔ IN LAVORAZIONE ⛔
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-square)](https://github.com/pigreco/HfcQGIS)
 [![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
@@ -54,9 +54,9 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 - *aggiungere funzioni*
     - [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls);
     - [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
-- *aggiungere esempi* :memo:
+- *aggiungere esempi* 📝
     - [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls)
-- *lasciare un messaggio* :memo: :+1:
+- *lasciare un messaggio* 📝
     - [scrivi un messaggio qui](https://github.com/pigreco/Help_in_linea_/issues/1)
 
 ## Come puoi usare questo lavoro
@@ -90,7 +90,7 @@ per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pen
 
 ## Donate
 
-:euro: [donate](https://www.paypal.me/pigrecoinfinito) :euro:
+💶 [donate](https://www.paypal.me/pigrecoinfinito) 💶
 
 \* il x % sarà donato a QGIS
 
