@@ -17,7 +17,7 @@
 15. è possibile aggiunger altri gruppi di funzioni tramite plugin es:refFunction → gruppo Reference;
 
 
-[![field_calc01](https://img.youtube.com/vi/454-t4_NcSs/0.jpg)](https://www.youtube.com/watch?v=454-t4_NcSs&index=7&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu "fiel_calc01")
+[![field_calc01](https://img.youtube.com/vi/454-t4_NcSs/0.jpg)](https://www.youtube.com/watch?v=454-t4_NcSs&index=7&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu "https://www.youtube.com/watch?v=454-t4_NcSs&index=7&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu")
 
 [![field_calc02](https://img.youtube.com/vi/i0mLFq4MSOY/0.jpg)](https://www.youtube.com/watch?v=i0mLFq4MSOY&index=6&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu "fiel_calc02")
 

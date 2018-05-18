@@ -1,4 +1,4 @@
-            ---------------------------:no_entry: IN LAVORAZIONE :no_entry:---------------------------
+:no_entry: IN LAVORAZIONE :no_entry:
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-square)](https://github.com/pigreco/HfcQGIS)
 [![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
@@ -7,7 +7,7 @@
 
 # ![logo](img/logo_HfcQGIS3.png "Logo HfcQGIS") Help funzioni calcolatore di campi di QGIS (HfcQGIS)
 
-Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot. :star2:
+Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
 ## Indice gruppi di funzioni/espressioni (286/381)
 - [x] [Aggregates](/gr_funzioni/aggregates) (22/22) >= QGIS 2.16  
@@ -61,12 +61,10 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 ## Come puoi usare questo lavoro
 
-* Github; :octocat:
-* Bot Telegram (ma chi lo userebbe?); :iphone:
-* eBook (ma come si fa?); :book:
-* Collegarlo al calcolatore di campi :clapper:
+* [Github](https://github.com/pigreco/HfcQGIS);
+* [Ebook](https://gis.gitbook.io/hfcqgis/);
 
-## Traduzione in italiano :it:
+## Traduzione in italiano
 
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da [Stefano Campus](https://twitter.com/skampus1967?lang=it)
 
@@ -101,7 +99,7 @@ per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pen
 * [Salvatore Fiandaca](https://twitter.com/totofiandaca?lang=it) (aka _Totò_)
     * Ideatore e sviluppatore ...
 * [Andrea Borruso](https://twitter.com/aborruso?lang=it) (aka _WikiAndy_)
-    * Supporto tecnico GitHub, VScode e Markdown e ...
+    * Supporto tecnico GitHub, VScode, Markdown e gitbook;
 
 Repo costruito con:
 
