@@ -1,10 +1,12 @@
+# project\_color
+
 ## Funzione `project_color`
 
 Restituisce un colore dallo schema colore del progetto.
 
 ## Sintassi
 
-project_color(_name_)
+project_color\(\_name_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ project_color(_name_)
 
 * `project_color('Logo color') → 20,140,50`
 
-<img src="/img/colore/project_color/project_color1.png">
+![](../../../.gitbook/assets/project_color1%20%281%29.png)
 
 ## nota bene
 
@@ -24,4 +26,5 @@ project_color(_name_)
 
 --
 
-<img src="/img/colore/project_color/project_color2.png">
+![](../../../.gitbook/assets/project_color2%20%281%29.png)
+

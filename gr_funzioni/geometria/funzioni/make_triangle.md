@@ -1,10 +1,12 @@
+# make\_triangle
+
 ## Funzione `make_triangle`
 
 Crea un poligono triangolare
 
 ## Sintassi
 
-make_triangle(_point 1, point 2, point 3_)
+make_triangle\(\_point 1, point 2, point 3_\)
 
 ## Argomenti
 
@@ -17,7 +19,7 @@ make_triangle(_point 1, point 2, point 3_)
 * `geom_to_wkt(make_triangle(make_point(0,0), make_point(5,5), make_point(0,10))) → 'Triangle ((0 0, 5 5, 0 10, 0 0))'`
 * `geom_to_wkt(boundary(make_triangle(make_point(0,0), make_point(5,5), make_point(0,10)))) → 'LineString (0 0, 5 5, 0 10, 0 0)'`
 
-<img src="/img/geometria/make_triangle/make_triangle1.png">
+![](../../../.gitbook/assets/make_triangle1.png)
 
 ## nota bene
 
@@ -26,3 +28,4 @@ make_triangle(_point 1, point 2, point 3_)
 ## osservazioni
 
 --
+

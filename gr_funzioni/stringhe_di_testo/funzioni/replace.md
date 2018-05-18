@@ -1,13 +1,16 @@
+# replace
+
 ## Funzione `replace`
 
 Restituisce una stringa con la stringa, array o mappa di stringhe passate sostituite.
 
 ## Variabile stringa & array
+
 Restituisce una stringa con la stringa o array di stringa passate sostituite da una stringa o un array di stringhe.
 
 ## Sintassi
 
-replace(_string, before, after_)
+replace\(_string, before, after_\)
 
 ## Argomenti
 
@@ -21,14 +24,15 @@ replace(_string, before, after_)
 * `replace('QGIS ABC',array('A','B','C'),array('X','Y','Z')) → 'QGIS XYZ'`
 * `replace('QGIS',array('Q','S'),'') → 'GI'`
 
-<img src="/img/stringhe_di_testo/replace/replace1.png">
+![](../../../.gitbook/assets/replace1.png)
 
 ## Variabile mappa
 
 Restituisce una stringa con le chiavi mappa fornite sostituite da valori accoppiati.
 
 ## Sintassi
-replace(_string, map_)
+
+replace\(_string, map_\)
 
 ## Argomenti
 
@@ -39,7 +43,7 @@ replace(_string, map_)
 
 * `replace('APP SHOULD ROCK',map('APP','QGIS','SHOULD','DOES')) → 'QGIS DOES ROCK'`
 
-<img src="/img/stringhe_di_testo/replace/replace2.png">
+![](../../../.gitbook/assets/replace2%20%281%29.png)
 
 ## nota bene
 
@@ -48,3 +52,4 @@ replace(_string, map_)
 ## osservazioni
 
 --
+

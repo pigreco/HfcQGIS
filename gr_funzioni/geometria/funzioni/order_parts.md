@@ -1,10 +1,12 @@
+# order\_parts
+
 ## Funzione `order_parts`
 
 Ordina le parti di una MultiGeometria secondo un dato criterio
 
 ## Sintassi
 
-order_parts(_geometry, orderby, ascending_)
+order_parts\(\_geometry, orderby, ascending_\)
 
 ## Argomenti
 
@@ -17,7 +19,7 @@ order_parts(_geometry, orderby, ascending_)
 * `order_parts(geom_from_wkt('MultiPolygon (((1 1, 5 1, 5 5, 1 5, 1 1)),((1 1, 9 1, 9 9, 1 9, 1 1)))'), 'area($geometry)', False) → MultiPolygon (((1 1, 9 1, 9 9, 1 9, 1 1)),((1 1, 5 1, 5 5, 1 5, 1 1)))`
 * `order_parts(geom_from_wkt('LineString(1 2, 3 2, 4 3)'), '1', True) → LineString(1 2, 3 2, 4 3)`
 
-<img src="/img/geometria/order_parts/order_parts1.png">
+![](../../../.gitbook/assets/order_parts1%20%281%29.png)
 
 ## nota bene
 
@@ -26,3 +28,4 @@ order_parts(_geometry, orderby, ascending_)
 ## osservazioni
 
 --
+

@@ -1,10 +1,12 @@
+# substr
+
 ## Funzione `substr`
 
 Restituisce una parte di una stringa.
 
 ## Sintassi
 
-substr(string, start, length)
+substr\(string, start, length\)
 
 ## Argomenti
 
@@ -21,7 +23,7 @@ substr(string, start, length)
 * `substr('HELLO WORLD',-5,2) → 'WO'`
 * `substr('HELLO WORLD',-5,-1) → 'WORL'`
 
-<img src="/img/stringhe_di_testo/substr/substr1.png">
+![](../../../.gitbook/assets/substr1%20%281%29.png)
 
 ## nota bene
 
@@ -30,3 +32,4 @@ substr(string, start, length)
 ## osservazioni
 
 --
+

@@ -1,10 +1,12 @@
+# color\_hsv
+
 ## Funzione `color_hsv`
 
 Restituisce una rappresentazione stringa di un colore basato sui suoi attributi tonalità, saturazione e valore.
 
 ## Sintassi
 
-color_hsv(_hue, saturation, value_)
+color_hsv\(\_hue, saturation, value_\)
 
 ## Argomenti
 
@@ -16,7 +18,7 @@ color_hsv(_hue, saturation, value_)
 
 * `color_hsv(40,100,100) → 255,170,0`
 
-<img src="/img/colore/color_hsv/color_hsv1.png">
+![](../../../.gitbook/assets/color_hsv1%20%281%29.png)
 
 ## nota bene
 
@@ -24,4 +26,5 @@ color_hsv(_hue, saturation, value_)
 
 ## osservazioni
 
-`color_hsv(40,100,100) =  color_rgb( 255,170,0 )`
+`color_hsv(40,100,100) = color_rgb( 255,170,0 )`
+

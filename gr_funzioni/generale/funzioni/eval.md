@@ -1,21 +1,24 @@
+# eval
+
 ## funzione `eval`
 
 Valuta una espressione che viene passata in una stringa. Molto utile per espandere parametri dinamici passati come variabili contestuali o campi.
 
 ## Sintassi
 
-* eval(*expression*)
+* eval\(_expression_\)
 
 ## Argomento
 
-* *expression* una stringa espressione
-
+* _expression_ una stringa espressione
 
 ## Esempi
-```
+
+```text
 eval(''nice'') → 'nice'
 eval(@expression_var) → [qualsiasi risultato che dalla valutazione di @expression_var potrebbe assumere...]
 eval( '@row_number  +10') → 11
 ```
 
-<img src="/img/generale/eval1.png">
+![](../../../.gitbook/assets/eval1.png)
+

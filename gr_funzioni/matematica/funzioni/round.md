@@ -1,10 +1,12 @@
+# round
+
 ## Funzione `round`
 
 Arrotonda un numero ad un numero di cifre decimali.
 
 ## Sintassi
 
-round(_value, places_)
+round\(_value, places_\)
 
 ## Argomenti
 
@@ -19,7 +21,7 @@ round(_value, places_)
 
 ## Esempi
 
-<img src="/img/matematica/round/round1.png">
+![](../../../.gitbook/assets/round1.png)
 
 ## nota bene
 
@@ -28,3 +30,4 @@ round(_value, places_)
 ## osservazioni
 
 --
+

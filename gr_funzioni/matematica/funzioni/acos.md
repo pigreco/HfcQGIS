@@ -1,9 +1,12 @@
+# acos
+
 ## Funzione `acos`
+
 Restituisce l'arcocoseno del valore in radianti.
 
 ## Sintassi
 
-acos(_value_)
+acos\(_value_\)
 
 ## Argomenti
 
@@ -13,7 +16,7 @@ acos(_value_)
 
 * `acos(0.5) → 1.0471975511966`
 
-<img src="/img/matematica/acos/acos1.png">
+![](../../../.gitbook/assets/acos1.png)
 
 ## nota bene
 
@@ -22,3 +25,4 @@ acos(_value_)
 ## osservazioni
 
 --
+

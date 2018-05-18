@@ -1,10 +1,12 @@
+# format
+
 ## Funzione `format`
 
 Formatta una stringa usando gli argomenti forniti.
 
 ## Sintassi
 
-format(_string, arg1, arg2, …_)
+format\(_string, arg1, arg2, …_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ format(_string, arg1, arg2, …_)
 
 * `format('This %1 a %2','is', 'test') → 'This is a test''`
 
-<img src="/img/stringhe_di_testo/format/format1.png">
+![](../../../.gitbook/assets/format1%20%281%29.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ format(_string, arg1, arg2, …_)
 ## osservazioni
 
 --
+

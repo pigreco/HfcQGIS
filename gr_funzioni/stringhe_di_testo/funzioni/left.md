@@ -1,10 +1,12 @@
+# left
+
 ## Funzione `left`
 
 Restituisce una sottostringa che contiene gli n caratteri più a sinistra della stringa.
 
 ## Sintassi
 
-left(_string, length_)
+left\(_string, length_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ left(_string, length_)
 
 * `left('Hello World',5) → 'Hello'`
 
-<img src="/img/stringhe_di_testo/left/left1.png">
+![](../../../.gitbook/assets/left1%20%281%29.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ left(_string, length_)
 ## osservazioni
 
 --
+

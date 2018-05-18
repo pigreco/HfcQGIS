@@ -1,10 +1,12 @@
+# ceil
+
 ## Funzione `ceil`
 
 Arrotonda un numero all'intero superiore.
 
 ## Sintassi
 
-ceil(_value_)
+ceil\(_value_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ ceil(_value_)
 * `ceil(4.9) → 5`
 * `ceil(-4.9) → -4`
 
-<img src="/img/matematica/ceil/ceil1.png">
+![](../../../.gitbook/assets/ceil1.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ ceil(_value_)
 ## osservazioni
 
 --
+

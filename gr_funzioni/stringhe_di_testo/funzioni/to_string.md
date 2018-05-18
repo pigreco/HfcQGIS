@@ -1,10 +1,12 @@
+# to\_string
+
 ## Funzione `to_string`
 
 Converte un numero in stringa.
 
 ## Sintassi
 
-to_string(_number_)
+to_string\(\_number_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ to_string(_number_)
 
 * `to_string(123.23) → '123.23'`
 
-<img src="/img/stringhe_di_testo/to_string/to_string1.png">
+![](../../../.gitbook/assets/to_string1%20%281%29.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ to_string(_number_)
 ## osservazioni
 
 --
+

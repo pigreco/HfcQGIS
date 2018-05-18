@@ -1,10 +1,12 @@
+# line\_interpolate\_angle
+
 ## Funzione `line_interpolate_angle`
 
 Restituisce l'angolo parallelo alla geometria ad una distanza specifica lungo una geometria di tipo linestring. Gli angoli sono in gradi in senso orario dal nord.
 
 ## Sintassi
 
-line_interpolate_angle(_geometry, distance_)
+line_interpolate\_angle\(\_geometry, distance_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ line_interpolate_angle(_geometry, distance_)
 
 * `line_interpolate_angle(geometry:=geom_from_wkt('LineString(0 0, 10 0)'),distance:=5) → 90.0`
 
-<img src="/img/geometria/line_interpolate_angle/line_interpolate_angle1.png">
+![](../../../.gitbook/assets/line_interpolate_angle1%20%281%29.png)
 
 ## nota bene
 
@@ -25,4 +27,5 @@ line_interpolate_angle(_geometry, distance_)
 
 --
 
-<img src="/img/geometria/line_interpolate_angle/line_interpolate_angle2.png">
+![](../../../.gitbook/assets/line_interpolate_angle2%20%281%29.png)
+

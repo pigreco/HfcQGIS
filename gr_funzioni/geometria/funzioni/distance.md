@@ -1,20 +1,21 @@
+# distance
+
 ## Funzione `distance`
 
-Restituisce la distanza minima (basata su riferimento spaziale) tra due geometrie in unità proiettate.
+Restituisce la distanza minima \(basata su riferimento spaziale\) tra due geometrie in unità proiettate.
 
 ## Sintassi
 
-distance(_geometry a, geometry b_)
+distance\(_geometry a, geometry b_\)
 
 ## Argomenti
 
 * _geometry a_ una geometria
 * _geometry b_ una geometria
 
-
 ## Esempi
 
-<img src="/img/geometria/distance/distance1.png">
+![](../../../.gitbook/assets/distance1%20%281%29.png)
 
 ## nota bene
 
@@ -24,4 +25,5 @@ distance(_geometry a, geometry b_)
 
 --
 
-<img src="/img/geometria/distance/distance2.png">
+![](../../../.gitbook/assets/distance2.png)
+

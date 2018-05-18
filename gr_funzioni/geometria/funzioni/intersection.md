@@ -1,21 +1,23 @@
+# intersection
+
 ## Funzione `intersection`
 
 Restituisce una geometria che rappresenta la porzione condivisa fra le due geometrie.
 
 ## Sintassi
 
-intersection(<span style="color:red;">_geometry1_</span>, <span style="color:red;">_geometry2_</span>)
+intersection\(_geometry1_, _geometry2_\)
 
 ## Argomenti
 
-* <span style="color:red;">_geometry1_</span> una geometria
-* <span style="color:red;">_geometry2_</span> una geometria
+* _geometry1_ una geometria
+* _geometry2_ una geometria
 
 ## Esempi
 
 * `geom_to_wkt( intersection( geom_from_wkt( 'LINESTRING(3 3, 4 4, 5 5)' ), geom_from_wkt( 'LINESTRING(3 3, 4 4)' ) ) ) → LINESTRING(3 3, 4 4)`
 
-<img src="/img/geometria/intersection/intersection1.png">
+![](../../../.gitbook/assets/intersection1%20%282%29.png)
 
 ## nota bene
 
@@ -25,4 +27,5 @@ intersection(<span style="color:red;">_geometry1_</span>, <span style="color:red
 
 --
 
-<img src="/img/geometria/intersection/intersection1.png">
+![](../../../.gitbook/assets/intersection1%20%281%29.png)
+

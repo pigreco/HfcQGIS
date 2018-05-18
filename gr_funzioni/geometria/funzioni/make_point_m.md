@@ -1,10 +1,12 @@
+# make\_point\_m
+
 ## Funzione `make_point_m`
 
 Crea una geometria punto da una coordinata x, y ed un valore m.
 
 ## Sintassi
 
-make_point_m_(x, y, m_)
+make_point\_m_\(x, y, m\_\)
 
 ## Argomenti
 
@@ -16,7 +18,7 @@ make_point_m_(x, y, m_)
 
 * `geom_to_wkt(make_point_m(2,4,6)) → 'PointM (2 4 6)'`
 
-<img src="/img/geometria/make_point_m/make_point_m1.png">
+![](../../../.gitbook/assets/make_point_m1%20%281%29.png)
 
 ## nota bene
 
@@ -25,3 +27,4 @@ make_point_m_(x, y, m_)
 ## osservazioni
 
 --
+

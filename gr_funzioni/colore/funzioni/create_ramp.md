@@ -1,10 +1,12 @@
+# create\_ramp
+
 ## Funzione `create_ramp`
 
 Restituisce una scala di colori a gradiente per una mappa di colori e passi.
 
 ## Sintassi
 
-create_ramp(_map, discrete_)
+create_ramp\(\_map, discrete_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ create_ramp(_map, discrete_)
 
 * `ramp_color(create_ramp(map(0,'0,0,0',1,'255,0,0')),1) → 255,0,0,255`
 
-<img src="/img/colore/create_ramp/create_ramp1.png">
+![](../../../.gitbook/assets/create_ramp1.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ create_ramp(_map, discrete_)
 ## osservazioni
 
 --
+

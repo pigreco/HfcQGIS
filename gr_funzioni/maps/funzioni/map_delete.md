@@ -1,10 +1,12 @@
+# map\_delete
+
 ## Funzione `map_delete`
 
 Restituisce una mappa con il valore della corrispondente chiave passata rimosso.
 
 ## Sintassi
 
-map_delete(_map, key_)
+map_delete\(\_map, key_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ map_delete(_map, key_)
 
 * `map_delete(map('1','one','2','two'),'2') → map: 1: 'one'`
 
-<img src="/img/maps/map_delete/map_delete1.png">
+![](../../../.gitbook/assets/map_delete1.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ map_delete(_map, key_)
 ## osservazioni
 
 --
+

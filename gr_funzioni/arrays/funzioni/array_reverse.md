@@ -1,10 +1,12 @@
+# array\_reverse
+
 ## Funzione `array_reverse`
 
 Restituisce l'array dato con valori dell'array in ordine inverso.
 
 ## Sintassi
 
-* array_reverse(_array_)
+* array_reverse\(\_array_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ Restituisce l'array dato con valori dell'array in ordine inverso.
 
 * `array_reverse(array(2,4,0,10)) → array: 10,0,4,2`
 
-<img src="/img/arrays/array_reverse/array_reverse1.png">
+![](../../../.gitbook/assets/array_reverse1.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ Restituisce l'array dato con valori dell'array in ordine inverso.
 ## osservazioni
 
 --
+

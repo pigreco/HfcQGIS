@@ -1,10 +1,12 @@
+# sqrt
+
 ## Funzione `sqrt`
 
 Restituisce la radice quadrata di un valore.
 
 ## Sintassi
 
-sqrt(_value_)
+sqrt\(_value_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ sqrt(_value_)
 
 * `sqrt(9) → 3`
 
-<img src="/img/matematica/sqrt/sqrt1.png">
+![](../../../.gitbook/assets/sqrt1%20%281%29.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ sqrt(_value_)
 ## osservazioni
 
 --
+

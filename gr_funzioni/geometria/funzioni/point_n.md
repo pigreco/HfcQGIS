@@ -1,10 +1,12 @@
+# point\_n
+
 ## Funzione `point_n`
 
 Restituisce un nodo specifico da una geometria.
 
 ## Sintassi
 
-point_n(geometry, index)
+point\_n\(geometry, index\)
 
 ## Argomenti
 
@@ -15,8 +17,7 @@ point_n(geometry, index)
 
 * `geom_to_wkt(point_n(geom_from_wkt('POLYGON((0 0, 4 0, 4 2, 0 2, 0 0))'),2)) → 'Point (4 0)'`
 
-
-<img src="/img/geometria/point_n/point_n1.png">
+![](../../../.gitbook/assets/point_n1.png)
 
 ## nota bene
 
@@ -26,4 +27,5 @@ point_n(geometry, index)
 
 --
 
-<img src="/img/geometria/point_n/point_n2.png">
+![](../../../.gitbook/assets/point_n2.png)
+

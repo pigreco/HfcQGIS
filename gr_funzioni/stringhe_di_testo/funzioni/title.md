@@ -1,10 +1,12 @@
+# title
+
 ## Funzione `title`
 
-Converte tutte le parole in "title case" (tutte le parole in minuscolo con la prima lettera maiuscola)
+Converte tutte le parole in "title case" \(tutte le parole in minuscolo con la prima lettera maiuscola\)
 
 ## Sintassi
 
-title(_string_)
+title\(_string_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ title(_string_)
 
 * `title('hello WOrld') → 'Hello World'`
 
-<img src="/img/stringhe_di_testo/title/title1.png">
+![](../../../.gitbook/assets/title1%20%281%29.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ title(_string_)
 ## osservazioni
 
 --
+

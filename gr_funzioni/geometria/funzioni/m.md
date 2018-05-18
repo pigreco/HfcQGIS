@@ -1,10 +1,12 @@
+# m
+
 ## Funzione `m`
 
 Restituisce il valore m di una geometria puntuale.
 
 ## Sintassi
 
-m(_geometry_) 
+m\(_geometry_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ m(_geometry_)
 
 * `( geom_from_wkt( 'POINTM(2 5 4)' ) ) → 4`
 
-<img src="/img/geometria/m/m1.png">
+![](../../../.gitbook/assets/m1%20%281%29.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ m(_geometry_)
 ## osservazioni
 
 --
+

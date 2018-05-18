@@ -1,10 +1,12 @@
+# tan
+
 ## Funzione `tan`
 
 Restituisce la tangente di un angolo.
 
 ## Sintassi
 
-tan(_angle_)
+tan\(_angle_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ tan(_angle_)
 * `tan(1.0) → 1.5574077246549`
 * `tan(pi()/2) → infinito`
 
-<img src="/img/matematica/tan/tan1.png">
+![](../../../.gitbook/assets/tan1%20%281%29.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ tan(_angle_)
 ## osservazioni
 
 --
+

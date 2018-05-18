@@ -1,10 +1,12 @@
+# make\_point
+
 ## Funzione `make_point`
 
-Crea una geometria punto da valori x ed y (e opzionalmente z ed m).
+Crea una geometria punto da valori x ed y \(e opzionalmente z ed m\).
 
 ## Sintassi
 
-make_point(x, y, z, m)
+make\_point\(x, y, z, m\)
 
 ## Argomenti
 
@@ -17,7 +19,7 @@ make_point(x, y, z, m)
 
 * `geom_to_wkt(make_point(2,4,6,8)) → 'PointZM (2 4 6 8)'`
 
-<img src="/img/geometria/make_point/make_point1.png">
+![](../../../.gitbook/assets/make_point1%20%281%29.png)
 
 ## nota bene
 
@@ -26,3 +28,4 @@ make_point(x, y, z, m)
 ## osservazioni
 
 --
+

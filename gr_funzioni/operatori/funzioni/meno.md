@@ -1,9 +1,12 @@
-## Operatore `-` (meno)
+# meno
+
+## Operatore `-` \(meno\)
 
 Sottrazione di due valori. Se uno dei due valori è NULL il risultato sarà NULL.
 
 ## Esempi
-```
+
+```text
 * 5 - 4 → 1
 * 5 - NULL → NULL
 * NULL - 5 → NULL
@@ -14,4 +17,5 @@ Sottrazione di due valori. Se uno dei due valori è NULL il risultato sarà NULL
 
 --
 
-<img src="/img/operatori/meno1.png">
+![](../../../.gitbook/assets/meno1.png)
+

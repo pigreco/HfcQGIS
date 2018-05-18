@@ -1,10 +1,12 @@
+# array\_length
+
 ## Funzione `array_length`
 
 Restituisce il numero di elementi di un array.
 
 ## Sintassi
 
-* array_length(_array_)
+* array_length\(\_array_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ Restituisce il numero di elementi di un array.
 
 * `array_length(array(1,2,3)) → 3`
 
-<img src="/img/arrays/array_length/array_length1.png">
+![](../../../.gitbook/assets/array_length1.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ Restituisce il numero di elementi di un array.
 ## osservazioni
 
 --
+

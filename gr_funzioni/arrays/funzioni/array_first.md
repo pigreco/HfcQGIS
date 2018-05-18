@@ -1,10 +1,12 @@
+# array\_first
+
 ## Funzione `array_first`
 
 Restituisce il primo valore di un array.
 
 ## Sintassi
 
-* array_first(_array_)
+* array_first\(\_array_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ Restituisce il primo valore di un array.
 
 * `array_first(array('a','b','c')) → 'a'`
 
-<img src="/img/arrays/array_first/array_first1.png">
+![](../../../.gitbook/assets/array_first1%20%281%29.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ Restituisce il primo valore di un array.
 ## osservazioni
 
 --
+

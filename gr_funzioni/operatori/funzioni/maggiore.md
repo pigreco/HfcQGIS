@@ -1,9 +1,12 @@
-## Operatore `>` (maggiore)
+# maggiore
+
+## Operatore `>` \(maggiore\)
 
 Confronta due valori e pone a 1 se il valore a sinistra è maggiore del valore a destra.
 
 ## Esempi
-```
+
+```text
 * 5 > 4 → 1
 * 5 > 5 → 0
 * 4 > 5 → 0
@@ -15,4 +18,5 @@ Confronta due valori e pone a 1 se il valore a sinistra è maggiore del valore a
 
 0 significa **falso**
 
-<img src="/img/operatori/maggiore1.png">
+![](../../../.gitbook/assets/maggiore1.png)
+

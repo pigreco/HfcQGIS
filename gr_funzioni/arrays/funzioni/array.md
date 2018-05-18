@@ -1,10 +1,12 @@
+# array
+
 ## Funzione `array`
 
 Restituisce un array contenente tutti i valori passati come parametro.
 
 ## Sintassi
 
-array(_value1, value2, …_)
+array\(_value1, value2, …_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ array(_value1, value2, …_)
 
 * `array(2,10) → array: 2, 10`
 
-<img src="/img/arrays/array/array1.png">
+![](../../../.gitbook/assets/array1.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ array(_value1, value2, …_)
 ## osservazioni
 
 --
+

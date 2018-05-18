@@ -1,19 +1,21 @@
+# my\_sum
+
 ## Funzione `my_sum`
 
-Calcola la somma dei due parametri valore1 e valore2. 
+Calcola la somma dei due parametri valore1 e valore2.
 
-## Esempio di utilizzo: 
+## Esempio di utilizzo:
 
-* `my_sum(5, 8) -> 13 `
-* `my_sum("fiel1", "field2") -> 42 `
+* `my_sum(5, 8) -> 13`
+* `my_sum("fiel1", "field2") -> 42`
 
-<img src="/img/custom/my_sum1.png">
+![](../../../.gitbook/assets/my_sum1%20%281%29.png)
 
 ## Codice Python
 
 Da copiare ed incollare
 
-```
+```text
 from qgis.core import *
 from qgis.gui import *
 
@@ -29,3 +31,4 @@ def my_sum(value1, value2, feature, parent):
     """
     return value1 + value2
 ```
+

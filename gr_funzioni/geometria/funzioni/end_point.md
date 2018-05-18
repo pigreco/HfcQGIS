@@ -1,10 +1,12 @@
+# end\_point
+
 ## Funzione `end_point`
 
 Restituisce l'ultimo nodo di una geometria.
 
 ## Sintassi
 
-end_point(_geometry_)
+end_point\(\_geometry_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ end_point(_geometry_)
 
 * `geom_to_wkt(end_point(geom_from_wkt('LINESTRING(4 0, 4 2, 0 2)'))) → 'Point (0 2)'`
 
-<img src="/img/geometria/end_point/end_point1.png">
+![](../../../.gitbook/assets/end_point1%20%281%29.png)
 
 ## nota bene
 
@@ -22,7 +24,7 @@ end_point(_geometry_)
 
 ## osservazioni
 
---
-End_point di geometria poligonale:
+-- End\_point di geometria poligonale:
 
-<img src="/img/geometria/end_point/end_point2.png">
+![](../../../.gitbook/assets/end_point2.png)
+

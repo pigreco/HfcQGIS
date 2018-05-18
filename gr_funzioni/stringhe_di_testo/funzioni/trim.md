@@ -1,10 +1,12 @@
+# trim
+
 ## Funzione `trim`
 
-Rimuove tutti gli spazi vuoti (spazi, tabulazioni, etc.) all'inizio e alla fine di una stringa.
+Rimuove tutti gli spazi vuoti \(spazi, tabulazioni, etc.\) all'inizio e alla fine di una stringa.
 
 ## Sintassi
 
-trim(_string_)
+trim\(_string_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ trim(_string_)
 
 * `trim(' hello world   ') → 'hello world'`
 
-<img src="/img/stringhe_di_testo/trim/trim1.png">
+![](../../../.gitbook/assets/trim1.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ trim(_string_)
 ## osservazioni
 
 --
+

@@ -1,10 +1,12 @@
+# rand
+
 ## Funzione `rand`
 
-Restituisce un intero casuale nell'intervallo specificato fra un minimo ed un massimo (inclusi).
+Restituisce un intero casuale nell'intervallo specificato fra un minimo ed un massimo \(inclusi\).
 
 ## Sintassi
 
-rand(_min, max_)
+rand\(_min, max_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ rand(_min, max_)
 
 * `rand(1, 10) → 8`
 
-<img src="/img/matematica/rand/rand1.png">
+![](../../../.gitbook/assets/rand1.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ rand(_min, max_)
 ## osservazioni
 
 --
+

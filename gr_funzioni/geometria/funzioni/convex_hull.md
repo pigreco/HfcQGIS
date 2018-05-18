@@ -1,10 +1,12 @@
+# convex\_hull
+
 ## Funzione `convex_hull`
 
 Restituisce il poligono convesso di una geometria. Rappresenta la minima geometria convessa che racchiude tutte le geometria contenute nell'insieme.
 
 ## Sintassi
 
-convex_hull(_geometry_)
+convex_hull\(\_geometry_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ convex_hull(_geometry_)
 
 * `geom_to_wkt( convex_hull( geom_from_wkt( 'LINESTRING(3 3, 4 4, 4 10)' ) ) ) → POLYGON((3 3,4 10,4 4,3 3))`
 
-<img src="/img/geometria/convex_hull/convex_hull1.png">
+![](../../../.gitbook/assets/convex_hull1%20%281%29.png)
 
 ## nota bene
 
@@ -24,4 +26,5 @@ convex_hull(_geometry_)
 
 La funzione restituisce sempre un poligono.
 
-<img src="/img/geometria/convex_hull/convex_hull2.png">
+![](../../../.gitbook/assets/convex_hull2%20%281%29.png)
+

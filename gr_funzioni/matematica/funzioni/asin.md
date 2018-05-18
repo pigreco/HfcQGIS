@@ -1,10 +1,12 @@
+# asin
+
 ## Funzione `asin`
 
 Restituisce l'arcoseno del valore in radianti.
 
 ## Sintassi
 
-asin(_value_)
+asin\(_value_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ asin(_value_)
 
 * `asin(1.0) → 1.5707963267949`
 
-<img src="/img/matematica/asin/asin1.png">
+![](../../../.gitbook/assets/asin1.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ asin(_value_)
 ## osservazioni
 
 --
+

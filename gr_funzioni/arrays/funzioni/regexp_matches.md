@@ -1,16 +1,18 @@
+# regexp\_matches
+
 ## Funzione `regexp_matches`
 
 Restituisce un array di tutte le stringhe catturate dai gruppo, nell'ordine che i gruppi stessi compaiono con l'espressione regolare fornita con una stringa.
 
 ## Sintassi
 
-* regexp_matches(_string, regex, empty_value_)
+* regexp_matches\(\_string, regex, empty\_value_\)
 
 ## Argomenti
 
 * _string_ la stringa con cui catturare i gruppi da un'espressione regolare
 * _regex_ l'espressione regolare usata per catturare gruppi
-* _empty_value_ la stringa opzionale da usare come sostituzione per le corrispondenze (lunghezza nulla) mancanti
+* _empty\_value_ la stringa opzionale da usare come sostituzione per le corrispondenze \(lunghezza nulla\) mancanti
 
 ## Esempi
 
@@ -19,7 +21,7 @@ Restituisce un array di tutte le stringhe catturate dai gruppo, nell'ordine che 
 * `regexp_matches('key=>','(.*)=>','empty value') →'array: 'key'`
 * `regexp_matches('key=>7','(.*)=>(.*)','empty value') → array: 'key', '7'`
 
-<img src="/img/arrays/regexp_matches/regexp_matches1.png">
+![](../../../.gitbook/assets/regexp_matches1%20%281%29.png)
 
 ## nota bene
 
@@ -28,3 +30,4 @@ Restituisce un array di tutte le stringhe catturate dai gruppo, nell'ordine che 
 ## osservazioni
 
 --
+

@@ -1,10 +1,12 @@
+# map\_get
+
 ## Funzione `map_get`
 
 Restituisce il valore di una mappa, passando la sua chiave.
 
 ## Sintassi
 
-map_get(_map, key_)
+map_get\(\_map, key_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ map_get(_map, key_)
 
 * `map_get(map('1','one','2','two'),'2') → 'two'`
 
-<img src="/img/maps/map_get/map_get1.png">
+![](../../../.gitbook/assets/map_get1.png)
 
 ## nota bene
 
@@ -25,4 +27,5 @@ map_get(_map, key_)
 
 --
 
-<img src="/img/maps/map_get/map_get2.png">
+![](../../../.gitbook/assets/map_get2.png)
+

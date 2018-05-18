@@ -1,10 +1,12 @@
+# atan
+
 ## Funzione `atan`
 
 Restituisce l'arcotangente del valore in radianti.
 
 ## Sintassi
 
-atan(_value_)
+atan\(_value_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ atan(_value_)
 
 * `atan(0.5) → 0.463647609000806`
 
-<img src="/img/matematica/atan/atan1.png">
+![](../../../.gitbook/assets/atan1%20%281%29.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ atan(_value_)
 ## osservazioni
 
 --
+

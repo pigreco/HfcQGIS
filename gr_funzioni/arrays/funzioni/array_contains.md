@@ -1,10 +1,12 @@
+# array\_contains
+
 ## Funzione `array_contains`
 
 Restituisce _true_ se un array contiene il valore specificato.
 
 ## Sintassi
 
-array_contains(_array, value_)
+array_contains\(\_array, value_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ array_contains(_array, value_)
 
 * `array_contains(array(1,2,3),2) → true`
 
-<img src="/img/arrays/array_contains/array_contains1.png">
+![](../../../.gitbook/assets/array_contains1%20%281%29.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ array_contains(_array, value_)
 ## osservazioni
 
 --
+

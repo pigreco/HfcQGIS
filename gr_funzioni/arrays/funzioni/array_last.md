@@ -1,10 +1,12 @@
+# array\_last
+
 ## Funzione `array_last`
 
 Restituisce l'ultimo valore di un array.
 
 ## Sintassi
 
-array_last(_array_)
+array_last\(\_array_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ array_last(_array_)
 
 * `array_last(array('a','b','c')) → 'c'`
 
-<img src="/img/arrays/array_last/array_last1.png">
+![](../../../.gitbook/assets/array_last1.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ array_last(_array_)
 ## osservazioni
 
 --
+

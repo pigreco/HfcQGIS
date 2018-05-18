@@ -1,3 +1,5 @@
+# length
+
 ## Funzione `length`
 
 Restituisce il numero di caratteri in una stringa o la lunghezza di una geometria di tipo linestring.
@@ -8,7 +10,7 @@ Restituisce il numero di caratteri contenuti in una stringa.
 
 ## Sintassi
 
-length(_string_)
+length\(_string_\)
 
 ## Argomenti
 
@@ -18,15 +20,15 @@ length(_string_)
 
 * `length('hello') → 5`
 
-<img src="/img/stringhe_di_testo/length/length1.png">
+![](../../../.gitbook/assets/length1.png)
 
 ## Variabile geometria
 
-Calcola la lunghezza di un oggetto a geometria lineare. I calcoli sono sempre planimetrici nel Sistema di Riferimento Spaziale (SR) di detta geometria, e l'unità di misura della lunghezza restituita è conforme all'unità di misura del SR. Ciò differisce dal calcolo eseguito dalla funzione $length, la quale esegue calcoli ellissoidici basati sull'ellissoide del progetto e sulle impostazioni delle unità di distanza.
+Calcola la lunghezza di un oggetto a geometria lineare. I calcoli sono sempre planimetrici nel Sistema di Riferimento Spaziale \(SR\) di detta geometria, e l'unità di misura della lunghezza restituita è conforme all'unità di misura del SR. Ciò differisce dal calcolo eseguito dalla funzione $length, la quale esegue calcoli ellissoidici basati sull'ellissoide del progetto e sulle impostazioni delle unità di distanza.
 
 ## Sintassi
 
-length(_geometry_)
+length\(_geometry_\)
 
 ## Argomenti
 
@@ -35,8 +37,7 @@ length(_geometry_)
 ## Esempi
 
 * `length(geom_from_wkt('LINESTRING(0 0, 4 0)')) → 4`
-* 
-<img src="/img/stringhe_di_testo/length/length2.png">
+* ![](../../../.gitbook/assets/length2.png)
 
 ## nota bene
 
@@ -45,3 +46,4 @@ length(_geometry_)
 ## osservazioni
 
 --
+

@@ -1,10 +1,12 @@
+# array\_remove\_all
+
 ## Funzione `array_remove_all`
 
 Restituisce un array con tutti gli elementi del valore passato rimossi.
 
 ## Sintassi
 
-* array_remove_all(_array, value_)
+* array_remove\_all\(\_array, value_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ Restituisce un array con tutti gli elementi del valore passato rimossi.
 
 * `array_remove_all(array('a','b','c','b'),'b') → array: 'a','c'`
 
-<img src="/img/arrays/array_remove_all/array_remove_all1.png">
+![](../../../.gitbook/assets/array_remove_all1.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ Restituisce un array con tutti gli elementi del valore passato rimossi.
 ## osservazioni
 
 --
+

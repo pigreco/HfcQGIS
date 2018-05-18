@@ -1,10 +1,12 @@
+# color\_cmyk
+
 ## Funzione `color_cmyk`
 
 Restituisce una rappresentazione stringa di un colore basato sui suoi componenti ciano, magenta, giallo e nero
 
 ## Sintassi
 
-color_cmyk(_cyan, magenta, yellow, black_)
+color_cmyk\(\_cyan, magenta, yellow, black_\)
 
 ## Argomenti
 
@@ -17,7 +19,7 @@ color_cmyk(_cyan, magenta, yellow, black_)
 
 * `color_cmyk(100,50,0,10) → 0,115,230`
 
-<img src="/img/colore/color_cmyk/color_cmyk1.png">
+![](../../../.gitbook/assets/color_cmyk1%20%281%29.png)
 
 ## nota bene
 
@@ -26,3 +28,4 @@ color_cmyk(_cyan, magenta, yellow, black_)
 ## osservazioni
 
 `color_cmyk(100,50,0,10) = color_rgb( 0,115,230 )`
+

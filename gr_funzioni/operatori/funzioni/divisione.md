@@ -1,9 +1,12 @@
-## Operatore `/` (divisione)
+# divisione
+
+## Operatore `/` \(divisione\)
 
 Divisione di due valori.
 
 ## Esempi
-```
+
+```text
 * 5 / 4 → 1.25
 * 5 / NULL → NULL
 * NULL / 5 → NULL
@@ -13,4 +16,5 @@ Divisione di due valori.
 
 --
 
-<img src="/img/operatori/divisione1.png">
+![](../../../.gitbook/assets/divisione1%20%281%29.png)
+

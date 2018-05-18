@@ -1,21 +1,23 @@
+# regexp\_match
+
 ## Funzione `regexp_match`
 
 Restituisce la prima posizione di corrispondenza che soddisfa un'espressione regolare all'interno di una stringa, o 0 se la sottostringa non viene trovata.
 
 ## Sintassi
 
-regexp_match(_input_string, regex_)
+regexp_match\(\_input\_string, regex_\)
 
 ## Argomenti
 
-* _input_string_ la stringa da confrontare con l'espressione regolare
-* _regex_ L'espressione regolare da confrontare. I caratteri backslash (\\) devono essere doppiamente escaped (es "\\s" per selezionare un carattere spazio bianco).
+* _input\_string_ la stringa da confrontare con l'espressione regolare
+* _regex_ L'espressione regolare da confrontare. I caratteri backslash \(\\) devono essere doppiamente escaped \(es "\s" per selezionare un carattere spazio bianco\).
 
 ## Esempi
 
 * `regexp_match('QGIS ROCKS','\\sROCKS') → 5`
 
-<img src="/img/stringhe_di_testo/regexp_match/regexp_match1.png">
+![](../../../.gitbook/assets/regexp_match1%20%281%29.png)
 
 ## nota bene
 
@@ -29,12 +31,13 @@ regexp_match(_input_string, regex_)
 * $ « dollaro » se messa alla fine della regex impone che la linea finisca con quello che precede il dollaro
 * . « punto » qualunque carattere
 * \* « asterisco » accetta zero o più ripetizioni del carattere precedente
-* \+ « più » accetta una o più ripetizioni del carattere precedente
-* \[ ] « parentesi quadre » tutti i caratteri all’interno delle [ ] sono accettati: le due parentesi si comportano come un singolo carattere
-* [^ ] « parentesi quadre con apice » tutti i caratteri tranne quelli all’interno delle [ ] sono accettati
+* + « più » accetta una o più ripetizioni del carattere precedente
+* \[ \] « parentesi quadre » tutti i caratteri all’interno delle \[ \] sono accettati: le due parentesi si comportano come un singolo carattere
+*  « parentesi quadre con apice » tutti i caratteri tranne quelli all’interno delle \[ \] sono accettati
 * / « slash » inizia/termina l’espressione regolare
-* \ « barra rovesciata » tratta il carattere speciale che segue come un normale carattere testuale o viceversa tratta un normale carattere come un carattere speciale
+*  « barra rovesciata » tratta il carattere speciale che segue come un normale carattere testuale o viceversa tratta un normale carattere come un carattere speciale
 
 [link](https://natonelbronx.wordpress.com/2007/12/02/le-espressioni-regolari-regex-o-regexp/)
 
-*`regexp_match('QGIS ROCKS ciao come stai','$')= length ('QGIS ROCKS ciao come stai')+1`
+\*`regexp_match('QGIS ROCKS ciao come stai','$')= length ('QGIS ROCKS ciao come stai')+1`
+

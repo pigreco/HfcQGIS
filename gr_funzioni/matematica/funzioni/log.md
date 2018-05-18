@@ -1,10 +1,12 @@
+# log
+
 ## Funzione `log`
 
 Restituisce il valore del logaritmo della base e valore passati.
 
 ## Sintassi
 
-log(_base, value_)
+log\(_base, value_\)
 
 ## Argomenti
 
@@ -17,7 +19,7 @@ log(_base, value_)
 * `log(0.5, 32) → -5`
 * `log(2.7182818284590452354, 1) = ln(1) → 1`
 
-<img src="/img/matematica/log/log1.png">
+![](../../../.gitbook/assets/log1.png)
 
 ## nota bene
 
@@ -26,3 +28,4 @@ log(_base, value_)
 ## osservazioni
 
 --
+

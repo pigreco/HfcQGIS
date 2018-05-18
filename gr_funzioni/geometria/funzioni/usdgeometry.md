@@ -1,0 +1,26 @@
+# $geometry
+
+## Funzione `$geometry`
+
+Restituisce la geometria dell'elemento attuale. Può essere usato per il processamento con altre funzioni.
+
+## Sintassi
+
+$geometry
+
+## Esempi
+
+* geomToWKT\( $geometry \) → POINT\(6 50\)
+* area\($geoamtry\) → 1234567.89 mq
+* perimeter\($geometry\) → 25689.25 m
+
+![](../../../.gitbook/assets/usdgeometry1%20%281%29.png)
+
+## nota bene
+
+--
+
+## osservazioni
+
+il $ indica che è relativo all'elemento corrente e non ha bisogno di argomenti.
+

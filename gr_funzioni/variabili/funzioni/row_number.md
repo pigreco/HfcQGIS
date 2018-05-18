@@ -1,3 +1,5 @@
+# row\_number
+
 ## Funzione `row_number`
 
 Memorizza il numero della riga corrente.
@@ -8,7 +10,7 @@ Memorizza il numero della riga corrente.
 
 ## Esempi
 
-<img src="/img/variabili/row_number/row_number1.png">
+![](../../../.gitbook/assets/row_number1%20%281%29.png)
 
 ## nota bene
 
@@ -17,3 +19,4 @@ Memorizza il numero della riga corrente.
 ## osservazioni
 
 --
+

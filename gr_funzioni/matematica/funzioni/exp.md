@@ -1,10 +1,12 @@
+# exp
+
 ## Funzione `exp`
 
 Restituisce l'esponenziale di un valore.
 
 ## Sintassi
 
-exp(_value_)
+exp\(_value_\)
 
 ## Argomenti
 
@@ -14,7 +16,7 @@ exp(_value_)
 
 * `exp(1.0) → 2.71828182845905`
 
-<img src="/img/matematica/exp/exp1.png">
+![](../../../.gitbook/assets/exp1%20%281%29.png)
 
 ## nota bene
 
@@ -23,3 +25,4 @@ exp(_value_)
 ## osservazioni
 
 --
+

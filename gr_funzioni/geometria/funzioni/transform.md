@@ -1,22 +1,24 @@
+# transform
+
 ## Funzione `transform`
 
 Restituisce la geometria trasformata da un SR sorgente ad un SR di destinazione.
 
 ## Sintassi
 
-transform(_geomometry, source_auth_id, dest_auth_id_)
+transform\(_geomometry, source\_auth\_id, dest\_auth\_id_\)
 
 ## Argomenti
 
 * _geometry_ una geometria
-* _source_auth_id_ ID del SR sorgente
-* _dest_auth_id_ ID del SR destinazione
+* _source\_auth\_id_ ID del SR sorgente
+* _dest\_auth\_id_ ID del SR destinazione
 
 ## Esempi
 
 * `geom_to_wkt( transform( $geometry, 'EPSG:2154', 'EPSG:4326' ) ) → POINT(0 51)`
 
-<img src="/img/geometria/transform/transform1.png">
+![](../../../.gitbook/assets/transform1.png)
 
 ## nota bene
 
@@ -26,4 +28,5 @@ transform(_geomometry, source_auth_id, dest_auth_id_)
 
 --
 
-<img src="/img/geometria/transform/transform2.png">
+![](../../../.gitbook/assets/transform2.png)
+

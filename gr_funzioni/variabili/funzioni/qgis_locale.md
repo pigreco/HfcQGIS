@@ -1,3 +1,5 @@
+# qgis\_locale
+
 ## Funzione `qgis_locale`
 
 --
@@ -8,7 +10,7 @@
 
 ## Esempi
 
-<img src="/img/variabili/qgis_locale/qgis_locale1.png">
+![](https://github.com/pigreco/HfcQGIS/tree/852bbb62a0d5b7739914d4de0ea5b1ebbb5d81d1/img/variabili/qgis_locale/qgis_locale1.png)
 
 ## nota bene
 
@@ -17,3 +19,4 @@
 ## osservazioni
 
 --
+

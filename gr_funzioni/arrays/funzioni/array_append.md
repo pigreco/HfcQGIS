@@ -1,10 +1,12 @@
+# array\_append
+
 ## Funzione `array_append`
 
 Restituisce un array con il valore passato aggiunto alla fine.
 
 ## Sintassi
 
-array_append(_array, value_)
+array_append\(\_array, value_\)
 
 ## Argomenti
 
@@ -15,7 +17,7 @@ array_append(_array, value_)
 
 * `array_append(array(1,2,3),4) → array: 1,2,3,4`
 
-<img src="/img/arrays/array_append/array_append1.png">
+![](../../../.gitbook/assets/array_append1.png)
 
 ## nota bene
 
@@ -24,3 +26,4 @@ array_append(_array, value_)
 ## osservazioni
 
 --
+
