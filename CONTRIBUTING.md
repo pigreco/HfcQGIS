@@ -1,6 +1,6 @@
 ## Contribuire a HfcQGIS 
 
-:+1: Prima di tutto, grazie per aver dedicato del tempo a questo progetto! :+1: 👍
+Prima di tutto, grazie per aver dedicato del tempo a questo progetto! 👍
 
 Quella che segue è una serie di linee guida per contribuire a **HfcQGIS**. Queste sono principalmente linee guida, non regole. Usa il buon senso e sentiti libero di proporre modifiche a questo documento in una pull request.
 

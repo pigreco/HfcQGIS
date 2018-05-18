@@ -5,7 +5,7 @@
 3. il calcolatore popola un campo per volta;
 4. l'output del calcolatore popola tutte le righe della tabella attributi o solo quelle selezionate;
 5. nella tabella attributi tutte le operazioni agiscono riga per riga;
-6. è possibile richiamare altri layer tramite la funzione [get_feature](/gr_funzioni/record_e_attributi/get_feature.md);
+6. è possibile richiamare altri layer tramite la funzione [get_feature](/gr_funzioni/record_e_attributi/funzioni/get_feature.md);
 7. il risultato delle funzioni di aggregazione verrà ripetuto in tutti le righe;
 8. è possibile **aggiornare** la *geometry* >= QGIS 2.14;
 9. $area, $perimeter ecc.. il $ davanti ad una funzione significa che riguarda la geometry corrente;
