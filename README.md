@@ -7,7 +7,7 @@
 
 # ![logo](img/logo_HfcQGIS3.png) Help funzioni calcolatore di campi di QGIS (HfcQGIS)
 
-Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot. :star2:
+Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
 ## Indice gruppi di funzioni/espressioni (286/381)
 - [x] [Aggregates](/gr_funzioni/aggregates) (22/22) >= QGIS 2.16  
@@ -61,10 +61,10 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 ## Come puoi usare questo lavoro
 
-* [Github](https://github.com/pigreco/HfcQGIS); :octocat:
-* [Ebook](https://gis.gitbook.io/hfcqgis/); :book:
+* [Github](https://github.com/pigreco/HfcQGIS);
+* [Ebook](https://gis.gitbook.io/hfcqgis/);
 
-## Traduzione in italiano :it:
+## Traduzione in italiano
 
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da [Stefano Campus](https://twitter.com/skampus1967?lang=it)
 
