@@ -1,7 +1,7 @@
 # Table of contents
 
 * [README](README.md)
-* gr\_funzioni
+* Gruppo funzioni
   * geometria
     * funzioni
       * [shortest\_line](gr_funzioni/geometria/funzioni/shortest_line.md)
@@ -432,18 +432,12 @@
   * [README](gr_funzioni/campi_e_valori-1.md)
   * [README](gr_funzioni/maps-1.md)
   * [README](gr_funzioni/record_e_attributi-1.md)
-* [PULL\_REQUEST\_TEMPLATE](pull_request_template.md)
 * [intro\_interf](intro_interf.md)
 * [README](esempi_uso/README.md)
   * [add\_col\_area](esempi_uso/add_col_area.md)
   * [add\_campo\_virtuale](esempi_uso/add_campo_virtuale.md)
   * [add\_coord\_xy](esempi_uso/add_coord_xy.md)
   * [add\_col\_z](esempi_uso/add_col_z.md)
-* [README](img.md)
-* .github
-  * issue\_template
-    * [feature\_request](.github/issue_template/feature_request.md)
-    * [bug\_report](.github/issue_template/bug_report.md)
 * [operatori\_calc](operatori_calc.md)
 * [concetti\_base](concetti_base.md)
 * [CONTRIBUTING](contributing.md)
