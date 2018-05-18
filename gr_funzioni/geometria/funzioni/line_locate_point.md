@@ -25,4 +25,4 @@ line_locate_point(_geometry, point_)
 
 --
 
-<img src="/img/geometria/xline_locate_pointxx/line_locate_point1.png">
+<img src="/img/geometria/line_locate_point/line_locate_point1.png">
