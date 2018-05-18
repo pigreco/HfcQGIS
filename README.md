@@ -5,7 +5,7 @@
 [![Donate to QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square)](http://qgis.org/en/site/getinvolved/donations.html)
 
 
-# ![logo](img/logo_HfcQGIS3.png) Help funzioni calcolatore di campi di QGIS (HfcQGIS)
+# ![logo](img/logo_HfcQGIS3.png "Logo HfcQGIS") Help funzioni calcolatore di campi di QGIS (HfcQGIS)
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot. :star2:
 
@@ -35,7 +35,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 ## Calcolatore di campi
 
-<img src="/img/calcolatore_campi1.png">
+![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
 
 * [Concetti base](/concetti_base.md) Concetti base sul calcolatore di campi - IN EVOLUZIONE
 * [Introduzione](/intro_interf.md) Introduzione all'interfaccia calcolatore di campi
@@ -70,7 +70,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da [Stefano Campus](https://twitter.com/skampus1967?lang=it)
 
-<img src="/img/traduttori.png">
+![ita](img/traduttori.png  "screen da QGIS")
 
 ## link
 
@@ -105,6 +105,6 @@ per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pen
 
 Repo costruito con:
 
-<img src="/img/VScode_QGIS.png">
+![screen2](img/VScode_QGIS.png "screen VScode e QGIS 3")
 
 * [Visual Studio code](https://it.wikipedia.org/wiki/Visual_Studio_Code)
