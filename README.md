@@ -61,8 +61,8 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 ## Come puoi usare questo lavoro
 
-* Github; :octocat:
-* Ebook; :book:
+* [Github](https://github.com/pigreco/HfcQGIS); :octocat:
+* [Ebook](https://gis.gitbook.io/hfcqgis/); :book:
 
 ## Traduzione in italiano :it:
 
