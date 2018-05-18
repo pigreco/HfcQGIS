@@ -1,4 +1,4 @@
-            ---------------------------:no_entry: IN LAVORAZIONE :no_entry:---------------------------
+:no_entry: IN LAVORAZIONE :no_entry:
 
 [![GitHub repo size in bytes](https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-square)](https://github.com/pigreco/HfcQGIS)
 [![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
@@ -62,9 +62,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 ## Come puoi usare questo lavoro
 
 * Github; :octocat:
-* Bot Telegram (ma chi lo userebbe?); :iphone:
-* eBook (ma come si fa?); :book:
-* Collegarlo al calcolatore di campi :clapper:
+* Ebook; :book:
 
 ## Traduzione in italiano :it:
 
@@ -101,7 +99,7 @@ per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pen
 * [Salvatore Fiandaca](https://twitter.com/totofiandaca?lang=it) (aka _Totò_)
     * Ideatore e sviluppatore ...
 * [Andrea Borruso](https://twitter.com/aborruso?lang=it) (aka _WikiAndy_)
-    * Supporto tecnico GitHub, VScode e Markdown e ...
+    * Supporto tecnico GitHub, VScode, Markdown e gitbook;
 
 Repo costruito con:
 
