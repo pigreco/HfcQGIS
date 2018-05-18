@@ -27,4 +27,6 @@ Un campo virtuale è un campo che si aggiorna dimanicamente e non modifica la ta
 
 [![field_calc03](https://img.youtube.com/vi/IymSgXmbAFM/0.jpg)](https://www.youtube.com/watch?v=IymSgXmbAFM&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu&index "fiel_calc03")
 
+[video youtube](https://www.youtube.com/watch?v=IymSgXmbAFM&list=PLqDFjeQq7NBjz5PWb66PNUqMgN1fce4cu&inde)
+
 il geopackage è scaricabile [qui](dati_esempi.gpkg)
