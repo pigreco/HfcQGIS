@@ -64,7 +64,7 @@ Gruppo funzioni|nro funzioni|descrizione
 ## Come puoi usare questo lavoro
 
 * [Github](https://github.com/pigreco/HfcQGIS)
-* [Ebook](https://gis.gitbook.io/hfcqgis/) 🕮
+* [Ebook](https://pigrecoinfinito.gitbook.io/hfcqgis/) 🕮
 
 ## Traduzione in italiano
 
