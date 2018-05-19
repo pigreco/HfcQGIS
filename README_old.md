@@ -11,30 +11,28 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 ## Indice gruppi di funzioni/espressioni (286/381)
 
-Gruppo funzioni|nro funzioni|descrizione
----------------|:----------:|-----------
-[Aggregates](/gr_funzioni/aggregates) |(22/22)| >= QGIS 2.16  
-[Arrays](/gr_funzioni/arrays)| (20/20) |>= QGIS 3.0 (SpatiaLite, PostGIS)
-[Campi e valori](/gr_funzioni/campi_e_valori)| (1/1)|
-[Colore](/gr_funzioni/colore)| (15/15)|
-[Condizioni](/gr_funzioni/condizioni)| (4/4)|
-[Conversioni](/gr_funzioni/conversioni)| (7/7)|
-[Corrispondenza fuzzy](/gr_funzioni/corrispondenza_fuzzy)| (4/4)|
-[Custom](/gr_funzioni/custom)| (4/4)| funzioni personalizzate
-[Data e ora](/gr_funzioni/data_ora) |(16/16)|
-[Generale](/gr_funzioni/generale)| (6/6)|
-[Geometria](/gr_funzioni/geometria) |(97/97)|
-[Layer della mappa](/gr_funzioni/layer_della_mappa)| (1/1)| >= QGIS 3.0
-[Maps](/gr_funzioni/maps)| (8/8) |>= QGIS 3.0 (PostGIS)
-[Matematica](/gr_funzioni/matematica)| (28/28)|
-[Operatori](/gr_funzioni/operatori)| (21/21)|
-[Recente](/gr_funzioni/recente) |(1/1)|
-[Record e attributi](/gr_funzioni/record_e_attributi)| (9/9)|
-[Reference](/gr_funzioni/reference)| (0/21)| Plugin refFunction
-[Stringhe di testo](/gr_funzioni/stringhe_di_testo)| (22/22)|
-[TimeManager](/gr_funzioni/timemanager)| (0/5)| Plugin Time Manager
-[Transformation](/gr_funzioni/transformation)| (0/4)| Plugin refFunction
-[Variabili](/gr_funzioni/variabili) |(0/65) |>= QGIS 2.12
+- [x] [Aggregates](/gr_funzioni/aggregates) (22/22) >= QGIS 2.16  
+- [x] [Arrays](/gr_funzioni/arrays) (20/20) >= QGIS 3.0 (SpatiaLite, PostGIS)
+- [x] [Campi e valori](/gr_funzioni/campi_e_valori) (1/1)
+- [x] [Colore](/gr_funzioni/colore) (15/15)
+- [x] [Condizioni](/gr_funzioni/condizioni) (4/4)
+- [x] [Conversioni](/gr_funzioni/conversioni) (7/7)
+- [x] [Corrispondenza fuzzy](/gr_funzioni/corrispondenza_fuzzy) (4/4)
+- [x] [Custom](/gr_funzioni/custom) (4/4) funzioni personalizzate
+- [x] [Data e ora](/gr_funzioni/data_ora) (16/16)
+- [x] [Generale](/gr_funzioni/generale) (6/6)
+- [x] [Geometria](/gr_funzioni/geometria) (97/97)
+- [x] [Layer della mappa](/gr_funzioni/layer_della_mappa) (1/1) >= QGIS 3.0
+- [x] [Maps](/gr_funzioni/maps) (8/8) >= QGIS 3.0 (PostGIS)
+- [x] [Matematica](/gr_funzioni/matematica) (28/28)
+- [x] [Operatori](/gr_funzioni/operatori) (21/21)
+- [x] [Recente](/gr_funzioni/recente) (1/1)
+- [x] [Record e attributi](/gr_funzioni/record_e_attributi) (9/9)
+- [ ] [Reference](/gr_funzioni/reference) (0/21) Plugin refFunction
+- [x] [Stringhe di testo](/gr_funzioni/stringhe_di_testo) (22/22)
+- [ ] [TimeManager](/gr_funzioni/timemanager) (0/5) Plugin Time Manager
+- [ ] [Transformation](/gr_funzioni/transformation) (0/4) Plugin refFunction
+- [ ] [Variabili](/gr_funzioni/variabili) (0/65) >= QGIS 2.12
 
 ## Calcolatore di campi
 
