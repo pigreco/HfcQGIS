@@ -11,7 +11,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 ## Indice gruppi di funzioni/espressioni (286/381)
 
-Gruppo funzioni|nro funzioni|descrizione
+Gruppo funzioni|nro funzioni|info
 ---------------|:----------:|-----------
 [Aggregates](/gr_funzioni/aggregates) |(22/22)| >= QGIS 2.16  
 [Arrays](/gr_funzioni/arrays)| (20/20) |>= QGIS 3.0 (SpatiaLite, PostGIS)
