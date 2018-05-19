@@ -7,17 +7,18 @@ Quella che segue è una serie di linee guida per contribuire a **HfcQGIS**. Ques
 ## Come puoi contribuire
 
 ### Donazione [qui](https://www.paypal.me/pigrecoinfinito)
+Per realizzare questa guida ho impiegato del tempo e messo a disposizione tutta la mia conoscenza sullo strumento.
 
 ### Segnalazione di bug
-Questa sezione ti guida attraverso l'invio di una segnalazione di bug per **HfcQGIS**. Seguire queste linee guida aiuta i manutentori e la comunità a capire il tuo rapporto 📝, riprodurre il comportamento 💻 💻 e trovare i rapporti correlati 🔎.
+Se trovi qualche malfunzionamento segnalalo cosi da migliorare la guida.
 
 ### Suggerire miglioramenti
+Se hai suggerimenti o migliorie segnalale.
 
 ### Suggerire esempi/esercizi
+Se vuoi che la sezione esempi cresca, suggerisci degli esempi che vorresti vedere.
 
 ### Pull Requests
-
-Compila il modello suggerito
 Includere screenshot e GIF animate nella richiesta di pull, quando possibile.
 Documenta bene
 Terminare tutti i file con una nuova riga
