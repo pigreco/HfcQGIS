@@ -48,23 +48,23 @@ Gruppo funzioni|nro funzioni|descrizione
 ---
 ## [Cosa puoi fare](CONTRIBUTING.md) ❔
 
-- *contribuire*
+- *contribuire* 💳📣
     - [finanziariamente*](https://www.paypal.me/pigrecoinfinito);
     - [condividendo e divulgando](https://www.facebook.com/) usare HashTag **#HfcQGIS**;
-- *segnalare errori*
+- *segnalare errori* ⚠️
     - [tramite issues](https://github.com/pigreco/HfcQGIS/issues);
-- *aggiungere funzioni*
+- *aggiungere funzioni* 🎫
     - [tramite pull requests](https://github.com/pigreco/HfcQGIS/pulls);
     - [tramite issues](https://github.com/pigreco/HfcQGIS/issues);
 - *aggiungere esempi* 📝
     - [tramite pull requests](https://github.com/pigreco/HfcQGIS/pulls)
-- *lasciare un messaggio* 📝💭
+- *lasciare un messaggio* 📝💭 ✉️ 📮
     - [scrivi un messaggio qui](https://github.com/pigreco/HfcQGIS/issues/1)
 
 ## Come puoi usare questo lavoro
 
-* [Github](https://github.com/pigreco/HfcQGIS);
-* [Ebook](https://gis.gitbook.io/hfcqgis/);
+* [Github](https://github.com/pigreco/HfcQGIS)
+* [Ebook](https://gis.gitbook.io/hfcqgis/) 🕮
 
 ## Traduzione in italiano
 
@@ -85,11 +85,11 @@ Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [
 
 ## Donate
 
-💶 [HfcQGIS](https://www.paypal.me/pigrecoinfinito) 💶
+💶 [HfcQGIS](https://www.paypal.me/pigrecoinfinito) 💶 💳
 
 \* il X % sarà donato a **QGIS.it** 
 
-## Autori `HfcQGIS`
+## ©️ Autori `HfcQGIS`
 
 * [Salvatore Fiandaca](https://twitter.com/totofiandaca?lang=it) (aka _Totò_)
     * Ideatore e sviluppatore ...
