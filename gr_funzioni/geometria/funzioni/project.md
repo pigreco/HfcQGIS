@@ -25,4 +25,4 @@ project(_point, distance, bearing_)
 
 --
 
-![](/img/geometria/project/project1.gif">
+![](/img/geometria/project/project1.gif)

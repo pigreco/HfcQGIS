@@ -34,4 +34,4 @@ Utilizzando il _geometry generator_ per i temi (il layer strade è una unica fea
 
 Gif animata: _geometry 1_ è la rete stradale; _geometry 2_ sono i punti; in rosso i closestpoint
 
-![](/img/geometria/closest_point/closestpoint.gif">
+![](/img/geometria/closest_point/closestpoint.gif)
