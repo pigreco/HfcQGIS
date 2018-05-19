@@ -1,12 +1,10 @@
-# randf
-
 ## Funzione `randf`
 
-Restituisce un numero in virgola mobile casuale nell'intervallo specificato da un minimo ed un massimo \(inclusi\).
+Restituisce un numero in virgola mobile casuale nell'intervallo specificato da un minimo ed un massimo (inclusi).
 
 ## Sintassi
 
-randf\(_min, max_\)
+randf(_min, max_)
 
 ## Argomenti
 
@@ -19,7 +17,7 @@ randf\(_min, max_\)
 
 ## Esempi
 
-![](../../../.gitbook/assets/randf1.png)
+![](/img/matematica/randf/randf1.png)
 
 ## nota bene
 
@@ -28,4 +26,3 @@ randf\(_min, max_\)
 ## osservazioni
 
 --
-

@@ -1,5 +1,3 @@
-# day
-
 ## funzione `day`
 
 Estrae il giorno da una data, o il numero dei giorni da un intervallo.
@@ -10,7 +8,7 @@ Estrae il giorno da una data o un data/ora.
 
 ## Sintassi
 
-* day\(_date_\)
+* day(_date_)
 
 ## Argomenti
 
@@ -20,20 +18,18 @@ Estrae il giorno da una data o un data/ora.
 
 Calcola la lunghezza in giorni di un intervallo.
 
-## Sintassi
+## Sintassi 
 
-* day\(_interval_\)
+* day(_interval_)
 
 ## Argomenti
 
 * _interval_ valore intervallo da cui restituire il numero di giorni
 
 ## Esempi
-
-```text
+```
 * day(tointerval('3 days')) → 3
 * day(age('2012-01-01','2010-01-01')) → 730
 ```
 
-![](../../../.gitbook/assets/day1%20%281%29.png)
-
+![](/img/data_e_ora/day1.png)

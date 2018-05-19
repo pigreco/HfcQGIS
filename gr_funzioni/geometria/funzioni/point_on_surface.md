@@ -1,12 +1,10 @@
-# point\_on\_surface
-
 ## Funzione `point_on_surface`
 
 Restituisce un punto garantendo che sia giacente sulla superficie della geometria.
 
 ## Sintassi
 
-point_on\_surface\(\_geometry_\)
+point_on_surface(_geometry_)
 
 ## Argomenti
 
@@ -16,7 +14,7 @@ point_on\_surface\(\_geometry_\)
 
 * `point_on_surface($geometry) → una geometria punto`
 
-![](../../../.gitbook/assets/point_on_surface1.png)
+![](/img/geometria/point_on_surface/point_on_surface1.png)
 
 ## nota bene
 
@@ -26,5 +24,4 @@ point_on\_surface\(\_geometry_\)
 
 --
 
-![](../../../.gitbook/assets/point_on_surface2.png)
-
+![](/img/geometria/point_on_surface/point_on_surface2.png)

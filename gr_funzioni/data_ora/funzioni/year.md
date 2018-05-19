@@ -1,5 +1,3 @@
-# year
-
 ## funzione `year`
 
 Estrae la parte anno da una data, o il numero di anni da un intervallo.
@@ -10,19 +8,18 @@ Estrae la parte anno da una data o datetime.
 
 ## Sintassi
 
-* year\(_date_\)
+* year(_date_)
 
 ## Argomenti
 
 * _date_ un valore data o data/ora
 
 ## Esempi
-
-```text
+```
 week('2018-05-09') → 19
 ```
 
-![](../../../.gitbook/assets/year1%20%281%29.png)
+![](/img/data_e_ora/year1.png)
 
 ## Variabile intervallo
 
@@ -30,18 +27,16 @@ Calcola la lunghezza in anni di un intervallo.
 
 ## Sintassi
 
-* year\(_interval_\)
+* year(_interval_)
 
 ## Argomenti
 
 * _interval_ valore intervallo da cui restituire il numero di anni
 
 ## Esempi
-
-```text
+```
 year(to_interval('3 years')) → 3
 year(age('2012-01-01','2010-01-01')) → 1.9986
 ```
 
-![](../../../.gitbook/assets/year2%20%281%29.png)
-
+![](/img/data_e_ora/year2.png)

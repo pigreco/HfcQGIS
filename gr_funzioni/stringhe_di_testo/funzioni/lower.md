@@ -1,12 +1,10 @@
-# lower
-
 ## Funzione `lower`
 
 Converte una stringa in lettere minuscole.
 
 ## Sintassi
 
-lower\(_string_\)
+lower(_string_)
 
 ## Argomenti
 
@@ -16,7 +14,7 @@ lower\(_string_\)
 
 * `lower('HELLO World') → 'hello world'`
 
-![](../../../.gitbook/assets/lower1%20%281%29.png)
+![](/img/stringhe_di_testo/lower/lower1.png)
 
 ## nota bene
 
@@ -25,4 +23,3 @@ lower\(_string_\)
 ## osservazioni
 
 --
-

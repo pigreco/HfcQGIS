@@ -1,12 +1,10 @@
-# num\_points
-
 ## Funzione `num_points`
 
 Restituisce il numero di vertici in una geometria.
 
 ## Sintassi
 
-num\_points\(geometry\)
+num_points(geometry) 
 
 ## Argomenti
 
@@ -16,7 +14,7 @@ num\_points\(geometry\)
 
 * `num_points($geometry) → numero di vertici in $geometry`
 
-![](../../../.gitbook/assets/num_points1.png)
+![](/img/geometria/num_points/num_points1.png)
 
 ## nota bene
 
@@ -25,4 +23,3 @@ num\_points\(geometry\)
 ## osservazioni
 
 --
-

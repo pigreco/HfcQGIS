@@ -1,12 +1,9 @@
-# maggioreuguale
-
-## Operatore `>=` \(maggiore uguale\)
+## Operatore `>=` (maggiore uguale)
 
 Confronta due valori e pone a 1 se il valore a sinistra è maggiore o uguale del valore a destra.
 
 ## Esempi
-
-```text
+```
 * 5 >= 4 → 1
 * 5 >= 5 → 1
 * 4 >= 5 → 0
@@ -18,5 +15,4 @@ Confronta due valori e pone a 1 se il valore a sinistra è maggiore o uguale del
 
 0 significa **falso**
 
-![](../../../.gitbook/assets/maggioreuguale1%20%281%29.png)
-
+![](/img/operatori/maggioreuguale1.png)

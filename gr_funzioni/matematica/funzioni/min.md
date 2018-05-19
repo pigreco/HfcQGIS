@@ -1,12 +1,10 @@
-# min
-
 ## Funzione `min`
 
 Restituisce il valore minore di un insieme di valori.
 
 ## Sintassi
 
-min\(_value1, value2, …_\)
+min(_value1, value2, …_)
 
 ## Argomenti
 
@@ -19,7 +17,7 @@ min\(_value1, value2, …_\)
 
 ## Esempi
 
-![](../../../.gitbook/assets/min1.png)
+![](/img/matematica/min/min1.png)
 
 ## nota bene
 
@@ -28,4 +26,3 @@ min\(_value1, value2, …_\)
 ## osservazioni
 
 --
-

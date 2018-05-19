@@ -1,12 +1,10 @@
-# format\_number
-
 ## Funzione `format_number`
 
 Restituisce un numero formattato con il separatore locale per le migliaia. Inoltre tronca il numero al numero di posti forniti.
 
 ## Sintassi
 
-format_number\(\_number, places_\)
+format_number(_number, places_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ format_number\(\_number, places_\)
 
 * `format_number(10000000.332,2) → '10,000,000.33'`
 
-![](../../../.gitbook/assets/format_number1.png)
+![](/img/stringhe_di_testo/format_number/format_number1.png)
 
 ## nota bene
 
@@ -26,4 +24,3 @@ format_number\(\_number, places_\)
 ## osservazioni
 
 --
-

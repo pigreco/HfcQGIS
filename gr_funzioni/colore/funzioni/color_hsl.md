@@ -1,12 +1,10 @@
-# color\_hsl
-
 ## Funzione `color_hsl`
 
 Restituisce una rappresentazione stringa di un colore basato sui suoi attributi tonalità, saturazione e luminosità.
 
 ## Sintassi
 
-color_hsl\(\_hue, saturation, lightness_\)
+color_hsl(_hue, saturation, lightness_)
 
 ## Argomenti
 
@@ -18,7 +16,7 @@ color_hsl\(\_hue, saturation, lightness_\)
 
 * `color_hsl(100,50,70) → 166,217,140`
 
-![](../../../.gitbook/assets/color_hsl1%20%281%29.png)
+![](/img/colore/color_hsl/color_hsl1.png)
 
 ## nota bene
 
@@ -26,5 +24,4 @@ color_hsl\(\_hue, saturation, lightness_\)
 
 ## osservazioni
 
-`color_hsl(100,50,70) = color_rgb( 166,217,140)`
-
+`color_hsl(100,50,70) =  color_rgb( 166,217,140)`

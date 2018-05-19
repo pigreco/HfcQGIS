@@ -1,12 +1,9 @@
-# AND
-
 ## Operatore `AND`
 
 Restituisce 1 quando le condizioni a e b sono vere.
 
 ## Esempi
-
-```text
+```
 * TRUE AND TRUE → 1
 * TRUE AND FALSE → 0
 * 4 = 2+2 AND 1 = 1 → 1
@@ -19,5 +16,4 @@ Restituisce 1 quando le condizioni a e b sono vere.
 
 0 significa **falso**
 
-![](../../../.gitbook/assets/and1.png)
-
+![](/img/operatori/AND1.png)

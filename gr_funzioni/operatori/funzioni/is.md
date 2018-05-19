@@ -1,12 +1,9 @@
-# IS
-
 ## Operatore `IS`
 
 Restituisce 1 se _a_ è uguale a _b_.
 
 ## Esempi
-
-```text
+```
 * 'A' IS 'A' → 1
 *'A' IS 'a' → 0
 * 4 IS 4 → 1
@@ -23,5 +20,4 @@ La funzione distingue maiuscolo dal minuscolo!!!
 
 0 significa **falso**
 
-![](../../../.gitbook/assets/is1%20%281%29.png)
-
+![](/img/operatori/IS1.png)

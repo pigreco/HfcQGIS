@@ -1,12 +1,9 @@
-# uguale
-
-## Operatore `=` \(uguale\)
+## Operatore `=` (uguale)
 
 Confronta due valori e pone a 1 se essi sono uguali.
 
 ## Esempi
-
-```text
+```
 * 5 = 4 → 0
 * 4 = 4 → 1
 * 5 = NULL → NULL
@@ -19,5 +16,4 @@ Confronta due valori e pone a 1 se essi sono uguali.
 
 0 significa **falso**
 
-![](../../../.gitbook/assets/uguale1%20%281%29.png)
-
+![](/img/operatori/uguale1.png)

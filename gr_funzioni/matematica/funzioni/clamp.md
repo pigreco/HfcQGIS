@@ -1,12 +1,10 @@
-# clamp
-
 ## Funzione `clamp`
 
 Limita un valore in ingresso a un intervallo specificato.
 
 ## Sintassi
 
-clamp\(_minimum, input, maximum_\)
+clamp(_minimum, input, maximum_)
 
 ## Argomenti
 
@@ -20,7 +18,7 @@ clamp\(_minimum, input, maximum_\)
 * `clamp(1,0,10) → 1 (input è più piccolo del valore minimo di 1, così la funzione restituisce 1)`
 * `clamp(1,11,10) → 10 (input è più grande del valore massimo di 10, così la funzione restituisce 10)`
 
-![](../../../.gitbook/assets/clamp1%20%281%29.png)
+![](/img/matematica/clamp/clamp1.png)
 
 ## nota bene
 
@@ -29,4 +27,3 @@ clamp\(_minimum, input, maximum_\)
 ## osservazioni
 
 --
-

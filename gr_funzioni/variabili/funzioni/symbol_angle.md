@@ -1,5 +1,3 @@
-# symbol\_angle
-
 ## Funzione `symbol_angle`
 
 --
@@ -10,7 +8,7 @@
 
 ## Esempi
 
-![](https://github.com/pigreco/HfcQGIS/tree/852bbb62a0d5b7739914d4de0ea5b1ebbb5d81d1/img/variabili/symbol_angle/symbol_angle1.png)
+![](/img/variabili/symbol_angle/symbol_angle1.png)
 
 ## nota bene
 
@@ -19,4 +17,3 @@
 ## osservazioni
 
 --
-

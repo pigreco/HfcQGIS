@@ -1,12 +1,10 @@
-# map\_exist
-
 ## Funzione `map_exist`
 
 Restituisce vero se la chiave passata esiste in mappa.
 
 ## Sintassi
 
-map_exist\(\_map, key_\)
+map_exist(_map, key_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ map_exist\(\_map, key_\)
 
 * `map_exist(map('1','one','2','two'),'3') → falso`
 
-![](../../../.gitbook/assets/map_exist1%20%281%29.png)
+![](/img/maps/map_exist/map_exist1.png)
 
 ## nota bene
 
@@ -26,4 +24,3 @@ map_exist\(\_map, key_\)
 ## osservazioni
 
 --
-

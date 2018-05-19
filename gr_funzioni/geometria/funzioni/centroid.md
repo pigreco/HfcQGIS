@@ -1,22 +1,20 @@
-# centroid
-
 ## Funzione `centroid`
 
 Restituisce il centro geometrico di una geometria.
 
 ## Sintassi
 
-centroid\(_geometry_\)
+centroid(*geometry*)
 
 ## Argomenti
 
-* _geometria_ una geometria
+* *geometria* una geometria
 
 ## Esempi
 
 `centroid($geometry) → una geometria punto`
 
-![](../../../.gitbook/assets/centroid1.png)
+![](/img/geometria/centroid/centroid1.png)
 
 ## nota bene
 
@@ -26,5 +24,4 @@ centroid\(_geometry_\)
 
 La Funzione restituisce SEMPRE una geometry POINT
 
-![](../../../.gitbook/assets/centroid2.png)
-
+![](/img/geometria/centroid/centroid2.png)

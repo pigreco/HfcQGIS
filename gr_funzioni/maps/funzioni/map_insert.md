@@ -1,12 +1,10 @@
-# map\_insert
-
 ## Funzione `map_insert`
 
 Restituisce una mappa con una chiave/valore aggiunto.
 
 ## Sintassi
 
-map_insert\(\_map, key, value_\)
+map_insert(_map, key, value_)
 
 ## Argomenti
 
@@ -18,7 +16,7 @@ map_insert\(\_map, key, value_\)
 
 * `map_insert(map('1','one'),'3','three') → map: 1: 'one', 3: 'three'`
 
-![](../../../.gitbook/assets/map_insert1%20%281%29.png)
+![](/img/maps/map_insert/map_insert1.png)
 
 ## nota bene
 
@@ -27,4 +25,3 @@ map_insert\(\_map, key, value_\)
 ## osservazioni
 
 --
-

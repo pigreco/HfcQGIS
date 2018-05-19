@@ -1,12 +1,10 @@
-# map\_akeys
-
 ## Funzione `map_akeys`
 
 Restituisce tutte le chiavi di una mappa come un array.
 
 ## Sintassi
 
-map_akeys\(\_map_\)
+map_akeys(_map_)
 
 ## Argomenti
 
@@ -16,7 +14,7 @@ map_akeys\(\_map_\)
 
 * `map_akeys(map('1','one','2','two')) → array: '1', '2'`
 
-![](../../../.gitbook/assets/map_akeys1.png)
+![](/img/maps/map_akeys/map_akeys1.png)
 
 ## nota bene
 
@@ -28,5 +26,6 @@ map_akeys\(\_map_\)
 
 ## Altri esempi
 
-![](../../../.gitbook/assets/map_akeys2%20%281%29.png)
 
+
+![](/img/maps/map_akeys/map_akeys2.png)

@@ -1,12 +1,9 @@
-# LIKE
-
 ## Operatore `LIKE`
 
 Restituisce 1 se il primo parametro soddisfa il modello fornito. Funziona anche con i numeri.
 
 ## Esempi
-
-```text
+```
 * 'A' LIKE 'A' → 1
 * 'A' LIKE 'a' → 0
 * 'A' LIKE 'B' → 0
@@ -27,5 +24,4 @@ La funzione distingue maiuscolo dal minuscolo!!!
 
 0 significa **falso**
 
-![](../../../.gitbook/assets/like1%20%281%29.png)
-
+![](/img/operatori/LIKE1.png)

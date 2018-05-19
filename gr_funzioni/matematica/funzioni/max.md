@@ -1,12 +1,10 @@
-# max
-
 ## Funzione `max`
 
 Restituisce il valore maggiore di un insieme di valori.
 
 ## Sintassi
 
-max\(_value1, value2, …_\)
+max(_value1, value2, …_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ max\(_value1, value2, …_\)
 * `max(2,10.2,5.5) → 10.2`
 * `max(20.5,NULL,6.2) → 20.5`
 
-![](../../../.gitbook/assets/max1.png)
+![](/img/matematica/max/max1.png)
 
 ## nota bene
 
@@ -26,4 +24,3 @@ max\(_value1, value2, …_\)
 ## osservazioni
 
 --
-

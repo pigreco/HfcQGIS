@@ -1,12 +1,10 @@
-# right
-
 ## Funzione `right`
 
 Restituisce una sottostringa che contiene gli n caratteri più a destra della stringa.
 
 ## Sintassi
 
-right\(_string, length_\)
+right(_string, length_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ right\(_string, length_\)
 
 * `right('Hello World',5) → 'World'`
 
-![](../../../.gitbook/assets/right1.png)
+![](/img/stringhe_di_testo/right/right1.png)
 
 ## nota bene
 
@@ -26,4 +24,3 @@ right\(_string, length_\)
 ## osservazioni
 
 --
-

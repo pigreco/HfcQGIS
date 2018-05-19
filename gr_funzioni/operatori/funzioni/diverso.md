@@ -1,12 +1,9 @@
-# diverso
-
-## Operatore `<>` \(diverso\)
+## Operatore `<>` (diverso)
 
 Confronta due valori e pone a 1 se essi non sono uguali.
 
 ## Esempi
-
-```text
+```
 * 5 <> 4 → 1
 * 4 <> 4 → 0
 * 5 <> NULL → NULL
@@ -19,5 +16,4 @@ Confronta due valori e pone a 1 se essi non sono uguali.
 
 0 significa **falso**
 
-![](../../../.gitbook/assets/diverso1.png)
-
+![](/img/operatori/diverso1.png)

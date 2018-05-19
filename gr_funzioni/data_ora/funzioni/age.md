@@ -1,8 +1,7 @@
-# age
-
 ## funzione `age`
 
-Restituisce la differenza fra due date o datetimes. La differenza è restituita come _Interval_ e deve essere usata con una della seguenti funzioni per estrarre informazioni utili:
+Restituisce la differenza fra due date o datetimes.
+La differenza è restituita come _Interval_ e deve essere usata con una della seguenti funzioni per estrarre informazioni utili:
 
 * year
 * month
@@ -14,7 +13,7 @@ Restituisce la differenza fra due date o datetimes. La differenza è restituita 
 
 ## Sintassi
 
-* age\(_datetime1, datetime2_\)
+* age(_datetime1, datetime2_)
 
 ## Argomenti
 
@@ -26,5 +25,4 @@ Restituisce la differenza fra due date o datetimes. La differenza è restituita 
 * `age('2012-05-12','2012-05-02') → intervallo (usa day per estrarre il numero di giorni)`
 * `day(age('2012-05-12','2012-05-02')) → 10`
 
-![](../../../.gitbook/assets/age1%20%281%29.png)
-
+![](/img/data_e_ora/age1.png)

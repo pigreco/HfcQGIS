@@ -1,12 +1,10 @@
-# degrees
-
 ## Funzione `degrees`
 
 Converte da radianti a gradi decimali.
 
 ## Sintassi
 
-degrees\(_radians_\)
+degrees(_radians_)
 
 ## Argomenti
 
@@ -18,7 +16,7 @@ degrees\(_radians_\)
 * `degrees(1) → 57.2958`
 * `degrees(pi()) → 180`
 
-![](../../../.gitbook/assets/degrees1.png)
+![](/img/matematica/degrees/degrees1.png)
 
 ## nota bene
 
@@ -27,4 +25,3 @@ degrees\(_radians_\)
 ## osservazioni
 
 --
-

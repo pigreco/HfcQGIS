@@ -1,16 +1,14 @@
-# coalesce
-
 ## funzione `coalesce`
 
-Restituisce il primo valore non NULL dalla lista delle espressioni. Questa funzione può usare qualsiasi numero di argomenti.
+Restituisce il primo valore non NULL dalla lista delle espressioni.
+Questa funzione può usare qualsiasi numero di argomenti.
 
 ## Sintassi
 
-* coalesce\(_expression1, expression2, …_\)
+* coalesce(*expression1, expression2, …*)
 
 ## Esempi
-
-```text
+```
 coalesce(NULL, 2) → 2
 coalesce(NULL, 2, 3) → 2
 coalesce(7, NULL, 3*2) → 7
@@ -21,11 +19,10 @@ coalesce("fieldA", "fallbackField", 'ERRORE') → valore di "fieldA" se non è N
 
 Questa funzione è utile all'interno di una espressione che prevede l'uso di più campi ed uno o più di essi ha valore NULL, questo valore penalizza l'intera stringa e rende non visibile il risultato.
 
-esempio senza l'uso della funzione _coalesce_:
+esempio senza l'uso della funzione *coalesce*:
 
-![](../../../.gitbook/assets/coalesce1%20%281%29.png)
+![](/img/condizioni/coalesce1.png)
 
-esempio con l'uso della funzione _coalesce_:
+esempio con l'uso della funzione *coalesce*:
 
-![](../../../.gitbook/assets/coalesce2%20%281%29.png)
-
+![](/img/condizioni/coalesce2.png)

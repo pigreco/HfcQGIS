@@ -1,12 +1,10 @@
-# lpad
-
 ## Funzione `lpad`
 
 Restituisce una stringa riempita a sinistra fino alla larghezza specificata, utilizzando un carattere di riempimento. Se la larghezza della destinazione è inferiore alla lunghezza della stringa, la stringa viene troncata.
 
 ## Sintassi
 
-lpad\(_string, width, fill_\)
+lpad(_string, width, fill_)
 
 ## Argomenti
 
@@ -19,7 +17,7 @@ lpad\(_string, width, fill_\)
 * `lpad('Hello', 10, 'x') → 'xxxxxHello'`
 * `lpad('Hello', 3, 'x') → 'Hel'`
 
-![](../../../.gitbook/assets/lpad1.png)
+![](/img/stringhe_di_testo/lpad/lpad1.png)
 
 ## nota bene
 
@@ -28,12 +26,10 @@ lpad\(_string, width, fill_\)
 ## osservazioni
 
 --
-
 ## Altri esempi utili
 
 se volessi popolare un campo in modo da ottenere segnale01.png, segnale01.png...segnale99.png
 
 * `'segnale' || lpad( @row_number ,2, '00' )|| '.png' → 'segnale01.png'`
 
-![](../../../.gitbook/assets/lpad2.png)
-
+![](/img/stringhe_di_testo/lpad/lpad2.png)

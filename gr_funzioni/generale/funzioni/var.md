@@ -1,20 +1,17 @@
-# var
-
 ## funzione `var`
 
 Restituisce il valore memorizzato in una variabile specificata.
 
 ## Sintassi
 
-* var\(_name_\)
+* var(*name*)
 
 ## Argomento
 
-* _name_ un nome variabile
+* *name* un nome variabile
 
 ## Esempi
-
-```text
+```
 var('qgis_version') → '3.0.2-Girona'
 var('user_account_name') → 'Salvatore'
 ```
@@ -23,5 +20,4 @@ var('user_account_name') → 'Salvatore'
 
 Come argomento va usato il nome della variabile senza la chioccila altrimenti non funziona.
 
-![](../../../.gitbook/assets/var1.png)
-
+![](/img/generale/var1.png)
