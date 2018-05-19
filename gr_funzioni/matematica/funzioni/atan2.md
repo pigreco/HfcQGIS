@@ -1,12 +1,10 @@
-# atan2
-
 ## Funzione `atan2`
 
 Restituisce la arcotangente di dy/dx usando i segni dei due argomenti per determinare il quadrante del risultato.
 
 ## Sintassi
 
-atan2\(_dy, dx_\)
+atan2(_dy, dx_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ atan2\(_dy, dx_\)
 
 * `atan2(1.0, 1.732) → 0.523611477769969`
 
-![](../../../.gitbook/assets/atan21%20%281%29.png)
+![](/img/matematica/atan2/atan21.png)
 
 ## nota bene
 
@@ -27,7 +25,6 @@ atan2\(_dy, dx_\)
 
 --
 
-![](../../../.gitbook/assets/atan22%20%281%29.png)
+![](/img/matematica/atan2/atan22.png)
 
 [Wikipedia](https://it.wikipedia.org/wiki/Arcotangente2)
-

@@ -1,18 +1,16 @@
-# pi
-
 ## Funzione `pi`
 
 Restituisce il valore di Pi greco
 
 ## Sintassi
 
-pi\(\)
+pi()
 
 ## Esempi
 
 * `pi() → 3.14159265358979`
 
-![](../../../.gitbook/assets/pi1%20%281%29.png)
+![](/img/matematica/pi/pi1.png)
 
 ## nota bene
 
@@ -22,7 +20,8 @@ pi\(\)
 
 --
 
-[Wikipedia](https://it.wikipedia.org/wiki/Pi_greco) Pi greco [Mai senza](https://www.focus.it/scienza/scienze/ecco-perche-non-possiamo-fare-a-meno-del-pi-greco)
+[Wikipedia](https://it.wikipedia.org/wiki/Pi_greco) Pi greco
+[Mai senza](https://www.focus.it/scienza/scienze/ecco-perche-non-possiamo-fare-a-meno-del-pi-greco)
 
 Il mio logo personale:
 
@@ -34,5 +33,4 @@ L'unione di tre simboli matematici che hanno rivoluzionato il Mondo:
 
 Con un po' di fantasia dovreste leggere il mio nome Totò :+1:
 
-![](../../../.gitbook/assets/logo_pi%20%281%29.png)
-
+![](/img/logo_pi.png)

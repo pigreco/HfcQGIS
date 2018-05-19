@@ -1,12 +1,10 @@
-# union
-
 ## Funzione `union`
 
 Restituisce una geometria che rappresenta l'insieme dei punti dell'unione delle geometrie.
 
 ## Sintassi
 
-union\(_geometry1, geometry2_\)
+union(_geometry1, geometry2_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ union\(_geometry1, geometry2_\)
 
 * `geom_to_wkt( union( geom_from_wkt( 'POINT(4 4)' ), geom_from_wkt( 'POINT(5 5)' ) ) ) → MULTIPOINT(4 4, 5 5)`
 
-![](../../../.gitbook/assets/union1.png)
+![](/img/geometria/union/union1.png)
 
 ## nota bene
 
@@ -27,5 +25,4 @@ union\(_geometry1, geometry2_\)
 
 --
 
-![](../../../.gitbook/assets/union2.png)
-
+![](/img/geometria/union/union2.png)

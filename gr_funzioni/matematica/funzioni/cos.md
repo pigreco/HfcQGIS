@@ -1,12 +1,10 @@
-# cos
-
 ## Funzione `cos`
 
 Restituisce il coseno di un angolo.
 
 ## Sintassi
 
-cos\(_angle_\)
+cos(_angle_)
 
 ## Argomenti
 
@@ -16,7 +14,7 @@ cos\(_angle_\)
 
 * `cos( 1.5707963267948966 )  → 0.0`
 
-![](../../../.gitbook/assets/cos1.png)
+![](/img/matematica/cos/cos1.png)
 
 ## nota bene
 
@@ -25,4 +23,3 @@ cos\(_angle_\)
 ## osservazioni
 
 --
-

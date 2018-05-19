@@ -1,12 +1,10 @@
-# make\_line
-
 ## Funzione `make_line`
 
 Crea una geometria linea da una serie di geometrie punto.
 
 ## Sintassi
 
-make_line\(\_point1, point2, …_\)
+make_line(_point1, point2, …_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ make_line\(\_point1, point2, …_\)
 * `geom_to_wkt(make_line(make_point(2,4),make_point(3,5))) → 'LineString (2 4, 3 5)'`
 * `geom_to_wkt(make_line(make_point(2,4),make_point(3,5),make_point(9,7))) → 'LineString (2 4, 3 5, 9 7)'`
 
-![](../../../.gitbook/assets/make_line1%20%281%29.png)
+![](/img/geometria/make_line/make_line1.png)
 
 ## nota bene
 
@@ -27,5 +25,4 @@ make_line\(\_point1, point2, …_\)
 
 --
 
-![](../../../.gitbook/assets/make_line2.png)
-
+![](/img/geometria/make_line/make_line2.png)

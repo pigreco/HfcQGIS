@@ -1,12 +1,10 @@
-# floor
-
 ## Funzione `floor`
 
 Arrotonda un numero all'intero inferiore.
 
 ## Sintassi
 
-floor\(_value_\)
+floor(_value_)
 
 ## Argomenti
 
@@ -19,7 +17,7 @@ floor\(_value_\)
 
 ## Esempi
 
-![](../../../.gitbook/assets/floor1.png)
+![](/img/matematica/floor/floor1.png)
 
 ## nota bene
 
@@ -28,4 +26,3 @@ floor\(_value_\)
 ## osservazioni
 
 --
-

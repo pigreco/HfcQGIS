@@ -1,12 +1,10 @@
-# geometry\_n
-
 ## Funzione `geometry_n`
 
 Restituisce una geometria specifica da una raccolta di geometrie, o null se la geometria in ingresso non è una raccolta.
 
 ## Sintassi
 
-geometry_n\(\_geometry, index_\)
+geometry_n(_geometry, index_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ geometry_n\(\_geometry, index_\)
 
 * `geom_to_wkt(geometry_n(geom_from_wkt('GEOMETRYCOLLECTION(POINT(0 1), POINT(0 0), POINT(1 0), POINT(1 1))'),3)) → 'Point (1 0)'`
 
-![](../../../.gitbook/assets/geometry_n1.png)
+![](/img/geometria/geometry_n/geometry_n1.png)
 
 ## nota bene
 
@@ -26,4 +24,3 @@ geometry_n\(\_geometry, index_\)
 ## osservazioni
 
 Personalmente mai usata!
-

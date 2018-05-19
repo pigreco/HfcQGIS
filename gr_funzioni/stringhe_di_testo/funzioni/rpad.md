@@ -1,12 +1,10 @@
-# rpad
-
 ## Funzione `rpad`
 
 Restituisce una stringa riempita a destra della larghezza specificata, utilizzando un carattere di riempimento. Se la larghezza della destinazione è inferiore alla lunghezza della stringa, la stringa viene troncata.
 
 ## Sintassi
 
-rpad\(_string, width, fill_\)
+rpad(_string, width, fill_)
 
 ## Argomenti
 
@@ -19,7 +17,7 @@ rpad\(_string, width, fill_\)
 * `rpad('Hello', 10, 'x') → 'Helloxxxxx'`
 * `rpad('Hello', 3, 'x') → 'Hel'`
 
-![](../../../.gitbook/assets/rpad1%20%281%29.png)
+![](/img/stringhe_di_testo/rpad/rpad1.png)
 
 ## nota bene
 
@@ -28,4 +26,3 @@ rpad\(_string, width, fill_\)
 ## osservazioni
 
 --
-

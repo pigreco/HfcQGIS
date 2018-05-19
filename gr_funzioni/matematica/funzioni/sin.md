@@ -1,12 +1,10 @@
-# sin
-
 ## Funzione `sin`
 
 Restituisce il seno di un angolo.
 
 ## Sintassi
 
-sin\(_angle_\)
+sin(_angle_)
 
 ## Argomenti
 
@@ -16,7 +14,8 @@ sin\(_angle_\)
 
 * `sin(1.571) → 0.999999682931835`
 * `sin(pi()/2) → 1`
-* ![](../../../.gitbook/assets/sin1.png)
+* 
+![](/img/matematica/sin/sin1.png)
 
 ## nota bene
 
@@ -25,4 +24,3 @@ sin\(_angle_\)
 ## osservazioni
 
 --
-

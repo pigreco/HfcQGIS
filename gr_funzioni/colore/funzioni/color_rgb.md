@@ -1,12 +1,10 @@
-# color\_rgb
-
 ## Funzione `color_rgb`
 
 Restituisce una rappresentazione stringa di un colore basato sui suoi componenti rosso, verde e blu.
 
 ## Sintassi
 
-color_rgb\(\_red, green, blue_\)
+color_rgb(_red, green, blue_)
 
 ## Argomenti
 
@@ -18,7 +16,7 @@ color_rgb\(\_red, green, blue_\)
 
 * `color_rgb(255,127,0) → 255,127,0`
 
-![](../../../.gitbook/assets/color_rgb1.png)
+![](/img/colore/color_rgb/color_rgb1.png)
 
 ## nota bene
 
@@ -27,4 +25,3 @@ color_rgb\(\_red, green, blue_\)
 ## osservazioni
 
 --
-

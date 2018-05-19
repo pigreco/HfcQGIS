@@ -1,12 +1,10 @@
-# upper
-
 ## Funzione `upper`
 
 Converte una stringa in lettere maiuscole.
 
 ## Sintassi
 
-upper\(_string_\)
+upper(_string_)
 
 ## Argomenti
 
@@ -16,7 +14,7 @@ upper\(_string_\)
 
 * `upper('hello WOrld') → 'HELLO WORLD'`
 
-![](../../../.gitbook/assets/upper1%20%281%29.png)
+![](/img/stringhe_di_testo/upper/upper1.png)
 
 ## nota bene
 
@@ -25,4 +23,3 @@ upper\(_string_\)
 ## osservazioni
 
 --
-

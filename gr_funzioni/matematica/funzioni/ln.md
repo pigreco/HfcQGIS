@@ -1,14 +1,12 @@
-# ln
-
 ## Funzione `ln`
 
 Restituisce il logaritmo naturale di un valore.
 
 ## Sintassi
 
-ln\(_value_\)
+ln(_value_)
 
-## Argomenti
+##Argomenti
 
 * _value_ valore numerico
 
@@ -17,7 +15,7 @@ ln\(_value_\)
 * `ln(1) → 0`
 * `ln(2.7182818284590452354) → 1`
 
-![](../../../.gitbook/assets/ln1.png)
+![](/img/matematica/ln/ln1.png)
 
 ## nota bene
 
@@ -26,4 +24,3 @@ ln\(_value_\)
 ## osservazioni
 
 --
-

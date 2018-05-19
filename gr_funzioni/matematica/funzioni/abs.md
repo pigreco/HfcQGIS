@@ -1,22 +1,20 @@
-# abs
-
 ## Funzione `abs`
 
 Restituisce il valore assoluto di un numero.
 
 ## Sintassi
 
-abs\(_value_\)
+abs(_value_)
 
 ## Argomenti
 
 _value_ un numero
 
-## Esempi
+## Esempi 
 
 * `abs(-2) → 2`
 
-![](../../../.gitbook/assets/abs1.png)
+![](/img/matematica/abs/abs1.png)
 
 ## nota bene
 
@@ -25,4 +23,3 @@ _value_ un numero
 ## osservazioni
 
 --
-

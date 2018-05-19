@@ -1,12 +1,10 @@
-# x\_max
-
 ## Funzione `x_max`
 
 Restituisce la coordinata x massima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 
 ## Sintassi
 
-x_max\(\_geometry_\)
+x_max(_geometry_)
 
 ## Argomenti
 
@@ -16,7 +14,7 @@ x_max\(\_geometry_\)
 
 * `x_max( geom_from_wkt( 'LINESTRING(2 5, 3 6, 4 8)') ) → 4`
 
-![](../../../.gitbook/assets/x_max1.png)
+![](/img/geometria/x_max/x_max1.png)
 
 ## nota bene
 
@@ -26,5 +24,4 @@ x_max\(\_geometry_\)
 
 --
 
-![](../../../.gitbook/assets/x_max2%20%281%29.png)
-
+![](/img/geometria/x_max/x_max2.png)

@@ -1,12 +1,10 @@
-# array\_find
-
 ## Funzione `array_find`
 
-Restituisce l'indice \(0 per il primo elemento\) di un valore all'interno di un array. Restiuisce -1 se il valore non viene trovato
+Restituisce l'indice (0 per il primo elemento) di un valore all'interno di un array. Restiuisce -1 se il valore non viene trovato
 
 ## Sintassi
 
-array_find\(\_array, value_\)
+array_find(_array, value_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ array_find\(\_array, value_\)
 
 * `array_find(array(1,2,3),2) → 1`
 
-![](../../../.gitbook/assets/array_find1%20%281%29.png)
+![](/img/arrays/array_find/array_find1.png)
 
 ## nota bene
 
@@ -26,4 +24,3 @@ array_find\(\_array, value_\)
 ## osservazioni
 
 --
-

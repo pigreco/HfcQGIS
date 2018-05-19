@@ -1,12 +1,10 @@
-# x
-
 ## Funzione `x`
 
 Restituisce la minima coordinata x di una geometria punto, o la coordinata x del centroide di una geometria non puntuale.
 
 ## Sintassi
 
-x\(_geometry_\)
+x(_geometry_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ x\(_geometry_\)
 * `x( geom_from_wkt( 'POINT(2 5)' ) ) → 2`
 * `x( $geometry ) → coordinata x del centroide dell'elemento corrente`
 
-![](../../../.gitbook/assets/x1%20%281%29.png)
+![](/img/geometria/x/x1.png)
 
 ## nota bene
 
@@ -27,5 +25,4 @@ x\(_geometry_\)
 
 --
 
-![](../../../.gitbook/assets/x2.png)
-
+![](/img/geometria/x/x2.png)

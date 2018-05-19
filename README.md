@@ -1,103 +1,103 @@
-# README
-
 ⛔ IN LAVORAZIONE ⛔
 
-![GitHub repo size in bytes](https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-square) ![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg) ![Donate to QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square)
+[![GitHub repo size in bytes](https://img.shields.io/github/repo-size/pigreco/HfcQGIS.svg?style=flat-square)](https://github.com/pigreco/HfcQGIS)
+[![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
+[![Donate to QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square)](http://qgis.org/en/site/getinvolved/donations.html)
 
-## ![Logo HfcQGIS](.gitbook/assets/logo_hfcqgis3%20%281%29.png) Help funzioni calcolatore di campi di QGIS \(HfcQGIS\)
+
+# ![logo](img/logo_HfcQGIS3.png "Logo HfcQGIS") Help funzioni calcolatore di campi di QGIS (HfcQGIS)
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-### Indice gruppi di funzioni/espressioni \(286/381\)
+## Indice gruppi di funzioni/espressioni (286/381)
 
-* [x] [Aggregates](gr_funzioni/aggregates-1.md) \(22/22\) &gt;= QGIS 2.16  
-* [x] [Arrays](gr_funzioni/arrays/) \(20/20\) &gt;= QGIS 3.0 \(SpatiaLite, PostGIS\)
-* [x] [Campi e valori](gr_funzioni/campi_e_valori-1.md) \(1/1\)
-* [x] [Colore](gr_funzioni/colore-1.md) \(15/15\)
-* [x] [Condizioni](gr_funzioni/condizioni-1.md) \(4/4\)
-* [x] [Conversioni](gr_funzioni/conversioni-1.md) \(7/7\)
-* [x] [Corrispondenza fuzzy](gr_funzioni/corrispondenza_fuzzy-1.md) \(4/4\)
-* [x] [Custom](gr_funzioni/custom-1.md) \(4/4\) funzioni personalizzate
-* [x] [Data e ora](gr_funzioni/data_ora-1.md) \(16/16\)
-* [x] [Generale](gr_funzioni/generale-1.md) \(6/6\)
-* [x] [Geometria](gr_funzioni/geometria-1.md) \(97/97\)
-* [x] [Layer della mappa](gr_funzioni/layer_della_mappa/) \(1/1\) &gt;= QGIS 3.0
-* [x] [Maps](gr_funzioni/maps-1.md) \(8/8\) &gt;= QGIS 3.0 \(PostGIS\)
-* [x] [Matematica](gr_funzioni/matematica-1.md) \(28/28\)
-* [x] [Operatori](gr_funzioni/operatori-1.md) \(21/21\)
-* [x] [Recente](gr_funzioni/recente.md) \(1/1\)
-* [x] [Record e attributi](gr_funzioni/record_e_attributi-1.md) \(9/9\)
-* [ ] [Reference](gr_funzioni/reference-1.md) \(0/21\) Plugin refFunction
-* [x] [Stringhe di testo](gr_funzioni/stringhe_di_testo-1.md) \(22/22\)
-* [ ] [TimeManager](gr_funzioni/timemanager.md) \(0/5\) Plugin Time Manager
-* [ ] [Transformation](gr_funzioni/transformation-1.md) \(0/4\) Plugin refFunction
-* [ ] [Variabili](gr_funzioni/variabili-1.md) \(0/65\) &gt;= QGIS 2.12
+Gruppo funzioni|nro funzioni|descrizione
+---------------|:----------:|-----------
+[Aggregates](/gr_funzioni/aggregates) |(22/22)| >= QGIS 2.16  
+[Arrays](/gr_funzioni/arrays)| (20/20) |>= QGIS 3.0 (SpatiaLite, PostGIS)
+[Campi e valori](/gr_funzioni/campi_e_valori)| (1/1)|
+[Colore](/gr_funzioni/colore)| (15/15)|
+[Condizioni](/gr_funzioni/condizioni)| (4/4)|
+[Conversioni](/gr_funzioni/conversioni)| (7/7)|
+[Corrispondenza fuzzy](/gr_funzioni/corrispondenza_fuzzy)| (4/4)|
+[Custom](/gr_funzioni/custom)| (4/4)| funzioni personalizzate
+[Data e ora](/gr_funzioni/data_ora) |(16/16)|
+[Generale](/gr_funzioni/generale)| (6/6)|
+[Geometria](/gr_funzioni/geometria) |(97/97)| aggiornate a QGIS 3.2
+[Layer della mappa](/gr_funzioni/layer_della_mappa)| (1/1)| >= QGIS 3.0
+[Maps](/gr_funzioni/maps)| (8/8) |>= QGIS 3.0 (PostGIS)
+[Matematica](/gr_funzioni/matematica)| (28/28)|
+[Operatori](/gr_funzioni/operatori)| (21/21)|
+[Recente](/gr_funzioni/recente) |(1/1)|
+[Record e attributi](/gr_funzioni/record_e_attributi)| (9/9)|
+[Reference](/gr_funzioni/reference)| (0/21)| [Plugin refFunction](https://plugins.qgis.org/plugins/refFunctions/)
+[Stringhe di testo](/gr_funzioni/stringhe_di_testo)| (22/22)|
+[TimeManager](/gr_funzioni/timemanager)| (0/5)| Plugin Time Manager
+[Transformation](/gr_funzioni/transformation)| (0/4)| Plugin refFunction
+[Variabili](/gr_funzioni/variabili) |(0/65) |>= QGIS 2.12
 
-### Calcolatore di campi
+## Calcolatore di campi
 
-![Interfaccia Calcolatore di campi QGIS](.gitbook/assets/calcolatore_campi1.png)
+![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
 
-* [Concetti base](concetti_base.md) Concetti base sul calcolatore di campi - IN EVOLUZIONE
-* [Introduzione](intro_interf.md) Introduzione all'interfaccia calcolatore di campi
-* [Operatori](operatori_calc.md) - Operatori presenti nell'interfaccia del calcolatore
-* [Esempi d'uso](esempi_uso/) \(4\) - Esempi dettagliati sull'uso delle funzioni - IN EVOLUZIONE
+* [Concetti](/concetti.md) Concetti base sul calcolatore di campi
+* [Interfaccia](/interfaccia.md) Introduzione all'interfaccia calcolatore di campi
+* [Operatori](/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
+* [Esempi](/esempi) (4) - Esempi dettagliati sull'uso delle funzioni
 
-### [Cosa puoi fare](contributing.md)
+---
+## [Cosa puoi fare](CONTRIBUTING.md) ❔
 
-* _contribuire_
-  * [finanziariamente\*](https://www.paypal.me/pigrecoinfinito); &lt;--&lt;--&lt;--&lt;--&lt;--------:::
-  * [condividendo e divulgando](https://www.facebook.com/) usare HashTag **\#HfcQGIS**;
-* _segnalare errori_
-  * [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
-  * [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls);
-* _aggiungere funzioni_
-  * [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls);
-  * [tramite issues](https://github.com/pigreco/Help_in_linea_/issues);
-* _aggiungere esempi_ 📝
-  * [tramite pull requests](https://github.com/pigreco/Help_in_linea_/pulls)
-* _lasciare un messaggio_ 📝
-  * [scrivi un messaggio qui](https://github.com/pigreco/Help_in_linea_/issues/1)
+- *contribuire* 💳📣
+    - [finanziariamente*](https://www.paypal.me/pigrecoinfinito);
+    - [condividendo e divulgando](https://www.facebook.com/) usare HashTag **#HfcQGIS**;
+- *segnalare errori* ⚠️
+    - [tramite issues](https://github.com/pigreco/HfcQGIS/issues);
+- *aggiungere funzioni* 🎫
+    - [tramite pull requests](https://github.com/pigreco/HfcQGIS/pulls);
+    - [tramite issues](https://github.com/pigreco/HfcQGIS/issues);
+- *aggiungere esempi* 📝
+    - [tramite pull requests](https://github.com/pigreco/HfcQGIS/pulls)
+- *lasciare un messaggio* 📝💭 ✉️ 📮
+    - [scrivi un messaggio qui](https://github.com/pigreco/HfcQGIS/issues/1)
 
-### Come puoi usare questo lavoro
+## Come puoi usare questo lavoro
 
-* [Github](https://github.com/pigreco/HfcQGIS);
-* [Ebook](https://gis.gitbook.io/hfcqgis/);
+* [Github](https://github.com/pigreco/HfcQGIS)
+* [Ebook](https://gis.gitbook.io/hfcqgis/) 🕮
 
-### Traduzione in italiano
+## Traduzione in italiano
 
 La descrizione delle funzioni in italiano è stata realizzata dal gruppo di traduttori diretti da [Stefano Campus](https://twitter.com/skampus1967?lang=it)
 
-![screen da QGIS](.gitbook/assets/traduttori.png)
+![ita](img/traduttori.png  "screen da QGIS")
 
-### link
+## link
 
 * [QGIS.org](https://qgis.org/it/site/)
 * [Documentazione](https://qgis.org/it/docs/index.html#)
 * [Pigrecoinfinito - mio Blog](https://pigrecoinfinito.wordpress.com/)
 * [GeoGebra](https://www.geogebra.org/?lang=it)
 
-### Licenze
+## Licenze
 
-per adesso è :boom: **ASSOLUTAMENTE VIETATO** :boom: copiare o condividere, pena la distruzione del repository :trollface:
+Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
 
-~~Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza:~~ [~~Creative Commons Attribution-ShareAlike 3.0 licence \(CC BY-SA\)~~](https://creativecommons.org/licenses/by-sa/3.0/)
+## Donate
 
-### Donate
+💶 [HfcQGIS](https://www.paypal.me/pigrecoinfinito) 💶 💳
 
-💶 [donate](https://www.paypal.me/pigrecoinfinito) 💶
+\* il X % sarà donato a **QGIS.it** 
 
-\* il x % sarà donato a QGIS
+## ©️ Autori `HfcQGIS`
 
-### Autori `HfcQGIS`
-
-* [Salvatore Fiandaca](https://twitter.com/totofiandaca?lang=it) \(aka _Totò_\)
-  * Ideatore e sviluppatore ...
-* [Andrea Borruso](https://twitter.com/aborruso?lang=it) \(aka _WikiAndy_\)
-  * Supporto tecnico GitHub, VScode, Markdown e gitbook;
+* [Salvatore Fiandaca](https://twitter.com/totofiandaca?lang=it) (aka _Totò_)
+    * Ideatore e sviluppatore ...
+* [Andrea Borruso](https://twitter.com/aborruso?lang=it) (aka _WikiAndy_)
+    * Supporto tecnico GitHub, VScode, Markdown e gitbook;
 
 Repo costruito con:
 
-![screen VScode e QGIS 3](.gitbook/assets/vscode_qgis%20%281%29.png)
+![screen2](img/VScode_QGIS.png "screen VScode e QGIS 3")
 
 * [Visual Studio code](https://it.wikipedia.org/wiki/Visual_Studio_Code)
-

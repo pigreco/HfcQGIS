@@ -1,12 +1,10 @@
-# translate
-
 ## Funzione `translate`
 
 Restituisce una versione traslata di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 
 ## Sintassi
 
-translate\(_geometry, dx, dy_\)
+translate(_geometry, dx, dy_)
 
 ## Argomenti
 
@@ -18,7 +16,7 @@ translate\(_geometry, dx, dy_\)
 
 * `translate($geometry, 5, 10) → una geometria dello stesso tipo come l'originale`
 
-![](../../../.gitbook/assets/translate1.png)
+![](/img/geometria/translate/translate1.png)
 
 ## nota bene
 
@@ -28,5 +26,4 @@ translate\(_geometry, dx, dy_\)
 
 --
 
-![](../../../.gitbook/assets/translate2.png)
-
+![](/img/geometria/translate/translate2.png)

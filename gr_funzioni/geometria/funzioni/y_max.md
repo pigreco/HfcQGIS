@@ -1,12 +1,10 @@
-# y\_max
-
 ## Funzione `y_max`
 
 Restituisce la coordinata y massima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria.
 
 ## Sintassi
 
-y_max\(\_geometry_\)
+y_max(_geometry_)
 
 ## Argomenti
 
@@ -16,7 +14,7 @@ y_max\(\_geometry_\)
 
 * `y_max( geom_from_wkt( 'LINESTRING(2 5, 3 6, 4 8)') ) → 8`
 
-![](../../../.gitbook/assets/y_max1.png)
+![](/img/geometria/y_max/y_max1.png)
 
 ## nota bene
 
@@ -26,5 +24,4 @@ y_max\(\_geometry_\)
 
 --
 
-![](../../../.gitbook/assets/y_max2.png)
-
+![](/img/geometria/y_max/y_max2.png)

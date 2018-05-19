@@ -1,12 +1,10 @@
-# interior\_ring\_n
-
 ## Funzione `interior_ring_n`
 
 Restituisce un anello interno specifico da una geometria poligonale, o null se la geometria non è un poligono.
 
 ## Sintassi
 
-interior_ring\_n\(\_geometry, index_\)
+interior_ring_n(_geometry, index_)
 
 ## Argomenti
 
@@ -17,7 +15,7 @@ interior_ring\_n\(\_geometry, index_\)
 
 * `geom_to_wkt(interior_ring_n(geom_from_wkt('POLYGON((-1 -1, 4 0, 4 2, 0 2, -1 -1),(-0.1 -0.1, 0.4 0, 0.4 0.2, 0 0.2, -0.1 -0.1),(-1 -1, 4 0, 4 2, 0 2, -1 -1))'),1)) → 'LineString (-0.1 -0.1, 0.4 0, 0.4 0.2, 0 0.2, -0.1 -0.1))'`
 
-![](../../../.gitbook/assets/interior_ring_n1.png)
+![](/img/geometria/interior_ring_n/interior_ring_n1.png)
 
 ## nota bene
 
@@ -27,5 +25,5 @@ interior_ring\_n\(\_geometry, index_\)
 
 Restituisce una lineastring!!!
 
-![](../../../.gitbook/assets/interior_ring_n2%20%281%29.png)
+![](/img/geometria/interior_ring_n/interior_ring_n2.png)
 

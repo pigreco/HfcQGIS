@@ -1,12 +1,10 @@
-# char
-
 ## Funzione `char`
 
 Restituisce il carattere associato ad un codice unicode.
 
 ## Sintassi
 
-char\(_code_\)
+char(_code_)
 
 ## Argomenti
 
@@ -16,7 +14,7 @@ char\(_code_\)
 
 * `char(81) → 'Q'`
 
-![](../../../.gitbook/assets/char1.png)
+![](/img/stringhe_di_testo/char/char1.png)
 
 ## nota bene
 
@@ -25,4 +23,3 @@ char\(_code_\)
 ## osservazioni
 
 --
-
