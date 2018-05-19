@@ -24,4 +24,4 @@ ecco evidenziate le due colonne con le coordinate:
 
 ![](/img/esempi/add_coord_xy/add_coord4.png)
 
-il geopackage è scaricabile [qui](dati_esempi.gpkg)
+il geopackage è scaricabile [qui](/esempi/dati_esempi.gpkg)

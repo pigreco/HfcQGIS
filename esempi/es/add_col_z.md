@@ -25,4 +25,4 @@ evidenziata la colonna con le quote z
 * in caso di (Multi)LinestringZ → z([start_point](/gr_funzioni/geometria/funzioni/start_point.md)($geometry)) isoipse;
 * in caso di PoligonZ z([point_n](/gr_funzioni/geometria/funzioni/point_n.md)($geometry,1))
 
-il geopackage è scaricabile [qui](dati_esempi.gpkg)
+il geopackage è scaricabile [qui](/esempi/dati_esempi.gpkg)
