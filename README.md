@@ -4,8 +4,9 @@
 [![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
 [![Donate to QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square)](http://qgis.org/en/site/getinvolved/donations.html)
 
+![logo](img/logo_def_128.png)
 
-# ![logo](img/logo_HfcQGIS-ITA.png "Logo HfcQGIS") Help funzioni calcolatore di campi di QGIS (HfcQGIS)
+# Help funzioni calcolatore di campi di QGIS (HfcQGIS)
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
