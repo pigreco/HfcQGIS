@@ -8,4 +8,4 @@ Esempio|Descrizione
 [campo quota z](es/add_col_z.md)|aggingere colonna quota con valori z
 [etichettare](es/etichette.md)|etichettare usando il campo geometry
 [aggiornare geometria](es/agg_geom.md)|aggiornare il campo geometry
-
+[conversione](es/agg_geom.md)|etichettare punti da sessadecimali a sessagesimali (GG MM SS,ss)

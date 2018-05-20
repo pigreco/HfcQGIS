@@ -44,3 +44,5 @@ espressione da scrivere nel calcolatore di campi
  ' mq'
  ```
  ![](/img/esempi/etichette/etichette3.png)
+
+ Geopackage è [qui](/esempi/dati_esempi.gpkg)

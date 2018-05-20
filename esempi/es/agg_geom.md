@@ -6,3 +6,5 @@ Il campo _geometry_ è un attributo come gli altri però non è visibile nella t
 
 l'aggiornamento non significa che da punto diventi linea o poligono, ma è possibile aggiornale le coordinate dei punti, semplificare una geometria (in termini di vertici).
 NB: se una geometria è 2D non possiamo aggiornarla a 3D.
+
+Geopackage è [qui](/esempi/dati_esempi.gpkg)
