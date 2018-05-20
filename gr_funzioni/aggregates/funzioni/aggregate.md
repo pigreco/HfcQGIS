@@ -54,3 +54,7 @@ aggregate(*layer, aggregate, calculation, filter, concatenator*)
 i nomi dei layer vanno scritti tra apici semplici ('nome_layer') mentre i nomi dei campi con doppi apici ("nome_campo")
 
 ![](/img/aggregates/aggregate/aggregate2.png)
+
+## Altri esempi
+
+Come realizzare una spatial-join con aggregazione usando solo il calcolatore di campi [qui](https://medium.com/@salvatorefiandaca/qgis-3-0-funzioni-di-aggregazione-9c8c389985c5)
