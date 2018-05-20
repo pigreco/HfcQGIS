@@ -6,7 +6,7 @@
 
 ![logo](img/logo_def_128.png)
 
-# Help funzioni calcolatore di campi di QGIS (HfcQGIS)
+# ![logo](img/logo_def2_64.png) Help funzioni calcolatore di campi di QGIS (HfcQGIS)
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
