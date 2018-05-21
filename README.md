@@ -88,14 +88,15 @@ Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [
 
 \* il X % sarà donato a **QGIS.it** 
 
-## ©️ Autori `HfcQGIS`
+## ©️ Autore `HfcQGIS`
 
 * [Salvatore Fiandaca](https://twitter.com/totofiandaca?lang=it) (aka _Totò_)
-    * Ideatore e sviluppatore ...
-* [Andrea Borruso](https://twitter.com/aborruso?lang=it) (aka _WikiAndy_)
-    * Supporto tecnico GitHub, VScode, Markdown e gitbook;
 
-Repo costruito con:
+## Ringraziamenti
+
+* [Andrea Borruso](https://twitter.com/aborruso?lang=it) per il supporto tecnico GitHub, VScode, Markdown e gitbook;
+
+## Repo costruito con:
 
 ![screen2](img/VScode_QGIS.png "screen VScode e QGIS 3")
 
