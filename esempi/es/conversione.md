@@ -20,5 +20,7 @@ to_real((($y - floor($y))*60) -floor((($y - floor($y))*60 )))*60 ,2) ||'"'
 
 ![](/img/esempi/conversione/conversione1.png)
 
+![](/img/esempi/conversione/conversione2.png)
+
 
 Geopackage è [qui](/esempi/dati_esempi.gpkg)
