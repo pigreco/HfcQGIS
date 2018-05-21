@@ -1,6 +1,6 @@
 ## Etichettare punti EPSG 4326 sessadecimali in sessagessimali GMS
 
-La conversione tra i due sistemi è abbastanza semplice e quindi vado dirattamente alla espressione da usare nel calcolatore di campi:
+La conversione tra i due sistemi è abbastanza semplice e quindi vado direttamente alla espressione da usare nel calcolatore di campi:
 
 ```
 'lon :' || floor($x)
