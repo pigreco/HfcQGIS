@@ -6,7 +6,7 @@ Restituisce la prima posizione di corrispondenza di una sottostringa dentro in u
 
 strpos(_haystack, needle_)
 
-##Argomenti
+## Argomenti
 
 * _haystack_ stringa in cui deve essere cercata
 * _needle_ stringa da cercare

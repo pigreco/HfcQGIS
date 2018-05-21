@@ -26,3 +26,5 @@ floor(_value_)
 ## osservazioni
 
 --
+
+Vedi esempio [conversione](/esempi/es/conversione.md)
