@@ -80,7 +80,7 @@ La descrizione delle funzioni in italiano è stata realizzata dal gruppo di trad
 
 ## Licenze
 
-Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 3.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/3.0/)
+Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [Creative Commons Attribution-ShareAlike 4.0 licence (CC BY-SA)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 ## Donate
 
