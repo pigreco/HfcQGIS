@@ -31,7 +31,7 @@ regexp_match(_input_string, regex_)
 * \* « asterisco » accetta zero o più ripetizioni del carattere precedente
 * \+ « più » accetta una o più ripetizioni del carattere precedente
 * \[ ] « parentesi quadre » tutti i caratteri all’interno delle [ ] sono accettati: le due parentesi si comportano come un singolo carattere
-* [^ ] « parentesi quadre con apice » tutti i caratteri tranne quelli all’interno delle [ ] sono accettati
+* `[^ ]` « parentesi quadre con apice » tutti i caratteri tranne quelli all’interno delle [ ] sono accettati
 * / « slash » inizia/termina l’espressione regolare
 * \ « barra rovesciata » tratta il carattere speciale che segue come un normale carattere testuale o viceversa tratta un normale carattere come un carattere speciale
 
