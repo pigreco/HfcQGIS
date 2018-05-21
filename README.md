@@ -47,11 +47,11 @@ Gruppo funzioni|nro funzioni|info
 * [Esempi](/esempi) (7) - Esempi dettagliati sull'uso delle funzioni
 
 ---
-## [Cosa puoi fare](CONTRIBUTING.md) ❔
+## [Cosa puoi fare](/CONTRIBUTING.md) ❔
 
 - *contribuire* 💳📣
     - [finanziariamente*](https://www.paypal.me/pigrecoinfinito);
-    - [condividendo e divulgando](https://www.facebook.com/) usare HashTag **#HfcQGIS**;
+    - [condividendo e divulgando](https://www.facebook.com/) usare HashTag **#hfcqgis**;
 - *segnalare errori* ⚠️
     - [tramite issues](https://github.com/pigreco/HfcQGIS/issues);
 - *aggiungere funzioni* 🎫
