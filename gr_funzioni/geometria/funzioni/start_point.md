@@ -23,5 +23,10 @@ start_point(_geometry_)
 ## osservazioni
 
 --
+Start_point di geometria poligonale:
 
 ![](/img/geometria/start_point/start_point2.png)
+
+Start_point di geometria lineare:
+
+![](/img/geometria/end_point/end_point3.png)

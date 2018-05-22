@@ -26,3 +26,7 @@ end_point(_geometry_)
 End_point di geometria poligonale:
 
 ![](/img/geometria/end_point/end_point2.png)
+
+End_point di geometria lineare:
+
+![](/img/geometria/end_point/end_point3.png)
