@@ -28,7 +28,7 @@ lpad(_string, width, fill_)
 --
 ## Altri esempi utili
 
-#### se volessi popolare un campo in modo da ottenere segnale01.png, segnale01.png...segnale99.png
+#### se volessi popolare un campo in modo da ottenere segnale01.png, segnale02.png...segnale99.png
 
 * `'segnale' || lpad( @row_number ,2, '00' )|| '.png' → 'segnale01.png'`
 
