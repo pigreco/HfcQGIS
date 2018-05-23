@@ -28,8 +28,28 @@ lpad(_string, width, fill_)
 --
 ## Altri esempi utili
 
-se volessi popolare un campo in modo da ottenere segnale01.png, segnale01.png...segnale99.png
+#### se volessi popolare un campo in modo da ottenere segnale01.png, segnale01.png...segnale99.png
 
 * `'segnale' || lpad( @row_number ,2, '00' )|| '.png' → 'segnale01.png'`
 
 ![](/img/stringhe_di_testo/lpad/lpad2.png)
+
+
+#### per ricostruire un identificativo univoco `CODICE_ASC`
+
+CODICE_STR|NUM_CIV|BARRATO|CODICE_ASC
+----------|-------|-------|-------
+000020|1||0000002000001
+000575|1||0000057500001
+001785|1|1|00001785000011
+005495|38|1|00005495000381
+001480|572|10|000014800057210
+000150|1||0000015000001
+
+```
+lpad("CODICE_STR",8,0)||
+lpad( "NUM_CIV",5,0) ||
+coalesce("BARRATO",'')
+```
+
+![](/img/stringhe_di_testo/lpad/lpad3.png)
