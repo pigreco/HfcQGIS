@@ -30,6 +30,14 @@ lpad(_string, width, fill_)
 
 #### se volessi popolare un campo in modo da ottenere segnale01.png, segnale02.png...segnale99.png
 
+id|path
+--|---
+10|segnale01.png
+15|segnale02.png
+22|segnale03.png
+..|..
+520|segnale99.png
+
 * `'segnale' || lpad( @row_number ,2, '00' )|| '.png' → 'segnale01.png'`
 
 ![](/img/stringhe_di_testo/lpad/lpad2.png)
