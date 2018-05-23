@@ -34,7 +34,7 @@ lpad(_string, width, fill_)
 
 ![](/img/stringhe_di_testo/lpad/lpad2.png)
 
-
+---
 #### per ricostruire un identificativo univoco `CODICE_ASC`
 
 CODICE_STR|NUM_CIV|BARRATO|CODICE_ASC
