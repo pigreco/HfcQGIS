@@ -37,4 +37,4 @@ regexp_match(_input_string, regex_)
 
 [link](https://natonelbronx.wordpress.com/2007/12/02/le-espressioni-regolari-regex-o-regexp/)
 
-*`regexp_match('QGIS ROCKS ciao come stai','$')= length ('QGIS ROCKS ciao come stai')+1`
+* `regexp_match('QGIS ROCKS ciao come stai','$')= length ('QGIS ROCKS ciao come stai')+1`
