@@ -36,5 +36,6 @@ regexp_match(_input_string, regex_)
 * \ « barra rovesciata » tratta il carattere speciale che segue come un normale carattere testuale o viceversa tratta un normale carattere come un carattere speciale
 
 [link](https://natonelbronx.wordpress.com/2007/12/02/le-espressioni-regolari-regex-o-regexp/)
+[link](https://www.python.it/doc/howto/Regex/regex-it/regex-it.html)
 
 * `regexp_match('QGIS ROCKS ciao come stai','$')= length ('QGIS ROCKS ciao come stai')+1`
