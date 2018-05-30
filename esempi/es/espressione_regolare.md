@@ -31,3 +31,12 @@ la [regexp_replace](/gr_funzioni/stringhe_di_testo/funzioni/regexp_replace.md):
 ![tema](/img/esempi/espressione_regolare/espressione_reg2.png)
 
 [thread](http://gfoss-geographic-free-and-open-source-software-italian-mailing.3056002.n2.nabble.com/Inserimento-automatico-di-un-carattere-speciale-td7597982.html)  ML Gfoss
+
+Altra possibile soluzione, molto più elegante è la [seguente](https://regex101.com/r/ZrERha/4) (grazie [Andrea Borruso](https://twitter.com/aborruso?lang=it)):
+
+`^((\\S+\\s*?){3})(\\s+)(.*?)$` e per la sostituzione `\\1#\\4`
+
+ovvero, il numero tra parentesi graffe indica la parola oltre la quale inserire il carattere speciale:
+
+* `regexp_replace('Via Mario Miglioranza detto Pinto','^((\\S+\\s*?){3})(\\s+)(.*?)$','\\1#\\4')  → Via Mario Miglioranza#dettoPinto`
+=======
