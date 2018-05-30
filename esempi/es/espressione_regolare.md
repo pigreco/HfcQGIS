@@ -18,9 +18,9 @@ else regexp_replace( "TRIM_STR_C" , '(\\S+\\s+\\S+)(\\s+)(.*)','\\1$\\3')
 END
 ```
 
-Questa espressione condizionale controlla prima la lunghezza della stringa (label) e se >34 applica la prima regexp_replace altrimenti la seconda;
+Questa espressione [condizionale](/gr_funzioni/condizioni/funzioni/case.md) controlla prima la lunghezza della stringa (label) e se >34 applica la prima regexp_replace altrimenti la seconda;
 
-la regexp_replace:
+la [regexp_replace](/gr_funzioni/stringhe_di_testo/funzioni/regexp_replace.md):
 
 `(\\S+\\s+\\S+\\s+\\S+)(\\s+)(.*)` acciappa il terzo spazio presente in tutta la frase e per sostituirgli un carattere spaciale: `\\1$\\3` doce `\\1` è la prima parte prima del terzo spazio mentre `\\3` è la terza parte contando anche lo spazio;
 
@@ -29,3 +29,5 @@ la regexp_replace:
 ![tema](/img/esempi/espressione_regolare/espressione_reg1.png)
 
 ![tema](/img/esempi/espressione_regolare/espressione_reg2.png)
+
+[thread]([http://gfoss-geographic-free-and-open-source-software-italian-mailing.3056002.n2.nabble.com/Inserimento-automatico-di-un-carattere-speciale-td7597982.html](http://gfoss-geographic-free-and-open-source-software-italian-mailing.3056002.n2.nabble.com/Inserimento-automatico-di-un-carattere-speciale-td7597982.html))  ML Gfoss
