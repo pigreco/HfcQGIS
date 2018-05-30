@@ -42,7 +42,7 @@ Gruppo funzioni|nro funzioni|info
 * [Concetti](/concetti.md) Concetti base sul calcolatore di campi
 * [Interfaccia](/interfaccia.md) Introduzione all'interfaccia calcolatore di campi
 * [Operatori](/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
-* [Esempi](/esempi) (7) - Esempi dettagliati sull'uso delle funzioni
+* [Esempi](/esempi) (8) - Esempi dettagliati sull'uso delle funzioni
 
 ---
 ## [Cosa puoi fare](/CONTRIBUTING.md) ❔

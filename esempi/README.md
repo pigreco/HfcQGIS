@@ -10,3 +10,4 @@ Esempio|Descrizione
 [aggiornare geometria](es/agg_geom.md)|aggiornare il campo geometry
 [conversione](es/conversione.md)|etichettare punti da sessadecimali a sessagesimali (GG MM SS,ss)
 [tematizzare](es/tematizzare.md)|Tematizzare utilizzando la sovrascrittura definita dai dati
+[legenda](es/espressione_regolare.md)|Legenda con testo lungo, inserimento carattere speciale
