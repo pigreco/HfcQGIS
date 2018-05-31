@@ -1,4 +1,4 @@
-## espressione regolare
+## Espressione regolare: inserire automaticamente un carattere speciale
 
 Ho delle label composte da 4-5 parole e vorrei mandare a capo ogni 2 parole
 circa. Se uso lo spazio ovviamente mi impila le 4-5 parole e non è quello
@@ -22,7 +22,7 @@ Questa espressione [condizionale](/gr_funzioni/condizioni/funzioni/case.md) cont
 
 la [regexp_replace](/gr_funzioni/stringhe_di_testo/funzioni/regexp_replace.md):
 
-`(\\S+\\s+\\S+\\s+\\S+)(\\s+)(.*)` acchiappa il terzo spazio presente in tutta la frase e per sostituirgli un carattere spaciale: `\\1$\\3` doce `\\1` è la prima parte prima del terzo spazio mentre `\\3` è la terza parte contando anche lo spazio;
+`(\\S+\\s+\\S+\\s+\\S+)(\\s+)(.*)` acchiappa il terzo spazio presente in tutta la frase e per sostituirgli un carattere spaciale: `\\1$\\3` dove `\\1` è la prima parte prima del terzo spazio mentre `\\3` è la terza parte contando anche lo spazio;
 
 `(\\S+\\s+\\S+)(\\s+)(.*)` acchiappa il secondo spazio presente in tutta la frase e per sostituirgli un carattere spaciale: `\\1$\\3` dove `\\1` è la prima parte prima del terzo spazio mentre `\\3` è la terza parte contando anche lo spazio;
 
@@ -38,4 +38,4 @@ Altra possibile soluzione, molto più elegante è la [seguente](https://regex101
 
 ovvero, il numero tra parentesi graffe indica la parola oltre la quale inserire il carattere speciale:
 
-* `regexp_replace('Via Mario Miglioranza detto Pinto','^((\\S+\\s*?){3})(\\s+)(.*?)$','\\1#\\4')  → Via Mario Miglioranza#dettoPinto`
+* `regexp_replace('Via Mario Miglioranza detto Pinto','^((\\S+\\s*?){3})(\\s+)(.*?)$','\\1#\\4')  → Via Mario Miglioranza#detto Pinto`
