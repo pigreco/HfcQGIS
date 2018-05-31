@@ -1,4 +1,4 @@
-## espressione regolare
+## Espressione regolare: inserire automaticamente un carattere speciale
 
 Ho delle label composte da 4-5 parole e vorrei mandare a capo ogni 2 parole
 circa. Se uso lo spazio ovviamente mi impila le 4-5 parole e non è quello
