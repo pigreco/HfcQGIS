@@ -22,7 +22,7 @@ Questa espressione [condizionale](/gr_funzioni/condizioni/funzioni/case.md) cont
 
 la [regexp_replace](/gr_funzioni/stringhe_di_testo/funzioni/regexp_replace.md):
 
-`(\\S+\\s+\\S+\\s+\\S+)(\\s+)(.*)` acchiappa il terzo spazio presente in tutta la frase e per sostituirgli un carattere spaciale: `\\1$\\3` doce `\\1` è la prima parte prima del terzo spazio mentre `\\3` è la terza parte contando anche lo spazio;
+`(\\S+\\s+\\S+\\s+\\S+)(\\s+)(.*)` acchiappa il terzo spazio presente in tutta la frase e per sostituirgli un carattere spaciale: `\\1$\\3` dove `\\1` è la prima parte prima del terzo spazio mentre `\\3` è la terza parte contando anche lo spazio;
 
 `(\\S+\\s+\\S+)(\\s+)(.*)` acchiappa il secondo spazio presente in tutta la frase e per sostituirgli un carattere spaciale: `\\1$\\3` dove `\\1` è la prima parte prima del terzo spazio mentre `\\3` è la terza parte contando anche lo spazio;
 
