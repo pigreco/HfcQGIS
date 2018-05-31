@@ -38,4 +38,4 @@ Altra possibile soluzione, molto più elegante è la [seguente](https://regex101
 
 ovvero, il numero tra parentesi graffe indica la parola oltre la quale inserire il carattere speciale:
 
-* `regexp_replace('Via Mario Miglioranza detto Pinto','^((\\S+\\s*?){3})(\\s+)(.*?)$','\\1#\\4')  → Via Mario Miglioranza#dettoPinto`
+* `regexp_replace('Via Mario Miglioranza detto Pinto','^((\\S+\\s*?){3})(\\s+)(.*?)$','\\1#\\4')  → Via Mario Miglioranza#detto Pinto`
