@@ -1,6 +1,6 @@
 ## Funzione `minimum`
 
-Restituisce il valore massimo aggregato da un campo o espressione.
+Restituisce il valore minimo aggregato da un campo o espressione.
 
 ## Sintassi
 
