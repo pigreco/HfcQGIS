@@ -4,7 +4,7 @@ Concatena svariate stringhe in una sola. Valori NULL sono convertiti in stringhe
 
 ## Sintassi
 
-oncat(_string1, string2, …_)
+concat(_string1, string2, …_)
 
 ## Argomenti
 
