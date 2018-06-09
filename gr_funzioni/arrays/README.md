@@ -19,7 +19,7 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 |[array_last](funzioni/array_last.md)|Restituisce l'ultimo valore di un array|
 |[array_length](funzioni/array_length.md)|Restituisce il numero di elementi di un array|
 |[array_majority](array_majority.md)|Restituisce il valore più comune. Restituisce un valore arbitrario se ex-equo|ArrayPlus
-|![array_minority](array_minority.md)|Restituisce il valore più comune. Restituisce un valore arbitrario se ex-equo|ArrayPlus
+|[array_minority](array_minority.md)|Restituisce il valore più comune. Restituisce un valore arbitrario se ex-equo|ArrayPlus
 |[array_max](array_max.md)|Restituisce il valore massimo di un array|ArrayPlus
 |[array_min](array_min.md)|Restituisce il valore minimo di un array|ArrayPlus
 |[array_prepend](funzioni/array_prepend.md)|Restituisce un array con il valore dato aggiunto all'inizio|
