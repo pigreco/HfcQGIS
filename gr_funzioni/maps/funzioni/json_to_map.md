@@ -4,15 +4,15 @@ Restituisce tutte le chiavi di una mappa come un array.
 
 ## Sintassi
 
-json_to_map(_map_)
+json_to_map(_json string_)
 
 ## Argomenti
 
-* _map_ una mappa
+* _json string_ una stringa json
 
 ## Esempi
 
-* `json_to_map(map('1','one','2','two')) → array: '1', '2'`
+* ``json_to_map('{"a":12,"b":["rre","rra"]}') → <map: a:12,<array: 'rre','rra'>>``
 
 ![](/img/maps/json_to_map/json_to_map1.png)
 
