@@ -2,8 +2,10 @@
 
 Questo gruppo contiene funzioni espressione per la creazione e la manipolazione di strutture di dati 'a mappa' (noti anche come oggetti dizionario, coppie chiave-valore o array associative). Si possono assegnare valori a determinate chiavi. L'ordine delle coppie chiave valore nell'oggetto mappa non è rilevante come per gli Arrays ([gruppo Arrays](funzioni/../arrays)).
 
- Funzione  | Descrizione
-----------:|:-----------
+ Funzione  | Descrizione|Plugin
+----------:|:-----------|------
+[hstore_to_map](funzioni/hstore_to_map.md)|Coverte hstore in map|ArrayPlus
+[json_to_map](funzioni/json_to_map.md)|Converte string json in map|ArrayPlus
 [map](funzioni/map.md)|Restituisce una mappa con tutte le chiavi ed i valori passati come coppie di parametri
 [map_akeys](funzioni/map_akeys.md)|	Restituisce tutte le chiavi di una mappa come un array
 [map_avals](funzioni/map_avals.md)|	Restituisce tutti valori di una mappa come un array

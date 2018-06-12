@@ -15,6 +15,7 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 |[array_first](funzioni/array_first.md)|Restituisce il primo valore di un array|
 |[array_get](funzioni/array_get.md)|Restituisce il valore ennesimo di un array|
 |[array_insert](funzioni/array_insert.md)|Restituisce un array con il valore passato aggiunto nella posizione indicata|
+|[array_lambda](funzioni/array_lambda.md)|Applica una funzione personalizzata a ciascun elemento (x)|ArrayPlus
 |[array_intersect](funzioni/array_intersect.md)|Restituisce vero se almeno un elemento dell'array1 esiste in array2|
 |[array_last](funzioni/array_last.md)|Restituisce l'ultimo valore di un array|
 |[array_length](funzioni/array_length.md)|Restituisce il numero di elementi di un array|
