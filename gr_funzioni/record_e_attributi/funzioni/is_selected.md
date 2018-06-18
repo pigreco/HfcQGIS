@@ -18,6 +18,6 @@ Indica se una geometria è selezionata. Se chiamata senza parametri, controlla l
 * is_selected(get_feature('streets', 'name', "street_name"), 'streets') → True (vero) se la strada della geometria corrente è selezionata.
 ```
 
-Esempio tramite etichettatura tramite regola:
+Esempio etichettatura tramite regola:
 
 ![](/img/record_e_attributi/is_selected1.gif)
