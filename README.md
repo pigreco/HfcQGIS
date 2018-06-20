@@ -39,15 +39,14 @@ Gruppo funzioni|nro funzioni|info
 
 ![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
 
-## Novità rilevanti introdotte nella 3.2
-* [Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!](novita_3.2.md)
-
-
----
 * [Concetti](/concetti.md) Concetti base sul calcolatore di campi
 * [Interfaccia](/interfaccia.md) Introduzione all'interfaccia calcolatore di campi
 * [Operatori](/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
 * [Esempi](/esempi) (8) - Esempi dettagliati sull'uso delle funzioni
+
+---
+## Novità rilevanti introdotte nella 3.2
+* [Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!](novita_3.2.md)
 
 ---
 ## [Cosa puoi fare](/CONTRIBUTING.md) ❔
