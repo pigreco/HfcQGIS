@@ -40,7 +40,7 @@ Gruppo funzioni|nro funzioni|info
 ![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
 
 ## Novità rilevanti introdotte nella 3.2
-* Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!
+* [Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!](novita_3.2.md)
 
 
 ---
