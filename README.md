@@ -46,7 +46,8 @@ Gruppo funzioni|nro funzioni|info
 
 ---
 ## Novità rilevanti introdotte nella 3.2
-* [Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!](novita_3.2.md)
+* [Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!](https://github.com/pigreco/HfcQGIS/blob/master/novita_3.2.md#novit%C3%A0-rilevanti-introdotte-nella-32)
+* [Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)](https://github.com/pigreco/HfcQGIS/blob/master/novita_3.2.md#feature-form-drill-down-a-cascata--widget-value-relation-relazione-valore)
 
 ---
 ## [Cosa puoi fare](/CONTRIBUTING.md) ❔
