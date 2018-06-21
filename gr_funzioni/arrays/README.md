@@ -24,6 +24,7 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 |[array_max](funzioni/array_max.md)|Restituisce il valore massimo di un array|ArrayPlus
 |[array_min](funzioni/array_min.md)|Restituisce il valore minimo di un array|ArrayPlus
 |[array_prepend](funzioni/array_prepend.md)|Restituisce un array con il valore dato aggiunto all'inizio|
+|[array_prioritize](funzioni/array_prioritize.md)|Ordina un array rispetto ad un altro QGIS >= 3.2|
 |[array_remove_all](funzioni/array_remove_all.md)|Restituisce un array con tutti gli elementi del valore passato rimossi|
 |[array_remove_at](funzioni/array_remove_at.md)|Restituisce un array con l'indice passato rimosso|
 |[array_replace](funzioni/array_replace.md)|Ordina i valori in ordine crescente (usa _array_reverse_ per desc)|ArrayPlus
