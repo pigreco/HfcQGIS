@@ -21,3 +21,9 @@ Indica se una geometria è selezionata. Se chiamata senza parametri, controlla l
 Esempio etichettatura tramite regola:
 
 ![](/img/record_e_attributi/is_selected1.gif)
+
+Esempio tematizzazione tramite regola:
+
+![](/img/record_e_attributi/is_selected3.png)
+
+![](/img/record_e_attributi/is_selected2.gif)
