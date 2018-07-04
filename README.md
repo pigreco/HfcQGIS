@@ -40,6 +40,7 @@ Gruppo funzioni|nro funzioni|info
 ![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
 
 * [Concetti](/concetti.md) Concetti base sul calcolatore di campi
+* [Linguaggio](https://gis.stackexchange.com/questions/247474/what-language-do-qgis-expressions-use-what-language-should-qgis-queries-be-writ) Che linguaggio usa il calcolatore di campi?
 * [Interfaccia](/interfaccia.md) Introduzione all'interfaccia calcolatore di campi
 * [Operatori](/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
 * [Esempi](/esempi) (8) - Esempi dettagliati sull'uso delle funzioni
@@ -106,3 +107,7 @@ Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [
 ![screen2](img/VScode_QGIS.png "screen VScode e QGIS 3")
 
 * [Visual Studio code](https://it.wikipedia.org/wiki/Visual_Studio_Code)
+
+* Video demo su come utilizzare la guida
+
+[![add_col_area_perimetro](https://img.youtube.com/vi/geI5NjNUwWQ/0.jpg)](https://youtu.be/geI5NjNUwWQ "Come usare questa guida")
