@@ -39,9 +39,6 @@ templates_path = ['_templates']
 # The encoding of source files.
 #source_encoding = 'utf-8-sig'
 
-# The master toctree document.
-master_doc = 'index'
-
 # General information about the project.
 project = u'Test'
 copyright = u'2015, Test'
@@ -283,10 +280,13 @@ texinfo_documents = [
 
 from recommonmark.parser import CommonMarkParser
 
-# The suffix of source filenames.
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
 source_suffix = ['.rst', '.md']
 
-source_parsers = {
-	'.md': CommonMarkParser,
-}
+# The master toctree document.
+master_doc = 'index'
+
 
