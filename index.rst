@@ -1,9 +1,21 @@
-project-name
-------------
+Benvenuti
+===================================
 
-Documents
-=========
+.. _calcolatorecampi:
+
 .. toctree::
-   :maxdepth: 16
+   :maxdepth: 2
+   :caption: Calcolatore di campi
 
-   user-guide
+   concetti
+   interfaccia
+   operatori
+   esempi
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Novità 3.2
+
+   novita_3.2
+   
+
