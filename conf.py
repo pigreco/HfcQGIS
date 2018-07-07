@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 #
-# Drutopia documentation build configuration file, created by
-# sphinx-quickstart on Wed May 24 12:32:59 2017.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -51,9 +49,9 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Drutopia'
-copyright = u'2017, Rosemary Mann, Nedjo Rogers, Clayton Dewey, Benjamin Melançon, Leslie Glynn'
-author = u'Rosemary Mann, Nedjo Rogers, Clayton Dewey, Benjamin Melançon, Leslie Glynn'
+project = u'HfcQGIS'
+copyright = u'2018, Salvatore Fiandaca'
+author = u'Salvatore Fiandaca'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
