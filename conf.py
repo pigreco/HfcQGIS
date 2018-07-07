@@ -290,7 +290,7 @@ from recommonmark.parser import CommonMarkParser
 source_suffix = ['.rst', '.md']
 
 source_parsers = {
-	'.md': CommonMarkParser,
+	'.md': recommonmark.parser.CommonMarkParser,
 }
 
 # At the bottom of conf.py
