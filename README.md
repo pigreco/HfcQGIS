@@ -22,7 +22,7 @@ Gruppo funzioni|nro funzioni|info
 [Custom](/gr_funzioni/custom)| (4/4)| funzioni personalizzate
 [Data e ora](/gr_funzioni/data_ora) |(16/16)|
 [Generale](/gr_funzioni/generale)| (6/6)|
-[Geometria](/gr_funzioni/geometria) |(97/97)| aggiornate a QGIS 3.2
+[Geometria](./gr_funzioni/geometria) |(97/97)| aggiornate a QGIS 3.2
 [Layer della mappa](/gr_funzioni/layer_della_mappa)| (1/1)| >= QGIS 3.0
 [Maps](/gr_funzioni/maps)| (10/10) |>= QGIS 3.0 (PostGIS) - ArrayPlus Plugin
 [Matematica](/gr_funzioni/matematica)| (28/28)|
