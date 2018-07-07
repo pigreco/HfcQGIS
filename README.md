@@ -37,16 +37,15 @@ Gruppo funzioni|nro funzioni|info
 
 ## Calcolatore di campi
 
-![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
-
 * [Concetti](./concetti.md) Concetti base sul calcolatore di campi
 * [Linguaggio](https://gis.stackexchange.com/questions/247474/what-language-do-qgis-expressions-use-what-language-should-qgis-queries-be-writ) Che linguaggio usa il calcolatore di campi?
 * [Interfaccia](./interfaccia.md) Introduzione all'interfaccia calcolatore di campi
 * [Operatori](./operatori.md) - Operatori presenti nell'interfaccia del calcolatore
 * [Esempi](./esempi) (9) - Esempi dettagliati sull'uso delle funzioni
 
+![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
 ---
-## Novità rilevanti introdotte nella 3.2
+## Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018
 * [Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!](https://github.com/pigreco/HfcQGIS/blob/master/novita_3.2.md#novit%C3%A0-rilevanti-introdotte-nella-32)
 * [Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)](https://github.com/pigreco/HfcQGIS/blob/master/novita_3.2.md#feature-form-drill-down-a-cascata--widget-value-relation-relazione-valore)
 
@@ -70,6 +69,7 @@ Gruppo funzioni|nro funzioni|info
 
 * [Github](https://github.com/pigreco/HfcQGIS)
 * Ebook 🕮 (a breve!!!)
+* Read the Docs 🕮 (a breve!!!)
 
 ## Traduzione in italiano
 
