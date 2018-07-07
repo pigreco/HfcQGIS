@@ -1,9 +1,9 @@
-project-name
-------------
+Benvenuti
+===================================
 
-Documents
-=========
 .. toctree::
-   :maxdepth: 16
+   :maxdepth: 1
+   :caption: Novità 3.2
 
-   user-guide
+   novita_3.2
+
