@@ -17,7 +17,7 @@ e poi clicco su (2) _seleziona elementi_:
 funzioni usate:
 
 * [\$area](/gr_funzioni/geometria/funzioni/$area.md)
-* [minumum](/gr_funzioni/aggregates/funzioni/minimum.md)
+* [minimum](/gr_funzioni/aggregates/funzioni/minimum.md)
 
 
 
