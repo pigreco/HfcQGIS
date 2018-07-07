@@ -1,9 +1,9 @@
-Markdown test
--------------
+project-name
+------------
 
-Markdown files:
-
+Documents
+=========
 .. toctree::
-   :glob:
+   :maxdepth: 16
 
-   markdown
+   user-guide

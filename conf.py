@@ -1,3 +1,6 @@
+# At top on conf.py (with other import statements)
+import recommonmark
+from recommonmark.transform import AutoStructify
 # -*- coding: utf-8 -*-
 #
 # Test documentation build configuration file, created by
@@ -287,6 +290,13 @@ from recommonmark.parser import CommonMarkParser
 source_suffix = ['.rst', '.md']
 
 source_parsers = {
-	'.md': CommonMarkParser,
+	'.md': recommonmark.parser.CommonMarkParser,
 }
 
+# At the bottom of conf.py
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+            'url_resolver': lambda url: github_doc_root + url,
+            'auto_toc_tree_section': 'Contents',
+            }, True)
+    app.add_transform(AutoStructify)
