@@ -5,7 +5,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 
  Funzione  | Descrizione | QGIS
 ----------:|:------------|:---
-[\$area](funzioni/$area.md)|Restituisce l'area della geometria corrente|2.18
+[$area](funzioni/$area.md)|Restituisce l'area della geometria corrente|2.18
 [\$geometry](funzioni/$geometry.md)|Restituisce la geometria dell'elemento attuale. Può essere usato per il processamento con altre funzioni|2.18
 [\$length](funzioni/$length.md)|Restituisce la lunghezza di una linestring|2.18
 [\$perimeter](funzioni/$perimeter.md)|Restituisce la lunghezza del perimetro della geometria corrente|2.18
