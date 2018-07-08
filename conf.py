@@ -29,9 +29,17 @@
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
+import sys, os
+import recommonmark
+from recommonmark.transform import AutoStructify
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
+html_static_path = ['static']
+
+def setup(app):
+    # overrides for wide tables in RTD theme
+    app.add_stylesheet('theme_overrides.css') # path relative to static
 
 from recommonmark.parser import CommonMarkParser
 
@@ -74,3 +82,11 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
+
+# At the bottom of conf.py
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+            'url_resolver': lambda url: github_doc_root + url,
+            'auto_toc_tree_section': 'Contents',
+            }, True)
+    app.add_transform(AutoStructify)
