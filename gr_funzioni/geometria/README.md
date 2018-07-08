@@ -6,13 +6,13 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
  Funzione  | Descrizione | QGIS
 ----------:|:------------|:---
 [$area](funzioni/$area.md)|Restituisce l'area della geometria corrente|2.18
-[\$geometry](funzioni/$geometry.md)|Restituisce la geometria dell'elemento attuale. Può essere usato per il processamento con altre funzioni|2.18
-[\$length](funzioni/$length.md)|Restituisce la lunghezza di una linestring|2.18
-[\$perimeter](funzioni/$perimeter.md)|Restituisce la lunghezza del perimetro della geometria corrente|2.18
-[\$x](funzioni/$x.md)|Restituisce la coordinata x della geometria corrente|2.18
-[\$x_at](funzioni/$x_at.md)|Recupera una coordinata x per la geometria dell'elemento corrente|2.18
-[\$y](funzioni/$y.md)|Restituisce la coordinata y della geometria corrente|2.18
-[\$y_at](funzioni/$y_at.md)|Recupera una coordinata y per la geometria dell'elemento corrente|2.18
+[$geometry](funzioni/$geometry.md)|Restituisce la geometria dell'elemento attuale. Può essere usato per il processamento con altre funzioni|2.18
+[$length](funzioni/$length.md)|Restituisce la lunghezza di una linestring|2.18
+[$perimeter](funzioni/$perimeter.md)|Restituisce la lunghezza del perimetro della geometria corrente|2.18
+[$x](funzioni/$x.md)|Restituisce la coordinata x della geometria corrente|2.18
+[$x_at](funzioni/$x_at.md)|Recupera una coordinata x per la geometria dell'elemento corrente|2.18
+[$y](funzioni/$y.md)|Restituisce la coordinata y della geometria corrente|2.18
+[$y_at](funzioni/$y_at.md)|Recupera una coordinata y per la geometria dell'elemento corrente|2.18
 [angle_at_vertex](funzioni/angle_at_vertex.md)|Restituisce l'angolo della bisettrice (angolo medio) della geometria per un vertice specifico di una geometria di tipo linestring.|>=2.18
 [area](funzioni/area.md)|Restituisce l'area di un oggetto a geometria poligonale|2.18
 [azimuth](funzioni/azimuth.md)|Restituisce l'azimut dal nord quale angolo in radianti misurato in senso orario dalla verticale del punto_a al punto_b.|2.18
