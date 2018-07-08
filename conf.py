@@ -29,6 +29,9 @@
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
 
+import sys, os
+from recommonmark.transform import AutoStructify
+from recommonmark.parser import CommonMarkParser
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -46,7 +49,11 @@ source_parsers = {
 
 source_suffix = ['.rst', '.md']
 
-extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
+extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables','sphinx.ext.autodoc',
+    'sphinx.ext.doctest',
+    'sphinx.ext.intersphinx',
+    'sphinx.ext.todo',
+    'sphinx.ext.coverage']
 
 # The master toctree document.
 master_doc = 'index'
@@ -79,3 +86,12 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
+
+# -- AutoStructify --------------------------------------------------------
+def setup(app):
+    app.add_config_value('recommonmark_config', {
+        'auto_toc_tree_section': 'Contents',
+        'enable_eval_rst': True,
+        'enable_auto_doc_ref': True
+    }, True)
+    app.add_transform(AutoStructify)
