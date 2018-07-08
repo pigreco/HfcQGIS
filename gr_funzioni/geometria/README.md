@@ -7,7 +7,7 @@ A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
 
  Funzione  | Descrizione | QGIS
 ----------:|:------------|:---
-|[\$area](funzioni/$area.html)|Restituisce l'area della geometria corrente|2.18
+|[\$area](funzioni/$area.md)|Restituisce l'area della geometria corrente|2.18
 |[\$geometry](funzioni/$geometry.md)|Restituisce la geometria dell'elemento attuale. Può essere usato per il processamento con altre funzioni|2.18
 |[\$length](funzioni/$length.md)|Restituisce la lunghezza di una linestring|2.18
 |[\$perimeter](funzioni/$perimeter.md)|Restituisce la lunghezza del perimetro della geometria corrente|2.18
