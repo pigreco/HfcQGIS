@@ -3,8 +3,6 @@
 
 Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lunghezza**, **area**.
 
-A  B  C  D  E  F  G  H  I  L  M  N  O  P  Q  R  S  T  U  V  Z
-
  Funzione  | Descrizione | QGIS
 ----------:|:------------|:---
 |[\$area](funzioni/$area.md)|Restituisce l'area della geometria corrente|2.18
