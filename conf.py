@@ -49,11 +49,7 @@ source_parsers = {
 
 source_suffix = ['.rst', '.md']
 
-extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables','sphinx.ext.autodoc',
-    'sphinx.ext.doctest',
-    'sphinx.ext.intersphinx',
-    'sphinx.ext.todo',
-    'sphinx.ext.coverage']
+extensions = ['sphinx.ext.ifconfig','sphinx_markdown_tables']
 
 # The master toctree document.
 master_doc = 'index'
@@ -86,13 +82,3 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
-
-# -- AutoStructify --------------------------------------------------------
-def setup(app):
-    app.add_config_value('recommonmark_config', {
-            'url_resolver': lambda url: github_doc_root + url,
-            'auto_toc_tree_section': 'Contents',
-            }, True)
-    app.add_transform(AutoStructify)
-    
-
