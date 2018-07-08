@@ -34,6 +34,10 @@
 templates_path = ['_templates']
 html_static_path = ['static']
 
+def setup(app):
+    # overrides for wide tables in RTD theme
+    app.add_stylesheet('theme_overrides.css') # path relative to static
+
 from recommonmark.parser import CommonMarkParser
 
 source_parsers = {
