@@ -30,8 +30,8 @@
 # ones.
 
 import sys, os
+import recommonmark
 from recommonmark.transform import AutoStructify
-from recommonmark.parser import CommonMarkParser
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -95,3 +95,5 @@ def setup(app):
         'enable_auto_doc_ref': True
     }, True)
     app.add_transform(AutoStructify)
+    
+
