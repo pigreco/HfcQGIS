@@ -2,10 +2,6 @@
 
 Salvatore **FIANDACA** (_aka `pigreco` per gli amici `Totò`_)
 
-Nasce in Belgio da genitori Siciliani, all'età di 5 anni i genitori decidono di rientrare in Sicilia, qui fa tutti gli studi fino a conseguire il _Diploma di Maturità tecnica per Geometri_ e poi la laurea in _Ingegneria Civile_ all'Università degli Studi di Palermo (UNIPA).
-
-Dopo la laurea segue un Corso di _Alta Formazione per Progettisti di Sistemi Informativi Territoriali_ presso il[ DIIAA dell’Università di Palermo](http://www.unipa.it/Dipartimento-di-Ingegneria-Idraulica-ed-Applicazioni-Ambientali/).
-
 Libero Professionista Esperto GIS, inizia ad approfondire il mondo GIS nel 2007 utilizzando software proprietari per poi scoprire il mondo Open Source e FOSS; attualmente è socio [GFOSS.it](http://gfoss.it/), membro di [QGIS Italia](https://www.facebook.com/qgis.it/) e moderatore di vari forum con argomenti GIS. Partecipa, nel 2014, alla fondazione di _Open Data Sicilia_ realizzando uno dei primi progetti del gruppo, nel 2016 è tra i relatori del [#ODS16 OpenDataSicilia Summer Edition](http://ods16.opendatasicilia.it/) Messina, in cui parla di QGIS.
 
 Cura un Blog '[Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)' e un [canale](https://www.youtube.com/user/vediamo13/) YouTube molto seguiti dove scrive e parla di QGIS, SpatiaLite, PostegreSQL/PostGIS, GRASS GIS, SAGA GIS, GitHub, OSGeo4W, ecc...
