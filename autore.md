@@ -12,5 +12,5 @@ Cura un Blog '[Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)' e un [c
 
 Ha partecipato alla realizzazione di un plugin per QGIS ([Select by Relationship](https://plugins.qgis.org/plugins/SelectByRelationship/)); utilizza la _OSGeo4W Network installer_ per fare testing sulle versione dev di QGIS; ha aperto numerosi ticket nel [QGIS Issue Tracking](https://issues.qgis.org/issues); scrive nelle mailing list di: QGIS-it-user, GFOSS, Spatialite, gvSIG; è co-admin della pagina ufficiale di [QGIS Italia](https://www.facebook.com/qgis.it/); ha collaborato per i testing di nuove feature di QGIS; compila la versione QGIS dev su GNU/Linux MINT; ha realizzato Pull request (PR) nel progetto princiaple di QGIS. Ha organizzato e partecipato alle prime due Hack Fest QGIS Italia realizzate a Bologna e Padova (2017) e parteciperà alla [prossima a Viterbo (2018)](https://github.com/pcav/sito_qgis_it/wiki/QGIS-HackFest-3).
 
-![foto](img/hfita_2017_bologna.png)
+![foto](img/hfita1_2017_bologna.png)
 
