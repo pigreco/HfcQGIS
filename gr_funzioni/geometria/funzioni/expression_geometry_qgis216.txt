@@ -1,3 +1,4 @@
+GRUPPO GEOMETRY QGIS 2.16
 $area
 $currentfeature
 $geometry

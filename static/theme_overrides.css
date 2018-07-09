@@ -1,7 +1,25 @@
-.pre {
-    white-space: pre-wrap;       /* Since CSS 2.1 */
-    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    white-space: -pre-wrap;      /* Opera 4-6 */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+/* override css */
+
+span.pre {
+ overflow-x: auto;  
 }
+
+code {
+white-space: normal !important;
+border: 0px !important;
+background-color: rgba(27,31,35,0.05) !important;
+}
+
+@media screen and (min-width: 640px) {
+
+   .wy-table-responsive table td {
+      /* !important prevents the common CSS stylesheets from overriding
+         this as on RTD they are loaded after this stylesheet */
+      white-space: normal !important;
+   }
+
+   .wy-table-responsive {
+      overflow: visible !important;
+   }
+}
+
