@@ -8,7 +8,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-## Indice gruppi di funzioni/espressioni (301/396)
+## Indice gruppi di funzioni/espressioni (302/397)
 
 Gruppo funzioni|nro funzioni|info
 ---------------|:----------:|----
@@ -21,19 +21,19 @@ Gruppo funzioni|nro funzioni|info
 [Corrispondenza fuzzy](./gr_funzioni/corrispondenza_fuzzy)| (4/4)|
 [Custom](./gr_funzioni/custom)| (4/4)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(16/16)|
-[Generale](./gr_funzioni/generale)| (6/6)|
+[Generale](./gr_funzioni/generale)| (7/7)|
 [Geometria](./gr_funzioni/geometria) |(97/97)| aggiornate a QGIS 3.2
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (1/1)| >= QGIS 3.0
 [Maps](./gr_funzioni/maps)| (10/10) |>= QGIS 3.0 (PostGIS) - ArrayPlus Plugin
 [Matematica](./gr_funzioni/matematica)| (28/28)|
 [Operatori](./gr_funzioni/operatori)| (21/21)|
 [Recente](./gr_funzioni/recente) |(1/1)|
-[Record e attributi](./gr_funzioni/record_e_attributi)| (9/9)|
+[Record e attributi](./gr_funzioni/record_e_attributi)| (10/10)|
 [Reference](./gr_funzioni/reference)| (0/21)| [Plugin refFunction](https://plugins.qgis.org/plugins/refFunctions/)
 [Stringhe di testo](./gr_funzioni/stringhe_di_testo)| (22/22)|
 [TimeManager](./gr_funzioni/timemanager)| (0/5)| Plugin Time Manager
 [Transformation](./gr_funzioni/transformation)| (0/4)| Plugin refFunction
-[Variabili](./gr_funzioni/variabili) |(0/65) |>= QGIS 2.12
+[Variabili](./gr_funzioni/variabili) |(0/64) |>= QGIS 2.12
 
 ## Calcolatore di campi
 

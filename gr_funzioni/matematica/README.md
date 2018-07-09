@@ -13,7 +13,7 @@ Questo gruppo contiene funzioni matematiche es. radice quadrata, seno e coseno.
 |[ceil](funzioni/ceil.md)|Arrotonda un numero all'intero superiore|
 |[clamp](funzioni/clamp.md)|Limita un valore in ingresso a un intervallo specificato|
 |[cos](funzioni/cos.md)|Restituisce il coseno di un angolo|
-|[degrees](funzioni/degrees,md)|Converte da radianti a gradi decimali|
+|[degrees](funzioni/degrees.md)|Converte da radianti a gradi decimali|
 |[exp](funzioni/exp.md)|Restituisce l'esponenziale di un valore|
 |[floor](funzioni/floor.md)|Arrotonda un numero all'intero inferiore|
 |[Inclination](funzioni/Inclination.md)| Restituisce l'inclinazione misurata dallo zenit (0) al nadir (180) del punto_a al punto_b|
