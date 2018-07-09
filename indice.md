@@ -25,7 +25,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 ### Ringraziamenti
 
 * [Andrea Borruso](https://twitter.com/aborruso?lang=it) per il supporto tecnico GitHub, VScode, Markdown, RTD e gitbook;
-* [Giovan Battista Vitrano](https://twitter.com/gbvitrano?lang=it) per l'idea di realizzare **HfcQGIS** in RTD;
+* [Giovan Battista Vitrano](https://twitter.com/gbvitrano?lang=it) per l'idea di realizzare **HfcQGIS** in RTD e la predisposizione del repo GitHub per RTD;;
 * [Ciro Spataro](https://twitter.com/cirospat?lang=it) per la [guida](http://come-creare-guida.readthedocs.io/it/latest/) Read The Docs
 
 ### Autore HfcQGIS
