@@ -1,5 +1,9 @@
 /* override css */
 
+span.pre {
+ overflow-x: auto;  
+}
+
 @media screen and (min-width: 640px) {
 
    .wy-table-responsive table td {
@@ -12,3 +16,4 @@
       overflow: visible !important;
    }
 }
+
