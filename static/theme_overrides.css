@@ -25,6 +25,7 @@ background-color: rgba(27,31,35,0.05) !important;
 
 p {text-align: justify;}
 
+.wy-nav-content {max-width: 1920px;}
 
 /* testo caption menu sx */
 .wy-nav-side {color: #589632;}
