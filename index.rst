@@ -29,5 +29,5 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
    gr_funzioni/index
    
-   Benvenuti <https://hfcqgis.readthedocs.io/it/latest/>
+   Home <https://hfcqgis.readthedocs.io/it/latest/>
    
