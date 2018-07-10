@@ -16,11 +16,11 @@ Nella finestra delle espressioni digitare:
 
 ![](/img/esempi/core_area/img2.png)
 
-Il risultato sarà 17.08 ha
+Il risultato sarà **17.08 ha**
 
 Vediamo l'espressione utilizzata:
 
-1. buffer($geometry, -20): Crea un buffer del poligono utilizzando la funzione $geometry, con una profondità negativa di 20 metri (buffer interno)
-2. area: Calcola l'area della geometria appena definita, in ettari (/10000)
+1. `buffer($geometry,-20)`: Crea un [buffer](/gr_funzioni/geometria/funzioni/buffer.md) del poligono utilizzando la funzione [$geometry](/gr_funzioni/geometria/funzioni/$geometry.md), con una profondità negativa di 20 metri (buffer interno)
+2. `area`: Calcola l'[area](/gr_funzioni/geometria/funzioni/area.md) della geometria appena definita, in ettari (/10000)
 
 Il GeoPackage, con il vettore bosco, è disponibile [qui](/esempi/core_area.gpkg)
