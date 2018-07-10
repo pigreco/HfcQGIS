@@ -2,7 +2,7 @@
 
 Salvatore **FIANDACA** (_aka `pigreco`, per gli amici `Totò`_)
 
-Libero Professionista Esperto GIS, inizia ad approfondire il mondo GIS nel 2007 utilizzando software proprietari per poi scoprire il mondo Open Source e FOSS; attualmente è socio [GFOSS.it](http://gfoss.it/), membro di [QGIS Italia](https://www.facebook.com/qgis.it/) e moderatore di vari forum con argomenti GIS. Partecipa, nel 2014, alla fondazione di _Open Data Sicilia_ realizzando uno dei primi progetti del gruppo, nel 2016 è tra i relatori del [#ODS16 OpenDataSicilia Summer Edition](http://ods16.opendatasicilia.it/) Messina, in cui parla di QGIS.
+Libero Professionista, inizia ad approfondire il mondo GIS nel 2007 utilizzando software proprietari per poi scoprire il mondo Open Source e FOSS; attualmente è socio [GFOSS.it](http://gfoss.it/), membro di [QGIS Italia](https://www.facebook.com/qgis.it/) e moderatore di vari forum con argomenti GIS. Partecipa, nel 2014, alla fondazione di _Open Data Sicilia_ realizzando uno dei primi progetti del gruppo, nel 2016 è tra i relatori del [#ODS16 OpenDataSicilia Summer Edition](http://ods16.opendatasicilia.it/) Messina, in cui parla di QGIS.
 
 Cura il Blog '[Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)' e il [canale](https://www.youtube.com/user/vediamo13/) YouTube entrambi molto seguiti dove scrive e parla di QGIS, SpatiaLite, PostegreSQL/PostGIS, GDAL/OGR, GRASS GIS, SAGA GIS, GitHub, OSGeo4W, ecc...
 
