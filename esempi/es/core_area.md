@@ -12,7 +12,7 @@ Caricare il layer bosco, selezionarlo e aprire il Calcolatore dei Campi. Aggiung
 
 Nella finestra delle espressioni digitare:
 
-area(buffer($geometry, -20))/10000
+`area(buffer($geometry, -20))/10000`
 
 ![](/img/esempi/core_area/img2.png)
 
