@@ -43,7 +43,6 @@ Gruppo funzioni|nro funzioni|info
 * [Operatori](./calcolatore_campi/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
 * [Esempi](./esempi) (10) - Esempi dettagliati sull'uso delle funzioni
 
-
 ![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
 ---
 ## Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018
