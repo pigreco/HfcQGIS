@@ -23,5 +23,11 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
    calcolatore_campi/novita_3.2
    
+.. toctree::
+   :maxdepth: 1
+   :caption: Funzioni QGIS 
+
+   gr_funzioni/index
+   
    Benvenuti <https://hfcqgis.readthedocs.io/it/latest/>
    
