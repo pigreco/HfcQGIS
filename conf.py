@@ -93,7 +93,6 @@ html_favicon = "img/favicon.ico"
 # The name of an image file (relative to this directory) to place at the top
 # of the sidebar.
 html_logo = "img/hfcqgis_ods.png"
-
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
