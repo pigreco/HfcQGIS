@@ -29,5 +29,8 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
    gr_funzioni/index
    
+.. toctree::
+   :maxdepth: 1
+   :hidden: 
    Home <https://hfcqgis.readthedocs.io/it/latest/>
    
