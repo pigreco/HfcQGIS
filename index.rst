@@ -23,5 +23,5 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
    calcolatore_campi/novita_3.2
    
-   Index <https://hfcqgis.readthedocs.io/it/latest/>
+   Benvenuti <https://hfcqgis.readthedocs.io/it/latest/>
    
