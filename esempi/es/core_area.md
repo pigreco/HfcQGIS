@@ -1,7 +1,7 @@
 ## Calcolo della core area (area interna al poligono al netto di un'area di buffer interna )
 
 La core area è l'area interna di un poligono al netto di una superfcie determinata da un buffer interno. E' un indice importante utilizzato in ecologia.
-In questo esempio si vuole calcolare la core area (in ettari) di un poligono di bosco, considerando un buffer interno di 20 metri.
+In questo esempio si vuole calcolare la core area (in ettari) di un poligono di bosco, considerando una distanza dal margine di 20 metri.
 
 ![](/img/esempi/core_area/img1.png)
 
