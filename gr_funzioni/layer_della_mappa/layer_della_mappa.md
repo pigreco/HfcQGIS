@@ -1,4 +1,4 @@
-## funzione `Layer della mappa`
+# `Layer della mappa`
 
 Questo gruppo contiene tutti i ***layer*** caricati nel progetto e presenti nel **Layer Panel** (TOC); con il doppio clic inserisce l'ID del layer per la relazione selezionata.
 
