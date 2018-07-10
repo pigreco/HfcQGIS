@@ -21,5 +21,5 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    :maxdepth: 1
    :caption: Novità 3.2
 
-   calcolatore_campinovita_3.2
+   calcolatore_campi/novita_3.2
    
