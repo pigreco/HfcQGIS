@@ -12,3 +12,4 @@ Esempio|Descrizione
 [tematizzare](es/tematizzare.md)|Tematizzare utilizzando la sovrascrittura definita dai dati
 [legenda](es/espressione_regolare.md)|Legenda con testo lungo, inserimento carattere speciale
 [selezione](es/select_with_aggregate.md)|Seleziona usando le funzioni di aggregazione
+[core area](es/core_area.md)|Calcola la core area di un poligono
