@@ -51,6 +51,3 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 | Variabili            | (0/65)      | >= QGIS 2.12                                         |
 +----------------------+-------------+------------------------------------------------------+
 
-
-  
-  

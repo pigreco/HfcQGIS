@@ -1,4 +1,4 @@
-## Interfaccia calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
+# Interfaccia calcolatore di campi ![calc](https://docs.qgis.org/testing/en/_images/mActionCalculateField.png)
 
 ![interfaccia](/img/calcolatore_campi.png)
 
