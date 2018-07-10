@@ -19,7 +19,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Novità 3.2
+   :caption: Novità
 
    calcolatore_campi/novita_3.2
    
@@ -31,6 +31,6 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    
 .. toctree::
    :maxdepth: 1
-   :hidden: 
+   :hidden: 1
    Home <https://hfcqgis.readthedocs.io/it/latest/>
    
