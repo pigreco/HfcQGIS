@@ -31,6 +31,6 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
    
 .. toctree::
    :maxdepth: 1
-   :hidden: 1
+  :includehidden:
    Home <https://hfcqgis.readthedocs.io/it/latest/>
    
