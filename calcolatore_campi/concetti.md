@@ -1,4 +1,4 @@
-# Concetti fondamentali sul calcolatore di campi di QGIS
+## Concetti fondamentali sul `calcolatore di campi di QGIS` 
 
 1. il calcolatore di campi è attivabile solo per layer **vettoriale**;
 2. la creazione di un nuovo campo è relativo al layer selezionato;

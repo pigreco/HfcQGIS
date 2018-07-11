@@ -1,4 +1,4 @@
-# Operatori interfaccia
+## Operatori interfaccia
 
 L'interfaccia del calcolatore rende immediatamente disponibili alcuni operatori:
 

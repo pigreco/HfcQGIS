@@ -1,4 +1,4 @@
-# Novità rilevanti introdotte nella 3.2
+## Novità rilevanti introdotte nella 3.2
 
 ### **FEATURE**: generatore di espressioni più utile.
 Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!
