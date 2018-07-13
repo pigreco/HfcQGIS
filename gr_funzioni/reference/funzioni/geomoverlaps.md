@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `geomoverlaps`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-![](/img/reference/yyy/yyy1.png)
+![](/img/reference/geomoverlaps/geomoverlaps1.png)
 
 ## nota bene
 

@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `dbquery`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-![](/img/reference/yyy/yyy1.png)
+![](/img/reference/dbquery/dbquery1.png)
 
 ## nota bene
 

@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `geomtouches`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-![](/img/reference/yyy/yyy1.png)
+![](/img/reference/geomtouches/geomtouches1.png)
 
 ## nota bene
 

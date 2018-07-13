@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `wktarea`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-![](/img/reference/yyy/yyy1.png)
+![](/img/reference/wktarea/wktarea1.png)
 
 ## nota bene
 

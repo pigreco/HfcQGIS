@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `geomdistance`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-![](/img/reference/yyy/yyy1.png)
+![](/img/reference/geomdistance/geomdistance1.png)
 
 ## nota bene
 

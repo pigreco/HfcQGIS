@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `geomnearest`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-![](/img/reference/yyy/yyy1.png)
+![](/img/reference/geomnearest/geomnearest1.png)
 
 ## nota bene
 

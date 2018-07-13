@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `wktlenght`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-![](/img/reference/yyy/yyy1.png)
+![](/img/reference/wktlenght/wktlenght1.png)
 
 ## nota bene
 

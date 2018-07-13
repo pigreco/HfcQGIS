@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `geomcontains`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-![](/img/reference/yyy/yyy1.png)
+![](/img/reference/geomcontains/geomcontains1.png)
 
 ## nota bene
 

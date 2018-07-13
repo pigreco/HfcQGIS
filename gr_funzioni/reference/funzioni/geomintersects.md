@@ -1,4 +1,4 @@
-## Funzione `yyy`
+## Funzione `geomintersects`
 
 --
 
@@ -8,7 +8,7 @@
 
 ## Esempi
 
-![](/img/reference/yyy/yyy1.png)
+![](/img/reference/geomintersects/geomintersects1.png)
 
 ## nota bene
 
