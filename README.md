@@ -28,7 +28,7 @@ Gruppo funzioni|nro funzioni|info
 [Matematica](./gr_funzioni/matematica)| (28/28)|
 [Operatori](./gr_funzioni/operatori)| (21/21)|
 [Recente](./gr_funzioni/recente) |(1/1)|
-[Record e attributi](./gr_funzioni/record_e_attributi)| (10/10)|
+[Record e attributi](./gr_funzioni/record_e_attributi)| (9/9)|
 [Reference](./gr_funzioni/reference)| (0/21)| [Plugin refFunction](https://plugins.qgis.org/plugins/refFunctions/)
 [Stringhe di testo](./gr_funzioni/stringhe_di_testo)| (22/22)|
 [TimeManager](./gr_funzioni/timemanager)| (0/5)| Plugin Time Manager
