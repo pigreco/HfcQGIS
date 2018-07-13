@@ -1,6 +1,10 @@
 ## Gruppo `Variabili`
 
-[Funzionalità](http://nyalldawson.net/2015/12/exploring-variables-in-qgis-2-12-part-1/) introdotta da Nyall Dowson nella QGIS 2.12
+### Gruppo funzioni NON documentate per mancanza di tempo.
+per chi fosse interessato allo sviluppo può donare [qui](https://www.paypal.me/pigrecoinfinito) (esplicitando **HfcQGIS-Gruppo Variabili** nel commento) e solo dopo il raggiungimento di una congrua cifra sarà ultimata la documentazione.
+
+--------
+[Funzionalità](http://nyalldawson.net/2015/12/exploring-variables-in-qgis-2-12-part-1/) introdotta da Nyall Dawson nella QGIS 2.12
 
 Questo gruppo contiene variabili dinamiche relative all'applicazione, al file di progetto e ad altre impostazioni. Significa che alcune funzioni potrebbero non essere disponibili in base al contesto:
 * seleziona per espressione ![exp](https://docs.qgis.org/testing/en/_images/mIconExpressionSelect.png)
