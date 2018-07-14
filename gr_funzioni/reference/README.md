@@ -10,10 +10,10 @@ Funzioni della tabella:|
 [dbquery](funzioni/dbquery.md) | Recupera il primo valore targetField da targetLayer quando whereClause è true
 [dbsql](funzioni/dbsql.md) | Recupera i risultati dalla query SQL
 Funzioni WKT:|
-[WKTcentroid](funzioni/WKTcentroid.md)| Restituisce il centro di massa della geometria data come geometria del punto WKT
-[WKTpointonsurface](funzioni/WKTpointonsurface.md) | Restituisce il punto all'interno della geometria data
-[WKTlenght](funzioni/WKTlenght.md) | Restituisce la lunghezza della geometria WKT fornita
-[WKTarea](funzioni/WKTarea.md) | Restituisce l'area della geometria WKT indicata
+[WKTcentroid](funzioni/wktcentroid.md)| Restituisce il centro di massa della geometria data come geometria del punto WKT
+[WKTpointonsurface](funzioni/wktpointonsurface.md) | Restituisce il punto all'interno della geometria data
+[WKTlenght](funzioni/wktlenght.md) | Restituisce la lunghezza della geometria WKT fornita
+[WKTarea](funzioni/wktarea.md) | Restituisce l'area della geometria WKT indicata
 Funzioni geometriche:|
 [geomRedef](funzioni/geomRedef.md) | ridefinire la geometria della feature corrente con una nuova geometria WKT (sperimentale!)
 [geomnearest](funzioni/geomnearest.md) | Recupera il valore del campo target dalla funzione di destinazione più vicina nel livello di destinazione
