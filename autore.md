@@ -8,12 +8,12 @@ Usa spesso, nei vari social, il nick name pigreco ma è nel titolo del suo blog 
 
 sono sovrapposti i simboli di pi greco, dell'infinito e della derivata prima: tre simboli matematici che hanno rivoluzionato la scienza; se osservate bene vedrete scritto il suo nome. 
 
-Prima di iniziare l'attività di divulgatore del Open Source (OS), _Salvatore_ ha utilizzato per anni software proprietari, solo dopo la scoperta del OS abbandonò definitivamente il mondo Close Source e decise di divulgare la filosofia OS tramite blog post e video su youtube. Attualmente il blog è seguito in tutto il mondo ed il canale youtube ha oltre 1000 iscritti.
+Prima di iniziare l'attività di divulgatore del Open Source (OS), _Salvatore_ ha utilizzato - per anni - software proprietari, solo dopo la scoperta del OS abbandonò definitivamente il mondo Close Source e decise di divulgare la filosofia OS tramite blog post e video su youtube. Attualmente il blog è seguito in tutto il mondo ed il canale youtube ha oltre 1000 iscritti.
 
 ![world](/img/world_wp01.png)
 
 
-Libero Professionista, attualmente è socio [GFOSS.it](http://gfoss.it/), membro di [QGIS Italia](https://www.facebook.com/qgis.it/) e moderatore di vari forum con argomenti GIS. Partecipa, nel 2014, alla fondazione di _Open Data Sicilia_ realizzando uno dei primi progetti del gruppo, nel 2016 è tra i relatori del [#ODS16 OpenDataSicilia Summer Edition](http://ods16.opendatasicilia.it/) Messina, in cui parla di QGIS.
+Libero Professionista, attualmente è socio [GFOSS.it](http://gfoss.it/), membro di [QGIS Italia](https://www.facebook.com/qgis.it/) e moderatore di vari forum con argomenti GFOSS. Partecipa, nel 2014, alla fondazione di _Open Data Sicilia_ realizzando uno dei primi progetti del gruppo (Balneazione Palermo 2014, [Piano regolatore del Comune di Palermo 2015](http://blog.spaziogis.it/static/palermo_prg/#12/38.1375/13.3450)), nel 2016 è tra i relatori del [#ODS16 OpenDataSicilia Summer Edition](http://ods16.opendatasicilia.it/) Messina, in cui parla di QGIS.
 
 Cura il Blog '[Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)' e il [canale](https://www.youtube.com/user/vediamo13/) YouTube dove scrive e parla di QGIS, SpatiaLite, PostegreSQL/PostGIS, GDAL/OGR, GRASS GIS, SAGA GIS, GitHub, OSGeo4W, ed altri FOSS; ama usare, nella professione e non solo, software OS come LibreOffice, InkSCAPE, GIMP ecc...
 
