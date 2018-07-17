@@ -2,6 +2,12 @@
 
 Salvatore **FIANDACA** (_aka `pigreco`, per gli amici `Totò`_)
 
+Usa spesso, nei vari social, il nick name pigreco ma è nel titolo del suo blog - pigrecoinfinito - che si cela il suo nome in siciliano. Per capire quale sia occorre osservare con attenzione il logo che lo rappresenta:
+
+![logopi](/img/logopi.png)
+
+sono sovrapposti i simboli di pi greco, dell'infinito e della derivata prima: tre simboli matematici che hanno rivoluzionato la scienza; se osservate bene vedrete scritto il suo nome. 
+
 Prima di iniziare l'attività di divulgatore del mondo Open Source (OS), _Salvatore_ ha utilizzato per anni software proprietari, solo dopo la scoperta del OS abbandonò definitivamente il mondo Close Source e decise di divulgare la filosofia OS tramite blog post e video su youtube. Attualmente il blog è seguito in tutto il mondo ed il canale youtube ha oltre 1000 iscritti.
 
 ![world](/img/world_wp01.png)
