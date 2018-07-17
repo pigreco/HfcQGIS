@@ -10,7 +10,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 
 ## Indice gruppi di funzioni/espressioni (302/397)
 
-Gruppo funzioni|nro funzioni|info
+Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
 [Aggregates](./gr_funzioni/aggregates) |(22/22)| >= QGIS 2.16  
 [Arrays](./gr_funzioni/arrays)| (31/31) |>= QGIS 3.0 (SpatiaLite, PostGIS) - ArrayPlus Plugin
@@ -34,6 +34,8 @@ Gruppo funzioni|nro funzioni|info
 [TimeManager](./gr_funzioni/timemanager)| (0/5)| Plugin Time Manager
 [Transformation](./gr_funzioni/transformation)| (0/4)| Plugin refFunction
 [Variabili](./gr_funzioni/variabili) |(0/64) |>= QGIS 2.12
+
+\* numero funzioni del gruppo/numero funzioni documentate
 
 ## Calcolatore di campi
 
