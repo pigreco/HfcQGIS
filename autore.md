@@ -36,7 +36,7 @@ Molto attivo nella comunita di QGIS: ha partecipato alla realizzazione di un plu
 **Foto**: Hack Fest QGIS ITA Bologna 2017, da sinistra: _Luca Mandolesi, Giuseppe Guarino, Salvatore Fiandaca, Pierluigi de Rosa e Enrico Ferreguti (uno dei più attivi sviluppatori di plugin italiani_
 
 <p align="center">
-  <img width="400" src="/img/hfita2_2017_padova.png">
+  <img width="500" src="/img/hfita2_2017_padova.png">
 </p>
 
 **Foto**: Hack Fest QGIS ITA Padova 2017, da sinistra: _Salvatore Fiandaca, Amedeo Fadini, Federico Gianoli, Matteo Ghetta,prof. Massimo De Marchi, Stefano Campus, Alessandro Sarretta, Enrico Ferreguti_
