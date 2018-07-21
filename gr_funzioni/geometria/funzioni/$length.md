@@ -11,7 +11,7 @@ $length
 
 * $length → 42.4711 
 
-![](/img/geometria/length/$length1.png)
+![](/img/geometria/$length/$length1.png)
 
 ## nota bene
 
