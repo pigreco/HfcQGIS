@@ -2,6 +2,12 @@
 [![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
 [![Donate to QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square)](http://qgis.org/en/site/getinvolved/donations.html)
 
+![logo](img/logo_RTD_def.png)
+
+### Il presente repository è consultabile - con maggior facilità - [qui](http://bit.ly/hfcqgis): sito realizzato, in Read the Docs, dalla comunità [OpenDataSicilia](http://opendatasicilia.it/) cui faccio parte e ringrazio.
+
+---
+
 ![logo](img/logo_def_128.png)
 
 # ![logo](img/logo_def2_64.png) Help funzioni calcolatore di campi di QGIS (HfcQGIS)
