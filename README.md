@@ -2,9 +2,13 @@
 [![HitCount](http://hits.dwyl.io/pigreco/HfcQGIS.svg)](http://hits.dwyl.io/pigreco/HfcQGIS)
 [![Donate to QGIS](https://img.shields.io/badge/donate%20to-QGIS-green.svg?style=flat-square)](http://qgis.org/en/site/getinvolved/donations.html)
 
-![logo](img/logo_RTD_def.png)
 
-### Il presente repository è consultabile - con maggior facilità - [qui](http://bit.ly/hfcqgis): sito realizzato, in Read the Docs, dalla comunità [OpenDataSicilia](http://opendatasicilia.it/) cui faccio parte e ringrazio.
+<p align="center">
+  <a href="http://bit.ly/hfcqgis/" target="_blank"><img src="https://raw.githubusercontent.com/pigreco/HfcQGIS/modifica-readme/img/logo_RTD_def.png" alt="pigrecoinfinito
+"  width="800" class="immagonobox" title="“Sito realizzato dalla comunità OpenDataSicilia"></a>
+</p>
+
+### Il presente repository è consultabile - con maggior facilità - [qui](http://bit.ly/hfcqgis): sito realizzato, in Read the Docs, dalla comunità [OpenDataSicilia](http://opendatasicilia.it/) di cui faccio parte e ringrazio.
 
 ---
 
