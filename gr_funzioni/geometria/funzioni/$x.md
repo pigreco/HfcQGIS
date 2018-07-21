@@ -12,7 +12,7 @@ $x
 
 ![](/img/geometria/$x/$x1.png)
 
-![](/img/geometria/$X/$x2.png)
+![](/img/geometria/$x/$x2.png)
 
 ## nota bene
 
