@@ -82,7 +82,7 @@ Gruppo funzioni|nro funzioni*|info
 
 * [Github](https://github.com/pigreco/HfcQGIS)
 * Ebook 🕮 (a breve!!!)
-* Read the Docs 🕮 (a breve!!!)
+* Read the Docs 🕮 online dal 23/07/2018 
 
 ## Traduzione in italiano
 
