@@ -20,7 +20,7 @@ disjoint(_geometry a, geometry b_)
 
 ## nota bene
 
-Vero = 1; Farlo= 0
+Vero = 1; Falso= 0
 
 ## osservazioni
 
