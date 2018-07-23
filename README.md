@@ -53,7 +53,7 @@ Gruppo funzioni|nro funzioni*|info
 * [Linguaggio](https://gis.stackexchange.com/questions/247474/what-language-do-qgis-expressions-use-what-language-should-qgis-queries-be-writ) Che linguaggio usa il calcolatore di campi?
 * [Interfaccia](./calcolatore_campi/interfaccia.md) Introduzione all'interfaccia calcolatore di campi
 * [Operatori](../calcolatore_campi/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
-* [Esempi](./esempi) (10) - Esempi dettagliati sull'uso delle funzioni
+* [Esempi](./esempi) (11) - Esempi dettagliati sull'uso delle funzioni
 
 
 ![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
@@ -82,7 +82,7 @@ Gruppo funzioni|nro funzioni*|info
 
 * [Github](https://github.com/pigreco/HfcQGIS)
 * Ebook 🕮 (a breve!!!)
-* Read the Docs 🕮 (a breve!!!)
+* Read the Docs 🕮 è [qui](http://hfcqgis.opendatasicilia.it/it/latest/)
 
 ## Traduzione in italiano
 
