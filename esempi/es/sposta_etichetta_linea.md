@@ -52,3 +52,5 @@ Dalla 3.0 in poi non occorre più modificare la tabella attributi - aggiungendo 
 occorre solo utilizzare in X e Y: _Store Data in the project_ dopo avere definito il campo primario del layer
 
 ![sposta](/img/esempi/sposta_label_segmento/sposta_10.png)
+
+Geopackage è [qui](/esempi/dati_esempi.gpkg)
