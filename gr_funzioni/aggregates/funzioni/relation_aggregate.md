@@ -30,10 +30,10 @@ relation_aggregate(_relation, aggregate, calculation, concatenator_)
     * min_length: minima lunghezza stringa
     * max_length: massima lunghezza stringa
     * concatenate: unisci stringhe con un concatenatore
-    * calculation
-    * sotto espressione o nome campo da aggregare
-    * concatenator
-    * stringa opzionale da usare per unire i valori per il raggruppamento 'concatenate'
+   
+* _expression_ sotto espressione o nome campo da aggregare
+* _concatenator_ stringa opzionale da usare per unire i valori per il raggruppamento 'concatenate'
+
 
 ## Esempi
 
