@@ -45,7 +45,7 @@ Gruppo funzioni|nro funzioni*|info
 [Transformation](./gr_funzioni/transformation)| (0/4)| Plugin refFunction
 [Variabili](./gr_funzioni/variabili) |(0/64) |>= QGIS 2.12
 
-\* numero funzioni del gruppo/numero funzioni documentate
+\* numero funzioni documentate/funzioni totali del gruppo
 
 ## Calcolatore di campi
 
@@ -82,7 +82,6 @@ Gruppo funzioni|nro funzioni*|info
 
 * [Github](https://github.com/pigreco/HfcQGIS)
 * Ebook 🕮 (a breve!!!)
-
 * Read the Docs 🕮 è [qui](http://hfcqgis.opendatasicilia.it/it/latest/)
 
 ## Traduzione in italiano

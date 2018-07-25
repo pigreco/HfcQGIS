@@ -13,4 +13,4 @@ Esempio|Descrizione|Autore
 [legenda](es/espressione_regolare.md)|Legenda con testo lungo, inserimento carattere speciale|Pigreco
 [selezione](es/select_with_aggregate.md)|Seleziona usando le funzioni di aggregazione|Pigreco
 [core area](es/core_area.md)|Calcola la core area di un poligono | Ludovico Frate
-[Sposta etichette](es/sposta_etichetta_linea.md)|Sposta etichetta e genera segmento|Pigreco
+[sposta etichette](es/sposta_etichetta_linea.md)|Sposta etichetta e genera segmento|Pigreco

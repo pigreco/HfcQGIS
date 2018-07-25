@@ -80,7 +80,7 @@
 
 #### v
 
-* veloce
+* vettore
 
 #### w
 
