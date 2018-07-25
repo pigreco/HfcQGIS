@@ -8,7 +8,7 @@ boundary(*geometry*)
 
 ## Argomenti
 
-geometry una geometria
+* _geometry_ una geometria
 
 ## Esempi
 

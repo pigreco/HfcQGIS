@@ -8,7 +8,7 @@ bounds_height(*geometry*)
 
 ## Argomenti
 
-*geometry* una geometria
+* *geometry* una geometria
 
 ## Esempi
 

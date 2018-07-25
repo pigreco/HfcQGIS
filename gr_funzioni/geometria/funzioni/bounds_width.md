@@ -8,7 +8,7 @@ bounds_width(*geometry*)
 
 ## Argomenti
 
-*geometry* una geometria
+* *geometry* una geometria
 
 ## Esempi
 
