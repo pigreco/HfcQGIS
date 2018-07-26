@@ -12,7 +12,6 @@
 
 ---
 
-![logo](img/logo_def_128.png)
 
 # ![logo](img/logo_def2_64.png) Help funzioni calcolatore di campi di QGIS (HfcQGIS)
 
