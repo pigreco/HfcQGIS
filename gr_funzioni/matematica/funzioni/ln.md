@@ -6,7 +6,7 @@ Restituisce il logaritmo naturale di un valore.
 
 ln(_value_)
 
-##Argomenti
+## Argomenti
 
 * _value_ valore numerico
 

@@ -13,8 +13,8 @@ Restituisce il valore di un attributo specificato da una geometria.
 
 
 ## Esempi
-```
-* attribute( $currentfeature, 'name' ) → valore memorizzato nell'attributo 'name' per l'elemento corrente
-```
+
+* `attribute( $currentfeature, 'name' ) → valore memorizzato nell'attributo 'name' per l'elemento corrente`
+
 
 ![](/img/record_e_attributi/attribute1.png)

@@ -7,9 +7,9 @@ Restituisce l'id geometria della riga corrente.
 * $id
 
 ## Esempi
-```
-* $id → 71
-```
+
+* `$id → 71`
+
 ## Osservazioni
 
 Questa funzione inizia sempre da 0 con vettore shapefile da 1 con i database

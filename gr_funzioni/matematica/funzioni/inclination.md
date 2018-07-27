@@ -28,4 +28,4 @@ inclination(_point_a, point_b_)
 
 --
 
-vedasi nel gruppo funzioni Geometria [AziInclinationmuth](/gr_funzioni/geometria/inclination.md)
+vedasi nel gruppo funzioni Geometria [Inclination](/gr_funzioni/geometria/inclination.md)

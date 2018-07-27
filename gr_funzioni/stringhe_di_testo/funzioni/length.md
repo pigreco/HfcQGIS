@@ -35,7 +35,7 @@ length(_geometry_)
 ## Esempi
 
 * `length(geom_from_wkt('LINESTRING(0 0, 4 0)')) → 4`
-* 
+  
 ![](/img/stringhe_di_testo/length/length2.png)
 
 ## nota bene

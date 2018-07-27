@@ -8,8 +8,8 @@ Restituisce l'elemento corrente corrente da valutare. Questo può essere usato c
 
 
 ## Esempi
-```
-* attribute( $currentfeature, 'name' ) → valore memorizzato nell'attributo 'name' per l'elemento corrente
-```
+
+* `attribute( $currentfeature, 'name' ) → valore memorizzato nell'attributo 'name' per l'elemento corrente`
+
 
 ![](/img/record_e_attributi/$currentfeature1.png)

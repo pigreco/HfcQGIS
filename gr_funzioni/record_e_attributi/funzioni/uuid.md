@@ -7,8 +7,8 @@ Genera un Identificatore Universale Unico (UUID) per ogni riga usando il metodo 
 * uuid()
 
 ## Esempi
-```
-* uuid() → '{0bd2f60f-f157-4a6d-96af-d4ba4cb366a1}'
-```
 
-![](/img/record_e_attributi/uuid1.png)
+* `uuid() → '{0bd2f60f-f157-4a6d-96af-d4ba4cb366a1}'`
+
+
+![](/img/record_e_attributi/uuid()1.png)
