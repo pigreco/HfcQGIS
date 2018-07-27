@@ -29,7 +29,7 @@ Le scale di colore disponibili differiscono fra le varie installazioni di QGIS. 
 
 Restituisce una stringa che rappresenta un colore da una scala creata con un'espressione
 
-##Sintassi
+## Sintassi
 
 ramp_color(_ramp, value_)
 

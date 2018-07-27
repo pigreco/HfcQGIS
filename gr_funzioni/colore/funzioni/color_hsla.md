@@ -4,7 +4,7 @@ Restituisce una rappresentazione stringa di un colore basato sui suoi attributi 
 
 ## Sintassi
 
-color_hsl(_hue, saturation, lightness_)
+color_hsl(_hue, saturation, lightness, alpha_)
 
 ## Argomenti
 
@@ -17,7 +17,7 @@ color_hsl(_hue, saturation, lightness_)
 
 * `color_hsla(100,50,70,200) → 166,217,140,200`
 
-![](/img/colore/color_hsl/color_hsla1.png)
+![](/img/colore/color_hsla/color_hsla1.png)
 
 ## nota bene
 

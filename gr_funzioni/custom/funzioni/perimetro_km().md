@@ -6,7 +6,7 @@ Questa funzione ritorna il valore del perimetro della geometria in km
 
 * `perimetro_km() - > 25 `
 
-![](/img/custom/perimetro_km()1.png)
+![](/img/custom/perimetro_km().png)
 
 ## Codice Python
 
