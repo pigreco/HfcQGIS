@@ -36,7 +36,7 @@ Gruppo funzioni|nro funzioni*|info
 [Maps](./gr_funzioni/maps)| (10/10) |>= QGIS 3.0 (PostGIS) - ArrayPlus Plugin
 [Matematica](./gr_funzioni/matematica)| (28/28)|
 [Operatori](./gr_funzioni/operatori)| (21/21)|
-[Rasters](./gr_funzioni/raster)|(2/2)|>= **QGIS 3.4** 
+[Rasters](./gr_funzioni/rasters)|(2/2)|>= **QGIS 3.4** 
 [Recente](./gr_funzioni/recente) |(1/1)|
 [Record e attributi](./gr_funzioni/record_e_attributi)| (9/9)|
 [Reference](./gr_funzioni/reference)| (0/21)| [Plugin refFunction](https://plugins.qgis.org/plugins/refFunctions/)
