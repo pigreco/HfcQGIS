@@ -27,3 +27,7 @@ Restituisce il valore raster trovato nel punto fornito.
 Animazione
 
 ![](/img/rasters/raster_value.gif)
+
+Video
+
+[![add_video](https://img.youtube.com/lfb2DNm5Bjs/0.jpg)](https://www.youtube.com/watch?v=lfb2DNm5Bjs&t= "Esempio pratico")
