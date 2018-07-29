@@ -30,4 +30,5 @@ Animazione
 
 Video
 
-[![add_video](https://img.youtube.com/lfb2DNm5Bjs/0.jpg)](https://www.youtube.com/watch?v=lfb2DNm5Bjs&t= "Esempio pratico")
+
+[![add_col_area_perimetro](https://img.youtube.com/vi/lfb2DNm5Bjs/0.jpg)](https://www.youtube.com/watch?v=lfb2DNm5Bjs&t= "Esempio d'uso")
