@@ -43,7 +43,7 @@ Gruppo funzioni|nro funzioni*|info
 [Stringhe di testo](./gr_funzioni/stringhe_di_testo)| (22/22)|
 [TimeManager](./gr_funzioni/timemanager)| (0/5)| Plugin Time Manager
 [Transformation](./gr_funzioni/transformation)| (0/4)| Plugin refFunction
-[Variabili](./gr_funzioni/variabili) |(0/64) |>= QGIS 2.12
+[Variabili](./gr_funzioni/variabili) |(0/65) |>= QGIS 2.12
 
 \* numero funzioni documentate/funzioni totali del gruppo
 
