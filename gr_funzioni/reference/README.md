@@ -26,5 +26,8 @@ Funzioni geometriche:|
 [geomequals](funzioni/geomequals.md) | Recupera il valore del campo obiettivo quando la funzione di origine è uguale alla funzione di destinazione nel livello di destinazione
 [geomoverlaps](funzioni/geomoverlaps.md) | Recupera il valore del campo obiettivo quando la funzione sorgente si sovrappone alla funzione di destinazione nel livello di destinazione
 [geomcrosses](funzioni/geomcrosses.md) | Recupera il valore del campo obiettivo quando la caratteristica sorgente attraversa la caratteristica obiettivo nel livello di destinazione
+[geomdisjoint](funzioni/geomdisjoint.md)|Recupera il valore del campo obiettivo quando la funzione di origine è disgiunta dalla funzione di destinazione nel livello di destinazione
+[intersecting_geom_count](funzioni/intersecting_geom_count.md)|Ottieni il conteggio delle funzionalità nel livello di destinazione intersecate dalla funzione di origine
+[intersecting_geom_sum](funzioni/intersecting_geom_sum.md)|Somma gli attributi delle geometrie del livello di destinazione intersecati dalla funzione di origine
 
 ![](/img/reference/gruppo_reference1.png)
