@@ -4,7 +4,7 @@ Memorizza il numero della riga corrente.
 
 ## Sintassi
 
---
+* @row_number
 
 ## Esempi
 

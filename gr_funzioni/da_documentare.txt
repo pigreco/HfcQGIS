@@ -69,8 +69,6 @@
 ./gr_funzioni/variabili/funzioni/project_keywords.md
 ./gr_funzioni/variabili/funzioni/project_path.md
 ./gr_funzioni/variabili/funzioni/project_title.md
-./gr_funzioni/variabili/funzioni/qgis_locale.md
-./gr_funzioni/variabili/funzioni/qgis_os_name.md
 ./gr_funzioni/variabili/funzioni/qgis_platform.md
 ./gr_funzioni/variabili/funzioni/qgis_release_name.md
 ./gr_funzioni/variabili/funzioni/qgis_short_version.md

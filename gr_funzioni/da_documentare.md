@@ -1,7 +1,7 @@
 # Vuoi documentare una funzione? Ecco quelle ancora non pronte
 
 
-Al momento sono **85**!
+Al momento sono **83**!
 
 
 - [dbquery](./reference/funzioni/dbquery.html)
@@ -75,8 +75,6 @@ Al momento sono **85**!
 - [project_keywords](./variabili/funzioni/project_keywords.html)
 - [project_path](./variabili/funzioni/project_path.html)
 - [project_title](./variabili/funzioni/project_title.html)
-- [qgis_locale](./variabili/funzioni/qgis_locale.html)
-- [qgis_os_name](./variabili/funzioni/qgis_os_name.html)
 - [qgis_platform](./variabili/funzioni/qgis_platform.html)
 - [qgis_release_name](./variabili/funzioni/qgis_release_name.html)
 - [qgis_short_version](./variabili/funzioni/qgis_short_version.html)
