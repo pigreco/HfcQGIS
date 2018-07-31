@@ -4,7 +4,7 @@ Semplifica una geometria rimuovendo nodi usando una soglia basata sull'area (cio
 
 ## Sintassi
 
-implify_vw(_geometry, tolerance_)
+simplify_vw(_geometry, tolerance_)
 
 ## Argomenti
 

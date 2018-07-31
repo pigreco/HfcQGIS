@@ -4,7 +4,7 @@ Inverte la direzione di una linestring invertendo l'ordine dei sui vertici
 
 ## Sintassi
 
-everse(_geometry_)
+reverse(_geometry_)
 
 ## Argomenti
 
