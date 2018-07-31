@@ -1,7 +1,7 @@
 # Vuoi documentare una funzione? Ecco quelle ancora non pronte
 
 
-Al momento sono **83**!
+Al momento sono **82**!
 
 
 - [dbquery](./reference/funzioni/dbquery.html)
@@ -63,7 +63,6 @@ Al momento sono **83**!
 - [map_rotation](./variabili/funzioni/map_rotation.html)
 - [map_scale](./variabili/funzioni/map_scale.html)
 - [map_units](./variabili/funzioni/map_units.html)
-- [parent](./variabili/funzioni/parent.html)
 - [project_abstract](./variabili/funzioni/project_abstract.html)
 - [project_author](./variabili/funzioni/project_author.html)
 - [project_creation_date](./variabili/funzioni/project_creation_date.html)

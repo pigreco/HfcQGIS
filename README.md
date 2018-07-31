@@ -17,7 +17,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-## Indice gruppi di funzioni/espressioni (303/398)
+## Indice gruppi di funzioni/espressioni (307/398)
 
 Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
@@ -43,7 +43,7 @@ Gruppo funzioni|nro funzioni*|info
 [Stringhe di testo](./gr_funzioni/stringhe_di_testo)| (22/22)|
 [TimeManager](./gr_funzioni/timemanager)| (0/5)| Plugin Time Manager
 [Transformation](./gr_funzioni/transformation)| (0/4)| Plugin refFunction
-[Variabili](./gr_funzioni/variabili) |(0/65) |>= QGIS 2.12
+[Variabili](./gr_funzioni/variabili) |(4/65) |>= QGIS 2.12
 
 \* numero funzioni documentate/funzioni totali del gruppo
 
@@ -84,6 +84,10 @@ Gruppo funzioni|nro funzioni*|info
     - [tramite pull requests](https://github.com/pigreco/HfcQGIS/pulls)
 - *lasciare un messaggio* 📝💭 ✉️ 📮
     - [scrivi un messaggio qui](https://github.com/pigreco/HfcQGIS/issues/1)
+
+## Elenco funzioni ancora non documentate
+
+- [funzioni da documentare](/gr_funzioni/da_documentare.md) 
 
 ## Come puoi usare questo lavoro
 

@@ -57,7 +57,6 @@
 ./gr_funzioni/variabili/funzioni/map_rotation.md
 ./gr_funzioni/variabili/funzioni/map_scale.md
 ./gr_funzioni/variabili/funzioni/map_units.md
-./gr_funzioni/variabili/funzioni/parent.md
 ./gr_funzioni/variabili/funzioni/project_abstract.md
 ./gr_funzioni/variabili/funzioni/project_author.md
 ./gr_funzioni/variabili/funzioni/project_creation_date.md
