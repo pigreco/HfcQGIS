@@ -1,4 +1,4 @@
-## funzione `month`
+## Funzione `month`
 
 Estrae la parte mese da una data, o il numero di mesi da un intervallo.
 

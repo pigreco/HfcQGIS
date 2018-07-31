@@ -1,4 +1,4 @@
-## funzione `soundex`
+## Funzione `soundex`
 
 Restituisce la rappresentazione Soundex di una stringa. Soundex è un algoritmo di abbinamento fonetico, per cui le stringhe con suoni simili dovrebbero essere rappresentate dallo stesso codice Soundex.
 

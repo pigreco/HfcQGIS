@@ -1,4 +1,4 @@
-## funzione `coalesce`
+## Funzione `coalesce`
 
 Restituisce il primo valore non NULL dalla lista delle espressioni.
 Questa funzione può usare qualsiasi numero di argomenti.

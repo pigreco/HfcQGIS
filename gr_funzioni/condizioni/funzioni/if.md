@@ -1,4 +1,4 @@
-## funzione `if`
+## Funzione `if`
 
 Testa una condizione e restituisce un risultato diverso a seconda della verifica.
 

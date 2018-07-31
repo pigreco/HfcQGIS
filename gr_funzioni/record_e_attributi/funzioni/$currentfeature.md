@@ -1,4 +1,4 @@
-## funzione `$currentfeature`
+## Funzione `$currentfeature`
 
 Restituisce l'elemento corrente corrente da valutare. Questo può essere usato con la funzione 'attribute' per valutare i valori dell'attributo dall'elemento corrente.
 

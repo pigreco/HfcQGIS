@@ -1,4 +1,4 @@
-## funzione `num_selected`
+## Funzione `num_selected`
 
 Restituisce il numero di geometrie selezionate in un vettore dato. Per impostazione predefinita funziona sul vettore sul quale l'espressione è valutata.
 

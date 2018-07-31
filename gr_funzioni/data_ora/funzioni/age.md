@@ -1,4 +1,4 @@
-## funzione `age`
+## Funzione `age`
 
 Restituisce la differenza fra due date o datetimes.
 La differenza è restituita come _Interval_ e deve essere usata con una della seguenti funzioni per estrarre informazioni utili:

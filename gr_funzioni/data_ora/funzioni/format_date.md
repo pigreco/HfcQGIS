@@ -1,4 +1,4 @@
-## funzione `format_date`
+## Funzione `format_date`
 
 Formatta un tipo di data o stringa in un formato stringa personalizzato. Usa stringhe nel formato data/ora Qt. Vedi QDateTime::toString.
 

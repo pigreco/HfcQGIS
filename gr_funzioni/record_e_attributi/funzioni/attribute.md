@@ -1,4 +1,4 @@
-## funzione `attribute`
+## Funzione `attribute`
 
 Restituisce il valore di un attributo specificato da una geometria.
 

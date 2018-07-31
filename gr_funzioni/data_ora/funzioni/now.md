@@ -1,4 +1,4 @@
-## funzione `now`
+## Funzione `now`
 
 Restituisce la data e l'ora attuale.
 

@@ -1,4 +1,4 @@
-## funzione `to_interval`
+## Funzione `to_interval`
 
 Converte una stringa in un tipo intervallo. Può essere usata per estrarre giorni, ore, mese, etc. da una data.
 

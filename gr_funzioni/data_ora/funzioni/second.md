@@ -1,4 +1,4 @@
-## funzione `second`
+## Funzione `second`
 
 Estrae la parte secondi da un datetime o time, o il numero dei secondi da un intervallo.
 

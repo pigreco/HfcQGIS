@@ -1,4 +1,4 @@
-## funzione `epoch`
+## Funzione `epoch`
 
 Restituisce l'intervallo in millisecondi fra l'[epoca unix](https://it.wikipedia.org/wiki/Tempo_(Unix)) e la data inserita.
 

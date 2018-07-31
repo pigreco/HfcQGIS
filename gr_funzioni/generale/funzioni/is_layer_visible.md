@@ -1,4 +1,4 @@
-## funzione `is_layer_visible`
+## Funzione `is_layer_visible`
 
 Restituisce vero se uno specifico layer è visibile - la funzione è presente/visibile solo nel caso di tematizzazioni cioè usando epsilon ![](/img/mIconExpression.png) o la sovrascrittura dei dati ![is](/img/mIconDataDefine.png). Guarda [qui](https://github.com/qgis/QGIS/pull/4045)
 

@@ -1,4 +1,4 @@
-## funzione `get_feature`
+## Funzione `get_feature`
 
 Restituisce la prima geometria di un vettore che corrisponde a un determinato valore di attributo.
 

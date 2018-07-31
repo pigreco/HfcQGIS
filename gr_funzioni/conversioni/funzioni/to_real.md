@@ -1,4 +1,4 @@
-## funzione `to_real`
+## Funzione `to_real`
 
 Converte una stringa in un numero reale. Non viene restituito nulla se un valore non può essere convertito a reale (es. '123.56asd' non è valido). I numeri sono arrotondati dopo aver salvato le modifiche se la precisione è minore del risultato della conversione.
 

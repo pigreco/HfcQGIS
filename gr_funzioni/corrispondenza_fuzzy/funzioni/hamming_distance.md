@@ -1,4 +1,4 @@
-## funzione `hamming_distance`
+## Funzione `hamming_distance`
 
 Restituisce la distanza di Hamming tra due stringhe. Questa equivale al numero di caratteri nelle corrispondenti posizioni delle stringhe in ingresso dove i caratteri sono diversi. Le stringhe in ingresso devono avere la stessa lunghezza, e il confronto è sensibile alle lettere maiuscole.
 

@@ -1,4 +1,4 @@
-## funzione `with_variable`
+## Funzione `with_variable`
 
 Questa funzione imposta una variabile per qualunque codice di espressione che sarà fornita come argomento terzo. Questo è utile solamente per espressioni complicate, in cui lo stesso valore calcolato deve essere usato in posti differenti.
 

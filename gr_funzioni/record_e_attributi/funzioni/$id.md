@@ -1,4 +1,4 @@
-## funzione `$id`
+## Funzione `$id`
 
 Restituisce l'id geometria della riga corrente.
 

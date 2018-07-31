@@ -1,4 +1,4 @@
-## funzione `get_feature_by_id`
+## Funzione `get_feature_by_id`
 
 Restituisce l'id dell'elemento della riga corrente.
 

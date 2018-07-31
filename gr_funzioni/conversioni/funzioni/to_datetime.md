@@ -1,4 +1,4 @@
-## funzione `to_datetime`
+## Funzione `to_datetime`
 
 Converte una stringa in un oggetto datetime.
 

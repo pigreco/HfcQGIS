@@ -1,4 +1,4 @@
-## funzione `raster_value`
+## Funzione `raster_value`
 
 Restituisce il valore raster trovato nel punto fornito.
 
