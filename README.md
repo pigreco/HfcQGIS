@@ -116,7 +116,7 @@ Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [
 
 💶 [HfcQGIS](https://www.paypal.me/pigrecoinfinito) 💶 💳
 
-\* il X % sarà donato a **QGIS.it**
+\* il 10 % sarà donato a **QGIS.it**
 
 ## ©️ Autore `HfcQGIS`
 
