@@ -7,6 +7,10 @@ Questa funzione può usare qualsiasi numero di argomenti.
 
 * coalesce(*expression1, expression2, …*)
 
+## Argomenti
+
+* _expression_ qualsiasi valore o espressione valida, senza tener conto del tipo. 
+
 ## Esempi
 ```
 coalesce(NULL, 2) → 2

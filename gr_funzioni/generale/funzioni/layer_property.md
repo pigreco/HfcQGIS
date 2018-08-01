@@ -18,7 +18,7 @@ Restituisce una proprietà del layer corrispondente o un valore dei metadati.
     - *keywords*: metadata keywords
     - *data_url*: metadata URL
     - *attribution*: stringa di attribuzione dei metadati
-    - attri**bution_url: URL di attribuzione dei metadati
+    - *attribution_url*: URL di attribuzione dei metadati
     - *source*: layer sorgente
     - *min_scale*: minima scala di visualizzazione per strato
     - *max_scale*: massima scala di visualizzazione per strato
