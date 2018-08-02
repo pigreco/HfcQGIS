@@ -4,7 +4,7 @@ Restituisce una rappresentazione stringa di un colore basato sui suoi attributi 
 
 ## Sintassi
 
-color_hsva(_hue, saturation, value_)
+color_hsva(_hue, saturation, value, alpha_)
 
 ## Argomenti
 

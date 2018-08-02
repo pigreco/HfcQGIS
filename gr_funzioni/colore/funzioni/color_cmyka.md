@@ -4,7 +4,7 @@ Restituisce una rappresentazione stringa di un colore basato sui suoi componenti
 
 ## Sintassi
 
-color_cmyka(_cyan, magenta, yellow, black_)
+color_cmyka(_cyan, magenta, yellow, black, alpha_)
 
 ## Argomenti
 
