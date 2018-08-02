@@ -71,7 +71,7 @@ nella vista modulo è presente un ulterione menu:
 3. ordina tramite anteprima espressione;
 4. storico.
 
-### Barra del calcolatore di campi rapida (Quick Field Calculation bar) )
+### Barra del calcolatore di campi rapida (Quick Field Calculation bar)
 
 Questa barra è visibile solo se è attiva la modalità modifica ![ico](/img/tabella_attributi/icon/mActionToggleEditing.png) e consente di applicare rapidamente calcoli a tutte o parte delle feature del livello. Questa barra utilizza le stesse espressioni del calcolatore di campi ![ico](/img/tabella_attributi/icon/mActionCalculateField.png)
 
