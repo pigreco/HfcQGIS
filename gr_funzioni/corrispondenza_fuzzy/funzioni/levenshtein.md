@@ -7,6 +7,11 @@ La distanza di Levenshtein è una misura della somiglianza tra due stringhe. Dis
 
 * levenshtein(*string1, string2*)
 
+## Argomenti
+
+* _string1_ una stringa
+* _string2_ una stringa
+
 ## Esempi
 ```
 * levenshtein('kittens','mitten') → 2

@@ -6,6 +6,10 @@ Restituisce la rappresentazione Soundex di una stringa. Soundex è un algoritmo 
 
 * soundex(*string*)
 
+## Argomenti
+
+* *string* una stringa
+
 ## Esempi
 ```
 * soundex('robert') → 'R163'

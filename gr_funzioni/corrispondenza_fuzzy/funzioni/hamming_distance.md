@@ -6,6 +6,11 @@ Restituisce la distanza di Hamming tra due stringhe. Questa equivale al numero d
 
 * hamming_distance(*string1, string2*)
 
+## Argomenti
+
+* _string1_ una stringa
+* _string2_ una stringa
+
 ## Esempi
 ```
 * hamming_distance('abc','xec') → 2
