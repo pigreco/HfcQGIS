@@ -52,7 +52,8 @@ Gruppo funzioni|nro funzioni*|info
 * [Concetti](./calcolatore_campi/concetti.md) Concetti base sul calcolatore di campi
 * [Linguaggio](https://gis.stackexchange.com/questions/247474/what-language-do-qgis-expressions-use-what-language-should-qgis-queries-be-writ) Che linguaggio usa il calcolatore di campi?
 * [Interfaccia](./calcolatore_campi/interfaccia.md) Introduzione all'interfaccia calcolatore di campi
-* [Operatori](../calcolatore_campi/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
+* [Operatori](./calcolatore_campi/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
+* [tabella attributi](./calcolatore_campi/tabella_attributi.md) - Concetti fondamentali
 * [Esempi](./esempi) (11) - Esempi dettagliati sull'uso delle funzioni
 
 
