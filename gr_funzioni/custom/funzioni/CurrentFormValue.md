@@ -24,3 +24,9 @@ CurrentFormValue('FIELD_NAME')
 Questa funzione è presente, nel gruppo Custom del calcolatore di campi, solo dopo l'installazione del plugin [Form Value Relation](https://plugins.qgis.org/plugins/FormAwareValueRelationWidget/) e solo per QGIS 2.X.
 Per le  versioni >= QGIS 3.2 la funzionalità è nativa e basta utilizzare la funzione [current_value](https://github.com/pigreco/HfcQGIS/blob/master/novita_3.2.md#feature-form-drill-down-a-cascata--widget-value-relation-relazione-valore) presente nel gruppo Form (visibile solo usando i widget)
 
+
+[![add_col_area_perimetro](https://img.youtube.com/vi/5wcEFLSLTCA/0.jpg)](https://www.youtube.com/watch?v=5wcEFLSLTCA&t= "Form Value Relation")
+
+
+
+

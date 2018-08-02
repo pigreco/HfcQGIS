@@ -28,7 +28,7 @@ Gruppo funzioni|nro funzioni*|info
 [Condizioni](./gr_funzioni/condizioni)| (4/4)|
 [Conversioni](./gr_funzioni/conversioni)| (7/7)|
 [Corrispondenza fuzzy](./gr_funzioni/corrispondenza_fuzzy)| (4/4)|
-[Custom](./gr_funzioni/custom)| (4/4)| funzioni personalizzate
+[Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(16/16)|
 [Generale](./gr_funzioni/generale)| (7/7)|
 [Geometria](./gr_funzioni/geometria) |(97/97)| aggiornate a QGIS 3.2
