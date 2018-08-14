@@ -19,10 +19,11 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
     2. totale degli elementi/record/feature;
     3. numero dei record _filtrati_;
     4. numero dei record _selezionati_.
+   
 
-![tab_attr](/img/tabella_attributi/tab_attr3.png)
+![tab_attr](/img/tabella_attributi/tab_attr3_NEW.png)
 
-2. barra degli strumenti;
+1. barra degli strumenti;
     * ![ico](/img/tabella_attributi/icon/mActionToggleEditing.png) matita per attivare modifica;
     * ![ico](/img/tabella_attributi/icon/mActionMultiEdit.png) modifica multipla;
     * ![ico](/img/tabella_attributi/icon/mActionFileSave.png) salva modifiche;
@@ -44,6 +45,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
     * ![ico](/img/tabella_attributi/icon/mActionDeleteAttribute.png) elimina campo esistente;
     * ![ico](/img/tabella_attributi/icon/mActionCalculateField.png) apre il calcolatore di campi;
     * ![ico](/img/tabella_attributi/icon/mActionConditionalFormatting.png) formattazione condizionale;
+    * ![tab_attr](/img/tabella_attributi/icon/mDockify.png) da finestra a dock e viceversa (**>= QGIS 3.4**)
     * ![ico](/img/tabella_attributi/icon/mAction.png) azioni.
 
 ![tab_attr](/img/tabella_attributi/tab_attr4.png)
@@ -105,3 +107,9 @@ nel caso dell'_intestazione colonna_ compare un tendina con la possibilità di: 
 nel caso delle _celle_ (vedi screensotto) compare un tendina con la possibilità di:selezionare tutte le righe (Ctrl+A); Copiare il contenuto della cella; Zoom alla geometria; Pan alla geometria; Flash geometria; Apri modalità Modulo ![ico](/img/tabella_attributi/icon/mActionFormView.png)
 
 ![tab_attr](/img/tabella_attributi/tab_attr7.png)
+
+### Novità introdotta nella QGIS 3.4:
+
+nuovo pulsante nella barra degli strumenti della tabella degli attributi per passare dalla modalità docked alla modalità finestra
+
+![tab_attr](/img/tabella_attributi/Dockify.gif)
