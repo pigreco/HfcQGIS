@@ -112,4 +112,4 @@ nel caso delle _celle_ (vedi screensotto) compare un tendina con la possibilità
 
 nuovo pulsante nella barra degli strumenti della tabella degli attributi per passare dalla modalità docked alla modalità finestra
 
-![tab_attr](/img/tabella_attributi/Dockify.gif)
+![tab_attr](/img/tabella_attributi/dockify.gif)
