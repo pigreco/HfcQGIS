@@ -17,7 +17,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-## Indice gruppi di funzioni/espressioni (307/398)
+## Indice gruppi di funzioni/espressioni (308/399)
 
 Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
@@ -31,7 +31,7 @@ Gruppo funzioni|nro funzioni*|info
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(16/16)|
 [Generale](./gr_funzioni/generale)| (7/7)|
-[Geometria](./gr_funzioni/geometria) |(97/97)| aggiornate a QGIS 3.2
+[Geometria](./gr_funzioni/geometria) |(98/98)| aggiornate a QGIS 3.2
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (1/1)| >= QGIS 3.0
 [Maps](./gr_funzioni/maps)| (10/10) |>= QGIS 3.0 (PostGIS) - ArrayPlus Plugin
 [Matematica](./gr_funzioni/matematica)| (28/28)|
@@ -69,6 +69,7 @@ Gruppo funzioni|nro funzioni*|info
 
 * Aggiunta di un nuovo gruppo [**Rasters**](./gr_funzioni/rasters) nel calcolatore di campi;
 * Nuova funzione [**raster_value()**](./gr_funzioni/rasters/funzioni/raster_value.md)
+* Nuova funzione geometrica [**line_substring**](./gr_funzioni/geometria/funzioni/line_substring.md)
 
 ---
 ## [Cosa puoi fare](/CONTRIBUTING.md) ❔

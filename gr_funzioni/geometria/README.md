@@ -54,6 +54,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [line_interpolate_point](funzioni/line_interpolate_point.md)|Restituisce il punto interpolato ad una specifica distanza lungo un geometria di tipo linestring|>=2.18
 [line_locate_point](funzioni/line_locate_point.md)|Restituisce la distanza lungo una linestring corrispondente alla posizione più vicina alla linestring di una geometria puntuale specificata|>=2.18
 [line_merge](funzioni/line_merge.md)|Restituisce una geometria di tipo LineString o MultiLineString, dove qualsiasi LineString connessa dalla geometria in ingresso è stata fusa (merge) in una linestring singola|>=2.18
+[line_substring](funzioni/line_substring.md)|Restituisce la porzione di una geometria di linea (o curva) che rientra tra le distanze iniziale e finale specificate|**>=3.4**
 [m](funzioni/m.md)|Restituisce il valore m di una geometria puntuale|>=2.14
 [make_circle](funzioni/make_circle.md)|Crea un poligono circolare |**>=3.0**
 [make_ellipse](funzioni/make_ellipse.md)|Crea un poligono ellittico |**>=3.0**
