@@ -109,3 +109,5 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 ## Evoluzione funzioni
 
 ![](/img/geometria/gruppo_geometria2.png)
+
+![](/img/geometria/gruppo_geometria3.png)
