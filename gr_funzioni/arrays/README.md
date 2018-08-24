@@ -13,6 +13,7 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 |[array_distinct](funzioni/array_distinct.md)|Restituisce un array contenente valori distinti dell'array dato|
 |[array_find](funzioni/array_find.md)|Restituisce l'indice di un valore all'interno di un array|
 |[array_first](funzioni/array_first.md)|Restituisce il primo valore di un array|
+|[array_foreach](funzioni/array_foreach.md)|Restituisce una matrice con l'espressione data valutata su ciascun elemento| **>= QGIS 3.4**
 |[array_get](funzioni/array_get.md)|Restituisce il valore ennesimo di un array|
 |[array_insert](funzioni/array_insert.md)|Restituisce un array con il valore passato aggiunto nella posizione indicata|
 |[array_lambda](funzioni/array_lambda.md)|Applica una funzione personalizzata a ciascun elemento (x)|ArrayPlus
