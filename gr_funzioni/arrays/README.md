@@ -34,6 +34,7 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 |[array_sort](funzioni/array_sort.md)|Ordina i valori in ordine crescente (usa _array_reverse_ per desc)|ArrayPlus
 |[array_sum](funzioni/array_sum.md)|Calcola la somma dei valori|ArrayPlus
 |[array_to_string](funzioni/array_to_string.md)|Concatena gli elementi di un array in una stringa separata da un delimitatore usando una stringa opzionale per valori mancanti|
+|[generate_series](funzioni/generate_series.md)|La funzione crea una matrice contenente una sequenza di numeri|**>= QGIS 3.4**
 |[regexp_matches](funzioni/regexp_matches.md)|Restituisce un array di tutte le stringhe catturate dai gruppo, nell'ordine che i gruppi stessi compaiono con l'espressione regolare fornita con una stringa|
 |[string_to_array](funzioni/string_to_array.md)|Divide la stringa in un array usando il delimitatore fornito e la stringa opzionale per valori mancanti|
 
