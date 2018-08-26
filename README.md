@@ -17,12 +17,12 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-## Indice gruppi di funzioni/espressioni (310/401)
+## Indice gruppi di funzioni/espressioni (311/402)
 
 Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
 [Aggregates](./gr_funzioni/aggregates) |(22/22)| >= QGIS 2.16  
-[Arrays](./gr_funzioni/arrays)| (33/33) |>= QGIS 3.0 (SpatiaLite, PostGIS) - ArrayPlus Plugin
+[Arrays](./gr_funzioni/arrays)| (34/34) |>= QGIS 3.0 (SpatiaLite, PostGIS) - ArrayPlus Plugin
 [Campi e valori](./gr_funzioni/campi_e_valori)| (1/1)|
 [Colore](./gr_funzioni/colore)| (17/17)|
 [Condizioni](./gr_funzioni/condizioni)| (4/4)|
@@ -72,6 +72,7 @@ Gruppo funzioni|nro funzioni*|info
 * Nuova funzione geometrica [**line_substring**](./gr_funzioni/geometria/funzioni/line_substring.md)
 * Nuova funzione array [**array_foreach**](./gr_funzioni/arrays/funzioni/array_foreach.md)
 * Nuova funzione array [**generate_series**](./gr_funzioni/arrays/funzioni/generate_series.md)
+* Nuova funzione array [**array_filter**](./gr_funzioni/arrays/funzioni/array_filter.md)
 
 
 ---
