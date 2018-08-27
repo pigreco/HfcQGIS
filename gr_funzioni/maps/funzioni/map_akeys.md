@@ -26,6 +26,20 @@ map_akeys(_map_)
 
 ## Altri esempi
 
-
-
 ![](/img/maps/map_akeys/map_akeys2.png)
+
+```
+ map_akeys( 
+ map('Area_Ha',$area/10000,'Perimetro_km',$perimeter/1000)) → ['Area_Ha','Perimetro_km']
+```
+
+## Compositore di stampe >= QGIS 3.0
+
+`akeys` disponibili in ambito compositore stampe
+
+![](/img/maps/map_akeys/map_akeys3.png)
+
+* `wordwrap( array_to_string(  map_akeys(  item_variables( 'm1') ) ),1,',') `
+
+
+![](/img/maps/map_akeys/map_akeys4.png)
