@@ -15,3 +15,4 @@ Esempio|Descrizione|Autore
 [core area](./es/core_area.md)|Calcola la core area di un poligono | Ludovico Frate
 [sposta etichette](./es/sposta_etichetta_linea.md)|Sposta etichetta e genera segmento|Pigreco
 [conteggio valori](./es/conteggio.md)|Conteggio valori in un campo|Pigreco
+[centroidi linee curve](./es/centroid_linee.md)|Centroide lungo le linee curve|Pigreco
