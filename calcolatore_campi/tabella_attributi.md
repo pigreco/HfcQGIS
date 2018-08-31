@@ -23,7 +23,7 @@ La tabella attributi di QGIS è caratterizzata da vari elementi:
 
 ![tab_attr](/img/tabella_attributi/tab_attr3_NEW.png)
 
-1. barra degli strumenti;
+2. barra degli strumenti;
     * ![ico](/img/tabella_attributi/icon/mActionToggleEditing.png) matita per attivare modifica;
     * ![ico](/img/tabella_attributi/icon/mActionMultiEdit.png) modifica multipla;
     * ![ico](/img/tabella_attributi/icon/mActionFileSave.png) salva modifiche;
