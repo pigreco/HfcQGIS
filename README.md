@@ -73,6 +73,7 @@ Gruppo funzioni|nro funzioni*|info
 * Nuova funzione array [**array_foreach**](./gr_funzioni/arrays/funzioni/array_foreach.md)
 * Nuova funzione array [**generate_series**](./gr_funzioni/arrays/funzioni/generate_series.md)
 * Nuova funzione array [**array_filter**](./gr_funzioni/arrays/funzioni/array_filter.md)
+* Completamento codice per il costruttore di espressioni
 
 
 ---
