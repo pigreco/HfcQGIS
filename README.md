@@ -61,11 +61,11 @@ Gruppo funzioni|nro funzioni*|info
 ---
 ## Novità
 
-### Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018
+### [Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018](./novita_32.md)
 * [Il generatore di espressioni ora semplifica la creazione di espressioni in QGIS!](https://github.com/pigreco/HfcQGIS/blob/master/novita_32.md#novit%C3%A0-rilevanti-introdotte-nella-32)
 * [Form drill-down (a cascata) WIDGET Value Relation (Relazione valore)](https://github.com/pigreco/HfcQGIS/blob/master/novita_32.md#form-drill-down-a-cascata--widget-value-relation-relazione-valore)
 
-### Novità rilevanti nella prossima QGIS 3.4 LTR 26/10/2018
+### [Novità rilevanti nella prossima QGIS 3.4 LTR 26/10/2018](./novita_34.md)
 
 * Aggiunta di un nuovo gruppo [**Rasters**](./gr_funzioni/rasters) nel calcolatore di campi;
 * Nuova funzione [**raster_value()**](./gr_funzioni/rasters/funzioni/raster_value.md)
