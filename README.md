@@ -27,12 +27,12 @@ Gruppo funzioni|nro funzioni*|info
 [Campi e valori](./gr_funzioni/campi_e_valori)| (1/1)|
 [Colore](./gr_funzioni/colore)| (17/17)|
 [Condizioni](./gr_funzioni/condizioni)| (4/4)|
-[Conversioni](./gr_funzioni/conversioni)| (9/9)|
+[Conversioni](./gr_funzioni/conversioni)| (9/9)|aggiornate a **QGIS 3.4**
 [Corrispondenza fuzzy](./gr_funzioni/corrispondenza_fuzzy)| (4/4)|
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(16/16)|
 [Generale](./gr_funzioni/generale)| (7/7)|
-[Geometria](./gr_funzioni/geometria) |(98/98)| aggiornate a QGIS 3.4
+[Geometria](./gr_funzioni/geometria) |(98/98)| aggiornate a **QGIS 3.4**
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (1/1)| >= QGIS 3.0
 [Maps](./gr_funzioni/maps)| (10/10) |>= QGIS 3.0 (PostGIS) - ArrayPlus Plugin
 [Matematica](./gr_funzioni/matematica)| (28/28)|
