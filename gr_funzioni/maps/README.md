@@ -2,8 +2,8 @@
 
 Questo gruppo contiene funzioni espressione per la creazione e la manipolazione di strutture di dati 'a mappa' (noti anche come oggetti dizionario, coppie chiave-valore o array associative). Si possono assegnare valori a determinate chiavi. L'ordine delle coppie chiave valore nell'oggetto mappa non è rilevante come per gli Arrays ([gruppo Arrays](funzioni/../arrays)).
 
- Funzione  | Descrizione|Info
-----------:|:-----------|------
+ Funzione | Descrizione|Info
+----------|:-----------|------
 [hstore_to_map](funzioni/hstore_to_map.md)|Crea una mappa da una stringa formattata in hstore|**>= QGIS 3.4**
 [json_to_map](funzioni/json_to_map.md)|Crea una mappa da una stringa formattata con json|**>= QGIS 3.4**
 [map](funzioni/map.md)|Restituisce una mappa con tutte le chiavi ed i valori passati come coppie di parametri|>= QGIS 3.0

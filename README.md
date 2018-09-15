@@ -17,7 +17,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-## Indice gruppi di funzioni/espressioni (313/404)
+## Indice gruppi di funzioni/espressioni (315/406)
 
 Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
