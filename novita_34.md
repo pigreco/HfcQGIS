@@ -11,6 +11,10 @@
 * [**array_filter**](./gr_funzioni/array/funzioni/array_filter.md)
 * [**to_dm**](./gr_funzioni/conversioni/funzioni/to_dm.md)
 * [**to_dms**](./gr_funzioni/conversioni/funzioni/to_dms.md)
+* [**hstore_to_map**](./gr_funzioni/maps/funzioni/hstore_to_map.md)
+* [**json_to_map**](./gr_funzioni/maps/funzioni/json_to_map.md)
+* [**map_to_hstore**](./gr_funzioni/maps/funzioni/map_to_hstore.md)
+* [**map_to_json**](./gr_funzioni/maps/funzioni/map_to_json.md)
 
 ## Completamento codice per il costruttore di espressioni
 ![](/img/novita_34/completa_field_calc.gif)
