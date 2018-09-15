@@ -16,4 +16,6 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 [map_insert](funzioni/map_insert.md)|Restituisce una mappa con una chiave/valore aggiunto|>= QGIS 3.0
 [map_to_hstore](funzioni/map_to_hstore.md)|Unisci gli elementi della mappa in una stringa formattata in hstore|**>= QGIS 3.4**
 [map_to_json](funzioni/map_to_json.md)|Unisci gli elementi della mappa in una stringa formattata con json|**>= QGIS 3.4**
+
+
 ![](/img/maps/gruppo_maps1.png)
