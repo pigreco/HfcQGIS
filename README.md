@@ -34,7 +34,7 @@ Gruppo funzioni|nro funzioni*|info
 [Generale](./gr_funzioni/generale)| (7/7)|
 [Geometria](./gr_funzioni/geometria) |(98/98)| aggiornate a **QGIS 3.4**
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (1/1)| >= QGIS 3.0
-[Maps](./gr_funzioni/maps)| (10/10) |>= QGIS 3.0 (PostGIS) - ArrayPlus Plugin
+[Maps](./gr_funzioni/maps)| (10/10) |>= QGIS 3.0 (PostGIS)
 [Matematica](./gr_funzioni/matematica)| (28/28)|
 [Operatori](./gr_funzioni/operatori)| (21/21)|
 [Rasters](./gr_funzioni/rasters)|(2/2)|>= **QGIS 3.4** 

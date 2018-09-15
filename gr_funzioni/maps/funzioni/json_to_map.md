@@ -1,18 +1,18 @@
 ## Funzione `json_to_map`
 
-Restituisce tutte le chiavi di una mappa come un array.
+Crea una mappa da una stringa formattata con json
 
 ## Sintassi
 
-json_to_map(_json string_)
+json_to_map(_string_)
 
 ## Argomenti
 
-* _json string_ una stringa json
+* _string_ una stringa json
 
 ## Esempi
 
-* ``json_to_map('{"a":12,"b":["rre","rra"]}') → <map: a:12,<array: 'rre','rra'>>``
+* `json_to_map('{"qgis":"rocks"}') → { "qgis" : "rocks" }`
 
 ![](/img/maps/json_to_map/json_to_map1.png)
 
@@ -23,3 +23,4 @@ json_to_map(_json string_)
 ## osservazioni
 
 --
+
