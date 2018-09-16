@@ -18,3 +18,21 @@
 
 ## Completamento codice per il costruttore di espressioni
 ![](/img/novita_34/completa_field_calc.gif)
+
+## Cambiata la rappresentazione di array e map nelle espressioni
+
+* **array rappresentazione:**
+
+prima → `ora`
+
+array: 1, 2, 3 → `[ 1, 2, 3 ]`
+
+![](/img/novita_34/arrays.png)
+
+* **map rappresentazione:**
+
+prima → `ora`
+
+map: one: 1, two: 2, 3: three → `{'one': 1, 'two': 2, 3: 'three'}`
+
+![](/img/novita_34/map.png)
