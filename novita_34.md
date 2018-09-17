@@ -4,17 +4,24 @@
 ![](/img/novita_34/neo_gruppi.png)
 
 ## Nuove funzioni
-* [**raster_value()**](./gr_funzioni/rasters/funzioni/raster_value.md) - PR [#7487](https://github.com/qgis/QGIS/pull/7487) 
+
+### Gruppo Geometry
 * [**line_substring**](./gr_funzioni/geometria/funzioni/line_substring.md) - PR [#7587](https://github.com/qgis/QGIS/pull/7587)
+### Gruppo Rasters
+* [**raster_value()**](./gr_funzioni/rasters/funzioni/raster_value.md) - PR [#7487](https://github.com/qgis/QGIS/pull/7487) 
+### Gruppo Array
 * [**array_foreach**](./gr_funzioni/array/funzioni/array_foreach.md) -PR [#7628](https://github.com/qgis/QGIS/pull/7628)
-* [**generate_series**](./gr_funzioni/arrays/funzioni/generate_series.md) - PR [#7655](https://github.com/qgis/QGIS/pull/7655)
 * [**array_filter**](./gr_funzioni/array/funzioni/array_filter.md) - PR [#7688](https://github.com/qgis/QGIS/pull/7688)
+### Gruppo Arrays
+* [**generate_series**](./gr_funzioni/arrays/funzioni/generate_series.md) - PR [#7655](https://github.com/qgis/QGIS/pull/7655)
+### Gruppo Conversioni
 * [**to_dm**](./gr_funzioni/conversioni/funzioni/to_dm.md) - PR [#7593](https://github.com/qgis/QGIS/pull/7593)
 * [**to_dms**](./gr_funzioni/conversioni/funzioni/to_dms.md) - PR [#7593](https://github.com/qgis/QGIS/pull/7593)
-* [**hstore_to_map**](./gr_funzioni/maps/funzioni/hstore_to_map.md) -PR [#7884](https://github.com/qgis/QGIS/pull/7884)
-* [**json_to_map**](./gr_funzioni/maps/funzioni/json_to_map.md) -PR [#7884](https://github.com/qgis/QGIS/pull/7884)
-* [**map_to_hstore**](./gr_funzioni/maps/funzioni/map_to_hstore.md) -PR [#7884](https://github.com/qgis/QGIS/pull/7884)
-* [**map_to_json**](./gr_funzioni/maps/funzioni/map_to_json.md) -PR [#7884](https://github.com/qgis/QGIS/pull/7884)
+### Gruppo Maps
+* [**hstore_to_map**](./gr_funzioni/maps/funzioni/hstore_to_map.md) - PR [#7884](https://github.com/qgis/QGIS/pull/7884)
+* [**json_to_map**](./gr_funzioni/maps/funzioni/json_to_map.md) - PR [#7884](https://github.com/qgis/QGIS/pull/7884)
+* [**map_to_hstore**](./gr_funzioni/maps/funzioni/map_to_hstore.md) - PR [#7884](https://github.com/qgis/QGIS/pull/7884)
+* [**map_to_json**](./gr_funzioni/maps/funzioni/map_to_json.md) - PR [#7884](https://github.com/qgis/QGIS/pull/7884)
 
 ## Completamento codice per il costruttore di espressioni - PR [#7835](https://github.com/qgis/QGIS/pull/7835)
 ![](/img/novita_34/completa_field_calc.gif)

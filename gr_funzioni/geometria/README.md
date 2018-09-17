@@ -111,3 +111,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 ![](/img/geometria/gruppo_geometria2.png)
 
 ![](/img/geometria/gruppo_geometria3.png)
+
+# **QGIS 3.3 DEV**
+
+![](/img/geometria/qgis33.png)
