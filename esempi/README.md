@@ -16,3 +16,4 @@ Esempio|Descrizione|Autore
 [sposta etichette](./es/sposta_etichetta_linea.md)|Sposta etichetta e genera segmento|Pigreco
 [conteggio valori](./es/conteggio.md)|Conteggio valori in un campo|Pigreco
 [centroidi linee curve](./es/centroid_linee.md)|Centroide lungo le linee curve|Pigreco
+[conta i punti nel poligono](./es/./es/centroid_linee.md.md)|Conta i punti nel poligono|Pigreco
