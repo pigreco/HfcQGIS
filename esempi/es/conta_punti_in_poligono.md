@@ -18,3 +18,7 @@ risultato:
 ![](/img/esempi/conta_punti_in_poligono/conta_02.png)
 
  Geopackage è [qui](/esempi/dati_esempi.gpkg)
+
+video:
+
+ [![add_col_area_perimetro](https://img.youtube.com/vi/vlmnmI6sjAg/0.jpg)](https://youtu.be/vlmnmI6sjAg "CONTA PUNTI NEL POLIGONO")
