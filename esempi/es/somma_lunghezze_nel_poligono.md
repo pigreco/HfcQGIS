@@ -31,6 +31,6 @@ risultato:
 
 ![](/img/esempi/somma_lunghezze_linee/somma_lunghezze_linee_01.png)
 
-NB: la piccola differenza tra le lenghezze è imputabile alla trasformazione di EPSG!!! La prima tabella è relativa al vettore poligonale la seconda, lunghezze delle linee, deriva dal geo-algoritmo in processing.
+NB: la piccola differenza tra le lenghezze è imputabile alla trasformazione di EPSG!!! La prima tabella è relativa al vettore poligonale la seconda, lunghezze delle linea, deriva dal geo-algoritmo in processing.
 
  Geopackage è [qui](/esempi/dati_esempi.gpkg)
