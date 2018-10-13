@@ -17,3 +17,4 @@ Esempio|Descrizione|Autore
 [conteggio valori](./es/conteggio.md)|Conteggio valori in un campo|Pigreco
 [centroidi linee curve](./es/centroid_linee.md)|Centroide lungo le linee curve|Pigreco
 [conta i punti nel poligono](./es/conta_punti_in_poligono.md)|Conta i punti nel poligono|Pigreco
+[Somma lunghezze nel poligono](./es/somma_lunghezze_nel_poligono.md)|Somma le lunghezze delle linee dentro il poligono|Pigreco
