@@ -18,3 +18,4 @@ nro|Esempio|Descrizione|Autore
 14|[centroidi linee curve](./es/centroid_linee.md)|Centroide lungo le linee curve|Pigreco
 15|[conta i punti nel poligono](./es/conta_punti_in_poligono.md)|Conta i punti nel poligono|Pigreco
 16|[Somma lunghezze nel poligono](./es/somma_lunghezze_nel_poligono.md)|Somma le lunghezze delle linee dentro il poligono|Pigreco
+17|[conta punti nel poligono per categorie](./es/punti_in_poligoni_categorie.md)|Contare i punti nel poligono per categorie|Martina Savarese
