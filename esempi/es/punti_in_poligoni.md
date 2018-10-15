@@ -14,19 +14,19 @@ Utilizzare il calcolatore di campi:
 Per fare un esempio concreto usiamo i dataset utilizzati nel manuale utente di QGIS scaricabili da [qui](http://qgis.org/downloads/data/qgis_sample_data.zip) caricando il vettore poligonale 'regions' e quello puntuale 'airports'.
 Poniamo ad esempio di voler conteggiare il numero di aeroporti sd uso civile ricadenti in ciascuna regione: possiamo utilizzare la funzione `aggregate` e imporre che siano soddisfatte due condizioni nell’argomento del filtro tramite l’operatore `AND`.
 
-![](/img/esempi/punti_in_poligono_categorie/aggregate_01.png)
+![](/img/esempi/punti_in_poligoni_categorie/aggregate_01.png)
 
 risultato:
 
-![](/img/esempi/punti_in_poligono_categorie/aggregate_02.png)
+![](/img/esempi/punti_in_poligoni_categorie/aggregate_02.png)
 
 Partendo da qui possiamo costruire un’espressione più complessa che ci restituisca il numero di aeroporti, per ciascun uso, presenti in ciascuna regione.
 
-![](/img/esempi/punti_in_poligono_categorie/aggregate_03.png)
+![](/img/esempi/punti_in_poligoni_categorie/aggregate_03.png)
 
 risultato:
 
-![](/img/esempi/punti_in_poligono_categorie/aggregate_04.png)
+![](/img/esempi/punti_in_poligoni_categorie/aggregate_04.png)
 
 #### Last but not least…
 ##### Implicazioni dell’uso della funzione aggregate con la variabile @parent per contare i punti nel poligono
