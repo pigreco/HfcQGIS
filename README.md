@@ -41,7 +41,7 @@ Gruppo funzioni|nro funzioni*|info
 [Recente](./gr_funzioni/recente) |(1/1)|
 [Record e attributi](./gr_funzioni/record_e_attributi)| (9/9)|
 [Reference](./gr_funzioni/reference)| (0/21)| [Plugin refFunction](https://plugins.qgis.org/plugins/refFunctions/)
-[Relazioni](./relazioni)| (?)| Visibile solo se ci sono relazioni di progetto
+[Relazioni](./gr_funzioni/relazioni)| (?)| Visibile solo se ci sono relazioni di progetto
 [Stringhe di testo](./gr_funzioni/stringhe_di_testo)| (22/22)|
 [TimeManager](./gr_funzioni/timemanager)| (0/5)| Plugin Time Manager
 [Transformation](./gr_funzioni/transformation)| (0/4)| Plugin refFunction
