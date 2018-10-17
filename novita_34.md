@@ -1,6 +1,6 @@
 # Novità rilevanti introdotte nella 3.4 LTR
 
-## Nuovi gruppi funzioni nel calcolatore di campi
+## Nuovo gruppo funzioni nel calcolatore di campi
 ![](/img/novita_34/neo_gruppi.png)
 
 ## Nuove funzioni
@@ -9,10 +9,10 @@
 * [**line_substring**](./gr_funzioni/geometria/funzioni/line_substring.md) - PR [#7587](https://github.com/qgis/QGIS/pull/7587)
 ### Gruppo Rasters
 * [**raster_value()**](./gr_funzioni/rasters/funzioni/raster_value.md) - PR [#7487](https://github.com/qgis/QGIS/pull/7487) 
-### Gruppo Array
+### Gruppo Arrays
 * [**array_foreach**](./gr_funzioni/array/funzioni/array_foreach.md) -PR [#7628](https://github.com/qgis/QGIS/pull/7628)
 * [**array_filter**](./gr_funzioni/array/funzioni/array_filter.md) - PR [#7688](https://github.com/qgis/QGIS/pull/7688)
-### Gruppo Arrays
+
 * [**generate_series**](./gr_funzioni/arrays/funzioni/generate_series.md) - PR [#7655](https://github.com/qgis/QGIS/pull/7655)
 ### Gruppo Conversioni
 * [**to_dm**](./gr_funzioni/conversioni/funzioni/to_dm.md) - PR [#7593](https://github.com/qgis/QGIS/pull/7593)
