@@ -10,8 +10,8 @@
 ### Gruppo Rasters
 * [**raster_value()**](./gr_funzioni/rasters/funzioni/raster_value.md) - PR [#7487](https://github.com/qgis/QGIS/pull/7487) 
 ### Gruppo Arrays
-* [**array_foreach**](./gr_funzioni/array/funzioni/array_foreach.md) -PR [#7628](https://github.com/qgis/QGIS/pull/7628)
-* [**array_filter**](./gr_funzioni/array/funzioni/array_filter.md) - PR [#7688](https://github.com/qgis/QGIS/pull/7688)
+* [**array_foreach**](./gr_funzioni/arrays/funzioni/array_foreach.md) -PR [#7628](https://github.com/qgis/QGIS/pull/7628)
+* [**array_filter**](./gr_funzioni/arrays/funzioni/array_filter.md) - PR [#7688](https://github.com/qgis/QGIS/pull/7688)
 
 * [**generate_series**](./gr_funzioni/arrays/funzioni/generate_series.md) - PR [#7655](https://github.com/qgis/QGIS/pull/7655)
 ### Gruppo Conversioni
