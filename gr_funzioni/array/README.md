@@ -8,4 +8,4 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 |[array_foreach](funzioni/array_foreach.md)|Restituisce una matrice con l'espressione data valutata su ciascun elemento
 
 
-![](/img/array/gruppo_array.png)
+![](/img/array/neo_gruppo.png)
