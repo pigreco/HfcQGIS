@@ -15,7 +15,7 @@ array_filter(_array,expression_)
 
 * `array_filter(array(1,2,3),@element < 3) → [ 1, 2 ]`
 
-![](/img/array/array_filter/array_filter1.png)
+![](/img/array/array_filter/array_filter2.png)
 
 ## nota bene
 

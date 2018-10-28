@@ -16,7 +16,7 @@ array_foreach(_array,expression_)
 * `array_foreach(array('a','b','c'),upper(@element)) → array: 'A', 'B', 'C'`
 * `array_foreach(array(1,2,3),@element + 10) → array: 11, 12, 13`
 
-![](/img/array/array_foreach/array_foreach1.png)
+![](/img/array/array_foreach/array_foreach2.png)
 
 ## nota bene
 

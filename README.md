@@ -22,7 +22,7 @@ Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del 
 Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
 [Aggregates](./gr_funzioni/aggregates) |(22/22)| >= QGIS 2.16 
-[Array](./gr_funzioni/array)| (2/2) |>= QGIS 3.4
+[Array](./gr_funzioni/array)| (2/2) |**>= QGIS 3.4**
 [Arrays](./gr_funzioni/arrays)| (32/32) |>= QGIS 3.0 (SpatiaLite, PostGIS) - ArrayPlus Plugin
 [Campi e valori](./gr_funzioni/campi_e_valori)| (1/1)|
 [Colore](./gr_funzioni/colore)| (17/17)|
