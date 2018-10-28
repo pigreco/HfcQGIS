@@ -5,7 +5,7 @@ Salvatore **FIANDACA** (_aka `pigreco`, per gli amici `Totò`_)
 Usa spesso, nei vari social, il nick name pigreco ma è nel titolo del suo blog - pigrecoinfinito - che si cela il suo nome in siciliano. Per capire quale sia occorre osservare con attenzione il logo che lo rappresenta:
 
 <p align="center">
-  <img width="200" src="/img/logopi.png">
+  <img width="200" src="/img/logo_pi.png">
 </p>
 
 sono sovrapposti i simboli di pi greco, dell'infinito e della derivata prima: tre simboli matematici che hanno rivoluzionato la scienza; se osservate bene vedrete scritto il suo nome. 
@@ -13,7 +13,7 @@ sono sovrapposti i simboli di pi greco, dell'infinito e della derivata prima: tr
 Prima di iniziare l'attività di divulgatore del Open Source (OS), _Salvatore_ ha utilizzato - per anni - software proprietari, solo dopo la scoperta del OS abbandonò definitivamente il mondo Close Source e decise di divulgare la filosofia OS tramite blog post e video su youtube. Attualmente il blog è seguito in tutto il mondo ed il canale youtube ha oltre 1000 iscritti.
 
 <p align="center">
-  <img width="460" src="/img/world_wp01.png">
+  <img width="460" src="/img/world_wp02.png">
 </p>
 
 Cura il Blog '[Pigrecoinfinito](https://pigrecoinfinito.wordpress.com/)' e il [canale](https://www.youtube.com/user/vediamo13/) YouTube dove scrive e parla di QGIS, SpatiaLite, PostegreSQL/PostGIS, GDAL/OGR, GRASS GIS, SAGA GIS, GitHub, OSGeo4W, ed altri FOSS; ama usare, nella professione e non solo, software OS come LibreOffice, InkSCAPE, GIMP ecc...
