@@ -19,3 +19,4 @@ nro|Esempio|Descrizione|Autore
 15|[conta i punti nel poligono](./es/conta_punti_in_poligono.md)|Conta i punti nel poligono|Pigreco
 16|[Somma lunghezze nel poligono](./es/somma_lunghezze_nel_poligono.md)|Somma le lunghezze delle linee dentro il poligono|Pigreco
 17|[conta punti nel poligono per categorie](./es/punti_in_poligoni_categorie.md)|Contare i punti nel poligono per categorie|Martina Savarese
+18|[nascondi etichette](./es/nascondi_etichette.md)|Nasconde etichette non desiderate |Pigreco
