@@ -1,4 +1,4 @@
-## Interfaccio calcolatore e finestre nascoste
+## Interfaccia calcolatore di campi e finestre nascoste
 
 Nel caso risulti nascosta la sezione Gruppi funzioni:
 
