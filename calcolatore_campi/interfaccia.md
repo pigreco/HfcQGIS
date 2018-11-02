@@ -16,3 +16,17 @@
 12. Help in linea;
 13. anteprima valore espressione digitata in 9 oppure segnalazione errore;
 14. visualizza i valori univoci del campo selezionato.
+
+## Interfaccia calcolatore di campi e finestre nascoste
+
+Nel caso risulti nascosta la sezione Gruppi funzioni:
+
+<p align="center">
+  <img width="600" src="../img/finestra_field_calc/hfcqgis_gruppi.gif">
+</p>
+
+Nel caso risulti nascosta la sezione help in linea:
+
+<p align="center">
+  <img width="600" src="../img/finestra_field_calc/hfcqgis_Help.gif">
+</p>
