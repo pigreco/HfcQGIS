@@ -32,7 +32,7 @@ Gruppo funzioni|nro funzioni*|info
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(16/16)|
 [Generale](./gr_funzioni/generale)| (7/7)|
-[Geometria](./gr_funzioni/geometria) |(99/99)| aggiornate a **QGIS 3.4**
+[Geometria](./gr_funzioni/geometria) |(99/99)| aggiornate a **QGIS 3.6**
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (1/1)| >= QGIS 3.0
 [Maps](./gr_funzioni/maps)| (12/12) |>= QGIS 3.0 (PostGIS) aggiornate a **QGIS 3.4**
 [Matematica](./gr_funzioni/matematica)| (28/28)|

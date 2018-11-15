@@ -37,6 +37,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [exterior_ring](funzioni/exterior_ring.md)|Restituisce una linestring che rappresenta l'anello esterno di una geometria poligonale. Se la geometria non è un poligono, il risultato sarà nullo.|>=2.14
 [extrude](funzioni/extrude.md)|Restituisce una versione estrusa della geometria (Multi-)Curve o (Multi-)Linestring in ingresso, con un'estensione specificata da x e y.|2.18
 [flip_coordinates](funzioni/flip_coordinates.md)|Restituisce una copia della geometria con le coordinate x e y scambiate|**>=3.2**
+[force_rhr](funzioni/force_rhr.md)|Forza una geometria a rispettare la regola della mano destra|**>=3.6**
 [geom_from_gml](funzioni/geom_from_gml.md)|Restituisce una geometria da una rappresentazione GML di una geometria|2.18
 [geom_from_wkt](funzioni/geom_from_wkt.md)|Restituisce una geometria creata da una rappresentazione Well-Known Text (WKT)|2.18
 [geom_to_wkt](funzioni/geom_to_wkt.md)|Restituisce la rappresentazione Well-Known Text (WKT) della geometria senza metadati del SR|2.18
