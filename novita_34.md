@@ -51,3 +51,7 @@ map: one: 1, two: 2, 3: three → `{'one': 1, 'two': 2, 3: 'three'}`
 ## Miglioramenti del field calc PR [#8183](https://github.com/qgis/QGIS/pull/8183)
 
 ![](/img/novita_34/miglioramenti.png)
+
+## Miglioramenti help in linea di alcune funzioni PR [#8825](https://github.com/qgis/QGIS/pull/8255)
+
+![](/img/novita_34/help_linea.png)
