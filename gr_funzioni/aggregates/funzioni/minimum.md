@@ -27,6 +27,11 @@ La sintassi prevede due possibilità:
     1. minimum(filter:= ,_expression:= ,group_by:= )
 
 
-## osservazioni
+## esempio:
 
+Selezionare le Province con minor area per ogni Regione
+
+`$area = minimum(expression:=$area,group_by:="COD_REG")`
+
+![](/img/aggregates/minimum/minimum2.png)
 --

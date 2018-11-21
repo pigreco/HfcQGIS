@@ -23,4 +23,4 @@ filter:=intersects( $geometry,geometry(@parent)))
 
 La funzione di aggregazione calcola l’area della porzione di dusaf che interseca ogni rettangolo del reticolo e poi somma per ogni rettangolo.
 
-il geopackage è scaricabile [qui](/esempi/dati_esempi.gpkg)
+il geopackage è scaricabile [qui](https://github.com/gbvitrano/HfcQGIS/blob/master/esempi/dati_esempi.zip?raw=true)
