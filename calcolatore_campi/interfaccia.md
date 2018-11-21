@@ -10,7 +10,7 @@
 6. digitare lunghezza campo di uscita (es: per integer digitare 9);
 7. se attivato (il punto 3 è attivo), compararirà un menu a tendina con i campi della tabella attributi più la <*geometry*>;
 8. operatori più usati( uguale, somma, differenza,divisione, moltiplicazione, potenza, unione stringhe, parentesi, nuova riga);
-9. area dove digitare e comporre le estpressioni;
+9. area dove digitare e comporre le espressioni (con la possibilità di inserire commenti es: $area -- area);
 10. casella di ricerca funzioni;
 11. elenco ad albero con tutte le funzioni suddivise per argomento;
 12. Help in linea;
