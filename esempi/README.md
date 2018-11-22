@@ -21,3 +21,4 @@ nro|Esempio|Descrizione|Autore
 17|[conta punti nel poligono per categorie](./es/punti_in_poligoni_categorie.md)|Contare i punti nel poligono per categorie|Martina Savarese
 18|[nascondi etichette](./es/nascondi_etichette.md)|Nasconde etichette non desiderate |Pigreco
 19|[calcolo area poligoni nel reticolo](./es/calcolo_area_poligoni_reticolo.md)|Calcolare l’area delle porzioni di poligoni che ricadono dentro ad una cella di un reticolo|Pigreco
+20|[spatial join](./es/spatial_join.md)|Trasferire un attributo usando le relazioni spaziali|Pigreco
