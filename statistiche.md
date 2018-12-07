@@ -24,7 +24,7 @@
   <img width="800" src="./img/statistiche/statistiche_nov_ita_18.png">
 </p>
 
-### dal lancio (22/lug72018 al 06/12/2018)
+### dal lancio (22/lug/2018 al 06/12/2018)
 <p align="center">
   <img width="800" src="./img/statistiche/statistiche_da_lancio_01.png">
 </p>
