@@ -27,6 +27,11 @@ La sintassi prevede due possibilità:
     1. maximum(filter:= ,_expression:= ,group_by:= )
 
 
-## osservazioni
+## esempio
 
---
+Selezionare - per ogni regione - la provincia con area più grande:
+
+
+`$area= maximum( $area, "cod_reg")`
+
+![](/img/aggregates/maximum/maximum2.png)
