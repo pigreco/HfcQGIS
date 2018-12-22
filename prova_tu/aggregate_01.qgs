@@ -1,0 +1,620 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis projectname="" version="3.4.2-Madeira">
+  <homePath path=""/>
+  <title></title>
+  <autotransaction active="0"/>
+  <evaluateDefaultValues active="0"/>
+  <trust active="0"/>
+  <projectCrs>
+    <spatialrefsys>
+      <proj4>+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs</proj4>
+      <srsid>3116</srsid>
+      <srid>32632</srid>
+      <authid>EPSG:32632</authid>
+      <description>WGS 84 / UTM zone 32N</description>
+      <projectionacronym>utm</projectionacronym>
+      <ellipsoidacronym>WGS84</ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </projectCrs>
+  <layer-tree-group>
+    <customproperties/>
+    <layer-tree-layer name="regioni_g" checked="Qt::Checked" providerKey="ogr" id="regioni_g_07775afb_a2cc_46f8_8a5b_80452711cf49" expanded="1" source="./dati_prova_tu.gpkg|layername=regioni_g">
+      <customproperties/>
+    </layer-tree-layer>
+    <layer-tree-layer name="province_g" checked="Qt::Unchecked" providerKey="ogr" id="province_g_36bbfdb6_2669_436e_9fdb_11d931eac01f" expanded="1" source="./dati_prova_tu.gpkg|layername=province_g">
+      <customproperties/>
+    </layer-tree-layer>
+    <custom-order enabled="0">
+      <item>province_g_36bbfdb6_2669_436e_9fdb_11d931eac01f</item>
+      <item>regioni_g_07775afb_a2cc_46f8_8a5b_80452711cf49</item>
+    </custom-order>
+  </layer-tree-group>
+  <snapping-settings mode="2" intersection-snapping="0" type="1" tolerance="0" enabled="0" unit="2">
+    <individual-layer-settings>
+      <layer-setting type="1" tolerance="0" enabled="0" units="2" id="province_g_36bbfdb6_2669_436e_9fdb_11d931eac01f"/>
+      <layer-setting type="1" tolerance="0" enabled="0" units="2" id="regioni_g_07775afb_a2cc_46f8_8a5b_80452711cf49"/>
+    </individual-layer-settings>
+  </snapping-settings>
+  <relations/>
+  <mapcanvas name="theMapCanvas" annotationsVisible="1">
+    <units>meters</units>
+    <extent>
+      <xmin>764650.24317084858193994</xmin>
+      <ymin>4027039.8740898878313601</ymin>
+      <xmax>1119239.55425520916469395</xmax>
+      <ymax>4317813.15370608307421207</ymax>
+    </extent>
+    <rotation>0</rotation>
+    <destinationsrs>
+      <spatialrefsys>
+        <proj4>+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs</proj4>
+        <srsid>3116</srsid>
+        <srid>32632</srid>
+        <authid>EPSG:32632</authid>
+        <description>WGS 84 / UTM zone 32N</description>
+        <projectionacronym>utm</projectionacronym>
+        <ellipsoidacronym>WGS84</ellipsoidacronym>
+        <geographicflag>false</geographicflag>
+      </spatialrefsys>
+    </destinationsrs>
+    <rendermaptile>0</rendermaptile>
+  </mapcanvas>
+  <projectModels/>
+  <legend updateDrawingOrder="true">
+    <legendlayer open="true" name="regioni_g" checked="Qt::Checked" drawingOrder="-1" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="regioni_g_07775afb_a2cc_46f8_8a5b_80452711cf49" visible="1"/>
+      </filegroup>
+    </legendlayer>
+    <legendlayer open="true" name="province_g" checked="Qt::Unchecked" drawingOrder="-1" showFeatureCount="0">
+      <filegroup open="true" hidden="false">
+        <legendlayerfile isInOverview="0" layerid="province_g_36bbfdb6_2669_436e_9fdb_11d931eac01f" visible="0"/>
+      </filegroup>
+    </legendlayer>
+  </legend>
+  <mapViewDocks/>
+  <mapViewDocks3D/>
+  <projectlayers>
+    <maplayer simplifyMaxScale="1" readOnly="0" hasScaleBasedVisibilityFlag="0" maxScale="0" labelsEnabled="0" simplifyDrawingHints="1" refreshOnNotifyMessage="" type="vector" autoRefreshEnabled="0" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" geometry="Polygon" styleCategories="AllStyleCategories" minScale="1e+08" autoRefreshTime="0" simplifyLocal="1" simplifyDrawingTol="1">
+      <extent>
+        <xmin>313279.25</xmin>
+        <ymin>3933845.75</ymin>
+        <xmax>1312016.25</xmax>
+        <ymax>5220292.5</ymax>
+      </extent>
+      <id>province_g_36bbfdb6_2669_436e_9fdb_11d931eac01f</id>
+      <datasource>./dati_prova_tu.gpkg|layername=province_g</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>province_g</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3116</srsid>
+          <srid>32632</srid>
+          <authid>EPSG:32632</authid>
+          <description>WGS 84 / UTM zone 32N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="predefinito">
+        <map-layer-style name="predefinito"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 type="singleSymbol" enableorderby="0" forceraster="0" symbollevels="0">
+        <symbols>
+          <symbol name="0" clip_to_extent="1" alpha="1" type="fill">
+            <layer class="SimpleFill" pass="0" locked="0" enabled="1">
+              <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+              <prop v="141,90,153,255" k="color"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0.26" k="outline_width"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="solid" k="style"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks/>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="fid">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="PK_UID">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="COD_RIP">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="COD_REG">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="COD_PROV">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="COD_CM">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="COD_PCM">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="DEN_PROV">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="DEN_CM">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="DEN_PCM">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="SIGLA">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias name="" field="fid" index="0"/>
+        <alias name="" field="PK_UID" index="1"/>
+        <alias name="" field="COD_RIP" index="2"/>
+        <alias name="" field="COD_REG" index="3"/>
+        <alias name="" field="COD_PROV" index="4"/>
+        <alias name="" field="COD_CM" index="5"/>
+        <alias name="" field="COD_PCM" index="6"/>
+        <alias name="" field="DEN_PROV" index="7"/>
+        <alias name="" field="DEN_CM" index="8"/>
+        <alias name="" field="DEN_PCM" index="9"/>
+        <alias name="" field="SIGLA" index="10"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="fid"/>
+        <default expression="" applyOnUpdate="0" field="PK_UID"/>
+        <default expression="" applyOnUpdate="0" field="COD_RIP"/>
+        <default expression="" applyOnUpdate="0" field="COD_REG"/>
+        <default expression="" applyOnUpdate="0" field="COD_PROV"/>
+        <default expression="" applyOnUpdate="0" field="COD_CM"/>
+        <default expression="" applyOnUpdate="0" field="COD_PCM"/>
+        <default expression="" applyOnUpdate="0" field="DEN_PROV"/>
+        <default expression="" applyOnUpdate="0" field="DEN_CM"/>
+        <default expression="" applyOnUpdate="0" field="DEN_PCM"/>
+        <default expression="" applyOnUpdate="0" field="SIGLA"/>
+      </defaults>
+      <constraints>
+        <constraint exp_strength="0" unique_strength="1" constraints="3" notnull_strength="1" field="fid"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="PK_UID"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="COD_RIP"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="COD_REG"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="COD_PROV"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="COD_CM"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="COD_PCM"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="DEN_PROV"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="DEN_CM"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="DEN_PCM"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="SIGLA"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="fid"/>
+        <constraint desc="" exp="" field="PK_UID"/>
+        <constraint desc="" exp="" field="COD_RIP"/>
+        <constraint desc="" exp="" field="COD_REG"/>
+        <constraint desc="" exp="" field="COD_PROV"/>
+        <constraint desc="" exp="" field="COD_CM"/>
+        <constraint desc="" exp="" field="COD_PCM"/>
+        <constraint desc="" exp="" field="DEN_PROV"/>
+        <constraint desc="" exp="" field="DEN_CM"/>
+        <constraint desc="" exp="" field="DEN_PCM"/>
+        <constraint desc="" exp="" field="SIGLA"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+    <maplayer simplifyMaxScale="1" readOnly="0" hasScaleBasedVisibilityFlag="0" maxScale="0" labelsEnabled="1" simplifyDrawingHints="1" refreshOnNotifyMessage="" type="vector" autoRefreshEnabled="0" simplifyAlgorithm="0" refreshOnNotifyEnabled="0" geometry="Polygon" styleCategories="AllStyleCategories" minScale="1e+08" autoRefreshTime="0" simplifyLocal="1" simplifyDrawingTol="1">
+      <extent>
+        <xmin>313279.25</xmin>
+        <ymin>3933845.75</ymin>
+        <xmax>1312016.25</xmax>
+        <ymax>5220292.5</ymax>
+      </extent>
+      <id>regioni_g_07775afb_a2cc_46f8_8a5b_80452711cf49</id>
+      <datasource>./dati_prova_tu.gpkg|layername=regioni_g</datasource>
+      <keywordList>
+        <value></value>
+      </keywordList>
+      <layername>regioni_g</layername>
+      <srs>
+        <spatialrefsys>
+          <proj4>+proj=utm +zone=32 +datum=WGS84 +units=m +no_defs</proj4>
+          <srsid>3116</srsid>
+          <srid>32632</srid>
+          <authid>EPSG:32632</authid>
+          <description>WGS 84 / UTM zone 32N</description>
+          <projectionacronym>utm</projectionacronym>
+          <ellipsoidacronym>WGS84</ellipsoidacronym>
+          <geographicflag>false</geographicflag>
+        </spatialrefsys>
+      </srs>
+      <resourceMetadata>
+        <identifier></identifier>
+        <parentidentifier></parentidentifier>
+        <language></language>
+        <type></type>
+        <title></title>
+        <abstract></abstract>
+        <links/>
+        <fees></fees>
+        <encoding></encoding>
+        <crs>
+          <spatialrefsys>
+            <proj4></proj4>
+            <srsid>0</srsid>
+            <srid>0</srid>
+            <authid></authid>
+            <description></description>
+            <projectionacronym></projectionacronym>
+            <ellipsoidacronym></ellipsoidacronym>
+            <geographicflag>false</geographicflag>
+          </spatialrefsys>
+        </crs>
+        <extent/>
+      </resourceMetadata>
+      <provider encoding="UTF-8">ogr</provider>
+      <vectorjoins/>
+      <layerDependencies/>
+      <dataDependencies/>
+      <legend type="default-vector"/>
+      <expressionfields/>
+      <map-layer-style-manager current="predefinito">
+        <map-layer-style name="predefinito"/>
+      </map-layer-style-manager>
+      <auxiliaryLayer/>
+      <flags>
+        <Identifiable>1</Identifiable>
+        <Removable>1</Removable>
+        <Searchable>1</Searchable>
+      </flags>
+      <renderer-v2 type="singleSymbol" enableorderby="0" forceraster="0" symbollevels="0">
+        <symbols>
+          <symbol name="0" clip_to_extent="1" alpha="1" type="fill">
+            <layer class="SimpleFill" pass="0" locked="0" enabled="1">
+              <prop v="3x:0,0,0,0,0,0" k="border_width_map_unit_scale"/>
+              <prop v="243,166,178,255" k="color"/>
+              <prop v="bevel" k="joinstyle"/>
+              <prop v="0,0" k="offset"/>
+              <prop v="3x:0,0,0,0,0,0" k="offset_map_unit_scale"/>
+              <prop v="MM" k="offset_unit"/>
+              <prop v="35,35,35,255" k="outline_color"/>
+              <prop v="solid" k="outline_style"/>
+              <prop v="0.26" k="outline_width"/>
+              <prop v="MM" k="outline_width_unit"/>
+              <prop v="solid" k="style"/>
+              <data_defined_properties>
+                <Option type="Map">
+                  <Option name="name" type="QString" value=""/>
+                  <Option name="properties"/>
+                  <Option name="type" type="QString" value="collection"/>
+                </Option>
+              </data_defined_properties>
+            </layer>
+          </symbol>
+        </symbols>
+        <rotation/>
+        <sizescale/>
+      </renderer-v2>
+      <labeling type="simple">
+        <settings>
+          <text-style fontCapitals="0" fieldName="aggregate(layer:='province_g',aggregate:='concatenate',expression:= &quot;DEN_PCM&quot; ,concatenator:=',',filter:=intersects( centroid($geometry), geometry(@parent)))" namedStyle="Normale" textColor="0,0,0,255" fontWeight="50" blendMode="0" fontItalic="0" fontWordSpacing="0" isExpression="1" fontFamily="MS Shell Dlg 2" textOpacity="1" fontSizeMapUnitScale="3x:0,0,0,0,0,0" fontLetterSpacing="0" fontSizeUnit="Point" fontUnderline="0" fontSize="13" useSubstitutions="0" previewBkgrdColor="#ffffff" multilineHeight="1" fontStrikeout="0">
+            <text-buffer bufferSizeMapUnitScale="3x:0,0,0,0,0,0" bufferSizeUnits="MM" bufferSize="1" bufferNoFill="1" bufferDraw="1" bufferColor="255,255,255,255" bufferOpacity="1" bufferJoinStyle="128" bufferBlendMode="0"/>
+            <background shapeSizeY="0" shapeOffsetY="0" shapeRadiiMapUnitScale="3x:0,0,0,0,0,0" shapeSizeMapUnitScale="3x:0,0,0,0,0,0" shapeSVGFile="" shapeRadiiY="0" shapeOffsetX="0" shapeRotationType="0" shapeSizeType="0" shapeRadiiX="0" shapeOffsetUnit="MM" shapeRotation="0" shapeDraw="0" shapeJoinStyle="64" shapeBlendMode="0" shapeBorderColor="128,128,128,255" shapeBorderWidthMapUnitScale="3x:0,0,0,0,0,0" shapeBorderWidth="0" shapeFillColor="255,255,255,255" shapeSizeX="0" shapeRadiiUnit="MM" shapeOffsetMapUnitScale="3x:0,0,0,0,0,0" shapeSizeUnit="MM" shapeOpacity="1" shapeType="0" shapeBorderWidthUnit="MM"/>
+            <shadow shadowOffsetGlobal="1" shadowUnder="0" shadowScale="100" shadowOffsetMapUnitScale="3x:0,0,0,0,0,0" shadowRadiusUnit="MM" shadowDraw="0" shadowOffsetDist="1" shadowOffsetUnit="MM" shadowOpacity="0" shadowBlendMode="6" shadowOffsetAngle="135" shadowRadius="0" shadowRadiusAlphaOnly="0" shadowRadiusMapUnitScale="3x:0,0,0,0,0,0" shadowColor="0,0,0,255"/>
+            <substitutions/>
+          </text-style>
+          <text-format decimals="3" autoWrapLength="0" addDirectionSymbol="0" placeDirectionSymbol="0" multilineAlign="4294967295" rightDirectionSymbol=">" formatNumbers="0" wrapChar="," reverseDirectionSymbol="0" leftDirectionSymbol="&lt;" useMaxLineLengthForAutoWrap="1" plussign="0"/>
+          <placement centroidInside="0" predefinedPositionOrder="TR,TL,BR,BL,R,L,TSR,BSR" repeatDistance="0" labelOffsetMapUnitScale="3x:0,0,0,0,0,0" offsetUnits="MM" offsetType="0" dist="0" fitInPolygonOnly="0" centroidWhole="0" preserveRotation="1" quadOffset="4" distUnits="MM" placementFlags="10" placement="1" maxCurvedCharAngleOut="-25" distMapUnitScale="3x:0,0,0,0,0,0" maxCurvedCharAngleIn="25" repeatDistanceMapUnitScale="3x:0,0,0,0,0,0" repeatDistanceUnits="MM" priority="5" yOffset="0" rotationAngle="0" xOffset="0"/>
+          <rendering minFeatureSize="0" maxNumLabels="2000" mergeLines="0" labelPerPart="0" upsidedownLabels="0" obstacleFactor="1" scaleMin="0" displayAll="0" obstacleType="0" fontMinPixelSize="3" limitNumLabels="0" obstacle="1" drawLabels="1" zIndex="0" scaleMax="0" scaleVisibility="0" fontMaxPixelSize="10000" fontLimitPixelSize="0"/>
+          <dd_properties>
+            <Option type="Map">
+              <Option name="name" type="QString" value=""/>
+              <Option name="properties"/>
+              <Option name="type" type="QString" value="collection"/>
+            </Option>
+          </dd_properties>
+        </settings>
+      </labeling>
+      <customproperties/>
+      <blendMode>0</blendMode>
+      <featureBlendMode>0</featureBlendMode>
+      <layerOpacity>1</layerOpacity>
+      <geometryOptions geometryPrecision="0" removeDuplicateNodes="0">
+        <activeChecks/>
+        <checkConfiguration/>
+      </geometryOptions>
+      <fieldConfiguration>
+        <field name="fid">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="PK_UID">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="COD_RIP">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="COD_REG">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="DEN_REG">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+        <field name="_median">
+          <editWidget type="">
+            <config>
+              <Option/>
+            </config>
+          </editWidget>
+        </field>
+      </fieldConfiguration>
+      <aliases>
+        <alias name="" field="fid" index="0"/>
+        <alias name="" field="PK_UID" index="1"/>
+        <alias name="" field="COD_RIP" index="2"/>
+        <alias name="" field="COD_REG" index="3"/>
+        <alias name="" field="DEN_REG" index="4"/>
+        <alias name="" field="_median" index="5"/>
+      </aliases>
+      <excludeAttributesWMS/>
+      <excludeAttributesWFS/>
+      <defaults>
+        <default expression="" applyOnUpdate="0" field="fid"/>
+        <default expression="" applyOnUpdate="0" field="PK_UID"/>
+        <default expression="" applyOnUpdate="0" field="COD_RIP"/>
+        <default expression="" applyOnUpdate="0" field="COD_REG"/>
+        <default expression="" applyOnUpdate="0" field="DEN_REG"/>
+        <default expression="" applyOnUpdate="0" field="_median"/>
+      </defaults>
+      <constraints>
+        <constraint exp_strength="0" unique_strength="1" constraints="3" notnull_strength="1" field="fid"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="PK_UID"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="COD_RIP"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="COD_REG"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="DEN_REG"/>
+        <constraint exp_strength="0" unique_strength="0" constraints="0" notnull_strength="0" field="_median"/>
+      </constraints>
+      <constraintExpressions>
+        <constraint desc="" exp="" field="fid"/>
+        <constraint desc="" exp="" field="PK_UID"/>
+        <constraint desc="" exp="" field="COD_RIP"/>
+        <constraint desc="" exp="" field="COD_REG"/>
+        <constraint desc="" exp="" field="DEN_REG"/>
+        <constraint desc="" exp="" field="_median"/>
+      </constraintExpressions>
+      <expressionfields/>
+      <attributeactions>
+        <defaultAction key="Canvas" value="{00000000-0000-0000-0000-000000000000}"/>
+      </attributeactions>
+      <attributetableconfig sortExpression="" sortOrder="0" actionWidgetStyle="dropDown">
+        <columns/>
+      </attributetableconfig>
+      <conditionalstyles>
+        <rowstyles/>
+        <fieldstyles/>
+      </conditionalstyles>
+      <editform tolerant="1"></editform>
+      <editforminit/>
+      <editforminitcodesource>0</editforminitcodesource>
+      <editforminitfilepath></editforminitfilepath>
+      <editforminitcode><![CDATA[]]></editforminitcode>
+      <featformsuppress>0</featformsuppress>
+      <editorlayout>generatedlayout</editorlayout>
+      <editable/>
+      <labelOnTop/>
+      <widgets/>
+      <previewExpression></previewExpression>
+      <mapTip></mapTip>
+    </maplayer>
+  </projectlayers>
+  <layerorder>
+    <layer id="province_g_36bbfdb6_2669_436e_9fdb_11d931eac01f"/>
+    <layer id="regioni_g_07775afb_a2cc_46f8_8a5b_80452711cf49"/>
+  </layerorder>
+  <properties>
+    <Legend>
+      <filterByMap type="bool">false</filterByMap>
+    </Legend>
+    <PositionPrecision>
+      <Automatic type="bool">true</Automatic>
+      <DecimalPlaces type="int">2</DecimalPlaces>
+    </PositionPrecision>
+    <Gui>
+      <CanvasColorBluePart type="int">255</CanvasColorBluePart>
+      <CanvasColorRedPart type="int">255</CanvasColorRedPart>
+      <SelectionColorGreenPart type="int">255</SelectionColorGreenPart>
+      <SelectionColorRedPart type="int">255</SelectionColorRedPart>
+      <CanvasColorGreenPart type="int">255</CanvasColorGreenPart>
+      <SelectionColorAlphaPart type="int">255</SelectionColorAlphaPart>
+      <SelectionColorBluePart type="int">0</SelectionColorBluePart>
+    </Gui>
+    <SpatialRefSys>
+      <ProjectionsEnabled type="int">1</ProjectionsEnabled>
+    </SpatialRefSys>
+    <PAL>
+      <DrawRectOnly type="bool">false</DrawRectOnly>
+      <ShowingPartialsLabels type="bool">true</ShowingPartialsLabels>
+      <CandidatesPolygon type="int">30</CandidatesPolygon>
+      <CandidatesLine type="int">50</CandidatesLine>
+      <ShowingCandidates type="bool">false</ShowingCandidates>
+      <ShowingAllLabels type="bool">false</ShowingAllLabels>
+      <SearchMethod type="int">0</SearchMethod>
+      <DrawOutlineLabels type="bool">true</DrawOutlineLabels>
+      <CandidatesPoint type="int">16</CandidatesPoint>
+    </PAL>
+    <Paths>
+      <Absolute type="bool">false</Absolute>
+    </Paths>
+    <Measurement>
+      <AreaUnits type="QString">m2</AreaUnits>
+      <DistanceUnits type="QString">meters</DistanceUnits>
+    </Measurement>
+    <Measure>
+      <Ellipsoid type="QString">WGS84</Ellipsoid>
+    </Measure>
+  </properties>
+  <visibility-presets/>
+  <transformContext/>
+  <projectMetadata>
+    <identifier></identifier>
+    <parentidentifier></parentidentifier>
+    <language></language>
+    <type></type>
+    <title></title>
+    <abstract></abstract>
+    <links/>
+    <author>Salvatore Fiandaca</author>
+    <creation>2018-12-19T16:00:43</creation>
+  </projectMetadata>
+  <Annotations/>
+  <Layouts/>
+</qgis>
