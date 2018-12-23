@@ -20,4 +20,4 @@ decode_uri(@layer) → {'layerId': NULL, 'layerName': 'layer', 'path': '/home/qg
 decode_uri(@layer, 'path') → 'C:\my_data\qgis\shape.shp'
 ```
 
-![](/img/generale/decode_uri1.png)
+![](/img/layer_della_mappa/decode_uri1.png)
