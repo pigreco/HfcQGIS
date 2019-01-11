@@ -6,6 +6,11 @@
 * [**force_rhr**](./gr_funzioni/geometria/funzioni/force_rhr.md) - PR [#8424](https://github.com/qgis/QGIS/pull/8424)
 * [**decode_uri**](./gr_funzioni/layer_della_mappa/decode_uri.md) - PR [#8649](https://github.com/qgis/QGIS/pull/8649)
 
+### Gruppo Condizioni
+
+* [**nullif**](./gr_funzioni/condizioni/funzioni/nullif.md) - PR [#8424](https://github.com/qgis/QGIS/pull/8809)
+
+
 ## Interfaccia calcolatore campi
 
 ### sposta la casella di gruppo valore nell'area di aiuto - [PR #8262](https://github.com/qgis/QGIS/pull/8262)
@@ -21,3 +26,4 @@
 ![screen](/img/novita_36/img2.png)
 
 ![screen](/img/novita_36/img3.gif)
+

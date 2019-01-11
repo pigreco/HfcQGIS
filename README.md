@@ -17,7 +17,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-## Indice gruppi di funzioni/espressioni (316/407)
+## Indice gruppi di funzioni/espressioni (317/408)
 
 Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
@@ -26,7 +26,7 @@ Gruppo funzioni|nro funzioni*|info
 [Arrays](./gr_funzioni/arrays)| (32/32) |>= QGIS 3.0 (SpatiaLite, PostGIS) - ArrayPlus Plugin
 [Campi e valori](./gr_funzioni/campi_e_valori)| (1/1)|
 [Colore](./gr_funzioni/colore)| (17/17)|
-[Condizioni](./gr_funzioni/condizioni)| (4/4)|
+[Condizioni](./gr_funzioni/condizioni)| (5/5)|aggiornate a **QGIS 3.6**
 [Conversioni](./gr_funzioni/conversioni)| (9/9)|aggiornate a **QGIS 3.4**
 [Corrispondenza fuzzy](./gr_funzioni/corrispondenza_fuzzy)| (4/4)|
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
