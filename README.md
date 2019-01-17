@@ -68,7 +68,7 @@ Gruppo funzioni|nro funzioni*|info
 ### [Novità rilevanti nella prossima QGIS 3.4 LTR 26/10/2018](./novita_34.md)
 
 ---
-## [Cosa puoi fare](/CONTRIBUTING.md) ❔
+## [Cosa puoi fare](/CONTRIBUTING.md)
 
 - *contribuire* 💳📣
     - [finanziariamente*](https://www.paypal.me/pigrecoinfinito);
