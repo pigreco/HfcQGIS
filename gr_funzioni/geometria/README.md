@@ -63,7 +63,9 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [make_point](funzioni/make_point.md)|Crea una geometria punto da valori x ed y (e opzionalmente z ed m)|>=2.14
 [make_point_m](funzioni/make_point_m.md)|Crea una geometria punto da una coordinata x, y ed un valore m|>=2.14
 [make_polygon](funzioni/make_polygon.md)|Crea una geometria poligono da un'anello esterno e opzionalmente da geometrie ad anello interne|>=2.14
+[make_rectangle_3points](funzioni/make_rectangle_3points.md)|Crea un rettangolo da tre punti|**>=3.6**
 [make_regular_polygon](funzioni/make_regular_polygon.md)|Crea un poligono regolare |**>=3.0**
+[make_square](funzioni/make_square.md)|Crea un quadrato da una diagonale|**>=3.6**
 [make_triangle](funzioni/make_triangle.md)|Crea un poligono triangolare |**>=3.0**
 [minimal_circle](funzioni/minimal_circle.md)|Restituisce la circonferenza circoscritta minima di una geometria |**>=3.0**
 [nodes_to_points](funzioni/nodes_to_points.md)|Restituisce una geometria multi linea costituita da ogni nodo della geometria in ingresso|>=2.14
