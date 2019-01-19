@@ -4,6 +4,10 @@
 
 ### Gruppo Geometria
 * [**force_rhr**](./gr_funzioni/geometria/funzioni/force_rhr.md) - PR [#8424](https://github.com/qgis/QGIS/pull/8424)
+* [**make_rectangle_3points**](./gr_funzioni/geometria/funzioni/make_rectangle_3points.md) - PR [#8861](https://github.com/qgis/QGIS/pull/8649)
+* [**make_square**](./gr_funzioni/geometria/funzioni/make_square.md) - PR [#8861](https://github.com/qgis/QGIS/pull/8649)
+
+### Gruppo Layer della mappa
 * [**decode_uri**](./gr_funzioni/layer_della_mappa/decode_uri.md) - PR [#8649](https://github.com/qgis/QGIS/pull/8649)
 
 ### Gruppo Condizioni

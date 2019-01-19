@@ -17,7 +17,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-## Indice gruppi di funzioni/espressioni (317/408)
+## Indice gruppi di funzioni/espressioni (319/410)
 
 Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
@@ -32,7 +32,7 @@ Gruppo funzioni|nro funzioni*|info
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(16/16)|
 [Generale](./gr_funzioni/generale)| (7/7)|
-[Geometria](./gr_funzioni/geometria) |(99/99)| aggiornate a **QGIS 3.6**
+[Geometria](./gr_funzioni/geometria) |(101/101)| aggiornate a **QGIS 3.6**
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (2/2)| aggiornate a **QGIS 3.6**
 [Maps](./gr_funzioni/maps)| (12/12) |>= QGIS 3.0 (PostGIS) aggiornate a **QGIS 3.4**
 [Matematica](./gr_funzioni/matematica)| (28/28)|
@@ -66,6 +66,8 @@ Gruppo funzioni|nro funzioni*|info
 ### [Novità rilevanti introdotte in QGIS 3.2 Bonn 22/06/2018](./novita_32.md)
 
 ### [Novità rilevanti nella prossima QGIS 3.4 LTR 26/10/2018](./novita_34.md)
+
+### [Novità rilevanti nella prossima QGIS 3.6 23/02/2019](./novita_36.md)
 
 ---
 ## [Cosa puoi fare](/CONTRIBUTING.md)
