@@ -1,6 +1,6 @@
 ## elenco comuni 
 
-Come ottenere l'elenco dei Comuni attraversti da un fiume.
+Come ottenere l'elenco dei Comuni attraversati da un fiume.
 
 Esempio:
 
