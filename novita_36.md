@@ -11,9 +11,11 @@
 * [**decode_uri**](./gr_funzioni/layer_della_mappa/decode_uri.md) - PR [#8649](https://github.com/qgis/QGIS/pull/8649)
 
 ### Gruppo Condizioni
+* [**nullif**](./gr_funzioni/condizioni/funzioni/nullif.md) - PR [#8809](https://github.com/qgis/QGIS/pull/8809)
 
-* [**nullif**](./gr_funzioni/condizioni/funzioni/nullif.md) - PR [#8424](https://github.com/qgis/QGIS/pull/8809)
-
+### Gruppo maps
+* [**from_json**](./gr_funzioni/maps/funzioni/from_json.md) - PR [#8887](https://github.com/qgis/QGIS/pull/8887)
+* * [**to_json**](./gr_funzioni/maps/funzioni/to_json.md) - PR [#8887](https://github.com/qgis/QGIS/pull/8887)
 
 ## Interfaccia calcolatore campi
 

@@ -4,6 +4,7 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 
  Funzione | Descrizione|Info
 ----------|:-----------|------
+[from_json](funzioni/from_json.md)|Carica una stringa formattata JSON|**>= QGIS 3.6**
 [hstore_to_map](funzioni/hstore_to_map.md)|Crea una mappa da una stringa formattata in hstore|**>= QGIS 3.4**
 [json_to_map](funzioni/json_to_map.md)|Crea una mappa da una stringa formattata con json|**>= QGIS 3.4**
 [map](funzioni/map.md)|Restituisce una mappa con tutte le chiavi ed i valori passati come coppie di parametri|>= QGIS 3.0
@@ -16,6 +17,7 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 [map_insert](funzioni/map_insert.md)|Restituisce una mappa con una chiave/valore aggiunto|>= QGIS 3.0
 [map_to_hstore](funzioni/map_to_hstore.md)|Unisci gli elementi della mappa in una stringa formattata in hstore|**>= QGIS 3.4**
 [map_to_json](funzioni/map_to_json.md)|Unisci gli elementi della mappa in una stringa formattata con json|**>= QGIS 3.4**
+[to_json](funzioni/to_json.md)|Creare una stringa in formato JSON da una mappa, array o altro valore|**>= QGIS 3.6**
 
 
 ![](/img/maps/gruppo_maps1.png)
