@@ -15,7 +15,7 @@
 
 ### Gruppo maps
 * [**from_json**](./gr_funzioni/maps/funzioni/from_json.md) - PR [#8887](https://github.com/qgis/QGIS/pull/8887)
-* * [**to_json**](./gr_funzioni/maps/funzioni/to_json.md) - PR [#8887](https://github.com/qgis/QGIS/pull/8887)
+* [**to_json**](./gr_funzioni/maps/funzioni/to_json.md) - PR [#8887](https://github.com/qgis/QGIS/pull/8887)
 
 ## Interfaccia calcolatore campi
 
