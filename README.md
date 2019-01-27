@@ -30,7 +30,7 @@ Gruppo funzioni|nro funzioni*|info
 [Corrispondenza fuzzy](./gr_funzioni/corrispondenza_fuzzy)| (4/4)|
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(16/16)|
-[Generale](./gr_funzioni/generale)| (7/7)|
+[Generale](./gr_funzioni/generale)| (6/6)|
 [Geometria](./gr_funzioni/geometria) |(101/101)| aggiornate a **QGIS 3.6**
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (2/2)| aggiornate a **QGIS 3.6**
 [Maps](./gr_funzioni/maps)| (14/14) |>= QGIS 3.0 (PostGIS) aggiornate a **QGIS 3.6**

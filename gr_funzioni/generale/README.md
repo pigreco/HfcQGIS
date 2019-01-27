@@ -8,7 +8,6 @@ Questo gruppo contiene un'assortimento di funzioni generiche.
 |[eval](funzioni/eval.md)|Valuta una espressione che viene passata in una stringa. Molto utile per espandere parametri dinamici passati come variabili contestuali o campi|
 |[is_layer_visible](funzioni/is_layer_visible.md)|Restituisce vero se uno specifico layer è visibile - visibile solo nel caso di tematizzazioni|
 |[layer_property](funzioni/layer_property.md)|Restituisce una proprietà del layer corrispondente o un valore dei metadati|
-|[raster_statistic](funzioni/raster_statistic.md)|Restituisce statistiche da un raster. Dalla QGIS 3.4 sarà nel gruppo _Raster_|
 |[var](funzioni/var.md)|	Restituisce il valore memorizzato in una variabile specificata|
 |[with_variable](funzioni/with_variable.md)|Questa funzione imposta una variabile per qualunque codice di espressione che sarà fornita come argomento terzo. Questo è utile solamente per espressioni complicate, in cui lo stesso valore calcolato deve essere usato in posti differenti|
 
