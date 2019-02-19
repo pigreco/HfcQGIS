@@ -2,7 +2,7 @@
 
 Etichettare le regioni italiane ISTAT in funzione della superficie, per esempio: la regione più estesa deve avere come etichetta 1 e poi via via aumentare al decrescere dell' area.
 
-![](/img\esempi\numerazione_poligoni_rel_spaziale\numer_01.png)
+![](/img/esempi/numerazione_poligoni_rel_spaziale/numer_01.png)
 
 espressione da usare:
 
@@ -24,7 +24,7 @@ Altro esempio:
 
 Etichettare in funzione della longitudine, cioè mettere la label 1 nella regione più a Ovest e cosi via per le altre:
 
-![](/img\esempi\numerazione_poligoni_rel_spaziale\numer_02.png)
+![](/img/esempi/numerazione_poligoni_rel_spaziale/numer_02.png)
 
 espressione da usare:
 
