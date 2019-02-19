@@ -25,3 +25,4 @@ nro|Esempio|Descrizione|Autore
 21|[unica label](./es/unica_etichetta_più_poligoni.md)|Unica label per più poligoni|Pigreco
 22|[elenco comuni](./es/elenco_comuni_attraversati_fiume.md)|Come ottenere l'elenco dei Comuni attraversati da un fiume|Pigreco
 23|[rotazione pattern lineare](./es/rotazione_pattern.md)|Come ruotare un pattern lineare in funzione della feature|Pigreco
+24|[numerazione poligoni in base a relazione spaziale](./es/numerazione_poligoni_rel_spaziale.md)|Numerazione poligoni in base a relazioni spaziali|Pigreco
