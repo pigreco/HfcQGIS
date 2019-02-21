@@ -12,6 +12,7 @@
 
 ### Gruppo Condizioni
 * [**nullif**](./gr_funzioni/condizioni/funzioni/nullif.md) - PR [#8809](https://github.com/qgis/QGIS/pull/8809)
+* [**try**](./gr_funzioni/condizioni/funzioni/try.md) - PR [#9199](https://github.com/qgis/QGIS/pull/9199)
 
 ### Gruppo maps
 * [**from_json**](./gr_funzioni/maps/funzioni/from_json.md) - PR [#8887](https://github.com/qgis/QGIS/pull/8887)
