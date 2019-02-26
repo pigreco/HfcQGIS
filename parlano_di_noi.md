@@ -8,6 +8,10 @@
 
 ![screen](/img/parlano_di_noi/parlano_06.png)
 
+* **25/07/2018** - Facebook [Lezioni GIS](https://www.facebook.com/lezioniGIS/posts/387206891804985)
+
+![screen](/img/parlano_di_noi/parlano_08.png)
+
 * **01/09/2018** - Facebook [openoikos](https://www.facebook.com/openoikos.community/posts/1413337625436036)
 
 ![screen](/img/parlano_di_noi/parlano_07.png)
