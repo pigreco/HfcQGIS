@@ -68,6 +68,8 @@ Gruppo funzioni|nro funzioni*|info
 
 ### [Novità rilevanti nella prossima QGIS 3.6 23/02/2019](./novita_36.md)
 
+### [Novità rilevanti nella prossima QGIS 3.8 21/06/2019](./novita_38.md)
+
 ---
 ## [Cosa puoi fare](/CONTRIBUTING.md)
 
