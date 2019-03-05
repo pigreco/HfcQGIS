@@ -28,3 +28,4 @@ nro|Esempio|Descrizione|Autore
 24|[numerazione poligoni in base a relazione spaziale](./es/numerazione_poligoni_rel_spaziale.md)|Numerazione poligoni in base a relazioni spaziali|Pigreco
 25|[assegnare categoria prevalente](./es/assegnare_cat_prevalente.md)|Assegnare categoria prevalente|Pigreco
 26|[Creare Hub lines](./es/hub_lines.md)|Creare Hub lines|Pigreco
+27|[Aggrega con SR differenti](./es/aggregare_con_sr_differenti.md)|Aggrega con SR differenti|Pigreco
