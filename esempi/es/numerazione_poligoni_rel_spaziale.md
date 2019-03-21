@@ -35,6 +35,20 @@ array_find(
                  ),x_min( $geometry))+1
 ```
 
+Altro esempio:
+
+Etichettare, per ogni regione, le province in ordine alfabetico:
+
+![](/img/esempi/numerazione_poligoni_rel_spaziale/numer_03.png)
+
+espressione da usare:
+
+```
+"sigla"  || '-' || 
+(array_find(
+        array_sort(
+            array_agg("sigla" ,"cod_reg" )), "sigla" )+1)
+```
 
 ## Prova tu
 
