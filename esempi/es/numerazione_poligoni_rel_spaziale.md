@@ -47,7 +47,7 @@ espressione da usare:
 "sigla"  || '-' || 
 (array_find(
         array_sort(
-            array_agg("sigla" ,"cod_reg" )), "sigla" )+1)
+            array_agg(expression:="sigla", group_by:="cod_reg" )),"sigla" )+1)
 ```
 
 ## Prova tu
