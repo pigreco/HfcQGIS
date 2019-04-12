@@ -16,7 +16,7 @@ $x_at(_i_)
 
 * `$x_at(1) → 12.6882843`
 
-![](/img/geometria/$x_at/$x_at1.png)
+![](/img/geometria/_x_at/_x_at1.png)
 
 ## nota bene
 

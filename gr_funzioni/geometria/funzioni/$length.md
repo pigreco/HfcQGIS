@@ -11,19 +11,19 @@ $length
 
 * $length → 42.4711 
 
-![](/img/geometria/$length/$length1.png)
+![](/img/geometria/_length/_length1.png)
 
 ## nota bene
 
 Come evidenziano nella definizione della funzione, `$length` calcola la lunghezza rispettando le impostazioni di progetto:
 
-![](/img/geometria/$length/$length2.png)
+![](/img/geometria/_length/_length2.png)
 
-![](/img/geometria/$length/$length3.png)
+![](/img/geometria/_length/_length3.png)
 
 Occorre cambiare entrambe le impostazioni, sia quelle dell'ellissoide → 'None/Planimetric' sia le Unità di misura per le distanze' → Gradi
 
-![](/img/geometria/$length/$length4.png)
+![](/img/geometria/_length/_length4.png)
 
 Queste modofiche non valgono per l'etichettatura, la lunghezza sarà quella relativa alla geometria e quindi al suo SR.
 

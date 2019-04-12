@@ -13,7 +13,7 @@ $geometry
 * area($geoamtry) → 1234567.89 mq
 * perimeter($geometry) → 25689.25 m
 
-![](/img/geometria/$geometry/$geometry1.png)
+![](/img/geometria/_geometry/_geometry1.png)
 
 ## nota bene
 

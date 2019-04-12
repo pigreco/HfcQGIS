@@ -10,7 +10,7 @@ $perimeter
 
 $perimeter → 2545897.26
 
-![](/img/geometria/$perimeter/$perimeter1.png)
+![](/img/geometria/_perimeter/_perimeter1.png)
 
 ## nota bene
 

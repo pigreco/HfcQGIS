@@ -10,9 +10,9 @@ $x
 
 * `$x → 12.2568971
 
-![](/img/geometria/$x/$x1.png)
+![](/img/geometria/_x/_x1.png)
 
-![](/img/geometria/$x/$x2.png)
+![](/img/geometria/_x/_x2.png)
 
 ## nota bene
 

@@ -10,9 +10,9 @@ $y
 
 * `$y → 12.2568971`
 
-![](/img/geometria/$y/$y1.png)
+![](/img/geometria/_y/_y1.png)
 
-![](/img/geometria/$y/$y2.png)
+![](/img/geometria/_y/_y2.png)
 
 ## nota bene
 
