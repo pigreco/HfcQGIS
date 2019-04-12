@@ -2,12 +2,13 @@
 
 Contiene funzioni che aggregano valori nei livelli e campi. A partire da **QGIS 2.16** il motore di espressioni supporta l'uso di [parametri con nome](http://changelog.qgis.org/en/qgis/version/2.16.0/#named-parameters-expressions).
 
-| Funzione  | Descrizione|
-|----------:|:-----------|
+| Funzione  | Descrizione|versione
+|----------:|:-----------|----
 |[aggregate](funzioni/aggregate.md)|Restituisce un valore aggregato calcolato usando elementi da un altro vettore|
 |[array_agg](funzioni/array_agg.md)|Restituisce un array di valori aggregati da un campo o espressione|
 |[collect](funzioni/collect.md)|Restituisce la geometria a parti multiple di geometrie aggregate da una espressione|
-|[concatenate](funzioni/concatenate.md)|	Restituisce tutte le stringhe aggregate tratte da un campo o da una espressione unite con un delimitatore|
+|[concatenate](funzioni/concatenate.md)|Restituisce tutte le stringhe aggregate tratte da un campo o da una espressione unite con un delimitatore|
+|[concatenate_unique](funzioni/concatenate_unique.md)|Restituisce tutte le stringhe aggregate univoche tratte da un campo o da una espressione unite con un delimitatore|**>=QGIS 3.8**
 |[count](funzioni/count.md)|Restituisce il conteggio degli elementi corrispondenti|
 |[count_distinct](funzioni/count_distinct.md)|Restituisce il conteggio dei valori differenti|
 |[count_missing](funzioni/count_missing.md)|Restituisce il conteggio dei valori mancanti (nulli)|

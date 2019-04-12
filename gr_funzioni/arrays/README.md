@@ -5,6 +5,7 @@ Questo gruppo contiene funzioni espressione per la creazione e la manipolazione 
 | Funzione  | Descrizione|Plugin
 |----------:|:-----------|--------
 |[array](funzioni/array.md)|Restituisce un array contenente tutti i valori passati come parametro|
+|[array_all](funzioni/array_all.md)|Restituisce true se un array contiene tutti i valori di un determinato array|**>=QGIS 3.8**
 |[array_append](funzioni/array_append.md)|Restituisce un array con il valore passato aggiunto alla fine|
 |[array_avg](funzioni/array_avg.md)|Calcola il valore medio di un array|ArrayPlus
 |[array_cat](funzioni/array_cat.md)|Restituisce un array contenente tutti gli arrays passati concatenati|

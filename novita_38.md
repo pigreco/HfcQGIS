@@ -5,7 +5,11 @@
 ### Gruppo Aggregates
 * [**concatenate_unique**](./gr_funzioni/aggregates/funzioni/concatenate_unique.md) - PR [#8424](https://github.com/qgis/QGIS/pull/9714)
 
+### Gruppo Arrays
+
+* [**array_all**](./gr_funzioni/arrays/funzioni/array_all.md) - PR [#9756](https://github.com/qgis/QGIS/pull/9756)
+
 ### Negative index support
-* [**Negative index support**] PR [#8424](https://github.com/qgis/QGIS/pull/9490)
+* [**Negative index support**] PR [#9490](https://github.com/qgis/QGIS/pull/9490)
 
 ![screen](/img/novita_38/img1.png)

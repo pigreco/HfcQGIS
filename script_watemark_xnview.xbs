@@ -1,3 +1,3 @@
-watermark( "C:\Users\Salvatore\Documents\GitHub\HfcQGIS\img\pigrecoinfinito.png" 60 4 0 0 0 )
+watermark( "D:\GitHub\HfcQGIS\img\pigrecoinfinito.png" 60 4 0 0 0 )
 settings( 0 0 0 0 0 0 1 )
 output( png 0 6 )
