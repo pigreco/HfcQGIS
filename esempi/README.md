@@ -29,3 +29,4 @@ nro|Esempio|Descrizione|Autore
 25|[assegnare categoria prevalente](./es/assegnare_cat_prevalente.md)|Assegnare categoria prevalente|Pigreco
 26|[Creare Hub lines](./es/hub_lines.md)|Creare Hub lines|Pigreco
 27|[Aggrega con SR differenti](./es/aggregare_con_sr_differenti.md)|Aggrega con SR differenti|Pigreco
+28|[Distanze progressive chilometriche](./es/distanze_progressive_chilometriche.md)|Formatta le distanze progressive chilometriche tipo Autostrade|Pigreco
