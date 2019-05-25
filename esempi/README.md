@@ -31,4 +31,4 @@ nro|Esempio|Descrizione|Autore
 27|[Aggrega con SR differenti](./es/aggregare_con_sr_differenti.md)|Aggrega con SR differenti|Pigreco
 28|[Distanze progressive chilometriche](./es/distanze_progressive_chilometriche.md)|Formatta le distanze progressive chilometriche tipo Autostrade|Pigreco
 29|[Aggregare elementi adiacenti](./es/aggregare_elementi_contigui.md)|Aggrega elementi adiacenti|Pigreco
-30|[estrarre_Z_da_isoipse_3D](./es/estrarre_Z_da_isoipse_3D.md)| Estrae la Z da una feature 3D|Pigreco
+30|[Estrarre la Z da isoipse 3D](./es/estrarre_Z_da_isoipse_3D.md)| Estrae la Z da una feature 3D|Pigreco
