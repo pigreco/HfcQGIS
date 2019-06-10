@@ -12,6 +12,7 @@ Questo gruppo contiene funzioni e/o espressioni che agiscono sui record o attrib
 |[is_selected](funzioni/is_selected.md)|	Indica se una geometria è selezionata. Se chiamata senza parametri, controlla la geometria corrente|
 |[num_selected](funzioni/num_selected.md)|Restituisce il numero di geometrie selezionate in un vettore dato. Per impostazione predefinita funziona sul vettore sul quale l'espressione è valutata|
 |[represent_value](funzioni/represent_value.md)|	Restituisce il valore di rappresentazione configurato per un valore di campo. Dipende dal tipo di widget configurato. Spesso, questo è utile per i widget di 'Value Map'|
+|[sqlite_fetch_and_increment](funzioni/sqlite_fetch_and_increment.md)|	Gestire i valori autoincrementing nei database SQLite|
 |[uuid](funzioni/uuid.md)|Genera un Identificatore Universale Unico (UUID) per ogni riga usando il metodo Qt QUuid::createUuid. Ciascun UUID è lungo 38|
 
 ![](/img/record_e_attributi/gruppo_record_e_attributi1.png)
