@@ -24,4 +24,22 @@ overlaps(_geometry a, geometry b_)
 
 ## osservazioni
 
---
+Usando algoritmo `Seleziona per espressione` presente in strumenti di processing oppure ![icona](https://docs.qgis.org/2.18/en/_images/mIconExpressionSelect.png) (ctrl+F3):
+
+espressione usata:
+
+`overlaps(geometry(get_feature( 'cerchio','id','1')), $geometry)`
+
+dove:
+
+* _geometry a_ è `geometry(get_feature('cerchio','id','1'))`
+* _geometry b_ è `$geometry`
+
+
+![](/img/geometria/overlaps/overlaps2.png)
+
+seleziono tutti i comuni `overlaps` (sovrapposti) al cerchio in figura.
+
+**PS:** potrei anche negare (`NOT`) l'espressione per selezionare il complementare (tutti i comuni tranne quelli sovrapposti con il cerchio).
+
+`NOT overlaps(geometry(get_feature('cerchio','id','1')),$geometry)`

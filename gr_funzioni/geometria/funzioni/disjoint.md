@@ -24,4 +24,18 @@ Vero = 1; Falso= 0
 
 ## osservazioni
 
---
+Usando algoritmo `Seleziona per espressione` presente in strumenti di processing oppure ![icona](https://docs.qgis.org/2.18/en/_images/mIconExpressionSelect.png) (ctrl+F3):
+
+espressione usata:
+
+`disjoint(geometry(get_feature( 'fiume_arno','nome','ARNO')), $geometry)`
+
+dove:
+
+* _geometry a_ è `geometry(get_feature( 'fiume_arno','nome','ARNO'))`
+* _geometry b_ è `$geometry`
+
+
+![](/img/geometria/disjoint/disjoint2.png)
+
+seleziono tutti i comuni `disjoint` (disgiunti) dal fiume ARNO

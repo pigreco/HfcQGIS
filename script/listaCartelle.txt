@@ -1,0 +1,16 @@
+aggregates
+array
+arrays
+colore
+condizioni
+conversioni
+corrispondenza_fuzzy
+data_ora
+generale
+geometria
+maps
+matematica
+operatori
+rasters
+record_e_attributi
+stringhe_di_testo

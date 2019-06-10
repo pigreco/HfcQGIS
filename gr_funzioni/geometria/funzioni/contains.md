@@ -26,4 +26,22 @@ contains(_geometry a, geometry b_)
 
 ## osservazioni
 
---
+Usando algoritmo `Seleziona per espressione` presente in strumenti di processing oppure ![icona](https://docs.qgis.org/2.18/en/_images/mIconExpressionSelect.png) (ctrl+F3):
+
+espressione usata:
+
+`contains(geometry(get_feature( 'province_rt_rt','pk_uid','46')),$geometry)`
+
+dove:
+
+* _geometry a_ è `geometry(get_feature( 'province_rt_rt','pk_uid','46'))`
+* _geometry b_ è `$geometry`
+
+
+![](/img/geometria/contains/contains2.png)
+
+seleziono tutti i comuni `contains` (contenuti) nella provincia con `pk_uid`46 (Lucca)
+
+**PS:** potrei anche negare (`NOT`) l'espressione per selezionare il complementare (tutti i comuni tranne quelli contenuti nella provincia di Lucca).
+
+`NOT contains(geometry(get_feature( 'province_rt_rt','pk_uid','46')),$geometry)`

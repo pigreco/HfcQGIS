@@ -24,4 +24,22 @@ intersects(<span style="color:red;">_geometry a_</span>, <span style="color:red;
 
 ## osservazioni
 
---
+Usando algoritmo `Seleziona per espressione` presente in strumenti di processing oppure ![icona](https://docs.qgis.org/2.18/en/_images/mIconExpressionSelect.png) (ctrl+F3):
+
+espressione usata:
+
+`intersects(geometry(get_feature( 'province_rt_rt','pk_uid','46')),$geometry)`
+
+dove:
+
+* _geometry a_ è `geometry(get_feature( 'province_rt_rt','pk_uid','46'))`
+* _geometry b_ è `$geometry`
+
+
+![](/img/geometria/intersects/intersects2.png)
+
+seleziono tutti i comuni `intersects` (interseca) nella provincia con `pk_uid`46 (Lucca)
+
+**PS:** potrei anche negare (`NOT`) l'espressione per selezionare il complementare (tutti i comuni tranne quelli intersecati con la provincia di Lucca).
+
+`NOT intersects(geometry(get_feature( 'province_rt_rt','pk_uid','46')),$geometry)`

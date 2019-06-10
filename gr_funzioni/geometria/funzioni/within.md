@@ -24,7 +24,25 @@ within(_geometry a, geometry b_)
 
 ## osservazioni
 
---
+Usando algoritmo `Seleziona per espressione` presente in strumenti di processing oppure ![icona](https://docs.qgis.org/2.18/en/_images/mIconExpressionSelect.png) (ctrl+F3):
+
+espressione usata:
+
+`within($geometry,geometry(get_feature( 'province_rt_rt','pk_uid','53')))`
+
+dove:
+
+* _geometry a_ è `$geometry`
+* _geometry b_ è `geometry(get_feature( 'province_rt_rt','pk_uid','53'))`
+
+
+![](/img/geometria/within/within3.png)
+
+seleziono tutti i comuni `within` (contenuti) nella provincia con `pk_uid`53 (Grosseto)
+
+**PS:** potrei anche negare (`NOT`) l'espressione per selezionare il complementare (tutti i comuni tranne quelli contenuti nella provincia di Grosseto).
+
+`NOT within($geometry,geometry(get_feature( 'province_rt_rt','pk_uid','53')))`
 
 ## Altro esempio con condizione sulle etichette
 ```
