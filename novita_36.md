@@ -18,6 +18,10 @@
 * [**from_json**](./gr_funzioni/maps/funzioni/from_json.md) - PR [#8887](https://github.com/qgis/QGIS/pull/8887)
 * [**to_json**](./gr_funzioni/maps/funzioni/to_json.md) - PR [#8887](https://github.com/qgis/QGIS/pull/8887)
 
+### Gruppo Record e Attributi
+* [**sqlite_fetch_and_increment**](./gr_funzioni/record_e_attributi/funzioni/sqlite_fetch_and_increment.md) - PR [#8722](https://github.com/qgis/QGIS/pull/8887)
+
+
 ## Interfaccia calcolatore campi
 
 ### sposta la casella di gruppo valore nell'area di aiuto - [PR #8262](https://github.com/qgis/QGIS/pull/8262)
