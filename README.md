@@ -16,7 +16,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-## Indice gruppi di funzioni/espressioni (324/415)
+## Indice gruppi di funzioni/espressioni (325/416)
 
 Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
@@ -38,7 +38,7 @@ Gruppo funzioni|nro funzioni*|info
 [Operatori](./gr_funzioni/operatori)| (21/21)|
 [Rasters](./gr_funzioni/rasters)|(2/2)|>= **QGIS 3.4** 
 [Recente](./gr_funzioni/recente) |(1/1)|
-[Record e attributi](./gr_funzioni/record_e_attributi)| (9/9)|
+[Record e attributi](./gr_funzioni/record_e_attributi)| (10/10)|aggiornate a **QGIS 3.6**
 [Reference](./gr_funzioni/reference)| (0/21)| [Plugin refFunction](https://plugins.qgis.org/plugins/refFunctions/)
 [Relazioni](./gr_funzioni/Relazioni)| (?)| Visibile solo se ci sono relazioni di progetto
 [Stringhe di testo](./gr_funzioni/stringhe_di_testo)| (22/22)|
