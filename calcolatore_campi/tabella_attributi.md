@@ -108,8 +108,14 @@ nel caso delle _celle_ (vedi screensotto) compare un tendina con la possibilità
 
 ![tab_attr](/img/tabella_attributi/tab_attr7.png)
 
-### Novità introdotta nella QGIS 3.4:
+### Novità introdotta nella QGIS 3.4
 
 nuovo pulsante nella barra degli strumenti della tabella degli attributi per passare dalla modalità docked alla modalità finestra
 
 ![tab_attr](/img/tabella_attributi/dockify.gif)
+
+### Novità introdotta nella QGIS 3.8 Zanzibar
+
+<p align="center">
+  <img width="600" src="../img/novita_38/sfoglia.gif">
+</p>

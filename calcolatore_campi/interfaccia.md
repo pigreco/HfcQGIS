@@ -36,3 +36,9 @@ Nel caso risulti nascosta la sezione help in linea:
 <p align="center">
   <img width="600" src="../img/finestra_field_calc/hfcqgis_Help.gif">
 </p>
+
+## Novità nella 3.8 Zanzibar
+
+<p align="center">
+  <img width="600" src="../img/novita_38/sfoglia.gif">
+</p>
