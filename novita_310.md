@@ -11,3 +11,5 @@ https://github.com/qgis/QGIS/pull/30440
 ### Aggiorna campi
 
 https://github.com/qgis/QGIS/pull/31065
+
+![screen](./img/novita_310/img_02.png)
