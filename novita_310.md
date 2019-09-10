@@ -13,3 +13,15 @@ https://github.com/qgis/QGIS/pull/30440
 https://github.com/qgis/QGIS/pull/31065
 
 ![screen](./img/novita_310/img_02.png)
+
+### Gruppo Data
+
+https://github.com/qgis/QGIS/pull/31231
+
+#### Filtro tabella attributi
+
+https://github.com/qgis/QGIS/pull/31349
+
+#### Gruppo Geometria
+
+https://github.com/qgis/QGIS/pull/31480
