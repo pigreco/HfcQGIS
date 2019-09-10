@@ -31,3 +31,4 @@ nro|Esempio|Descrizione|Autore
 27|[Aggrega con SR differenti](./es/aggregare_con_sr_differenti.md)|Aggrega con SR differenti|Pigreco
 28|[Distanze progressive chilometriche](./es/distanze_progressive_chilometriche.md)|Formatta le distanze progressive chilometriche tipo Autostrade|Pigreco
 29|[Aggregare elementi adiacenti](./es/aggregare_elementi_contigui.md)|Aggrega elementi adiacenti|Pigreco
+30|[Linea minima distanza tra due punti](./es/linea_min_distanza.md)|Traccia una linea di minima distanza usando il generatore di geometrie|Pigreco
