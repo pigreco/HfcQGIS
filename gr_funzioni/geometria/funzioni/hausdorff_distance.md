@@ -34,6 +34,24 @@ hausdorff_distance(_geometry a, geometry b, densify_fraction_)
 
 --
 
+Nel caso di geometrie puntuali la `hausdorff_distance` coincide con la funzione `distance`, segue un esempio:
+
+```
+format_number(
+hausdorff_distance( 
+transform($geometry,'EPSG:4326','EPSG:3004'), 
+transform(geometry(get_feature('fontanelle','n',1)),'EPSG:4326','EPSG:3004'))/1000,4) || ' km'  
+|| '\n'|| 
+format_number(
+distance( 
+transform($geometry,'EPSG:4326','EPSG:3004'), 
+transform(geometry(get_feature('fontanelle','n',1)),'EPSG:4326','EPSG:3004'))/1000,4) || ' km'
+```
+
+![](/img/geometria/hausdorff_distance/hausdorff_distance3.png)
+
+---
+
 In questo esempio confronto due layer: il numero più piccolo indica il poligono più simile a al poligono più grande.
 
 ![](/img/geometria/hausdorff_distance/hausdorff_distance2.png)
