@@ -16,7 +16,7 @@
 
 Questa guida nasce per rispondere alle numerose richieste di aiuto sull'uso del calcolatore di campi e per colmare un vuoto sulla guida online di QGIS con esempi e molti screenshot.
 
-## Indice gruppi di funzioni/espressioni (325/416)
+## Indice gruppi di funzioni/espressioni (327/418)
 
 Gruppo funzioni|nro funzioni*|info
 ---------------|:----------:|----
@@ -31,14 +31,14 @@ Gruppo funzioni|nro funzioni*|info
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(16/16)|
 [Generale](./gr_funzioni/generale)| (6/6)|
-[Geometria](./gr_funzioni/geometria) |(101/101)| aggiornate a **QGIS 3.6**
+[Geometria](./gr_funzioni/geometria) |(102/102)| aggiornate a **QGIS 3.10**
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (2/2)| aggiornate a **QGIS 3.6**
 [Maps](./gr_funzioni/maps)| (14/14) |>= QGIS 3.0 (PostGIS) aggiornate a **QGIS 3.6**
 [Matematica](./gr_funzioni/matematica)| (28/28)|
 [Operatori](./gr_funzioni/operatori)| (21/21)|
 [Rasters](./gr_funzioni/rasters)|(2/2)|>= **QGIS 3.4** 
 [Recente](./gr_funzioni/recente) |(1/1)|
-[Record e attributi](./gr_funzioni/record_e_attributi)| (10/10)|aggiornate a **QGIS 3.6**
+[Record e attributi](./gr_funzioni/record_e_attributi)| (11/11)|aggiornate a **QGIS 3.10**
 [Reference](./gr_funzioni/reference)| (0/21)| [Plugin refFunction](https://plugins.qgis.org/plugins/refFunctions/)
 [Relazioni](./gr_funzioni/Relazioni)| (?)| Visibile solo se ci sono relazioni di progetto
 [Stringhe di testo](./gr_funzioni/stringhe_di_testo)| (22/22)|

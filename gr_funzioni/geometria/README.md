@@ -24,6 +24,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [buffer_by_m](funzioni/buffer_by_m.md)|Crea un buffer lungo una geometria della linea in cui il diametro del buffer varia in base ai valori m nei vertici della linea|**>=3.2**
 [centroid](funzioni/centroid.md)|Restituisce il centro geometrico di una geometria|2.18
 [closest_point](funzioni/closest_point.md)|Restituisce il punto sulla geometria 1 che è più vicino alla geometria 2|>=2.14
+[collect_geometries](funzioni/collect_geometries.md)|Raccoglie un set di geometrie in un oggetto geometria multiparte.|**>=3.10**
 [combine](funzioni/combine.md)|Restituisce la combinazione di due geometrie|2.18
 [contains](funzioni/contains.md)|Verifica se una geometria ne contiene un'altra|2.18
 [convex_hull](funzioni/convex_hull.md)|Restituisce il poligono convesso di una geometria|2.18
