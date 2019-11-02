@@ -32,3 +32,4 @@ nro|Esempio|Descrizione|Autore
 28|[Distanze progressive chilometriche](./es/distanze_progressive_chilometriche.md)|Formatta le distanze progressive chilometriche tipo Autostrade|Pigreco
 29|[Aggregare elementi adiacenti](./es/aggregare_elementi_contigui.md)|Aggrega elementi adiacenti|Pigreco
 30|[Linea minima distanza tra due punti](./es/linea_min_distanza.md)|Traccia una linea di minima distanza usando il generatore di geometrie|Pigreco
+31|[Creare campo somma cumulativa](./es/add_campo_sum_cumulativo.md)|Espressione per popolare campo con somma cumulativa|Pigreco
