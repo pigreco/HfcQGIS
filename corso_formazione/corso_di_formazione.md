@@ -2,7 +2,7 @@
 
 ## A chi è rivolto
 
-Il corso è rivolto agli utenti che conoscono l'uso generale di QGIS, quindi è un corso di approfondimento sull'uso della tabella attributi e del calcolatore di campi.
+Il corso è rivolto agli utenti che conoscono l'uso generale di QGIS e desiderano approfondire l'uso della tabella attributi e del calcolatore di campi.
 
 ## Durata del corso
 
@@ -41,7 +41,7 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
    13. filtro;
    14. cenni sull'editor delle funzioni python;
    15. esercitazione.
-3.  Novità introdotte nella 3.6, 3.8 e 3.10
+3.  Novità introdotte in QGIS 3.x
 4.  Esercitazioni.
 
 ## Contatti
@@ -51,4 +51,8 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 - `Twitter`: https://twitter.com/totofiandaca
 - `Telegram`: https://t.me/pigreco71
   
+## certificato di partecipazione
 
+Alla fine del corso verrà rialsciato un certificato di partecipazione al corso.
+
+![screen](./certificato_bozza.png)
