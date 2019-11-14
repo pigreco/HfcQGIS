@@ -44,15 +44,25 @@ Il corso è strutturato per durare almeno 16 ore - preferibilmente fulltime (due
 3.  Novità introdotte in QGIS 3.x
 4.  Esercitazioni.
 
-## Contatti
+## Docente [Ing. Salvatore Fiandaca](http://hfcqgis.opendatasicilia.it/it/latest/autore.html)
+
+- Membro attivo di **QGIS Italia** e gruppo utenti [QGIS.it](http://qgis.it/);
+- Co-Admin pagina Facebook ufficiale di [QGIS Italia](https://www.facebook.com/qgis.it/);
+- Co-Admin gruppo [Telegram Ufficiale QGIS.it](https://t.me/qgis_it);
+- Co-Admin canale [Telegram Ufficiale di QGIS.it](https://t.me/qgisitalia);
+- Co-Admin canale [Twitter Ufficiale di QGIS.it](https://twitter.com/qgisitalia);
+- Socio [GFOSS.it](http://gfoss.it/);
+
+### Contatti
 
 - `Mail`: pigrecoinfinito@gmail.com
 - `Facebook`: https://www.facebook.com/pigreco314
 - `Twitter`: https://twitter.com/totofiandaca
 - `Telegram`: https://t.me/pigreco71
+
   
-## certificato di partecipazione
+## Certificato di partecipazione
 
-Alla fine del corso verrà rialsciato un certificato di partecipazione al corso.
+Alla fine del corso verrà rilasciato un certificato di partecipazione.
 
-![screen](./certificato_bozza.png)
+![screen](./certificato_bozza2.png)
