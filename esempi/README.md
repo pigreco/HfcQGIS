@@ -33,3 +33,4 @@ nro|Esempio|Descrizione|Autore
 29|[Aggregare elementi adiacenti](./es/aggregare_elementi_contigui.md)|Aggrega elementi adiacenti|Pigreco
 30|[Linea minima distanza tra due punti](./es/linea_min_distanza.md)|Traccia una linea di minima distanza usando il generatore di geometrie|Pigreco
 31|[Creare campo somma cumulativa](./es/add_campo_sum_cumulativo.md)|Espressione per popolare campo con somma cumulativa|Pigreco
+32|[aggiungere_punto_a_linea](./es/aggiungere_punto_a_linea.md)|Aggiunge un nodo di disegno ad una linea|Pigreco
