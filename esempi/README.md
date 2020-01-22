@@ -35,4 +35,4 @@ nro|Esempio|Descrizione|Autore
 31|[Creare campo somma cumulativa](./es/add_campo_sum_cumulativo.md)|Espressione per popolare campo con somma cumulativa|Pigreco
 32|[aggiungere_punto_a_linea](./es/aggiungere_punto_a_linea.md)|Aggiunge un nodo di disegno ad una linea|Pigreco
 33|[drilldown form multiple](./es/drilldown_form_multiple.md)|Creare Form con filtro dinamico drillDown (cascade)|Pigreco
-34|[selezionare_primi_n_valori](./es/selezionare_primi_n_valori.md)|Come selezionare i primi n poligoni più grandi|Pigreco
+34|[selezionare primi n valori](./es/selezionare_primi_n_valori.md)|Come selezionare i primi n poligoni più grandi|Pigreco

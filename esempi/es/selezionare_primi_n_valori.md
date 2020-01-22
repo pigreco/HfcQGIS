@@ -15,6 +15,16 @@ Supponiamo di dover selezionare i primi 10 poligoni (per esempio le prime 10 pro
           $area)
 ```
 
+Nel linguaggio umano significa:
+
+Prendi i primi 10 (da 0 a 9) elementi (valore area) contenuti in un array ordinato in senso decrescente.
+
+dove:
+
+ - [array_contains](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/arrays/array_contains.html)
+ - [array_slice](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/arrays/array_slice.html)
+ - [array_sort](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/arrays/array_sort.html)
+ - [array_agg](http://hfcqgis.opendatasicilia.it/it/latest/gr_funzioni/aggregates/array_agg.html#)
 
 
 ![](/img/esempi/selezionare_primi_n_valori/selnvalori1.png)
