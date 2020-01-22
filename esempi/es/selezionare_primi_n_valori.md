@@ -28,3 +28,23 @@ dove:
 
 
 ![](/img/esempi/selezionare_primi_n_valori/selnvalori1.png)
+
+### Etichettatura
+
+Etichettare con il nome della provincia e il numero sequenziale
+
+Etichettiamo tramite regola e usiamo come filtro `is_selected()`, come espressione:
+
+```
+ "DEN_UTS"  || ' (' || 
+ (array_find(  
+      array_sort( 
+		array_agg( $area ) , 
+		               ascending:=false ) ,
+			  $area ) +1)
+			   || ')'
+```
+
+**NB:** +1 perché l'indice inizia da 0
+
+![](/img/esempi/selezionare_primi_n_valori/selnvalori2.png)
