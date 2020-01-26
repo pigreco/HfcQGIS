@@ -36,3 +36,4 @@ nro|Esempio|Descrizione|Autore
 32|[aggiungere_punto_a_linea](./es/aggiungere_punto_a_linea.md)|Aggiunge un nodo di disegno ad una linea|Pigreco
 33|[drilldown form multiple](./es/drilldown_form_multiple.md)|Creare Form con filtro dinamico drillDown (cascade)|Pigreco
 34|[selezionare primi n valori](./es/selezionare_primi_n_valori.md)|Come selezionare i primi n poligoni più grandi|Pigreco
+35|[Generalizzare isoipse](./es/generalizzare_linee.md)|Generalizzare le linee di contorno|Valerio Pinna

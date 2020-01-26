@@ -31,6 +31,6 @@ https://github.com/qgis/QGIS/pull/33322
 
 ## Interfaccia
 
-https://github.com/qgis/QGIS/pull/33436
-https://github.com/qgis/QGIS/pull/33437
-https://github.com/qgis/QGIS/pull/33918
+- `List referenced layer values` https://github.com/qgis/QGIS/pull/33436
+- `Stored expressions` https://github.com/qgis/QGIS/pull/33437
+- `Organize Columns` https://github.com/qgis/QGIS/pull/33918
