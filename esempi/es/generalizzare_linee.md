@@ -1,9 +1,9 @@
-## Generalizzare le linee di contorno
+## Vestizione generalizzata delle linee di contorno
 
 Quando si creano linee di contorno a partire da un modello digitale del terreno spesso la geometria lineare risultante si presenta ricca di asperitá. 
 Esistono diversi algoritmi o plugin che permettono di generalizzare e semplificare le linee al fine di renderle piú adatte ad un loro uso su mappe stampate o schermate. 
 
-In questo esempio l'operazione di semplificazione e smussamento delle linee verrá fatto ricorrendo al Calcolatore di campi. 
+In questo esempio l'operazione di semplificazione e smussamento della vestizione delle linee verrá fatto ricorrendo alleespressioni e al generatore di geometrie, cosi da non intervenire direttamente sulla geometria e mantenere il dataset originario del vettore. 
  
 ![screen](/img/esempi/generalizzare_linee/fig_1.jpg)
 
