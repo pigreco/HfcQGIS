@@ -5,10 +5,11 @@ Questo gruppo contiene funzioni per gestire dati con _date_ e _ore_.
  Funzione  | Descrizione
 ----------:|:-----------
 [age](funzioni/age.md)|Restituisce la differenza fra due date o datetimes
+[datetime_from_epoch](funzioni/datetime_from_epoch.md)|Restituisce un datetime il cui data e ora sono il numero di millisecondi (>=QGIS 3.12)
 [day](funzioni/day.md)|Estrae il giorno da una data, o il numero dei giorni da un intervallo
 [day_of_week](funzioni/day_of_week.md)|Restituisce il giorno della settimana per una data o un datetime
 [epoch](funzioni/epoch.md)|Restituisce l'intervallo in millisecondi fra l'epoca unix e la data inserita
-[format_date](funzioni/format_date.md)|Formatta un tipo di data o stringa in un formato stringa personalizzato
+[format_date](funzioni/format_date.md)|Formatta un tipo di data o stringa in un formato stringa personalizzato (QGIS 3.12)
 [hour](funzioni/hour.md)|Estrae la parte ore da una data/ora o orario, o il numero delle ore da un intervallo
 [minute](funzioni/minute.md)|Estrae la parte minuti da un data/ora o ora, o il numero dei minuti da un intervallo
 [month](funzioni/month.md)|Estrae la parte mese da una data, o il numero di mesi da un intervallo

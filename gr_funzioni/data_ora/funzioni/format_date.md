@@ -1,10 +1,10 @@
 ## Funzione `format_date`
 
-Formatta un tipo di data o stringa in un formato stringa personalizzato. Usa stringhe nel formato data/ora Qt. Vedi QDateTime::toString.
+Formatta un tipo di data o stringa in un formato stringa personalizzato. Usa stringhe nel formato data/ora Qt. Vedi [QDateTime::toString](https://doc.qt.io/qt-5/qdatetime.html#toString).
 
 ## Sintassi
 
-* format_date(_datetime, format_)
+* format_date(_datetime, format[,language]_)
 
 ## Argomenti
 
@@ -41,9 +41,18 @@ zzz|i millisecondi con gli zeri iniziali (da 000 a 999)
 AP o A|interpretato come un orario nel formato AM/PM. AP deve essere "AM" oppure "PM".
 ap o a|interpretato come un orario nel formato AM/PM. ap deve essere "am" oppure "pm".
 
+
+* _language_ linguaggio (minuscolo, due o tre lettere, codice ISO 639) utilizzato per formattare la data in una stringa personalizzata (**>= QGIS 3.12**)
+
+
 ## Esempi
 ```
 * format_date('2012-05-15','dd.MM.yyyy') → '15.05.2012'
+* format_date('2012-06-15','d MMMM yyyy','fr') → '15 juin 2012'
+* format_date('2012-06-15','d MMMM yyyy','it') → '15 giugno 2012'
 ```
 
 ![](/img/data_e_ora/format_date1.png)
+
+
+![](/img/data_e_ora/format_data_2.png)
