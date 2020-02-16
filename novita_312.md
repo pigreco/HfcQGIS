@@ -20,7 +20,7 @@ Se viene fornito, il parametro opzionale `seed`, il valore sarà sempre lo stess
 
 Aggiunge `geom_from_wkb` e `geom_to_wkb`, che rispecchiano le funzioni `geom_from_wkt / geom_to_wkt` esistenti ma per le rappresentazioni WKB delle geometrie.
 
-- `is_empy` e `is_empty_or_null` https://github.com/qgis/QGIS/pull/33333
+- `is_empty` e `is_empty_or_null` https://github.com/qgis/QGIS/pull/33333
 
 ![screen](./img/novita_312/image02.png)
 
