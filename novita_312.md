@@ -54,7 +54,7 @@ https://github.com/qgis/QGIS/pull/33322 -- chiusa
 
 ![](https://user-images.githubusercontent.com/28384354/70978774-ab63d180-20b0-11ea-901b-d51d44fa8fa4.gif)
 
-- `Stored expressions` https://github.com/qgis/QGIS/pull/33437 -- [**IDEATA DA ME!!!**](https://pigrecoinfinito.com/2019/12/14/field-calc-di-qgis-save-expressions-crowdfunding/)
+- `Stored expressions` https://github.com/qgis/QGIS/pull/33437 -- [**IDEATA DA**](https://pigrecoinfinito.com/2019/12/14/field-calc-di-qgis-save-expressions-crowdfunding/)
 
 ![](https://user-images.githubusercontent.com/142164/70983414-faae0000-20b8-11ea-9f25-14b338d4c680.gif)
 

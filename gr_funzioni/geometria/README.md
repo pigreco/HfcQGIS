@@ -40,7 +40,9 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [flip_coordinates](funzioni/flip_coordinates.md)|Restituisce una copia della geometria con le coordinate x e y scambiate|**>=3.2**
 [force_rhr](funzioni/force_rhr.md)|Forza una geometria a rispettare la regola della mano destra|**>=3.6**
 [geom_from_gml](funzioni/geom_from_gml.md)|Restituisce una geometria da una rappresentazione GML di una geometria|2.18
+[geom_from_wkb](funzioni/geom_from_wkb.md)|Restituisce una geometria creata da una rappresentazione binaria ben nota (WKB).|**>=3.12**
 [geom_from_wkt](funzioni/geom_from_wkt.md)|Restituisce una geometria creata da una rappresentazione Well-Known Text (WKT)|2.18
+[geom_to_wkb](funzioni/geom_to_wkb.md)|Restituisce la rappresentazione binaria ben nota (WKB) di una geometria come BLOB binario.|**>=3.12**
 [geom_to_wkt](funzioni/geom_to_wkt.md)|Restituisce la rappresentazione Well-Known Text (WKT) della geometria senza metadati del SR|2.18
 [geometry](funzioni/geometry.md)|Restituisce la geometria di un elemento|2.18
 [geometry_n](funzioni/geometry_n.md)|Restituisce una geometria specifica da una raccolta di geometrie, o null se la geometria in ingresso non è una raccolta|>=2.14
@@ -51,6 +53,9 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [intersects](funzioni/intersects.md)|Controlla qualora una geometria ne interseca un'altra|2.18
 [intersects_bbox](funzioni/intersects_bbox.md)|Controlla se il perimetro di delimitazione della geometria si sovrappone a quello di un'altra geometria|2.18
 [is_closed](funzioni/is_closed.md)|Restituisce vero se una line string è chiusa (i punti di inizio e di fine coincidono), o falso se una linea string non è chiusa|>=2.14
+[is_empty](funzioni/is_empty.md)|Restituisce vero se una geometria è vuota (senza coordinate), falso se la geometria non è vuota e NULL se non c'è geometria. Vedi anche `is_empty_or_null`.|**>=3.12**
+[is_empty_or_null](funzioni/is_empty_or_null.md)|Restituisce vero se una geometria è NULL o vuota (senza coordinate) o false in caso contrario. Questa funzione è come l'espressione "$ geometry IS NULL o is_empty ($ geometry)".|**>=3.12**
+[is_valid](funzioni/is_valid.md)|Restituisce vero se una geometria è valida; se è ben formato in 2D secondo le regole **OGC**|**>=3.12**
 [length](funzioni/length.md)|Restituisce il numero di caratteri in una stringa o la lunghezza di una geometria di tipo linestring|2.18
 [line_interpolate_angle](funzioni/line_interpolate_angle.md)|Restituisce l'angolo parallelo alla geometria ad una distanza specifica lungo una geometria di tipo linestring|>=2.18
 [line_interpolate_point](funzioni/line_interpolate_point.md)|Restituisce il punto interpolato ad una specifica distanza lungo un geometria di tipo linestring|>=2.18
@@ -85,6 +90,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [project](funzioni/project.md)|Restituisce un punto proiettato da un punto di partenza usando una distanza e una direzione di immersione (azimut) in radianti|2.18
 [relate](funzioni/relate.md)|Testa la rappresentazione Dimensional Extended 9 Intersection Model (DE-9IM) della relazione tra due geometrie|>=2.14
 [reverse](funzioni/reverse.md)|Inverte la direzione di una line string invertendo l'ordine dei sui vertici|>=2.14
+[rotate](funzioni/rotate.md)|Restituisce una versione ruotata di una geometria. I calcoli si trovano nel sistema di riferimento spaziale di questa geometria.|**>=3.12**
 [segments_to_lines](funzioni/segments_to_lines.md)|Restituisce una geometria multi linea consistente in una linea per ogni segmento nella geometria in ingresso|>=2.14
 [shortest_line](funzioni/shortest_line.md)|Restituisce la linea più corta che unisce la geometria 1 alla geometria 2|>=2.14
 [simplify](funzioni/simplify.md)|Semplifica una geometria rimuovendo nodi usando una soglia basata sulla distanza (cioè, l'algoritmo Douglas Peucker) |**>=3.0**
