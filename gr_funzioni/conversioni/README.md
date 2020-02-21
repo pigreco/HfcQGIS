@@ -4,6 +4,9 @@ Questo gruppo contiene funzioni per convertire i dati da un tipo ad un altro, es
 
 | Funzione  | Descrizione|QGIS
 |----------:|:-----------|---
+|[hash](funzioni/hash.md)|Crea un hash da una stringa con un determinato metodo|**>= 3.12**
+|[md5](funzioni/md5.md)|Crea un hash md5 da una stringa|**>= 3.12**
+|[sha256](funzioni/sha256.md)Crea un hash sha256 da una stringa|**>= 3.12**
 |[to_date](funzioni/to_date.md)|	Converte una stringa in un oggetto data|
 |[to_datetime](funzioni/to_datetime.md)|Converte una stringa in un oggetto datetime|
 |[to_dm](funzioni/to_dm.md)|Converte una coordinata in gradi, minuti|**>= 3.4**

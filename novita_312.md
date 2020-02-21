@@ -38,6 +38,12 @@ Aggiunge `geom_from_wkb` e `geom_to_wkb`, che rispecchiano le funzioni `geom_fro
 
 ![screen](./img/novita_312/image05.png)
 
+### Gruppo Conversioni
+
+* `hash`(value, method) https://github.com/qgis/QGIS/pull/31726
+* `md5`(value)
+* `sha256`(value)
+
 ## tag espressioni
 
 https://github.com/qgis/QGIS/pull/33197

@@ -26,7 +26,7 @@ Gruppo funzioni|nro funzioni*|info
 [Campi e valori](./gr_funzioni/campi_e_valori)| (1/1)|
 [Colore](./gr_funzioni/colore)| (17/17)|
 [Condizioni](./gr_funzioni/condizioni)| (6/6)|aggiornate a **QGIS 3.6**
-[Conversioni](./gr_funzioni/conversioni)| (9/9)|aggiornate a **QGIS 3.4**
+[Conversioni](./gr_funzioni/conversioni)| (12/12)|aggiornate a **QGIS 3.12**
 [Corrispondenza fuzzy](./gr_funzioni/corrispondenza_fuzzy)| (4/4)|
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(17/17)|**QGIS 3.12**
