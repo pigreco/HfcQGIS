@@ -55,7 +55,7 @@ Gruppo funzioni|nro funzioni*|info
 * [Interfaccia](./calcolatore_campi/interfaccia.md) Introduzione all'interfaccia calcolatore di campi
 * [Operatori](./calcolatore_campi/operatori.md) - Operatori presenti nell'interfaccia del calcolatore
 * [Tabella attributi](./calcolatore_campi/tabella_attributi.md) - Concetti fondamentali
-* [Esempi](./esempi) (34) - Esempi dettagliati sull'uso delle funzioni
+* [Esempi](./esempi) (36) - Esempi dettagliati sull'uso delle funzioni
 
 
 ![screen1](img/calcolatore_campi1.png "Interfaccia Calcolatore di campi QGIS")
