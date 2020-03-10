@@ -38,3 +38,4 @@ nro|Esempio|Descrizione|Autore
 34|[selezionare primi n valori](./es/selezionare_primi_n_valori.md)|Come selezionare i primi n poligoni più grandi|Pigreco
 35|[Generalizzare isoipse](./es/generalizzare_linee.md)|Generalizzare le linee di contorno|Valerio Pinna
 36|[Campo coord in lat lon](./es/campo_coord_in_lat_lon.md)|Generare due campi lon lat a partire da un unico campo|Pigreco
+37|[calcolo incrementi giornalieri](./es/calcolo_incrementi_giornalieri.md)|Calcola gli incrementi giornalieri di un attributo|Pigreco
