@@ -39,3 +39,4 @@ nro|Esempio|Descrizione|Autore
 35|[Generalizzare isoipse](./es/generalizzare_linee.md)|Generalizzare le linee di contorno|Valerio Pinna
 36|[Campo coord in lat lon](./es/campo_coord_in_lat_lon.md)|Generare due campi lon lat a partire da un unico campo|Pigreco
 37|[calcolo incrementi giornalieri](./es/calcolo_incrementi_giornalieri.md)|Calcola gli incrementi giornalieri di un attributo|Pigreco
+38|[Tracciare un grafico](./es/tracciare_grafico_generatore_geometrie.md)|Come tracciare un grafico per ogni feature usando il generatore di geometrie|Pigreco
