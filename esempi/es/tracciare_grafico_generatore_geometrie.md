@@ -137,3 +137,61 @@ Gif animata realizzata con il plugin TimeManager di Anita Graser
 
 - **Blog post su Pigrecoinfinito**: <https://pigrecoinfinito.com/2020/04/14/qgis-grafici-geoplot-usando-solo-il-geometry-generator/>
 
+## caso generico
+
+espressione consigliata
+
+```
+with_variable('id_min', relation_aggregate( relation:='rel1',aggregate:='array_agg',expression:= $id)[0],
+(with_variable('pos_min', relation_aggregate( relation:='rel1',aggregate:='array_agg',expression:="positive")[0],
+(
+translate( 
+make_line(-- curva
+relation_aggregate( 
+relation:='rel1',
+aggregate:='array_agg',
+expression:=make_point(($id - @id_min )*200, ("positive" - @pos_min)*2))),
+x(centroid($geometry)),y(centroid($geometry)))
+))))
+```
+
+dove:
+
+- `"positive"` è il campo che contiene i dati da tracciare;
+- `200` è un fattore di amplificazione dell'asse x (ma dipende dai dati);
+- `2` è un fattore di amplificazione dell'asse y (ma dipende dai dati)
+
+esempio dati:
+
+name|negative|positive|data|CODIMUNI
+----|--------|--------|----|--------
+Barcelona|5497|4745|2020-03-29|080193
+Barcelona|6259|5355|2020-03-30|080193
+Barcelona|6580|5599|2020-04-01|080193
+Barcelona|7402|6112|2020-04-02|080193
+Barcelona|8078|6354|2020-04-03|080193
+Barcelona|8156|6416|2020-04-04|080193
+Barcelona|8408|6566|2020-04-05|080193
+Barcelona|8483|6655|2020-04-06|080193
+Barcelona|8961|6873|2020-04-07|080193
+Barcelona|8754|6988|2020-04-08|080193
+Barcelona|9490|7305|2020-04-09|080193
+Barcelona|9619|7363|2020-04-10|080193
+Barcelona|9633|7354|2020-04-11|080193
+Barcelona|9671|7319|2020-04-13|080193
+Barcelona|9774|7225|2020-04-15|080193
+Begues|17|15|2020-03-29|080207
+Begues|18|19|2020-03-30|080207
+Begues|18|19|2020-04-01|080207
+Begues|18|20|2020-04-02|080207
+Begues|19|21|2020-04-03|080207
+Begues|19|21|2020-04-04|080207
+Begues|22|21|2020-04-05|080207
+Begues|22|21|2020-04-06|080207
+Begues|24|19|2020-04-07|080207
+Begues|24|19|2020-04-08|080207
+Begues|26|21|2020-04-09|080207
+Begues|26|21|2020-04-10|080207
+Begues|26|21|2020-04-11|080207
+Begues|26|21|2020-04-13|080207
+Begues|26|21|2020-04-15|080207
