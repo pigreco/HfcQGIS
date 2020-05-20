@@ -52,7 +52,7 @@ Poligoni comunali
 
 ![](/img/esempi/elenco_ordinato_comuni/img_04.png)
 
-Maggiori dettagli nel blog post su Pigrecoinfinito: 
+Maggiori dettagli nel [blog](https://pigrecoinfinito.com/2020/05/20/elenco-ordinato-di-comuni-attraversati-da-un-itinerario-domodossola-aosta/) post su Pigrecoinfinito: 
 
 ### prova tu
 
