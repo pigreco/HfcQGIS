@@ -1,6 +1,6 @@
 ## Funzione `line_locate_point`
 
-Restituisce la distanza lungo una linestring corrispondente alla posizione più vicina alla linestring di una geometria puntuale specificata.
+Restituisce la lunghezza lungo una linestring corrispondente alla posizione più vicina alla linestring di una geometria puntuale specificata.
 
 ## Sintassi
 

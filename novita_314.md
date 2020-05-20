@@ -1,49 +1,35 @@
-# Novità rilevanti introdotte nella 3.14
+# Novità rilevanti introdotte nella 3.14 Pi (π)
 
 ## Nuove funzioni
 
-form: https://github.com/qgis/QGIS/pull/34827
-
-expressions: https://github.com/qgis/QGIS/pull/34898
-
-VARIABILE : https://github.com/qgis/QGIS/pull/35415
-
-Ascii : https://github.com/qgis/QGIS/pull/35839
-
-Is_multipart: https://github.com/qgis/QGIS/pull/35889
-
-min/max m/z : https://github.com/qgis/QGIS/pull/35928
-
-close_line : https://github.com/qgis/QGIS/pull/36069
-
-make_time : https://github.com/qgis/QGIS/pull/36245
-
-variabili : https://github.com/qgis/QGIS/pull/36300
-
-make_interval : https://github.com/qgis/QGIS/pull/36303
-
-animation : https://github.com/qgis/QGIS/pull/36324
+* expressions: https://github.com/qgis/QGIS/pull/34898
+* Ascii : https://github.com/qgis/QGIS/pull/35839
+* Is_multipart: https://github.com/qgis/QGIS/pull/35889
+* min/max m/z : https://github.com/qgis/QGIS/pull/35928
+* close_line : https://github.com/qgis/QGIS/pull/36069
+* make_time : https://github.com/qgis/QGIS/pull/36245
+* make_interval : https://github.com/qgis/QGIS/pull/36303
+* animation : https://github.com/qgis/QGIS/pull/36324
 
 ## Interfaccia
 
-https://github.com/qgis/QGIS/pull/34930
-https://github.com/qgis/QGIS/pull/36089
-
-gruppi tabella attributi : https://github.com/qgis/QGIS/pull/35933
-
+* Allinea All Unique: https://github.com/qgis/QGIS/pull/34930
+* preview: https://github.com/qgis/QGIS/pull/36089
+* gruppi tabella attributi : https://github.com/qgis/QGIS/pull/35933
 
 ## Fix
 
-https://github.com/qgis/QGIS/pull/34931
+* geom_from_gml: https://github.com/qgis/QGIS/pull/34931
 
 ## GUI/UI
 
-https://github.com/qgis/QGIS/pull/34997
-
-https://github.com/qgis/QGIS/pull/36199
-
-https://github.com/qgis/QGIS/pull/35933
+* form: https://github.com/qgis/QGIS/pull/34827
+* Edit,Import, export: https://github.com/qgis/QGIS/pull/34997
+* sorting: https://github.com/qgis/QGIS/pull/36199
+* widget tabs: https://github.com/qgis/QGIS/pull/35933
 
 ## variabili
 
-https://github.com/qgis/QGIS/pull/35208
+* @frame_ :https://github.com/qgis/QGIS/pull/36300
+* is_editable: https://github.com/qgis/QGIS/pull/35415
+* @layer,@layer_ids: https://github.com/qgis/QGIS/pull/35208
