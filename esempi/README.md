@@ -42,3 +42,4 @@ nro|Esempio|Descrizione|Autore
 38|[Tracciare un grafico](./es/tracciare_grafico_generatore_geometrie.md)|Come tracciare un grafico per ogni feature usando il generatore di geometrie|Pigreco
 39|[Elenco ordinato di Comuni](./es/elenco_ordinato_comuni_attraversati.md)|Come ottenere l'elenco ordinato dei Comuni attraversati da un itinerario|Pigreco
 40|[Etichettare con chiave-valore](./es/etichettare_chiave_valore.md)|Etichettare facendo vedere sia il nome del campo che il corrispondente valore|Pigreco
+41|[Etichettare itinerario con elenco ordinato Comuni](./es/etichettare_itinerario_elenco_comuni_attraversati.md)|Etichettare itinerario con elenco ordinato di Comuni attraversti|Valerio Pinna
