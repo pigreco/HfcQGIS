@@ -41,3 +41,4 @@ nro|Esempio|Descrizione|Autore
 37|[calcolo incrementi giornalieri](./es/calcolo_incrementi_giornalieri.md)|Calcola gli incrementi giornalieri di un attributo|Pigreco
 38|[Tracciare un grafico](./es/tracciare_grafico_generatore_geometrie.md)|Come tracciare un grafico per ogni feature usando il generatore di geometrie|Pigreco
 39|[Elenco ordinato di Comuni](./es/elenco_ordinato_comuni_attraversati.md)|Come ottenere l'elenco ordinato dei Comuni attraversati da un itinerario|Pigreco
+40|[Etichettare con chiave-valore](./es/etichettare_chiave_valore.md)|Etichettare facendo vedere sia il nome del campo che il corrispondente valore|Pigreco
