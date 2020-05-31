@@ -29,9 +29,9 @@ Gruppo funzioni|nro funzioni*|info
 [Conversioni](./gr_funzioni/conversioni)| (12/12)|aggiornate a **QGIS 3.12**
 [Corrispondenza fuzzy](./gr_funzioni/corrispondenza_fuzzy)| (4/4)|
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
-[Data e ora](./gr_funzioni/data_ora) |(17/17)|**QGIS 3.12**
+[Data e ora](./gr_funzioni/data_ora) |(21/21)|**QGIS 3.14**
 [Generale](./gr_funzioni/generale)| (6/6)|
-[Geometria](./gr_funzioni/geometria) |(108/108)| aggiornate a **QGIS 3.12**
+[Geometria](./gr_funzioni/geometria) |(108/114)| aggiornate a **QGIS 3.14**
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (2/2)| aggiornate a **QGIS 3.6**
 [Maps](./gr_funzioni/maps)| (14/14) |>= QGIS 3.0 (PostGIS) aggiornate a **QGIS 3.6**
 [Matematica](./gr_funzioni/matematica)| (28/28)|**QGIS 3.12**
@@ -41,7 +41,7 @@ Gruppo funzioni|nro funzioni*|info
 [Record e attributi](./gr_funzioni/record_e_attributi)| (11/11)|aggiornate a **QGIS 3.10**
 [Reference](./gr_funzioni/reference)| (0/21)| [Plugin refFunction](https://plugins.qgis.org/plugins/refFunctions/)
 [Relazioni](./gr_funzioni/Relazioni)| (?)| Visibile solo se ci sono relazioni di progetto
-[Stringhe di testo](./gr_funzioni/stringhe_di_testo)| (22/22)|
+[Stringhe di testo](./gr_funzioni/stringhe_di_testo)| (23/23)|aggiornate a **QGIS 3.14**
 [TimeManager](./gr_funzioni/timemanager)| (0/5)| Plugin Time Manager
 [Transformation](./gr_funzioni/transformation)| (0/4)| Plugin refFunction
 [Variabili](./gr_funzioni/variabili) |(4/65) |>= QGIS 2.12

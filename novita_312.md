@@ -63,5 +63,3 @@ https://github.com/qgis/QGIS/pull/33322 -- chiusa
 - `Stored expressions` https://github.com/qgis/QGIS/pull/33437 -- [**IDEATA DA**](https://pigrecoinfinito.com/2019/12/14/field-calc-di-qgis-save-expressions-crowdfunding/)
 
 ![](https://user-images.githubusercontent.com/142164/70983414-faae0000-20b8-11ea-9f25-14b338d4c680.gif)
-
-- `Organize Columns` https://github.com/qgis/QGIS/pull/33918 -- **ANCORA APERTA!!!**

@@ -4,6 +4,7 @@ Questo gruppo contiene le funzioni che operano sulle stringhe es. _sostituzione_
 
  Funzione | Descrizione 
  -------: | :---------- 
+[ascii](funzioni/ascii.md)|la stringa da convertire in codice unicode (**>=3.14**)
 [char](funzioni/char.md)|Restituisce il carattere associato ad un codice unicode
 [concat](funzioni/concat.md)|Concatena svariate stringhe in una sola. Valori NULL sono convertiti in stringhe vuote. Altri valori (come i numeri) sono convertiti in stringa
 [format](funzioni/format.md)|Formatta una stringa usando gli argomenti forniti

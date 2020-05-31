@@ -23,6 +23,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [buffer](funzioni/buffer.md)|Restituisce una geometria che rappresenta tutti i punti la cui distanza dalla geometria è minore o uguale alla distanza inserita|2.18
 [buffer_by_m](funzioni/buffer_by_m.md)|Crea un buffer lungo una geometria della linea in cui il diametro del buffer varia in base ai valori m nei vertici della linea|**>=3.2**
 [centroid](funzioni/centroid.md)|Restituisce il centro geometrico di una geometria|2.18
+[close_line](funzioni/close_line.md)|Restituisce una linestring chiusa della linestring di input|**>=3.14**
 [closest_point](funzioni/closest_point.md)|Restituisce il punto sulla geometria 1 che è più vicino alla geometria 2|>=2.14
 [collect_geometries](funzioni/collect_geometries.md)|Raccoglie un set di geometrie in un oggetto geometria multiparte.|**>=3.10**
 [combine](funzioni/combine.md)|Restituisce la combinazione di due geometrie|2.18
@@ -55,6 +56,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [is_closed](funzioni/is_closed.md)|Restituisce vero se una line string è chiusa (i punti di inizio e di fine coincidono), o falso se una linea string non è chiusa|>=2.14
 [is_empty](funzioni/is_empty.md)|Restituisce vero se una geometria è vuota (senza coordinate), falso se la geometria non è vuota e NULL se non c'è geometria. Vedi anche `is_empty_or_null`.|**>=3.12**
 [is_empty_or_null](funzioni/is_empty_or_null.md)|Restituisce vero se una geometria è NULL o vuota (senza coordinate) o false in caso contrario. Questa funzione è come l'espressione "$ geometry IS NULL o is_empty ($ geometry)".|**>=3.12**
+[is_multipart](funzioni/is_multipart.md)|Restituisce vero se la geometria è di tipo Multi.|**>=3.14**
 [is_valid](funzioni/is_valid.md)|Restituisce vero se una geometria è valida; se è ben formato in 2D secondo le regole **OGC**|**>=3.12**
 [length](funzioni/length.md)|Restituisce il numero di caratteri in una stringa o la lunghezza di una geometria di tipo linestring|2.18
 [line_interpolate_angle](funzioni/line_interpolate_angle.md)|Restituisce l'angolo parallelo alla geometria ad una distanza specifica lungo una geometria di tipo linestring|>=2.18
@@ -62,7 +64,9 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [line_locate_point](funzioni/line_locate_point.md)|Restituisce la distanza lungo una linestring corrispondente alla posizione più vicina alla linestring di una geometria puntuale specificata|>=2.18
 [line_merge](funzioni/line_merge.md)|Restituisce una geometria di tipo LineString o MultiLineString, dove qualsiasi LineString connessa dalla geometria in ingresso è stata fusa (merge) in una linestring singola|>=2.18
 [line_substring](funzioni/line_substring.md)|Restituisce la porzione di una geometria di linea (o curva) che rientra tra le distanze iniziale e finale specificate|**>=3.4**
-[m](funzioni/m.md)|Restituisce il valore m di una geometria puntuale|>=2.14
+[m](funzioni/m.md)|Restituisce il valore m di una geometria puntuale|**>=2.14**
+[m_max](funzioni/m_max.md)|Restituisce il valore minimo m (misura) di una geometria.|**>=3.14**
+[m_min](funzioni/m_min.md)|Restituisce il valore minimo m (misura) di una geometria.|**>=3.14**
 [make_circle](funzioni/make_circle.md)|Crea un poligono circolare |**>=3.0**
 [make_ellipse](funzioni/make_ellipse.md)|Crea un poligono ellittico |**>=3.0**
 [make_line](funzioni/make_line.md)|Crea una geometria linea da una serie di geometrie punto|>=2.14
@@ -92,17 +96,17 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [reverse](funzioni/reverse.md)|Inverte la direzione di una line string invertendo l'ordine dei sui vertici|>=2.14
 [rotate](funzioni/rotate.md)|Restituisce una versione ruotata di una geometria. I calcoli si trovano nel sistema di riferimento spaziale di questa geometria.|**>=3.12**
 [segments_to_lines](funzioni/segments_to_lines.md)|Restituisce una geometria multi linea consistente in una linea per ogni segmento nella geometria in ingresso|>=2.14
-[shortest_line](funzioni/shortest_line.md)|Restituisce la linea più corta che unisce la geometria 1 alla geometria 2|>=2.14
+[shortest_line](funzioni/shortest_line.md)|Restituisce la linea più corta che unisce la geometria 1 alla geometria 2|**>=2.14**
 [simplify](funzioni/simplify.md)|Semplifica una geometria rimuovendo nodi usando una soglia basata sulla distanza (cioè, l'algoritmo Douglas Peucker) |**>=3.0**
 [simplify_vw](funzioni/simplify_vw.md)|Semplifica una geometria rimuovendo nodi usando una soglia basata sull'area (cioè, l'algoritmo Visvalingam-Whyatt ) |**>=3.0**
 [single_sided_buffer](funzioni/single_sided_buffer.md)|Restituisce una geometria formata facendo un buffer solo da un lato di una geometria di tipo linestring |**>=3.0**
 [smooth](funzioni/smooth.md)|Smussa una geometria con l'aggiunta di ulteriori nodi che arrotondano gli angoli nella geometria |**>=3.0**
 [start_point](funzioni/start_point.md)|Restituisce il primo nodo di una geometria|2.18
-[sym_difference](funzioni/sym_difference.md)|Restituisce una geometria che rappresenta la porzione di due geometrie che non si interseca|2.18
+[sym_difference](funzioni/sym_difference.md)|Restituisce una geometria che rappresenta la porzione di due geometrie che non si interseca|>=2.18
 [tapered_buffer](funzioni/tapered_buffer.md)|Crea un buffer lungo una geometria della linea in cui il diametro del buffer varia in modo uniforme sulla lunghezza della linea|**>=3.2**
 [touches](funzioni/touches.md)|Verifica se una geometria tocca un'altra|2.18
 [transform](funzioni/transform.md)|Restituisce la geometria trasformata da un SR sorgente ad un SR di destinazione|2.18
-[translate](funzioni/translate.md)|Restituisce una versione traslata di una geometria|>=2.14
+[translate](funzioni/translate.md)|Restituisce una versione traslata di una geometria|**>=2.14**
 [union](funzioni/union.md)|Restituisce una geometria che rappresenta l'insieme dei punti dell'unione delle geometrie|2.18
 [wedge_buffer](funzioni/wedge_buffer.md)|Restituisce un buffer a forma di cuneo che ha origine da una geometria del punto |**>=3.2**
 [within](funzioni/within.md)|Controlla qualora una geometria sia interna ad un'altra|2.18
@@ -112,7 +116,9 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [y](funzioni/y.md)|Restituisce la coordinata y di una geometria puntuale, o la coordinata y del centroide di una geometria non puntuale|2.18
 [y_min](funzioni/y_min.md)|Restituisce la coordinata y minima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria|2.18
 [y_max](funzioni/y_max.md)|Restituisce la coordinata y massima di una geometria. I calcoli sono effettuati nel sistema di riferimento spaziale di tale geometria|2.18
-[z](funzioni/z.md)|Restituisce la coordinata z di una geometria puntuale|>=2.14
+[z](funzioni/z.md)|Restituisce la coordinata z di una geometria puntuale|**>=2.14**
+[z_max](funzioni/z_max.md)|Restituisce la coordinata z massima di una geometria.|**>=3.14**
+[z_min](funzioni/z_min.md)|Restituisce la coordinata z minima di una geometria.|**>=3.14**
 
 ![](/img/geometria/gruppo_geometria1.png)
 
