@@ -7,6 +7,7 @@
   - [Fix](#fix)
   - [GUI/UI/Forms](#guiuiforms)
   - [Variabili](#variabili)
+  - [Migliormasnti funzioni](#migliormasnti-funzioni)
 
 <!-- /TOC -->
 
@@ -107,3 +108,7 @@
 * animation : https://github.com/qgis/QGIS/pull/36324
   * @animation_start_time;
   * @animation_end_time
+
+## Migliormasnti funzioni
+
+https://github.com/qgis/QGIS/pull/36988
