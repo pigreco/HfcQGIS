@@ -15,7 +15,7 @@ Restituisce l'id dell'elemento della riga corrente.
 
 ## Esempi
 
-* `get_feature('streets', 1) → l'elemento con id 1 nel vettore "streets"`
+* `get_feature_by_id('streets', 1) → l'elemento con id 1 nel vettore "streets"`
 
 
 ![](/img/record_e_attributi/get_feature_by_id1.png)
