@@ -4,7 +4,7 @@ Indica se una geometria è selezionata. Se chiamata senza parametri, controlla l
 
 ## Sintassi
 
-* is_selected(*feature, layer*)
+* is_selected(*layer , feature*)
 
 ## Argomenti
 
@@ -15,7 +15,7 @@ Indica se una geometria è selezionata. Se chiamata senza parametri, controlla l
 ## Esempi
 ```
 * is_selected() → True (vero) se l'elemento corrente è selezionato.
-* is_selected(get_feature('streets', 'name', "street_name"), 'streets') → True (vero) se la strada della geometria corrente è selezionata.
+* is_selected('streets', get_feature('streets', 'name', "street_name")) → True (vero) se la strada della geometria corrente è selezionata.
 ```
 
 Esempio etichettatura tramite regola:
