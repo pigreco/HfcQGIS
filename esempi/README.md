@@ -43,3 +43,4 @@ nro|Esempio|Descrizione|Autore
 39|[Elenco ordinato di Comuni](./es/elenco_ordinato_comuni_attraversati.md)|Come ottenere l'elenco ordinato dei Comuni attraversati da un itinerario|Pigreco
 40|[Etichettare con chiave-valore](./es/etichettare_chiave_valore.md)|Etichettare facendo vedere sia il nome del campo che il corrispondente valore|Pigreco
 41|[Etichettare itinerario con elenco ordinato Comuni](./es/etichettare_itinerario_elenco_comuni_attraversati.md)|Etichettare itinerario con elenco ordinato di Comuni attraversti|Valerio Pinna
+42|[etichette_formattate_diversi_stili](./es/etichette_formattate_diversi_stili.md)|Etichette formattate con diversi stili|Valerio Pinna

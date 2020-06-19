@@ -7,7 +7,7 @@
   - [Fix](#fix)
   - [GUI/UI/Forms](#guiuiforms)
   - [Variabili](#variabili)
-  - [Migliormasnti funzioni](#migliormasnti-funzioni)
+  - [Miglioramenti funzioni](#miglioramenti-funzioni)
 
 <!-- /TOC -->
 
@@ -109,6 +109,6 @@
   * @animation_start_time;
   * @animation_end_time
 
-## Migliormasnti funzioni
+## Miglioramenti funzioni
 
 https://github.com/qgis/QGIS/pull/36988
