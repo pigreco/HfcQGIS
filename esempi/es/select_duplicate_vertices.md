@@ -91,6 +91,8 @@ if($id =
 , $id, '')
 ```
 
+In collaborazione con **Valerio Pinna** che ringrazio per la disponibilità.
+
 ### Prova tu
 
-il geopackage è scaricabile [qui](/esempi/dati_esempi.gpkg)
+il geopackage è scaricabile [qui](/esempi/vertici_duplicati.gpkg)
