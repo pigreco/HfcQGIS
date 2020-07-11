@@ -91,6 +91,9 @@ if($id =
 , $id, '')
 ```
 
+**NB1:** La selezione potrebbe non essere visibile a schermo a causa della sovrapposizione dei punti, per ovviare alternare le funzioni `array_first` con `array_last`.
+**NB2:** I calcoli da fare sono molti e per dataset pesanti potrebbe impiegarci molto tempo (dipende anche dalle risorse hardware)
+
 In collaborazione con **Valerio Pinna** che ringrazio per la disponibilità.
 
 ### Prova tu
