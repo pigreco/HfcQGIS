@@ -45,3 +45,4 @@ nro|Esempio|Descrizione|Autore
 41|[Etichettare itinerario con elenco ordinato Comuni](./es/etichettare_itinerario_elenco_comuni_attraversati.md)|Etichettare itinerario con elenco ordinato di Comuni attraversti|Valerio Pinna
 42|[etichette_formattate_diversi_stili](./es/etichette_formattate_diversi_stili.md)|Etichette formattate con diversi stili|Valerio Pinna
 43|[Selezionare vertici duplicati](./es/select_duplicate_vertices.md)|Selezionare vertici duplicati|Pigreco
+44|[Conteggio caratteri diversi](./es/conteggio_caratteri_diversi.md)|Conta i caratteri diversi in un testo|Pigreco
