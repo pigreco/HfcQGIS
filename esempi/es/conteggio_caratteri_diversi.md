@@ -39,3 +39,12 @@ substr(regexp_replace( "field",'(.)',',\\1'),2))))
 ```
 
 ![screen](/img/esempi/conteggio_caratteri_diversi/img_01.png)
+
+oppure, ancora meglio senza usare la funzione `substr`
+
+```
+array_length(
+array_distinct(  
+string_to_array(
+regexp_replace( "field",'(.)\\B',',\\1'))))
+```
