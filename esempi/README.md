@@ -46,3 +46,4 @@ nro|Esempio|Descrizione|Autore
 42|[etichette_formattate_diversi_stili](./es/etichette_formattate_diversi_stili.md)|Etichette formattate con diversi stili|Valerio Pinna
 43|[Selezionare vertici duplicati](./es/select_duplicate_vertices.md)|Selezionare vertici duplicati|Pigreco
 44|[Conteggio caratteri diversi](./es/conteggio_caratteri_diversi.md)|Conta i caratteri diversi in un testo|Pigreco
+45|[Lunghezza minima tra due vettori](./es/linea_min_distanza2.md)|Lunghezza della linea di minima distanza tra due vettori|Pigreco
