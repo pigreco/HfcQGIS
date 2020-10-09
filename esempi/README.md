@@ -47,3 +47,4 @@ nro|Esempio|Descrizione|Autore
 43|[Selezionare vertici duplicati](./es/select_duplicate_vertices.md)|Selezionare vertici duplicati|Pigreco
 44|[Conteggio caratteri diversi](./es/conteggio_caratteri_diversi.md)|Conta i caratteri diversi in un testo|Pigreco
 45|[Lunghezza minima tra due vettori](./es/linea_min_distanza2.md)|Lunghezza della linea di minima distanza tra due vettori|Pigreco
+46|[Lunghezze segmenti di un poligono](./es/lunghezze_segmenti_poligono.md)|Lunghezze dei segmenti di un poligono|Pigreco
