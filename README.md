@@ -26,12 +26,12 @@ Gruppo funzioni|nro funzioni*|info
 [Campi e valori](./gr_funzioni/campi_e_valori)| (1/1)|
 [Colore](./gr_funzioni/colore)| (17/17)|
 [Condizioni](./gr_funzioni/condizioni)| (6/6)|aggiornate a **QGIS 3.6**
-[Conversioni](./gr_funzioni/conversioni)| (12/12)|aggiornate a **QGIS 3.12**
+[Conversioni](./gr_funzioni/conversioni)| (13/13)|aggiornate a **QGIS 3.16**
 [Corrispondenza fuzzy](./gr_funzioni/corrispondenza_fuzzy)| (4/4)|
 [Custom](./gr_funzioni/custom)| (5/5)| funzioni personalizzate
 [Data e ora](./gr_funzioni/data_ora) |(21/21)|**QGIS 3.14**
 [Generale](./gr_funzioni/generale)| (6/6)|
-[Geometria](./gr_funzioni/geometria) |(108/114)| aggiornate a **QGIS 3.14**
+[Geometria](./gr_funzioni/geometria) |(108/123)| aggiornate a **QGIS 3.16**
 [Layer della mappa](./gr_funzioni/layer_della_mappa)| (2/2)| aggiornate a **QGIS 3.6**
 [Maps](./gr_funzioni/maps)| (14/14) |>= QGIS 3.0 (PostGIS) aggiornate a **QGIS 3.6**
 [Matematica](./gr_funzioni/matematica)| (28/28)|**QGIS 3.12**

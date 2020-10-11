@@ -67,6 +67,7 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [m](funzioni/m.md)|Restituisce il valore m di una geometria puntuale|**>=2.14**
 [m_max](funzioni/m_max.md)|Restituisce il valore minimo m (misura) di una geometria.|**>=3.14**
 [m_min](funzioni/m_min.md)|Restituisce il valore minimo m (misura) di una geometria.|**>=3.14**
+[main_angle](funzioni/main_angle.md)|Restituisce il valore minimo m (misura) di una geometria.|**>=3.16**
 [make_circle](funzioni/make_circle.md)|Crea un poligono circolare |**>=3.0**
 [make_ellipse](funzioni/make_ellipse.md)|Crea un poligono ellittico |**>=3.0**
 [make_line](funzioni/make_line.md)|Crea una geometria linea da una serie di geometrie punto|>=2.14
@@ -87,6 +88,14 @@ Questo gruppo contiene funzioni che operano sugli oggetti geometrici es. **lungh
 [order_parts](funzioni/order_parts.md)|Ordina le parti di una MultiGeometria secondo un dato criterio|2.18
 [oriented_bbox](funzioni/oriented_bbox.md)|Restituisce una geometria che rappresenta il perimetro di delimitazione minimo orientato di una geometria |**>=3.0**
 [overlaps](funzioni/overlaps.md)|Controlla qualora una geometria si sovrapponga ad un'altra|2.18
+[overlay_intersects](funzioni/overlay_intersects.md)|Esegue un'unione spaziale di tipo INTERSECTS.|**>=3.16**
+[overlay_contains](funzioni/overlay_contains.md)|Esegue un'unione spaziale di tipo CONTAINS.|**>=3.16**
+[overlay_crosses](funzioni/overlay_crosses.md)|Esegue un'unione spaziale di tipo CROSSES.|**>=3.16**
+[overlay_equals](funzioni/overlay_equals.md)|Esegue un'unione spaziale di tipo EQUALS.|**>=3.16**
+[overlay_touches](funzioni/overlay_touches.md)|Esegue un'unione spaziale di tipo TOUCHES.|**>=3.16**
+[overlay_disjoint](funzioni/overlay_disjoint.md)|Esegue un'unione spaziale di tipo DISJOINTS.|**>=3.16**
+[overlay_within](funzioni/overlay_within.md)|Esegue un'unione spaziale di tipo WITHIN.|**>=3.16**
+[overlay_nearest](funzioni/overlay_nearest.md)|Esegue un'unione spaziale di tipo NEAREST.|**>=3.16**
 [perimeter](funzioni/perimeter.md)|Calcola il perimetro di un oggetto a geometria poligonale|2.18
 [point_n](funzioni/point_n.md)|Restituisce un nodo specifico da una geometria|2.18
 [point_on_surface](funzioni/point_on_surface.md)|Restituisce un punto garantendo che sia giacente sulla superficie della geometria|>=2.14
