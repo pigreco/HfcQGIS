@@ -138,3 +138,4 @@ Se non specificato diversamente, tutti i contenuti sono soggetti alla licenza: [
 * Video demo su come utilizzare la guida
 
 [![add_col_area_perimetro](https://img.youtube.com/vi/geI5NjNUwWQ/0.jpg)](https://youtu.be/geI5NjNUwWQ "Come usare questa guida")
+

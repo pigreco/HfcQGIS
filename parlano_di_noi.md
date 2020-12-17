@@ -1,5 +1,13 @@
 # Parlano di noi
 
+* **16/12/2020** YouTube [Presentazione #HfcQGIS in Francia](https://youtu.be/xKoqCZF9NhY) dal minuto 5:07 (Grazie Pier Serafini)
+
+![screen](/img/parlano_di_noi/parlano_14.png)
+
+* **16/12/2020** [Twitter](https://twitter.com/geojulien/status/1339131660370108416)
+
+![screen](/img/parlano_di_noi/parlano_15.png)
+
 * **20/03/2019** Facebook [Risposta ad un post](https://www.facebook.com/groups/GisItalia/permalink/10157247104231385/?comment_id=10157247850806385&reply_comment_id=10157249097251385&comment_tracking=%7B%22tn%22%3A%22R%22%7D)
 
 ![screen](/img/parlano_di_noi/parlano_09.png)
