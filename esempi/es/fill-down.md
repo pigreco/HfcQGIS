@@ -1,4 +1,4 @@
-## full-down con le espressioni di QGIS
+## fill-down con le espressioni di QGIS
 
 Il `fill-down` è un filtro molto usato da chi lavora con i dati e risolve il segunete problema: "_Se un dato record di una tabella ha un valore mancante per un dato campo, riempilo con il valore corrispondente da un record precedente, se presente_". Molti tool lo hanno implementato come [Visidata](https://www.visidata.org/docs/v2.0/man/), [Miller](https://johnkerl.org/miller-releases/miller-5.10.0/docs/_build/html/manpage.html), [OpenRifine](https://kb.refinepro.com/2012/03/fill-down-right-and-secure-way.html?m=1), GeoPandas ecc...; vediamo come ottenere questa funzione usando solo le espressioni di QGIS.
 
