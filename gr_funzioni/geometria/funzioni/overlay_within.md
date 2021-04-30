@@ -1,6 +1,8 @@
 ## Funzione `overlay_within`
 
-Esegue un'unione spaziale di tipo WITHIN. Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso che sono ALL'INTERNO dell'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore è ALL'INTERNO dell'elemento corrente.
+Restituisce se l'elemento corrente è spazialmente all'interno di almeno un elemento da layer destinazione, o un array di risultati basati su espressione per gli elementi nel layer destinazione che contengono l'elemento corrente. 
+
+Ulteriori informazioni sul sottostante predicato GEOS "Within", come descritto nella funzione PostGIS [ST_WITHIN](https://postgis.net/docs/ST_Within.html).
 
 ## Sintassi
 
@@ -18,11 +20,15 @@ overlay_within(_layer[,expression][,filter][,limit][,cache]_)
 
 ## Esempi
 
-* `overlay_within('regions') → Vero`
-* `overlay_within('regions', name) → ['South Africa', 'Africa', 'World']`
-* `overlay_within('regions', name, name != 'World') → ['South Africa', 'Africa']`
-* `overlay_within('regions', name, limit:=1) → ['South Africa']`
-
+```
+* overlay_within('regions') → true se l'elemento corrente è spazialmente all'interno di una regione
+* overlay_within('regions', filter:= population > 10000) → vero se l'elemento corrente è spazialmente all'interno di una regione con una popolazione maggiore di 10000
+* overlay_within('regions', name) → un array di nomi, per le regioni contenenti l'elemento corrente
+* array_to_string(overlay_within('regions', name)) → una stringa come lista di nomi separati da virgole, per le regioni che contengono l'elemento corrente
+* overlay_within('regions', name)[0] → una stringa con il nome della regione che contengono l'elemento corrente
+* array_sort(overlay_within(layer:='regions', expression:="name", filter:= population > 10000)) → un array ordinato di nomi, per le regioni contenenti l'elemento corrente e con una popolazione superiore a 10000
+* overlay_within(layer:='regions', expression:= geom_to_wkt($geometry), limit:=2) → un array di geometrie (in WKT), per un massimo di due regioni contenenti l'elemento corrente
+```
 
 ![](/img/geometria/refFunction/overlay_within.png)
 

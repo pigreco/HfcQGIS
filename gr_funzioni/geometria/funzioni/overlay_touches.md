@@ -1,7 +1,8 @@
 ## Funzione `overlay_touches`
 
-Esegue un'unione spaziale di tipo TOUCHES. Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso che TOCCANO l'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore TOCCA l'elemento corrente.
+Restituisce se l'elemento corrente tocca spazialmente almeno un elemento da un layer target o un array di risultati basati su espressioni per gli elementi nel layer target toccati dall'elemento corrente.
 
+Leggi ulteriori informazioni sul predicato GEOS "Touches", come descritto nella funzione PostGIS [ST_TOUCHES](https://postgis.net/docs/ST_Touches.html).
 ## Sintassi
 
 overlay_touches(_layer[,expression][,filter][,limit][,cache]_)
@@ -18,11 +19,15 @@ overlay_touches(_layer[,expression][,filter][,limit][,cache]_)
 
 ## Esempi
 
-* `overlay_touches('regions') → Vero`
-* `overlay_touches('regions', name) → ['South Africa', 'Africa', 'World']`
-* `overlay_touches('regions', name, name != 'World') → ['South Africa', 'Africa']`
-* `overlay_touches('regions', name, limit:=1) → ['South Africa']`
-
+```
+* overlay_touches('regions') → true se l'elemento corrente tocca spazialmente una regione
+* overlay_touches('regions', filter:= population > 10000) → vero se l'elemento corrente tocca spazialmente una regione con una popolazione maggiore di 10000
+* overlay_touches('regions', name) → un array di nomi, per le regioni tocacte dall'elemento corrente
+* string_to_array(overlay_touches('regions', name)) → una stringa come lista di nomi separati da virgole, per le regioni toccate dall'elemento corrente
+* overlay_touches('regions', name)[0] → una stringa con il nome della regione toccata dall'elemento corrente
+* array_sort(overlay_touches(layer:='regions', expression:="name", filter:= population > 10000)) → un array ordinato di nomi, per le regioni toccate dall'elemento attuale e con una popolazione superiore a 10000
+* overlay_touches(layer:='regions', expression:= geom_to_wkt($geometry), limit:=2) → un array di geometrie (in WKT), per un massimo di due regioni toccate dall'elemento corrente
+```
 
 ![](/img/geometria/refFunction/overlay_touches.png)
 

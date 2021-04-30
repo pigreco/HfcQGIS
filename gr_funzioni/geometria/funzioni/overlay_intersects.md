@@ -1,6 +1,8 @@
 ## Funzione `overlay_intersects`
 
-Esegue un'unione spaziale di tipo INTERSECTS . Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso che INTERSECANO l'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore INTERSECA l'elemento corrente.
+Restituisce se l'elemento corrente interseca spazialmente almeno un elemento da un layer target o un array di risultati basati su espressioni per gli elementi nel layer target intersecati dall'elemento corrente.
+
+Ulteriori informazioni sul predicato GEOS "Intersects" sottostante, come descritto nella funzione PostGIS [ST_INTERSECTS](https://postgis.net/docs/ST_Intersects.html).
 
 ## Sintassi
 
@@ -18,11 +20,15 @@ overlay_intersects(_layer[,expression][,filter][,limit][,cache]_)
 
 ## Esempi
 
-* `overlay_intersects('regions') → Vero`
-* `overlay_intersects('regions', name) → ['South Africa', 'Africa', 'World']`
-* `overlay_intersects('regions', name, name != 'World') → ['South Africa', 'Africa']`
-* `overlay_intersects('regions', name, limit:=1) → ['South Africa']`
-
+```
+* overlay_intersects('regions') → true se l'elemento corrente interseca spazialmente una regione
+* overlay_intersects('regions', filter:= population > 10000) → vero se l'elemento corrente interseca spazialmente una regione con una popolazione maggiore di 10000
+* overlay_intersects('regions', name) → un array di nomi, per le regioni intersecate dall'elemento corrente
+* array_to_string(overlay_intersects('regions', name)) → una stringa come una lista di nomi separata da virgola, per le regioni intersecate dall'elemento corrente
+* overlay_intersects('regions', name)[0] → una stringa con il nome della regione intersecata dall'elemento corrente
+* array_sort(overlay_intersects(layer:='regions', expression:="name", filter:= population > 10000)) → un array ordinato di nomi, per le regioni intersecate dall'elemento corrente e con una popolazione maggiore di 10000
+* overlay_intersects(layer:='regions', expression:= geom_to_wkt($geometry), limit:=2) → un array di geometrie (in WKT), per un massimo di due regioni intersecate dall'elemento corrente
+```
 
 ![](/img/geometria/refFunction/overlay_intersects.png)
 

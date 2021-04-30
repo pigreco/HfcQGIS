@@ -14,3 +14,4 @@ https://github.com/qgis/QGIS/pull/41276
 GUI/UI 
 
 https://github.com/qgis/QGIS/pull/42168
+https://github.com/qgis/QGIS/pull/42745

@@ -1,6 +1,8 @@
 ## Funzione `overlay_disjoint`
 
-Esegue un'unione spaziale di tipo DISJOINT. Questo restituisce un array di risultati di un'espressione valutata su elementi provenienti da un vettore diverso DISGIUNTI dall'elemento corrente, o, se non viene fornita alcuna espressione, semplicemente restituisce se almeno un elemento dell'altro vettore è DISGIUNTO dall'elemento corrente.
+Restituisce se l'elemento corrente è spazialmente disgiunto da tutti gli elementi di un layer target, o un array di risultati basati su espressione per gli elementi nel layer target che sono disgiunti dall'elemento corrente. 
+
+Ulteriori informazioni sul sottostante predicato GEOS "Disjoint", come descritto nella funzione PostGIS [ST_Disjoint](https://postgis.net/docs/ST_Disjoint.html).
 
 ## Sintassi
 
@@ -20,10 +22,15 @@ overlay_disjoint(_layer[,expression][,filter][,limit][,cache]_)
 
 ## Esempi
 
-* `overlay_disjoint('regions') → Vero`
-* `overlay_contains('regions', name) → ['South Africa', 'Africa', 'World']`
-* `overlay_contains('regions', name, name != 'World') → ['South Africa', 'Africa']`
-* `overlay_contains('regions', name, limit:=1) → ['South Africa']`
+```
+* overlay_disjoint('regions') → true se l'elemento corrente è spazialmente disgiunto da tutte le regioni
+* overlay_disjoint('regions', filter:= population > 10000) → vero se l'elemento corrente è spazialmente disgiunto da tutte le regioni con una popolazione maggiore di 10000
+* overlay_disjoint('regions', name) → un array di nomi, per le regioni spazialmente disgiunte dall'elemento corrente
+* array_to_string(overlay_disjoint('regions', name)) → una stringa come una lista di nomi separata da virgola, per le regioni spazialmente disgiunte dall'elemento corrente
+* overlay_disjoint('regions', name)[0] → una stringa con il nome della regione spazialmente disgiunte dall'elemento corrente
+* array_sort(overlay_disjoint(layer:='regions', expression:="name", filter:= population > 10000)) → un array ordinato di nomi, per le regioni spazialmente disgiunte dall'elemento corrente e con una popolazione superiore a 10000
+* overlay_disjoint(layer:='regions', expression:= geom_to_wkt($geometry), limit:=2) → un array di geometrie (in WKT), per un massimo di due regioni spazialmente disgiunte dall'elemento corrente
+```
 
 ## Esempi
 
@@ -35,6 +42,6 @@ overlay_disjoint(_layer[,expression][,filter][,limit][,cache]_)
 
 --
 
-## osservazionioverlay_disjoint
+## osservazioni overlay_disjoint
 
 --
