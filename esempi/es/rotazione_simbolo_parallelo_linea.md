@@ -8,4 +8,5 @@ overlay_nearest('strade_palermo',$geometry)[0],
 line_interpolate_angle( @geom,
 line_locate_point(@geom,closest_point(@geom,$geometry))))
 ```
-~~ciao~~
+
+![](../../img/esempi/rotazione_simbolo/rotazione_simbolo.gif)

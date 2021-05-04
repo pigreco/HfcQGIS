@@ -39,3 +39,5 @@ array_slice(
              )
 /  "j_OBS_VALUE") * 100000
 ```
+
+![](https://pigrecoinfinito.files.wordpress.com/2021/03/image-33.png)
