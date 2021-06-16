@@ -1,29 +1,23 @@
 ## Funzione `array_count`
 
-Conta un dato valore in un array.
+Conta il numero di occorrenze di un dato valore in un array.
 
 ## Sintassi
 
-array_count(_array,value_) 
+array_count(array,value)
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola) 
-* _value_ un valore
+* _array_ un array
+* _value_ un valore da contare
 
 ## Esempi
 
-* `array_count(string_to_array( 'a,b,c,a,a'),'a') → 3 `
-* `array_count('a,b,c,a,a','a') → 3`
+* `array_count(array('a', 'b', 'c', 'b'), 'b') → 2`
 
-![](/img/arrays/array_count/array_count1.png)
-
-dalla versione 1.4 del plugin:
-![](/img/arrays/array_count/array_count2.png)
+![](/img/arrays/array_count/img_02.png)
 
 ## nota bene
-
-Questa funzione sarà presente, nel calcolatore, solo dopo l'installazione del plugin [ArrayPlus](https://framagit.org/jbdesbas/arrayPlus)
 
 ## osservazioni
 

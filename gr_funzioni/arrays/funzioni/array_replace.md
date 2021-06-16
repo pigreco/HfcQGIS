@@ -1,31 +1,48 @@
 ## Funzione `array_replace`
 
-Ordina i valori in ordine crescente (usa _array_reverse_ per desc).
+Restituisce un array con il valore, l'array o la mappa dei valori forniti sostituiti.
+
+## Valore & variante dell'array
+
+Restituisce un array con il valore o con un array di valori forniti sostituito da un altro valore o da un altro array di valori.
 
 ## Sintassi
 
-array_minority(_array,before,after_)
+array_replace(_array_,_before_,_after_)
 
 ## Argomenti
 
-* _array_ un array o stringa (valori separati da virgola)
-* _before_ valore prima del replace
-* _after_ valore da sostituire
+- _array_ l'array in ingresso
+- _before_ il valore o l'array di valori da sostituire
+- _after_ il valore o l'array di valori da utilizzare come sostituzione
 
 ## Esempi
 
-* `array_replace(array('ciao', 'arrivederci'),'ciao','salve') → <array: 'salve', 'arrivederci'>`
-* `array_replace(array(1,2),2,5) → <array: 1, 5>`
-* `array_replace('1,2','2','5') → <array: '1', '5'>`
+- `array_replace(array('QGIS','SHOULD','ROCK'),'SHOULD','DOES') → [ 'QGIS', 'DOES', 'ROCK' ]`
+- `array_replace(array(3,2,1),array(1,2,3),array(7,8,9)) → [ 0, 2 ]`
+- `array_replace(array('Q','G','I','S'),array('Q','S'),'-') → [ '-', 'G', 'I', '-' ]`
 
-![](/img/arrays/array_replace/array_replace1.png)
+![](/img/arrays/array_replace/img_01.png)
 
-dalla versione 1.4 del plugin:
-![](/img/arrays/array_replace/array_replace2.png)
+## Variabile mappa
+
+Restituisce un array con le chiavi della mappa fornite sostituite dai loro valori abbinati.
+
+## Sintassi
+
+array_replace(_array_,_map_)
+
+## Argomenti
+
+- _array_ l'array in ingresso
+- _map_ la mappa che contiene le chiavi e i valori
+
+## Esempi
+
+- `array_replace(array('APP', 'SHOULD', 'ROCK'),map('APP','QGIS','SHOULD','DOES')) → [ 'QGIS', 'DOES', 'ROCK' ]`
+
 
 ## nota bene
-
-Questa funzione sarà presente, nel calcolatore, solo dopo l'installazione del plugin [ArrayPlus](https://framagit.org/jbdesbas/arrayPlus)
 
 ## osservazioni
 
